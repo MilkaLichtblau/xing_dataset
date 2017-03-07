@@ -1,0 +1,2739 @@
+{
+  "category": "statistician",
+  "profiles": [
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Elzbieta Florowska",
+          "picture": "https://www.xing.com/image/1_f_1_6e3a5f209_20228701_1/elzbieta-florowska-foto.256x256.jpg",
+          "memberSince_Hits": "22. Februar 2014 / 519",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Proper Medical Writing, Warsaw, Poland",
+              "company_url": "https://www.xing.com/companies/go?name=Proper+Medical+Writing%2C+Warsaw%2C+Poland",
+              "jobDuration": "1 Jahr, 4 Monat ",
+              "jobDates": "09/2013 - 12/2014"
+            },
+            {
+              "jobTitle": "Data analyst",
+              "company": "Komandor, Warsaw, Poland",
+              "company_url": "https://www.xing.com/companies/go?name=Komandor%2C+Warsaw%2C+Poland",
+              "jobDuration": "3 Jahr, 5 Monat ",
+              "jobDates": "09/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "StatBest Ltd, Warsaw, Poland",
+              "company_url": "https://www.xing.com/companies/go?name=StatBest+Ltd%2C+Warsaw%2C+Poland",
+              "jobDuration": "4 Jahr, 7 Monat ",
+              "jobDates": "07/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Developer data base",
+              "company": "Policy&Action Group Uniconsult",
+              "company_url": "https://www.xing.com/companies/go?name=Policy%26Action+Group+Uniconsult",
+              "jobDuration": "4 Monat ",
+              "jobDates": "09/2013 - 12/2013"
+            },
+            {
+              "jobTitle": "Reactor Safety Analyst",
+              "company": "National Centre of Nuclear Research, Swierk, Poland",
+              "company_url": "https://www.xing.com/companies/go?name=National+Centre+of+Nuclear+Research%2C+Swierk%2C+Poland",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "01/2011 - 06/2012"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Polnisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Russisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Warsaw School of Economics",
+          "url": "https://www.xing.com/search/members?keywords=Warsaw+School+of+Economics",
+          "degree": "Statistical Methods and Data Mining in Buisness, UGS",
+          "eduDuration": "10/2010 - 10/2011"
+        },
+        {
+          "institution": "Medical University of Warsaw",
+          "url": "https://www.xing.com/search/members?keywords=Medical+University+of+Warsaw",
+          "degree": "Medical Informatics, PhD",
+          "eduDuration": "10/2001 - 10/2005"
+        },
+        {
+          "institution": "University of Warsaw",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Warsaw",
+          "degree": "Physics, MGR",
+          "eduDuration": "10/1994 - 09/2000"
+        }
+      ],
+      "qualifications": "SAS Software, SAS 4GL, Statistical Methods, SPSS, Statistica, SQL Server, SQL",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=SAS+Software%2C+SAS+4GL%2C+Statistical+Methods%2C+SPSS%2C+Statistica%2C+SQL+Server%2C+SQL"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Nicolas Städler",
+          "picture": "https://www.xing.com/image/d_c_9_696f67207_18877400_4/nicolas-st%C3%A4dler-foto.256x256.jpg",
+          "memberSince_Hits": "10. März 2013 / 841",
+          "currJobDescr": "HTA Statistician",
+          "jobs": [
+            {
+              "jobTitle": "HTA Statistician",
+              "company": "Hoffmann La-Roche AG",
+              "company_url": "https://www.xing.com/companies/go?name=Hoffmann+La-Roche+AG",
+              "jobDuration": "2 Jahr, 4 Monat ",
+              "jobDates": "10/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Computational Statistician",
+              "company": "Netherlands Cancer Institute",
+              "company_url": "https://www.xing.com/companies/go?name=Netherlands+Cancer+Institute",
+              "jobDuration": "3 Jahre",
+              "jobDates": "08/2011 - 07/2014"
+            },
+            {
+              "jobTitle": "PhD student and Teaching Assistant",
+              "company": "Seminar for Statistics",
+              "company_url": "https://www.xing.com/companies/go?name=Seminar+for+Statistics",
+              "jobDuration": "3 Jahr, 2 Monat ",
+              "jobDates": "07/2007 - 08/2010"
+            },
+            {
+              "jobTitle": "Internship in Statistical Methodology group at Novartis AG",
+              "company": "Novartis International AG",
+              "company_url": "https://www.xing.com/companies/go?name=Novartis++International+AG",
+              "jobDuration": "2 Monat ",
+              "jobDates": "06/2008 - 07/2008"
+            },
+            {
+              "jobTitle": "Master student",
+              "company": "Solianis Monitoring AG",
+              "company_url": "https://www.xing.com/companies/go?name=Solianis+Monitoring+AG",
+              "jobDuration": "5 Monat ",
+              "jobDates": "11/2006 - 03/2007"
+            },
+            {
+              "jobTitle": "Tutorial assistant in Analysis and Linear Algebra",
+              "company": "Departement of Mathematics, ETH Zurich",
+              "company_url": "https://www.xing.com/companies/go?name=Departement+of+Mathematics%2C+ETH+Zurich",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "10/2005 - 03/2007"
+            },
+            {
+              "jobTitle": "Assistant in the field of client documents",
+              "company": "Bank Leu AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bank+Leu+AG",
+              "jobDuration": "5 Monat ",
+              "jobDates": "09/2000 - 01/2001"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "ETH Zurich",
+          "url": "https://www.xing.com/search/members?keywords=ETH+Zurich",
+          "degree": "PhD in Statistics, Doctor of Sciences, ETH Zurich",
+          "eduDuration": "07/2007 - 08/2010"
+        },
+        {
+          "institution": "ETH Zurich",
+          "url": "https://www.xing.com/search/members?keywords=ETH+Zurich",
+          "degree": "Mathematics, Master of Science ETH",
+          "eduDuration": "02/2002 - 07/2007"
+        },
+        {
+          "institution": "ETH Zürich",
+          "url": "https://www.xing.com/search/members?keywords=ETH+Z%C3%BCrich",
+          "degree": "Environmental Sciences, First diploma",
+          "eduDuration": "2001 - 2002"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dr. Katy Klauenberg",
+          "picture": "https://www.xing.com/image/6_e_0_c1c1f6770_11772160_3/katy-klauenberg-foto.256x256.jpg",
+          "memberSince_Hits": "21. Januar 2009 / 1636",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Physikalisch-Technische Bundesanstalt (the national metrology institute)",
+              "company_url": "https://www.xing.com/companies/go?name=Physikalisch-Technische+Bundesanstalt+%28the+national+metrology+institute%29",
+              "jobDuration": "7 Jahr, 5 Monat ",
+              "jobDates": "09/2009 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Federal Institute for Occupational Safety and Health",
+              "company_url": "https://www.xing.com/companies/go?name=Federal+Institute+for+Occupational+Safety+and+Health",
+              "jobDuration": "2 Monat ",
+              "jobDates": "07/2009 - 08/2009"
+            },
+            {
+              "jobTitle": "Research Associate",
+              "company": "University of Sheffield, Department of Probability and Statistics",
+              "company_url": "https://www.xing.com/companies/go?name=University+of+Sheffield%2C+Department+of+Probability+and+Statistics",
+              "jobDuration": "2 Jahr, 9 Monat ",
+              "jobDates": "10/2006 - 06/2009"
+            },
+            {
+              "jobTitle": "PhD Student",
+              "company": "Max Planck Institute for Demographic Research",
+              "company_url": "https://www.xing.com/companies/go?name=Max+Planck+Institute+for+Demographic+Research",
+              "jobDuration": "4 Jahr, 2 Monat ",
+              "jobDates": "09/2002 - 10/2006"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Schwedisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Russisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "Spanisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Universität Rostock",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Rostock",
+          "degree": "Mathematik, Diplom-Mathematikerin",
+          "eduDuration": "10/1997 - 05/2002"
+        }
+      ],
+      "qualifications": "Dr. rer. nat",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Dr.+rer.+nat"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Christoph Thommen",
+          "picture": "https://www.xing.com/image/1_8_b_f993c418b_18208410_2/christoph-thommen-foto.256x256.jpg",
+          "memberSince_Hits": "3. September 2012 / 779",
+          "currJobDescr": "Project Manager/Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Project Manager/Statistician",
+              "company": "SwissDRG AG",
+              "company_url": "https://www.xing.com/companies/go?name=SwissDRG+AG",
+              "jobDuration": "3 Jahr, 2 Monat ",
+              "jobDates": "12/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Mayor’s office of the city of Berne, Statistical services",
+              "company_url": "https://www.xing.com/companies/go?name=Mayor%E2%80%99s+office+of+the+city+of+Berne%2C+Statistical+services",
+              "jobDuration": "6 Monat ",
+              "jobDates": "06/2013 - 11/2013"
+            },
+            {
+              "jobTitle": "Intern",
+              "company": "Federal Office for Professional Education and Technology OPET",
+              "company_url": "https://www.xing.com/companies/go?name=Federal+Office+for+Professional+Education+and+Technology+OPET",
+              "jobDuration": "9 Monat ",
+              "jobDates": "01/2012 - 09/2012"
+            },
+            {
+              "jobTitle": "Subject teacher",
+              "company": "Wirtschafts- und Kaderschule Bern (WKS, vocational school)",
+              "company_url": "https://www.xing.com/companies/go?name=Wirtschafts-+und+Kaderschule+Bern+%28WKS%2C+vocational+school%29",
+              "jobDuration": "3 Jahre",
+              "jobDates": "08/2009 - 07/2012"
+            },
+            {
+              "jobTitle": "Substitutional subject teacher",
+              "company": "Berufsschule Rossfeld (vocational school for handicapped)",
+              "company_url": "https://www.xing.com/companies/go?name=Berufsschule+Rossfeld+%28vocational+school+for+handicapped%29",
+              "jobDuration": "3 Monat ",
+              "jobDates": "10/2009 - 12/2009"
+            },
+            {
+              "jobTitle": "Substitutional subject teacher",
+              "company": "Berufsschule Rossfeld (vocational school for handicapped)",
+              "company_url": "https://www.xing.com/companies/go?name=Berufsschule+Rossfeld+%28vocational+school+for+handicapped%29",
+              "jobDuration": "2 Monat ",
+              "jobDates": "08/2008 - 09/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Spanisch",
+          "levelOfProficiency": "(Gut)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Université de Neuchâtel",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+de+Neuch%C3%A2tel",
+          "degree": "Statistics, Master of Science in Statistics",
+          "eduDuration": "09/2012 - 01/2014"
+        },
+        {
+          "institution": "Eidgenössisches Hochschulinstitut für Berufsbildung (EHB)",
+          "url": "https://www.xing.com/search/members?keywords=Eidgen%C3%B6ssisches+Hochschulinstitut+f%C3%BCr+Berufsbildung+%28EHB%29",
+          "degree": "Didaktik, Modul 1",
+          "eduDuration": "09/2010 - 02/2011"
+        },
+        {
+          "institution": "Universität Bern",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bern",
+          "degree": "Economics, Master of Science in Economics",
+          "eduDuration": "10/2009 - 09/2011"
+        },
+        {
+          "institution": "Ludwig-Maximilians-Universität München",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+          "degree": "Economics",
+          "eduDuration": "09/2007 - 02/2008"
+        },
+        {
+          "institution": "Universität Bern",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bern",
+          "degree": "Economics, Bachelor of Science in Economics",
+          "eduDuration": "05/2005 - 09/2009"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dr. Irene Santi",
+          "picture": "https://www.xing.com/image/b_7_b_a24ffc6d1_15261959_1/irene-santi-foto.256x256.jpg",
+          "memberSince_Hits": "27. September 2010 / 938",
+          "currJobDescr": "Health Economic Consultant, statistician",
+          "jobs": [
+            {
+              "jobTitle": "Health Economic Consultant, statistician",
+              "company": "PAREXEL Consulting",
+              "company_url": "https://www.xing.com/companies/go?name=PAREXEL+Consulting",
+              "jobDuration": "1 Jahr, 2 Monat ",
+              "jobDates": "12/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Medical Statistician",
+              "company": "AO Foundation",
+              "company_url": "https://www.xing.com/companies/go?name=AO+Foundation",
+              "jobDuration": "1 Jahr, 5 Monat ",
+              "jobDates": "02/2014 - 06/2015"
+            },
+            {
+              "jobTitle": "PhD student",
+              "company": "Institut Public Health - University Heidelberg",
+              "company_url": "https://www.xing.com/companies/go?name=Institut+Public+Health+-+University+Heidelberg",
+              "jobDuration": "2 Jahr, 11 Monat ",
+              "jobDates": "03/2011 - 01/2014"
+            },
+            {
+              "jobTitle": "PhD Student",
+              "company": "DKFZ",
+              "company_url": "https://www.xing.com/companies/go?name=DKFZ",
+              "jobDuration": "2 Jahr, 1 Monat",
+              "jobDates": "02/2009 - 02/2011"
+            },
+            {
+              "jobTitle": "Research Scientist",
+              "company": "Istituto nazionale per la ricerca sul cancro - IST",
+              "company_url": "https://www.xing.com/companies/go?name=Istituto+nazionale+per+la+ricerca+sul+cancro+-+IST",
+              "jobDuration": "4 Jahr, 2 Monat ",
+              "jobDates": "12/2004 - 01/2009"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Ruprecht-Karls-Universität Heidelberg",
+          "url": "https://www.xing.com/search/members?keywords=Ruprecht-Karls-Universit%C3%A4t+Heidelberg",
+          "degree": "Public Health, Dr. sc.hum.",
+          "eduDuration": "03/2011 - 01/2014"
+        },
+        {
+          "institution": "Università degli Studi di Pavia",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi+di+Pavia",
+          "degree": "Medicine",
+          "eduDuration": "2005 - 2008"
+        },
+        {
+          "institution": "Università degli Studi di Genova",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi+di+Genova",
+          "degree": "Biology",
+          "eduDuration": "1997 - 2002"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Alexander Pieper",
+          "picture": "https://www.xing.com/image/4_c_3_547d9adb3_18616319_1/alexander-pieper-foto.256x256.jpg",
+          "memberSince_Hits": "30. Dezember 2012 / 1659",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "M.A.R.C.O. Institut",
+              "company_url": "https://www.xing.com/companies/go?name=M.A.R.C.O.+Institut",
+              "jobDuration": "5 Jahr, 1 Monat",
+              "jobDates": "01/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Datamap GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Datamap+GmbH",
+              "jobDuration": "2 Jahr, 5 Monat ",
+              "jobDates": "08/2009 - 12/2011"
+            },
+            {
+              "jobTitle": "Diplomant",
+              "company": "Evonik AG",
+              "company_url": "https://www.xing.com/companies/go?name=Evonik+AG",
+              "jobDuration": "6 Monat ",
+              "jobDates": "12/2008 - 05/2009"
+            },
+            {
+              "jobTitle": "Praktikant",
+              "company": "Evonik AG",
+              "company_url": "https://www.xing.com/companies/go?name=Evonik+AG",
+              "jobDuration": "3 Monat ",
+              "jobDates": "08/2008 - 10/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "TU Dortmund",
+          "url": "https://www.xing.com/search/members?keywords=TU+Dortmund",
+          "degree": "Statistik, Diplom Statistiker",
+          "eduDuration": "10/2003 - 05/2009"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Sophie Wajrock",
+          "picture": "https://www.xing.com/image/4_0_b_e72a33b44_16160251_1/sophie-wajrock-foto.256x256.jpg",
+          "memberSince_Hits": "13. April 2011 / 771",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Philip Morris International",
+              "company_url": "https://www.xing.com/companies/go?name=Philip+Morris+International",
+              "jobDuration": "9 Jahr, 2 Monat ",
+              "jobDates": "12/2007 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Nestlé",
+              "company_url": "https://www.xing.com/companies/go?name=Nestl%C3%A9",
+              "jobDuration": "7 Monat ",
+              "jobDates": "04/2007 - 10/2007"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "ENSAI",
+          "url": "https://www.xing.com/search/members?keywords=ENSAI",
+          "degree": "Genie statistique, Ingenieur",
+          "eduDuration": "09/2005 - 10/2007"
+        },
+        {
+          "institution": "Université de Picardie Jules Verne",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+de+Picardie+Jules+Verne",
+          "degree": "Mathématique, Maitrise",
+          "eduDuration": "09/2001 - 07/2005"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Alexander Schacht",
+          "picture": "https://www.xing.com/image/b_a_6_3d313d245_3172535_3/alexander-schacht-foto.256x256.jpg",
+          "memberSince_Hits": "24. September 2004 / 5109",
+          "currJobDescr": "Project Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Project Statistician",
+              "company": "Lilly Deutschland GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Lilly+Deutschland+GmbH",
+              "jobDates": "bis heute"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Boehringer Ingelheim",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer+Ingelheim"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch"
+        },
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Universität Göttingen",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+G%C3%B6ttingen"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Francesca Pavani",
+          "picture": "https://www.xing.com/img/users/2/1/b/00b379af3.17947372,1.256x256.jpg",
+          "memberSince_Hits": "18. Juni 2012 / 319",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Agenzia dei Contratti Pubblici - Bolzano",
+              "company_url": "https://www.xing.com/companies/go?name=Agenzia+dei+Contratti+Pubblici+-+Bolzano",
+              "jobDuration": "1 Jahr, 3 Monat ",
+              "jobDates": "11/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "Provincia Autonoma di Bolzano - Statistisches Amt/Ufficio di Statistica",
+              "company_url": "https://www.xing.com/companies/go?name=Provincia+Autonoma+di+Bolzano+-+Statistisches+Amt%2FUfficio+di+Statistica",
+              "jobDuration": "11 Monat ",
+              "jobDates": "01/2015 - 11/2015"
+            },
+            {
+              "jobTitle": "Statistician",
+              "company": "EURAC research - Center for Biomedicine",
+              "company_url": "https://www.xing.com/companies/go?name=EURAC+research+-+Center+for+Biomedicine",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "08/2013 - 01/2015"
+            },
+            {
+              "jobTitle": "Data Analyst",
+              "company": "Nano Interactive GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Nano+Interactive+GmbH",
+              "jobDuration": "11 Monat ",
+              "jobDates": "09/2012 - 07/2013"
+            },
+            {
+              "jobTitle": "Tutor statistica",
+              "company": "Cepu",
+              "company_url": "https://www.xing.com/companies/go?name=Cepu",
+              "jobDuration": "5 Monat ",
+              "jobDates": "05/2012 - 09/2012"
+            },
+            {
+              "jobTitle": "Statistico/Statistikerin/Statistics",
+              "company": "Astat Bolzano",
+              "company_url": "https://www.xing.com/companies/go?name=Astat+Bolzano",
+              "jobDuration": "2 Monat ",
+              "jobDates": "08/2008 - 09/2008"
+            },
+            {
+              "jobTitle": "Statistico/Statistikerin/Statistics",
+              "company": "Astat Bolzano",
+              "company_url": "https://www.xing.com/companies/go?name=Astat+Bolzano",
+              "jobDuration": "2 Monat ",
+              "jobDates": "07/2007 - 08/2007"
+            },
+            {
+              "jobTitle": "Ragioniera/Accountant/Buchhalterin",
+              "company": "4 emme spa",
+              "company_url": "https://www.xing.com/companies/go?name=4+emme+spa",
+              "jobDuration": "11 Monat ",
+              "jobDates": "12/2004 - 10/2005"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Deutsch"
+        },
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Ludwig-Maximilians Universitaet Muenchen",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians+Universitaet+Muenchen",
+          "degree": "Statistics, Master in Statistik (M.Sc)",
+          "eduDuration": "10/2008 - 03/2011"
+        },
+        {
+          "institution": "Hohenheim Universität (Stuttgart)",
+          "url": "https://www.xing.com/search/members?keywords=Hohenheim+Universit%C3%A4t+%28Stuttgart%29",
+          "degree": "Marktforschung - Marketing",
+          "eduDuration": "09/2007 - 03/2008"
+        },
+        {
+          "institution": "Università di Bologna",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+di+Bologna",
+          "degree": "Statistics, Economics and Market Analysis, Bachelor (B.Sc)",
+          "eduDuration": "09/2005 - 07/2008"
+        }
+      ],
+      "qualifications": "Linux Programming (statistical Scripts)",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Linux+Programming+%28statistical+Scripts%29"
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Emmanuelle MAHO",
+          "picture": "https://www.xing.com/image/b_0_c_2da32a549_15647708_1/emmanuelle-maho-foto.256x256.jpg",
+          "memberSince_Hits": "11. Dezember 2010 / 512",
+          "currJobDescr": "Senior Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Actelion Pharmaceuticals Ltd",
+              "company_url": "https://www.xing.com/companies/go?name=Actelion+Pharmaceuticals+Ltd",
+              "jobDuration": "1 Jahr, 10 Monat ",
+              "jobDates": "04/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Novartis Vaccines and Diagnostics",
+              "company_url": "https://www.xing.com/companies/go?name=Novartis+Vaccines+and+Diagnostics",
+              "jobDuration": "3 Jahr, 9 Monat ",
+              "jobDates": "04/2011 - 12/2014"
+            },
+            {
+              "jobTitle": "Biostatisticienne Senior",
+              "company": "All4it - 4clinics",
+              "company_url": "https://www.xing.com/companies/go?name=All4it+-+4clinics",
+              "jobDuration": "3 Jahr, 3 Monat ",
+              "jobDates": "02/2008 - 04/2011"
+            },
+            {
+              "jobTitle": "Data Manager, Statistical Programmer, Formatrice SAS, Biostatisticienne",
+              "company": "Keyrus BioPharma",
+              "company_url": "https://www.xing.com/companies/go?name=Keyrus+BioPharma",
+              "jobDuration": "8 Jahr, 2 Monat ",
+              "jobDates": "01/2000 - 02/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Französisch"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dominika Kaczmarski",
+          "picture": "https://www.xing.com/image/8_0_8_a11ac2e94_5933888_8/dominika-kaczmarski-foto.256x256.jpg",
+          "memberSince_Hits": "11. Mai 2006 / 6077",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Tupperware Österreich GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Tupperware+%C3%96sterreich+GmbH",
+              "jobDuration": "1 Jahr, 10 Monat ",
+              "jobDates": "04/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Sales Coordinator",
+              "company": "Tupperware Österreich GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Tupperware+%C3%96sterreich+GmbH",
+              "jobDuration": "1 Jahr, 7 Monat ",
+              "jobDates": "01/2010 - 07/2011"
+            },
+            {
+              "jobTitle": "Statistician / Controlling",
+              "company": "Tupperware Österreich GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Tupperware+%C3%96sterreich+GmbH",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "07/2008 - 12/2009"
+            },
+            {
+              "jobTitle": "Leitung Field Management persönliche Studien",
+              "company": "marketmind Markt- und Markenforschung",
+              "company_url": "https://www.xing.com/companies/go?name=marketmind+Markt-+und+Markenforschung",
+              "jobDuration": "6 Monat ",
+              "jobDates": "01/2008 - 06/2008"
+            },
+            {
+              "jobTitle": "Feldorganisation persönliche Studien",
+              "company": "Österreichisches Gallup Institut",
+              "company_url": "https://www.xing.com/companies/go?name=%C3%96sterreichisches+Gallup+Institut",
+              "jobDuration": "4 Monat ",
+              "jobDates": "09/2007 - 12/2007"
+            },
+            {
+              "jobTitle": "Feldleitung persönliche Studien",
+              "company": "Integral Markt- und Meinungsforschung Ges.m.b.H.",
+              "company_url": "https://www.xing.com/companies/go?name=Integral+Markt-+und+Meinungsforschung+Ges.m.b.H.",
+              "jobDuration": "2 Jahr, 7 Monat ",
+              "jobDates": "03/2005 - 09/2007"
+            },
+            {
+              "jobTitle": "Seniormanager / Assistent der Feldleitung",
+              "company": "Integral Markt- und Meinungsforschung Ges.m.b.H.",
+              "company_url": "https://www.xing.com/companies/go?name=Integral+Markt-+und+Meinungsforschung+Ges.m.b.H.",
+              "jobDuration": "2 Jahr, 2 Monat ",
+              "jobDates": "01/2003 - 02/2005"
+            },
+            {
+              "jobTitle": "Verkauf / Beratung und stv. Filialleiterin",
+              "company": "Yves Rocher",
+              "company_url": "https://www.xing.com/companies/go?name=Yves+Rocher",
+              "jobDuration": "4 Jahr, 10 Monat ",
+              "jobDates": "07/1998 - 04/2003"
+            },
+            {
+              "jobTitle": "Merchandising",
+              "company": "Kindertheater HEUSCHRECK",
+              "company_url": "https://www.xing.com/companies/go?name=Kindertheater+HEUSCHRECK",
+              "jobDates": "2001 - 2003"
+            },
+            {
+              "jobTitle": "Persönlicher und Telefonischer Interviewer",
+              "company": "Integral Markt- und Meinungsforschung Ges.m.b.H.",
+              "company_url": "https://www.xing.com/companies/go?name=Integral+Markt-+und+Meinungsforschung+Ges.m.b.H.",
+              "jobDuration": "5 Jahr, 4 Monat ",
+              "jobDates": "09/1997 - 12/2002"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch"
+        },
+        {
+          "lang": "Englisch"
+        },
+        {
+          "lang": "Polnisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Hauptuniversität Wien",
+          "url": "https://www.xing.com/search/members?keywords=Hauptuniversit%C3%A4t+Wien",
+          "degree": "Polnisch",
+          "eduDuration": "1998 - 2005"
+        },
+        {
+          "institution": "Hauptuniversität Wien",
+          "url": "https://www.xing.com/search/members?keywords=Hauptuniversit%C3%A4t+Wien",
+          "degree": "Publizistik- und Kommunikationswissenschaften",
+          "eduDuration": "1998 - 2005"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Manuel Koller",
+          "picture": "https://www.xing.com/image/4_4_7_0d199ca76_20070256_1/manuel-koller-foto.256x256.jpg",
+          "memberSince_Hits": "17. Januar 2014 / 1078",
+          "currJobDescr": "Software Engineer / Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Software Engineer / Statistician",
+              "company": "Albourne Partners",
+              "company_url": "https://www.xing.com/companies/go?name=Albourne+Partners",
+              "jobDuration": "2 Jahr, 4 Monat ",
+              "jobDates": "10/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Institute for Social and Preventive Medicine",
+              "company_url": "https://www.xing.com/companies/go?name=Institute+for+Social+and+Preventive+Medicine",
+              "jobDuration": "2 Jahre",
+              "jobDates": "10/2012 - 09/2014"
+            },
+            {
+              "jobTitle": "Group coordinator",
+              "company": "Seminar for Statistics (ETH Zürich)",
+              "company_url": "https://www.xing.com/companies/go?name=Seminar+for+Statistics+%28ETH+Z%C3%BCrich%29",
+              "jobDuration": "1 Jahr, 3 Monat ",
+              "jobDates": "10/2011 - 12/2012"
+            },
+            {
+              "jobTitle": "Scientific Assistant",
+              "company": "Seminar für Statistik (ETH Zürich)",
+              "company_url": "https://www.xing.com/companies/go?name=Seminar+f%C3%BCr+Statistik+%28ETH+Z%C3%BCrich%29",
+              "jobDuration": "3 Jahr, 3 Monat ",
+              "jobDates": "10/2009 - 12/2012"
+            },
+            {
+              "jobTitle": "Statistical consultant",
+              "company": "Seminar für Statistik (ETH Zürich)",
+              "company_url": "https://www.xing.com/companies/go?name=Seminar+f%C3%BCr+Statistik+%28ETH+Z%C3%BCrich%29",
+              "jobDuration": "1 Jahr",
+              "jobDates": "10/2008 - 09/2009"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "ETH Zürich",
+          "url": "https://www.xing.com/search/members?keywords=ETH+Z%C3%BCrich",
+          "degree": "Statistics, Dr. Sc. ETH Zürich",
+          "eduDuration": "10/2009 - 03/2013"
+        },
+        {
+          "institution": "ETH Zürich",
+          "url": "https://www.xing.com/search/members?keywords=ETH+Z%C3%BCrich",
+          "degree": "Mathematics, Msc in Mathematics",
+          "eduDuration": "10/2003 - 03/2008"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dr. Susanne Stampf",
+          "picture": "https://www.xing.com/image/c_0_0_19c058bf2_14427524_3/susanne-stampf-foto.256x256.jpg",
+          "memberSince_Hits": "7. Mai 2010 / 2049",
+          "currJobDescr": "Senior statistician",
+          "jobs": [
+            {
+              "jobTitle": "Senior statistician",
+              "company": "Clinic for Transplantationimmunology und Nephrology, University Hospital Basel",
+              "company_url": "https://www.xing.com/companies/go?name=Clinic+for+Transplantationimmunology+und+Nephrology%2C+University+Hospital+Basel",
+              "jobDuration": "2 Jahr, 7 Monat ",
+              "jobDates": "07/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician / research assistant",
+              "company": "CEP Basel",
+              "company_url": "https://www.xing.com/companies/go?name=CEP+Basel",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "01/2013 - 06/2014"
+            },
+            {
+              "jobTitle": "Wissenschaftliche Mitarbeiterin",
+              "company": "Uniklinik Freiburg",
+              "company_url": "https://www.xing.com/companies/go?name=Uniklinik+Freiburg",
+              "jobDuration": "2 Jahr, 1 Monat",
+              "jobDates": "12/2010 - 12/2012"
+            },
+            {
+              "jobTitle": "Doktorandin",
+              "company": "Uniklinik Freiburg",
+              "company_url": "https://www.xing.com/companies/go?name=Uniklinik+Freiburg",
+              "jobDuration": "4 Jahr, 8 Monat ",
+              "jobDates": "04/2006 - 11/2010"
+            },
+            {
+              "jobTitle": "Studentische Hilskraft",
+              "company": "Ludwig-Maximillians Universität, München",
+              "company_url": "https://www.xing.com/companies/go?name=Ludwig-Maximillians+Universit%C3%A4t%2C+M%C3%BCnchen",
+              "jobDuration": "5 Jahr, 6 Monat ",
+              "jobDates": "10/2000 - 03/2006"
+            },
+            {
+              "jobTitle": "Praktikant",
+              "company": "Menzies School of Health Research, Darwin, Australia",
+              "company_url": "https://www.xing.com/companies/go?name=Menzies+School+of+Health+Research%2C+Darwin%2C+Australia",
+              "jobDuration": "3 Monat ",
+              "jobDates": "04/2004 - 06/2004"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Russisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Albert-Ludwigs-Universität Freiburg",
+          "url": "https://www.xing.com/search/members?keywords=Albert-Ludwigs-Universit%C3%A4t+Freiburg",
+          "degree": "Mathematik, Dr. rer. nat.",
+          "eduDuration": "04/2006 - 11/2010"
+        },
+        {
+          "institution": "Ludwig-Maximillians Universität, München",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximillians+Universit%C3%A4t%2C+M%C3%BCnchen",
+          "degree": "Statistik, Dipl. Statistikerin",
+          "eduDuration": "10/2000 - 03/2006"
+        },
+        {
+          "institution": "Friedrich-Schiller Universität, Jena",
+          "url": "https://www.xing.com/search/members?keywords=Friedrich-Schiller+Universit%C3%A4t%2C+Jena",
+          "degree": "Wirtschaftsmathematik",
+          "eduDuration": "04/1999 - 09/2000"
+        }
+      ],
+      "qualifications": "Dr. rer. nat.",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Dr.+rer.+nat."
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Andreas Brueckner",
+          "picture": "https://www.xing.com/image/a_1_6_54de1e7ee_11629043_4/andreas-brueckner-foto.256x256.jpg",
+          "memberSince_Hits": "22. Dezember 2008 / 3066",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Novartis",
+              "company_url": "https://www.xing.com/companies/go?name=Novartis",
+              "jobDuration": "4 Jahr, 6 Monat ",
+              "jobDates": "08/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Principal Statistician",
+              "company": "Bayer",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer",
+              "jobDates": "2001 - 07/2012"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Universität Dortmund",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Dortmund",
+          "degree": "Statistik, Diplom",
+          "eduDuration": "1993 - 2001"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dr. Johanna Haß",
+          "picture": "https://www.xing.com/image/5_1_c_102261175_20603246_1/johanna-ha%C3%9F-foto.256x256.jpg",
+          "memberSince_Hits": "28. Mai 2014 / 667",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "SQR-BW",
+              "company_url": "https://www.xing.com/companies/go?name=SQR-BW",
+              "jobDuration": "5 Monat ",
+              "jobDates": "09/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistician and data manager",
+              "company": "Universitätsklinikum Tübingen",
+              "company_url": "https://www.xing.com/companies/go?name=Universit%C3%A4tsklinikum+T%C3%BCbingen",
+              "jobDuration": "1 Jahr, 9 Monat ",
+              "jobDates": "12/2014 - 08/2016"
+            },
+            {
+              "jobTitle": "Research associate / PhD student",
+              "company": "University Hospital Carl Gustav Carus, Dresden, Germany",
+              "company_url": "https://www.xing.com/companies/go?name=University+Hospital+Carl+Gustav+Carus%2C+Dresden%2C+Germany",
+              "jobDuration": "3 Jahr, 7 Monat ",
+              "jobDates": "10/2010 - 04/2014"
+            },
+            {
+              "jobTitle": "Student assistent",
+              "company": "Ernst-Moritz-Arndt-Universität Greifswald",
+              "company_url": "https://www.xing.com/companies/go?name=Ernst-Moritz-Arndt-Universit%C3%A4t+Greifswald",
+              "jobDuration": "4 Monat ",
+              "jobDates": "10/2009 - 01/2010"
+            },
+            {
+              "jobTitle": "Student assistent",
+              "company": "Ernst-Moritz-Arndt-Universität Greifswald",
+              "company_url": "https://www.xing.com/companies/go?name=Ernst-Moritz-Arndt-Universit%C3%A4t+Greifswald",
+              "jobDuration": "3 Monat ",
+              "jobDates": "10/2008 - 12/2008"
+            },
+            {
+              "jobTitle": "Student assistent",
+              "company": "Ernst-Moritz-Arndt-Universität Greifswald",
+              "company_url": "https://www.xing.com/companies/go?name=Ernst-Moritz-Arndt-Universit%C3%A4t+Greifswald",
+              "jobDuration": "4 Monat ",
+              "jobDates": "10/2007 - 01/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Portugiesisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Dresden University of Technology",
+          "url": "https://www.xing.com/search/members?keywords=Dresden+University+of+Technology",
+          "degree": "Psychology, PhD",
+          "eduDuration": "10/2010 - 04/2014"
+        },
+        {
+          "institution": "Ernst-Moritz-Arndt-Universität Greifswald",
+          "url": "https://www.xing.com/search/members?keywords=Ernst-Moritz-Arndt-Universit%C3%A4t+Greifswald",
+          "degree": "Biomathematics, Diploma",
+          "eduDuration": "10/2005 - 07/2010"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Annaliese Cothron",
+          "picture": "https://www.xing.com/image/2_5_c_61a34e627_18843792_1/annaliese-cothron-foto.256x256.jpg",
+          "memberSince_Hits": "28. Februar 2013 / 472",
+          "currJobDescr": "Research Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Research Statistician",
+              "company": "UT Health Science Center",
+              "company_url": "https://www.xing.com/companies/go?name=UT+Health+Science+Center",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Kerstin Pietzko",
+          "picture": "https://www.xing.com/img/users/8/2/7/1ca7a6e0d.3509235,2.256x256.jpg",
+          "memberSince_Hits": "24. Mai 2005 / 1300",
+          "currJobDescr": "Principal Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Principal Statistician",
+              "company": "Boehringer Ingelheim",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer+Ingelheim",
+              "jobDuration": "2 Monat ",
+              "jobDates": "12/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Biostatistician",
+              "company": "Boehringer-Ingelheim GmbH & Co.KG",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer-Ingelheim+GmbH+%26+Co.KG",
+              "jobDuration": "4 Jahr, 7 Monat ",
+              "jobDates": "07/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Business Analyst",
+              "company": "Boehringer Ingelheim",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer+Ingelheim",
+              "jobDuration": "11 Monat ",
+              "jobDates": "10/2011 - 08/2012"
+            },
+            {
+              "jobTitle": "Solutions Consultant, Global Clinical Application Lead",
+              "company": "TIBCO Spotfire Software AG",
+              "company_url": "https://www.xing.com/companies/go?name=TIBCO+Spotfire+Software+AG",
+              "jobDuration": "4 Jahr, 4 Monat ",
+              "jobDates": "05/2007 - 08/2011"
+            },
+            {
+              "jobTitle": "Statistical Programmer",
+              "company": "Insightful Corporation",
+              "company_url": "https://www.xing.com/companies/go?name=Insightful+Corporation",
+              "jobDuration": "1 Jahr, 1 Monat",
+              "jobDates": "03/2007 - 03/2008"
+            },
+            {
+              "jobTitle": "Praktikant / Werkstudent",
+              "company": "BMW Group, Programm STARD",
+              "company_url": "https://www.xing.com/companies/go?name=BMW+Group%2C+Programm+STARD"
+            },
+            {
+              "jobTitle": "Praktikant",
+              "company": "BKH-Landshut, EDV-Abteilung",
+              "company_url": "https://www.xing.com/companies/go?name=BKH-Landshut%2C+EDV-Abteilung"
+            },
+            {
+              "jobTitle": "Diplomandin",
+              "company": "IPI GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=IPI+GmbH"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch"
+        },
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Fachhochschule Regensburg",
+          "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Regensburg",
+          "degree": "Mathematik, Dipl. Math. (FH)"
+        }
+      ],
+      "qualifications": "Krankenschwester",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Krankenschwester"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Inoncent Agueusop",
+          "picture": "https://www.xing.com/image/2_2_b_dd0687623_19089182_1/inoncent-agueusop-foto.256x256.jpg",
+          "memberSince_Hits": "6. Mai 2013 / 1178",
+          "currJobDescr": "Senior Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Sanofi-Aventis Deutschland GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Sanofi-Aventis+Deutschland+GmbH",
+              "jobDuration": "2 Jahr, 10 Monat ",
+              "jobDates": "04/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Research and Clinical Sciences Statistics",
+              "company": "Bayer Pharma AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer+Pharma+AG",
+              "jobDates": "2010 - 01/2017"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Muttersprache)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "TU. Dortmund",
+          "url": "https://www.xing.com/search/members?keywords=TU.+Dortmund",
+          "degree": "Statistik, Promotion",
+          "eduDuration": "10/2010 - 11/2013"
+        }
+      ],
+      "qualifications": "2005 – 2006 Deutsche Sprache für den Hochschulzugang (DSH Zeugnis)",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=2005+%E2%80%93+2006+++++++++++Deutsche+Sprache+f%C3%BCr+den+Hochschulzugang+%28DSH+Zeugnis%29+",
+      "awards": [
+        {
+          "award_name": "Data Mining Cup (2. Position)",
+          "award_date": "2009"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dan A. Rieser",
+          "picture": "https://www.xing.com/image/f_d_1_c3f9065f8_18312385_2/dan-a-rieser-foto.256x256.jpg",
+          "memberSince_Hits": "1. Oktober 2012 / 3448",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "European Commission",
+              "company_url": "https://www.xing.com/companies/go?name=European+Commission",
+              "jobDuration": "9 Monat ",
+              "jobDates": "05/2016 - 01/2017"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Spanisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of London",
+          "url": "https://www.xing.com/search/members?keywords=University+of+London",
+          "degree": "Applied Statistics, MSc",
+          "eduDuration": "10/2005 - 10/2009"
+        },
+        {
+          "institution": "University of Edinburgh",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Edinburgh",
+          "degree": "Economics, Philosopher's Doctor",
+          "eduDuration": "10/2000 - 10/2003"
+        },
+        {
+          "institution": "University of Glasgow",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Glasgow",
+          "degree": "Economics, MSc",
+          "eduDuration": "09/1999 - 10/2000"
+        }
+      ],
+      "qualifications": "Professor - Economics and Statistics 2012",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Professor+-+Economics+and+Statistics+2012",
+      "awards": [
+        {
+          "award_name": "Seepferdchen"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Matthias Trampisch",
+          "picture": "https://www.xing.com/image/2_d_2_41fb65b92_15290006_2/matthias-trampisch-foto.256x256.jpg",
+          "memberSince_Hits": "1. Oktober 2010 / 2644",
+          "currJobDescr": "Principal Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Principal Statistician",
+              "company": "Boehringer Ingelheim",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer+Ingelheim",
+              "jobDuration": "2 Monat ",
+              "jobDates": "12/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Boehringer Ingelheim",
+              "company_url": "https://www.xing.com/companies/go?name=Boehringer+Ingelheim",
+              "jobDuration": "3 Jahr, 7 Monat ",
+              "jobDates": "07/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Wiss. Mitarbeiter",
+              "company": "Ruhr Universität Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Ruhr+Universit%C3%A4t+Bochum",
+              "jobDuration": "3 Jahr, 1 Monat",
+              "jobDates": "07/2010 - 07/2013"
+            },
+            {
+              "jobTitle": "Wiss. Mitarbeiter",
+              "company": "Ruhr-Universität Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Ruhr-Universit%C3%A4t+Bochum",
+              "jobDuration": "3 Jahr, 10 Monat ",
+              "jobDates": "10/2006 - 07/2010"
+            },
+            {
+              "jobTitle": "Praktikant",
+              "company": "Novartis",
+              "company_url": "https://www.xing.com/companies/go?name=Novartis",
+              "jobDuration": "2 Monat ",
+              "jobDates": "07/2008 - 08/2008"
+            },
+            {
+              "jobTitle": "Stud. Hilfskraft",
+              "company": "Ruhr Universität Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Ruhr+Universit%C3%A4t+Bochum",
+              "jobDuration": "2 Jahre",
+              "jobDates": "10/2004 - 09/2006"
+            },
+            {
+              "jobTitle": "Studentische Hilfskraft",
+              "company": "Bergmannsheil Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Bergmannsheil+Bochum",
+              "jobDuration": "2 Jahr, 4 Monat ",
+              "jobDates": "06/2002 - 09/2004"
+            },
+            {
+              "jobTitle": "Studentische Hilfskraft",
+              "company": "Bergmannsheil Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Bergmannsheil+Bochum",
+              "jobDuration": "1 Jahr, 1 Monat",
+              "jobDates": "06/2001 - 06/2002"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "großes Latinum"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Ruhr Universität Bochum",
+          "url": "https://www.xing.com/search/members?keywords=Ruhr+Universit%C3%A4t+Bochum",
+          "degree": "Mathematik, Doktor der Mathematik",
+          "eduDuration": "11/2006 - 06/2012"
+        },
+        {
+          "institution": "Ruhr Universität Bochum",
+          "url": "https://www.xing.com/search/members?keywords=Ruhr+Universit%C3%A4t+Bochum",
+          "degree": "Mathematik, Diplom",
+          "eduDuration": "10/2002 - 09/2006"
+        },
+        {
+          "institution": "Auslandsaufenthalt USA (Exchange Student)",
+          "url": "https://www.xing.com/search/members?keywords=Auslandsaufenthalt+USA+%28Exchange+Student%29",
+          "degree": "Englisch",
+          "eduDuration": "1998 - 1999"
+        }
+      ],
+      "qualifications": "Mitglied der International Society for Clinical Biostatistics (www.iscb.info)",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Mitglied+der+International+Society+for+Clinical+Biostatistics+%28www.iscb.info%29"
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Ellen Matkins",
+          "picture": "https://www.xing.com/image/1_2_3_5d2c6fdea_18666136_1/ellen-matkins-foto.256x256.jpg",
+          "memberSince_Hits": "14. Januar 2013 / 774",
+          "currJobDescr": "Recruitment Consultant - Data Manager - SAS Programmer - Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Recruitment Consultant - Data Manager - SAS Programmer - Statistician",
+              "company": "Hydrogen Group",
+              "company_url": "https://www.xing.com/companies/go?name=Hydrogen+Group",
+              "jobDuration": "4 Jahr, 1 Monat",
+              "jobDates": "01/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Recruitment Consultant",
+              "company": "Hydrogen",
+              "company_url": "https://www.xing.com/companies/go?name=Hydrogen",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Anatoli Astvatsatourov",
+          "picture": "https://www.xing.com/image/e_3_2_ae1d5aa7b_15054421_4/anatoli-astvatsatourov-foto.256x256.jpg",
+          "memberSince_Hits": "26. August 2010 / 1097",
+          "currJobDescr": "Statistician, Clinical Data Manager, Physicist",
+          "jobs": [
+            {
+              "jobTitle": "Statistician, Clinical Data Manager, Physicist",
+              "company": "IMSIE, University Hospital of Cologne",
+              "company_url": "https://www.xing.com/companies/go?name=IMSIE%2C+University+Hospital+of+Cologne",
+              "jobDuration": "4 Jahr, 11 Monat ",
+              "jobDates": "03/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Wiss. Mitarbeiter im Fach Experimentelle Physik",
+              "company": "II Phys. Institut, Universität Gießen",
+              "company_url": "https://www.xing.com/companies/go?name=II+Phys.+Institut%2C+Universit%C3%A4t+Gie%C3%9Fen",
+              "jobDuration": "3 Jahre",
+              "jobDates": "11/2007 - 10/2010"
+            },
+            {
+              "jobTitle": "Wissenschaftlicher Mitarbeiter",
+              "company": "DESY-Hamburg",
+              "company_url": "https://www.xing.com/companies/go?name=DESY-Hamburg",
+              "jobDuration": "3 Jahr, 5 Monat ",
+              "jobDates": "07/2004 - 11/2007"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Russisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Humboldt Universität zu Berlin",
+          "url": "https://www.xing.com/search/members?keywords=Humboldt+Universit%C3%A4t+zu+Berlin",
+          "degree": "experimentelle Physik, Urkunde / Dr. rer. nat.",
+          "eduDuration": "01/1998 - 08/2002"
+        }
+      ],
+      "qualifications": "Statistician - Medical Biometry",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Statistician+-+Medical+Biometry"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Can Mert",
+          "picture": "https://www.xing.com/image/2_1_5_60b00b071_26780937_1/can-mert-foto.256x256.jpg",
+          "memberSince_Hits": "6. Januar 2017 / 7",
+          "currJobDescr": "Statistician / Data Scientist",
+          "jobs": [
+            {
+              "jobTitle": "Statistician / Data Scientist",
+              "company": "Applied Statistics",
+              "company_url": "https://www.xing.com/companies/go?name=Applied+Statistics",
+              "jobDuration": "2 Jahr, 7 Monat ",
+              "jobDates": "07/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Statistics Expert",
+              "company": "Privatklinikgruppe Hirslanden",
+              "company_url": "https://www.xing.com/companies/go?name=Privatklinikgruppe+Hirslanden",
+              "jobDuration": "4 Monat ",
+              "jobDates": "06/2008 - 09/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Niederländisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "Türkisch",
+          "levelOfProficiency": "(Muttersprache)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Vienna University of Technology",
+          "url": "https://www.xing.com/search/members?keywords=Vienna+University+of+Technology",
+          "degree": "Statistics, Doctor",
+          "eduDuration": "03/2012 - 09/2016"
+        },
+        {
+          "institution": "Vienna University of Technology",
+          "url": "https://www.xing.com/search/members?keywords=Vienna+University+of+Technology",
+          "degree": "Technical Mathematics, Master",
+          "eduDuration": "03/2009 - 09/2011"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Maximilian Dell",
+          "picture": "https://www.xing.com/image/3_e_0_32ff9f26c_20885007_3/maximilian-dell-foto.256x256.jpg",
+          "memberSince_Hits": "8. August 2014 / 549",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Deutsche Bundesbank",
+              "company_url": "https://www.xing.com/companies/go?name=Deutsche+Bundesbank",
+              "jobDuration": "1 Jahr, 10 Monat ",
+              "jobDates": "04/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Anwärter im gehobenen Dienst",
+              "company": "Deutsche Bundesbank",
+              "company_url": "https://www.xing.com/companies/go?name=Deutsche+Bundesbank",
+              "jobDuration": "3 Jahre",
+              "jobDates": "04/2012 - 03/2015"
+            },
+            {
+              "jobTitle": "Museumsführer",
+              "company": "Wartburg-Stiftung, Eisenach",
+              "company_url": "https://www.xing.com/companies/go?name=Wartburg-Stiftung%2C+Eisenach",
+              "jobDuration": "10 Monat ",
+              "jobDates": "06/2011 - 03/2012"
+            },
+            {
+              "jobTitle": "receptionist, waiter",
+              "company": "Huntly Arms Hotel, Aboyne AB34 5HS, Schottland, UK",
+              "company_url": "https://www.xing.com/companies/go?name=Huntly+Arms+Hotel%2C+Aboyne+AB34+5HS%2C+Schottland%2C+UK",
+              "jobDuration": "4 Monat ",
+              "jobDates": "03/2011 - 06/2011"
+            },
+            {
+              "jobTitle": "Sachbearbeiter Risikocontrolling",
+              "company": "Wartburg-Sparkasse",
+              "company_url": "https://www.xing.com/companies/go?name=Wartburg-Sparkasse",
+              "jobDuration": "3 Monat ",
+              "jobDates": "01/2011 - 03/2011"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Koreanisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Hochschule der Bundesbank",
+          "url": "https://www.xing.com/search/members?keywords=Hochschule+der+Bundesbank",
+          "degree": "Zentralbankwesen/ Central Banking, Bachelor of Science",
+          "eduDuration": "04/2012 - 03/2015"
+        },
+        {
+          "institution": "SBSZ Ludwig Erhard",
+          "url": "https://www.xing.com/search/members?keywords=SBSZ+Ludwig+Erhard",
+          "degree": "retail banking, Bankkaufmann",
+          "eduDuration": "08/2008 - 01/2011"
+        }
+      ],
+      "qualifications": "Englisch-Kurs C1 London",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Englisch-Kurs+C1+London"
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Malaak Kallache",
+          "picture": "https://www.xing.com/image/b_9_a_28d594d9c_18424919_1/malaak-kallache-foto.256x256.jpg",
+          "memberSince_Hits": "1. November 2012 / 1070",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "BG BAU",
+              "company_url": "https://www.xing.com/companies/go?name=BG+BAU",
+              "jobDuration": "3 Jahr, 4 Monat ",
+              "jobDates": "10/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Researcher",
+              "company": "IMDEA Water",
+              "company_url": "https://www.xing.com/companies/go?name=IMDEA+Water",
+              "jobDuration": "2 Jahr, 1 Monat",
+              "jobDates": "05/2011 - 05/2013"
+            },
+            {
+              "jobTitle": "Experienced researcher (Marie Curie Research Fellow)",
+              "company": "LSCE-IPSL",
+              "company_url": "https://www.xing.com/companies/go?name=LSCE-IPSL",
+              "jobDuration": "3 Jahre",
+              "jobDates": "01/2008 - 12/2010"
+            },
+            {
+              "jobTitle": "PhD student and Postdoc",
+              "company": "Potsdam Institute for Climate Impact Research",
+              "company_url": "https://www.xing.com/companies/go?name=Potsdam+Institute+for+Climate+Impact+Research",
+              "jobDuration": "5 Jahr, 2 Monat ",
+              "jobDates": "11/2002 - 12/2007"
+            },
+            {
+              "jobTitle": "Software Consultant",
+              "company": "Programmiertechnisches Arbeiten (PTA) Mannheim",
+              "company_url": "https://www.xing.com/companies/go?name=Programmiertechnisches+Arbeiten+%28PTA%29+Mannheim",
+              "jobDuration": "3 Jahr, 1 Monat",
+              "jobDates": "06/1999 - 06/2002"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Spanisch",
+          "levelOfProficiency": "(Gut)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Bristol (UK)",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Bristol+%28UK%29",
+          "degree": "Applied Mathematics",
+          "eduDuration": "10/1993 - 03/1994"
+        },
+        {
+          "institution": "University of Osnabrueck (Germany)",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Osnabrueck+%28Germany%29",
+          "degree": "Applied Systems Sciences, Diploma",
+          "eduDuration": "10/1991 - 08/1998"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dima Kurzer",
+          "picture": "https://www.xing.com/image/4_6_b_6380d9b44_16615110_2/dima-kurzer-foto.256x256.jpg",
+          "memberSince_Hits": "6. August 2011 / 1135",
+          "currJobDescr": "Senior Statistician and statistical programmer",
+          "jobs": [
+            {
+              "jobTitle": "Senior Statistician and statistical programmer",
+              "company": "Institute Twain",
+              "company_url": "https://www.xing.com/companies/go?name=Institute+Twain",
+              "jobDuration": "4 Jahr, 2 Monat ",
+              "jobDates": "12/2012 - 01/2017"
+            },
+            {
+              "jobTitle": "Research Assistant",
+              "company": "Institute Twain",
+              "company_url": "https://www.xing.com/companies/go?name=Institute+Twain",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "06/2011 - 11/2012"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Russisch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Ukrainisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Osnabrück",
+          "url": "https://www.xing.com/search/members?keywords=Osnabr%C3%BCck",
+          "degree": "Economics, Statistics, Economist (Econometrist)",
+          "eduDuration": "10/2009 - 06/2014"
+        }
+      ],
+      "qualifications": "Interim Management",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Interim+Management",
+      "awards": [
+        {
+          "award_name": "IQ 129 (Mensa Test) - read about the weight of intellegence",
+          "award_date": "www.researchgate.net/publication/232446415_Intelligence_and_job_performance_Economic_and_social_implications"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Nikola Minic",
+          "picture": "https://www.xing.com/image/3_6_4_395eb5006_7129575_1/nikola-minic-foto.256x256.jpg",
+          "memberSince_Hits": "5. März 2007 / 1367",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Mozzart",
+              "company_url": "https://www.xing.com/companies/go?name=Mozzart",
+              "jobDuration": "9 Jahr, 9 Monat ",
+              "jobDates": "05/2007 - 01/2017"
+            },
+            {
+              "jobTitle": "System Administrator",
+              "company": "Football Association of Belgrade",
+              "company_url": "https://www.xing.com/companies/go?name=Football+Association+of+Belgrade",
+              "jobDuration": "1 Jahr, 4 Monat ",
+              "jobDates": "09/2006 - 12/2007"
+            },
+            {
+              "jobTitle": "Project Administrator",
+              "company": "European Expert Group",
+              "company_url": "https://www.xing.com/companies/go?name=European+Expert+Group",
+              "jobDuration": "4 Monat ",
+              "jobDates": "01/2007 - 04/2007"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Sheffield - BSc in Computer Science",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Sheffield+-+BSc+in+Computer+Science"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Wilbrod Ntawiha",
+          "picture": "https://www.xing.com/image/2_b_3_c6efb49af_20538940_1/wilbrod-ntawiha-foto.256x256.jpg",
+          "memberSince_Hits": "11. Mai 2014 / 325",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "UBOS",
+              "company_url": "https://www.xing.com/companies/go?name=UBOS",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Makerere University",
+          "url": "https://www.xing.com/search/members?keywords=Makerere+University",
+          "degree": "Statistics, Bachelor of Statistics",
+          "eduDuration": "08/2009 - 05/2013"
+        }
+      ],
+      "qualifications": "Bachelor of Statistics",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Statistics"
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Beate Franke",
+          "picture": "https://www.xing.com/image/2_f_e_67e984acc_17137668_2/beate-franke-foto.256x256.jpg",
+          "memberSince_Hits": "20. Dezember 2011 / 1719",
+          "currJobDescr": "Senior Research Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Senior Research Statistician",
+              "company": "AstraZeneca GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=AstraZeneca+GmbH",
+              "jobDuration": "4 Monat ",
+              "jobDates": "10/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "supervision of summer student",
+              "company": "University College London",
+              "company_url": "https://www.xing.com/companies/go?name=University+College+London",
+              "jobDuration": "3 Monat ",
+              "jobDates": "07/2014 - 09/2014"
+            },
+            {
+              "jobTitle": "student teaching assistant",
+              "company": "University College London",
+              "company_url": "https://www.xing.com/companies/go?name=University+College+London",
+              "jobDuration": "3 Monat ",
+              "jobDates": "10/2013 - 12/2013"
+            },
+            {
+              "jobTitle": "full-time intern",
+              "company": "Vereinigte Hannoversche Versicherung",
+              "company_url": "https://www.xing.com/companies/go?name=Vereinigte+Hannoversche+Versicherung",
+              "jobDuration": "3 Monat ",
+              "jobDates": "07/2010 - 09/2010"
+            },
+            {
+              "jobTitle": "student research assistant",
+              "company": "BIPS - Institute for Epidemiology and Preven- tion Research",
+              "company_url": "https://www.xing.com/companies/go?name=BIPS+-+Institute+for+Epidemiology+and+Preven-+tion+Research",
+              "jobDuration": "9 Monat ",
+              "jobDates": "10/2009 - 06/2010"
+            },
+            {
+              "jobTitle": "full-time intern",
+              "company": "BIPS - Institute for Epidemiology and Prevention Research",
+              "company_url": "https://www.xing.com/companies/go?name=BIPS+-+Institute+for+Epidemiology+and+Prevention+Research",
+              "jobDuration": "2 Monat ",
+              "jobDates": "08/2009 - 09/2009"
+            },
+            {
+              "jobTitle": "student teaching assistant",
+              "company": "University Bremen",
+              "company_url": "https://www.xing.com/companies/go?name=University+Bremen",
+              "jobDuration": "3 Monat ",
+              "jobDates": "05/2009 - 07/2009"
+            },
+            {
+              "jobTitle": "student teaching assistant",
+              "company": "University Bremen",
+              "company_url": "https://www.xing.com/companies/go?name=University+Bremen",
+              "jobDuration": "3 Monat ",
+              "jobDates": "05/2008 - 07/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Fields institute, Toronto",
+          "url": "https://www.xing.com/search/members?keywords=Fields+institute%2C+Toronto",
+          "degree": "Statistics",
+          "eduDuration": "01/2015 - 03/2015"
+        },
+        {
+          "institution": "University College London",
+          "url": "https://www.xing.com/search/members?keywords=University+College+London",
+          "degree": "Statistics, PhD",
+          "eduDuration": "10/2012 - 09/2015"
+        },
+        {
+          "institution": "University of Graz",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Graz",
+          "degree": "Workshop",
+          "eduDuration": "03/2011 - 03/2011"
+        },
+        {
+          "institution": "Cardiff University",
+          "url": "https://www.xing.com/search/members?keywords=Cardiff+University",
+          "degree": "mathematics",
+          "eduDuration": "09/2008 - 02/2009"
+        },
+        {
+          "institution": "University of Bremen",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Bremen",
+          "degree": "mathematics (second subject: chemistry), Diploma",
+          "eduDuration": "10/2006 - 08/2012"
+        }
+      ],
+      "qualifications": "basic knowledge of SPSS",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=basic+knowledge+of+SPSS"
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Lidija Filipcic",
+          "picture": "https://www.xing.com/image/c_0_c_6927b470f_11751642_2/lidija-filipcic-foto.256x256.jpg",
+          "memberSince_Hits": "17. Januar 2009 / 2100",
+          "currJobDescr": "Statistician, SAS programer",
+          "jobs": [
+            {
+              "jobTitle": "Statistician, SAS programer",
+              "company": "Austrian Breast & Colorectal Cancer Study Group",
+              "company_url": "https://www.xing.com/companies/go?name=Austrian+Breast+%26+Colorectal+Cancer+Study+Group",
+              "jobDuration": "7 Jahr, 7 Monat ",
+              "jobDates": "07/2009 - 01/2017"
+            },
+            {
+              "jobTitle": "Project Manager",
+              "company": "Plandata",
+              "company_url": "https://www.xing.com/companies/go?name=Plandata",
+              "jobDuration": "15 Jahr, 9 Monat ",
+              "jobDates": "10/1993 - 06/2009"
+            },
+            {
+              "jobTitle": "applicationn developer",
+              "company": "Sal-labs technology",
+              "company_url": "https://www.xing.com/companies/go?name=Sal-labs+technology",
+              "jobDuration": "1 Jahr, 8 Monat ",
+              "jobDates": "08/2001 - 03/2003"
+            },
+            {
+              "jobTitle": "Software Ingenieur",
+              "company": "University computer centre (SRCE)",
+              "company_url": "https://www.xing.com/companies/go?name=University+computer+centre+%28SRCE%29"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Portugiesisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "Croatian"
+        }
+      ],
+      "education": [
+        {
+          "institution": "* University of Zagreb, Mathematic department '84 *",
+          "url": "https://www.xing.com/search/members?keywords=%2A+University+of+Zagreb%2C+Mathematic+department+%2784+++++++++%2A",
+          "degree": "Mathematics, dipl.ing.math",
+          "eduDuration": "09/1985 - 03/1993"
+        }
+      ],
+      "qualifications": "Distance learning",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Distance+learning"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Bogdan Spiridon",
+          "picture": "https://www.xing.com/image/7_5_b_80b8590cd_7942442_2/bogdan-spiridon-foto.256x256.jpg",
+          "memberSince_Hits": "20. September 2007 / 1370",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Renault Techologie Roumanie",
+              "company_url": "https://www.xing.com/companies/go?name=Renault+Techologie+Roumanie",
+              "jobDuration": "5 Jahr, 9 Monat ",
+              "jobDates": "05/2011 - 01/2017"
+            },
+            {
+              "jobTitle": "Quality Consultant",
+              "company": "ARIES",
+              "company_url": "https://www.xing.com/companies/go?name=ARIES",
+              "jobDuration": "16 Jahr, 3 Monat ",
+              "jobDates": "11/2000 - 01/2017"
+            },
+            {
+              "jobTitle": "Business Development Manager",
+              "company": "METROUL SA",
+              "company_url": "https://www.xing.com/companies/go?name=METROUL+SA",
+              "jobDuration": "6 Jahr, 7 Monat ",
+              "jobDates": "11/2004 - 05/2011"
+            },
+            {
+              "jobTitle": "Quality Director",
+              "company": "Nivis Romania SRL",
+              "company_url": "https://www.xing.com/companies/go?name=Nivis+Romania+SRL",
+              "jobDuration": "2 Jahr, 9 Monat ",
+              "jobDates": "03/2002 - 11/2004"
+            },
+            {
+              "jobTitle": "Researcher",
+              "company": "ICPE",
+              "company_url": "https://www.xing.com/companies/go?name=ICPE",
+              "jobDuration": "12 Jahr, 6 Monat ",
+              "jobDates": "12/1983 - 05/1996"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Rumänisch",
+          "levelOfProficiency": "(Muttersprache)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Politechnic University of Bucharest",
+          "url": "https://www.xing.com/search/members?keywords=Politechnic+University+of+Bucharest",
+          "degree": "Engineering"
+        }
+      ],
+      "qualifications": "Master of Science in Engineering; Quality Auditor ISO 9000",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Master+of+Science+in+Engineering%3B+Quality+Auditor+ISO+9000",
+      "awards": [
+        {
+          "award_name": "Quality Auditor",
+          "award_date": "2000"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Dr. Lisa Möst",
+          "picture": "https://www.xing.com/img/users/7/e/a/a7db08946.22612218,1.256x256.jpg",
+          "memberSince_Hits": "1. Juni 2015 / 304",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Metronomia Clinical Research GmbH",
+              "company_url": "https://www.xing.com/companies/go?name=Metronomia+Clinical+Research+GmbH",
+              "jobDuration": "1 Jahr, 5 Monat ",
+              "jobDates": "09/2015 - 01/2017"
+            },
+            {
+              "jobTitle": "Wissenschaftliche Mitarbeiterin",
+              "company": "Institut für Statistik, Ludwig-Maximilians-Universität München",
+              "company_url": "https://www.xing.com/companies/go?name=Institut+f%C3%BCr+Statistik%2C+Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+              "jobDuration": "3 Jahr, 11 Monat ",
+              "jobDates": "10/2011 - 08/2015"
+            },
+            {
+              "jobTitle": "Wissenschaftliche Hilfskraft",
+              "company": "Institut für Staistik, Ludwig-Maximilians-Universität München",
+              "company_url": "https://www.xing.com/companies/go?name=Institut+f%C3%BCr+Staistik%2C+Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+              "jobDuration": "2 Jahre",
+              "jobDates": "10/2009 - 09/2011"
+            },
+            {
+              "jobTitle": "Studentische Hilfskraft",
+              "company": "Institut für Statistik, Ludwig-Maximilians-Universität München",
+              "company_url": "https://www.xing.com/companies/go?name=Institut+f%C3%BCr+Statistik%2C+Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+              "jobDuration": "6 Monat ",
+              "jobDates": "04/2008 - 09/2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        },
+        {
+          "lang": "Schwedisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Ludwig-Maximilians-Universität München",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+          "degree": "Statisik, Dr. rer. nat.",
+          "eduDuration": "10/2011 - 02/2015"
+        },
+        {
+          "institution": "Ludwig-Maximilians-Universität München",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+          "degree": "Statistik, M. Sc.",
+          "eduDuration": "09/2009 - 09/2011"
+        },
+        {
+          "institution": "Lunds Universitet, Lund, Schweden",
+          "url": "https://www.xing.com/search/members?keywords=Lunds+Universitet%2C+Lund%2C+Schweden",
+          "degree": "Statistik",
+          "eduDuration": "08/2009 - 01/2010"
+        },
+        {
+          "institution": "Ludwig-Maximilians-Universität München",
+          "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
+          "degree": "Statistik, B. Sc.",
+          "eduDuration": "10/2006 - 08/2009"
+        }
+      ],
+      "awards": [
+        {
+          "award_name": "Bernd-Streitberg-Preis der Deutschen Biometrischen Gesellschaft",
+          "award_date": "2010"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Marc Glowka",
+          "picture": "https://www.xing.com/image/2_c_2_902ce7cd3_18267995_1/marc-glowka-foto.256x256.jpg",
+          "memberSince_Hits": "19. September 2012 / 1049",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "Deutsche Bundesbank",
+              "company_url": "https://www.xing.com/companies/go?name=Deutsche+Bundesbank",
+              "jobDuration": "3 Jahr, 10 Monat ",
+              "jobDates": "04/2013 - 01/2017"
+            },
+            {
+              "jobTitle": "Dualer Student",
+              "company": "Deutsche Bundesbank",
+              "company_url": "https://www.xing.com/companies/go?name=Deutsche+Bundesbank",
+              "jobDuration": "2 Jahr, 6 Monat ",
+              "jobDates": "10/2010 - 03/2013"
+            },
+            {
+              "jobTitle": "Junior - Kundenberater",
+              "company": "Sparda-Bank West eG",
+              "company_url": "https://www.xing.com/companies/go?name=Sparda-Bank+West+eG",
+              "jobDuration": "9 Monat ",
+              "jobDates": "01/2009 - 09/2009"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "FOM University of Applied Sciences for Economics and Management",
+          "url": "https://www.xing.com/search/members?keywords=FOM+University+of+Applied+Sciences+for+Economics+and+Management",
+          "degree": "Finance & Accounting, Master of Science",
+          "eduDuration": "03/2014 - 03/2016"
+        },
+        {
+          "institution": "Hochschule der Deutschen Bundesbank",
+          "url": "https://www.xing.com/search/members?keywords=Hochschule+der+Deutschen+Bundesbank",
+          "degree": "Notenbankwesen, Dipl. Betriebswirt (FH)",
+          "eduDuration": "10/2010 - 03/2013"
+        },
+        {
+          "institution": "Sparda-Bank West eG",
+          "url": "https://www.xing.com/search/members?keywords=Sparda-Bank+West+eG",
+          "degree": "Ausbildung zum Bankkaufmann",
+          "eduDuration": "08/2006 - 01/2009"
+        }
+      ],
+      "qualifications": "Praktische Ausbildung von Studierenden",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Praktische+Ausbildung+von+Studierenden"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Kevin O'Brien",
+          "picture": "https://www.xing.com/image/2_a_1_0b4437521_18024186_1/kevin-o%27brien-foto.256x256.jpg",
+          "memberSince_Hits": "10. Juli 2012 / 836",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "StatsLabDublin",
+              "company_url": "https://www.xing.com/companies/go?name=StatsLabDublin",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Tushar Gaonkar",
+          "picture": "https://www.xing.com/image/4_9_c_72b287d99_16097917_1/tushar-gaonkar-foto.256x256.jpg",
+          "memberSince_Hits": "30. März 2011 / 548",
+          "currJobDescr": "Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Statistician",
+              "company": "EnEm Nostrum Remedies Pvt.Ltd.",
+              "company_url": "https://www.xing.com/companies/go?name=EnEm+Nostrum+Remedies+Pvt.Ltd.",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "HIndi"
+        },
+        {
+          "lang": "Marathi"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "f",
+          "name": "Katharina Podwojski",
+          "picture": "https://www.xing.com/image/b_1_8_1aa7a6bbe_13061632_2/katharina-podwojski-foto.256x256.jpg",
+          "memberSince_Hits": "31. August 2009 / 1949",
+          "currJobDescr": "Clinical Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Clinical Statistician",
+              "company": "Bayer Pharma AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer+Pharma+AG",
+              "jobDuration": "6 Jahr, 10 Monat ",
+              "jobDates": "04/2010 - 01/2017"
+            },
+            {
+              "jobTitle": "Wissenschaftlicher Mitarbeiter",
+              "company": "Medizinisches Proteom Center, Ruhr-Universität Bochum",
+              "company_url": "https://www.xing.com/companies/go?name=Medizinisches+Proteom+Center%2C+Ruhr-Universit%C3%A4t+Bochum",
+              "jobDates": "2008 - 03/2010"
+            },
+            {
+              "jobTitle": "wissenschaftlicher Mitarbeiter",
+              "company": "Fakultät Statistik, Technische Universität Dortmund",
+              "company_url": "https://www.xing.com/companies/go?name=Fakult%C3%A4t+Statistik%2C+Technische+Universit%C3%A4t+Dortmund",
+              "jobDates": "2006 - 2008"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Französisch",
+          "levelOfProficiency": "(Grundkenntnisse)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Sheffield, GB",
+          "url": "https://www.xing.com/search/members?keywords=University+of+Sheffield%2C+GB",
+          "degree": "Statistik, Mathematik",
+          "eduDuration": "09/2004 - 02/2005"
+        },
+        {
+          "institution": "Technische Universität Dortmund",
+          "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Dortmund",
+          "degree": "Statistik, Diplom Statistiker",
+          "eduDuration": "2001 - 2006"
+        }
+      ],
+      "qualifications": "Studienschwerpunkt Biometrie",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=Studienschwerpunkt+Biometrie"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Shyam Upadhyaya",
+          "picture": "https://www.xing.com/image/b_8_7_b44757446_10798432_1/shyam-upadhyaya-foto.256x256.jpg",
+          "memberSince_Hits": "1. August 2008 / 1020",
+          "currJobDescr": "Chief Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Chief Statistician",
+              "company": "UNIDO",
+              "company_url": "https://www.xing.com/companies/go?name=UNIDO",
+              "jobDates": "bis heute"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Englisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Moscow University of Statistics and Informatics",
+          "url": "https://www.xing.com/search/members?keywords=Moscow+University+of+Statistics+and+Informatics",
+          "degree": "Statistics, Ph. D. in Statistics",
+          "eduDuration": "1978 - 1986"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Mag. Dominik Hlauschek",
+          "picture": "https://www.xing.com/image/6_d_d_1827deb10_22952080_2/dominik-hlauschek-foto.256x256.jpg",
+          "memberSince_Hits": "27. Juli 2015 / 489",
+          "currJobDescr": "Junior Statistical Programmer/Clinical Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Junior Statistical Programmer/Clinical Statistician",
+              "company": "ABCSG - Austrian Breast & Colorectal Cancer Study Group",
+              "company_url": "https://www.xing.com/companies/go?name=ABCSG+-+Austrian+Breast+%26+Colorectal+Cancer+Study+Group",
+              "jobDuration": "11 Monat ",
+              "jobDates": "03/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "Studienassistent",
+              "company": "Universität Wien",
+              "company_url": "https://www.xing.com/companies/go?name=Universit%C3%A4t+Wien",
+              "jobDuration": "6 Monat ",
+              "jobDates": "03/2015 - 08/2015"
+            },
+            {
+              "jobTitle": "Tutor",
+              "company": "Universität Wien",
+              "company_url": "https://www.xing.com/companies/go?name=Universit%C3%A4t+Wien",
+              "jobDuration": "4 Monat ",
+              "jobDates": "03/2015 - 06/2015"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Gut)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Universität Wien",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Wien",
+          "degree": "Statistik, Magister",
+          "eduDuration": "07/2013 - 03/2016"
+        },
+        {
+          "institution": "Universität Wien",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Wien",
+          "degree": "Statistik, Bakk.rer.soc.oec.",
+          "eduDuration": "10/2010 - 07/2013"
+        }
+      ]
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Darjan Divkovic",
+          "picture": "https://www.xing.com/image/1_6_e_2712d5574_22286829_1/darjan-divkovic-foto.256x256.jpg",
+          "memberSince_Hits": "7. April 2015 / 560",
+          "currJobDescr": "Economist/Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Economist/Statistician",
+              "company": "European Central Bank",
+              "company_url": "https://www.xing.com/companies/go?name=European+Central+Bank",
+              "jobDuration": "4 Monat ",
+              "jobDates": "10/2016 - 01/2017"
+            },
+            {
+              "jobTitle": "Spezialist Risikocontrolling",
+              "company": "Deutsche Postbank AG",
+              "company_url": "https://www.xing.com/companies/go?name=Deutsche+Postbank+AG",
+              "jobDuration": "1 Jahr, 6 Monat ",
+              "jobDates": "04/2015 - 09/2016"
+            },
+            {
+              "jobTitle": "Senior Associate - Credit Risk Calculation",
+              "company": "UniCredit S.p.A.",
+              "company_url": "https://www.xing.com/companies/go?name=UniCredit+S.p.A.",
+              "jobDuration": "3 Jahr, 3 Monat ",
+              "jobDates": "01/2012 - 03/2015"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        },
+        {
+          "lang": "Italienisch",
+          "levelOfProficiency": "(Gut)"
+        },
+        {
+          "lang": "Kroatisch"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Frankfurt School of Finance & Management",
+          "url": "https://www.xing.com/search/members?keywords=Frankfurt+School+of+Finance+%26+Management",
+          "degree": "Executive master in Finance, Risk management and regulation, Master Degree",
+          "eduDuration": "09/2015 - 05/2017"
+        },
+        {
+          "institution": "Universita Umanesimo Latino SpA",
+          "url": "https://www.xing.com/search/members?keywords=Universita+Umanesimo+Latino+SpA",
+          "degree": "Banking and Entrepreneurship, Master",
+          "eduDuration": "2010 - 2011"
+        },
+        {
+          "institution": "State University of New York",
+          "url": "https://www.xing.com/search/members?keywords=State+University+of+New+York",
+          "degree": "Business Administration, Bachelor",
+          "eduDuration": "2006 - 2010"
+        }
+      ],
+      "qualifications": "ECDL",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=ECDL"
+    },
+    {
+      "profile": [
+        {
+          "sex": "m",
+          "name": "Dr. Patrick Schlömer",
+          "picture": "https://www.xing.com/image/1_6_6_fe3031f7b_13617767_7/patrick-schl%C3%B6mer-foto.256x256.jpg",
+          "memberSince_Hits": "11. Dezember 2009 / 4304",
+          "currJobDescr": "Senior Statistician",
+          "jobs": [
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Bayer AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer+AG",
+              "jobDuration": "1 Monat",
+              "jobDates": "01/2017 - 01/2017"
+            },
+            {
+              "jobTitle": "Senior Statistician",
+              "company": "Bayer Pharma AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer+Pharma+AG",
+              "jobDuration": "2 Jahr, 7 Monat ",
+              "jobDates": "07/2014 - 01/2017"
+            },
+            {
+              "jobTitle": "Wissenschaftlicher Mitarbeiter",
+              "company": "Universität Bremen - KKSB",
+              "company_url": "https://www.xing.com/companies/go?name=Universit%C3%A4t+Bremen+-+KKSB",
+              "jobDuration": "1 Jahr, 8 Monat ",
+              "jobDates": "11/2012 - 06/2014"
+            },
+            {
+              "jobTitle": "Doktorand",
+              "company": "Bayer Pharma AG",
+              "company_url": "https://www.xing.com/companies/go?name=Bayer+Pharma+AG",
+              "jobDuration": "2 Jahre",
+              "jobDates": "11/2010 - 10/2012"
+            },
+            {
+              "jobTitle": "Studentische Hilfskraft",
+              "company": "Universität Bremen - KKSB",
+              "company_url": "https://www.xing.com/companies/go?name=Universit%C3%A4t+Bremen+-+KKSB",
+              "jobDuration": "1 Jahr, 2 Monat ",
+              "jobDates": "04/2009 - 05/2010"
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "lang": "Deutsch",
+          "levelOfProficiency": "(Muttersprache)"
+        },
+        {
+          "lang": "Englisch",
+          "levelOfProficiency": "(Fließend)"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Universität Bremen",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bremen",
+          "degree": "Mathematik / Statistik, Dr. rer. nat.",
+          "eduDuration": "11/2010 - 06/2014"
+        },
+        {
+          "institution": "Universität Bremen",
+          "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bremen",
+          "degree": "Medical Biometry & Biostatistics, Master of Science",
+          "eduDuration": "10/2008 - 09/2010"
+        },
+        {
+          "institution": "Carl von Ossietzky Universität Oldenburg",
+          "url": "https://www.xing.com/search/members?keywords=Carl+von+Ossietzky+Universit%C3%A4t+Oldenburg",
+          "degree": "Biomathematik, Bachelor of Science",
+          "eduDuration": "10/2005 - 07/2008"
+        }
+      ],
+      "qualifications": "ICH/GCP - Good Clinical Practice (2009)",
+      "qualifications_url": "https://www.xing.com/search/members?keywords=ICH%2FGCP+-+Good+Clinical+Practice+%282009%29",
+      "awards": [
+        {
+          "award_name": "Fachbereichspreis Mathematik (Masterarbeit)",
+          "award_date": "2011"
+        }
+      ]
+    }
+  ]
+}
