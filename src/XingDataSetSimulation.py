@@ -8,35 +8,41 @@ import json
 import glob
 import datetime
 import math
+import pandas as pd
+import pickle
 
-from dataStructure.Candidate import Candidate
-from dataStructure.ProtectedAttribute import ProtectedAttribute
-import os
-
+from Candidate import Candidate
 from utils.readWriteRankings import *
-from tables.flavor import identifier_map
-from utils.normalizeQualifications import normalizeQualifications
 
 
-class XINGDataSetSimulator(object):
+class XingProfilesReader(object):
     """
     reads profiles collected from Xing on certain job description queries
-    profiles are available in JSON format and are read into two arrays of Candidates, the protected ones
-    and the non-protected ones
+    profiles are available in JSON format
+    they are read into a data frame indexed by the search queries we used to obtain candidate profiles
 
-    TODO: write proper documentation
+    the columns consists of arrays of Candidates, the protected ones, the non-protected ones and
+    one that contains all candidates in the same order as was collected from Xing website.
 
-    Member:
-    ------
-    __prottAttr : string
-        defines what sex shall be the protected attribute, i.e. determines whether males or females
-        are the protected group
+                             |          PROTECTED            |            NON-PROTECTED            |       ORIGINAL ORDERING
+    Administrative Assistant | [protected1, protected2, ...] | [nonProtected1, nonProtected2, ...] | [nonProtected1, protected1, ...]
+    Auditor                  | [protected3, protected4, ...] | [nonProtected3, nonProtected3, ...] | [protected4, nonProtected3, ...]
+            ...              |            ...                |               ...                   |             ...
 
+
+    the protected attribute of a candidate is their sex
+    a candidate's sex was manually determined from the profile name
+    depending on the dominating sex of a search query result, the other one was set as the protected
+    attribute (e.g. for administrative assistant the protected attribute is male, for auditor it's female)
     """
+
+    EDUCATION_OR_JOB_WITH_NO_DATES = 3  # months count if you had a job that has no associated dates
+    EDUCATION_OR_JOB_WITH_SAME_YEAR = 6  # months count if you had a job that started and finished in the same year
+    EDUCATION_OR_JOB_WITH_UNDEFINED_DATES = 1  # month given that the person entered the job
 
     @property
     def protectedCandidates(self):
-        return self.__protectedCandidates
+        return self.protected
 
 
     @property
@@ -50,14 +56,71 @@ class XINGDataSetSimulator(object):
 
 
     def __init__(self, path, protectedAttributeDef):
-        self.__protectedCandidates = []
-        self.__nonProtectedCandidates = []
-        self.__originalOrdering = []
-        self.__path = path
-        self.__protAttr = protectedAttributeDef
+        self.entireDataSet = pd.DataFrame(columns=list('protected', 'nonProtected', 'originalOrdering'))
+
+        files = glob.glob(path)
+        print("loaded ", files)  # list of files to analyze
+
+        for filename in files:
+            key, protected, nonProtected, origOrder = self.__readFileOfQuery(filename)
+            self.entireDataSet.loc[key] = [protected, nonProtected, origOrder]
 
 
-    def __determineIfProtected(self, r):
+    def dumpDataSet(self, pathToFile):
+        with open(pathToFile, 'wb') as handle:
+            pickle.dump(self.entireDataSet, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+    def __readFileOfQuery(self, filename):
+        protected = []
+        nonProtected = []
+        originalOrdering = []
+
+        currentfile = open(filename)
+        data = json.load(currentfile)
+
+        xingSearchQuery = data['category']
+        # if the Xing search query results in a gender neutral list,
+        # we take female as the protected attribute
+        protectedAttribute = 'm' if data['dominantSexXing'] == 'm' else 'f'
+
+        for r in data['profiles']:
+            # determine Member since / Hits
+            if 'memberSince_Hits' in r['profile'][0]:
+                hits_string = r['profile'][0]['memberSince_Hits']
+                [], hits = hits_string.split(' / ')
+
+            work_experience = self.__determineWorkMonths(r)
+            edu_experience = self.__determineEduMonths(r)
+            score = (work_experience + edu_experience) * int(hits)
+
+            if self.__determineIfProtected(r):
+                protected.append(Candidate(score, [protectedAttribute]))
+                originalOrdering.append(Candidate(score, [protectedAttribute]))
+            else:
+                nonProtected.append(Candidate(score, []))
+                originalOrdering.append(Candidate(score, []))
+
+        protected.sort(key=lambda candidate: candidate.qualification, reverse=True)
+        nonProtected.sort(key=lambda candidate: candidate.qualification, reverse=True)
+
+        self.__normalizeQualifications(protected + nonProtected)
+        self.__normalizeQualifications(originalOrdering)
+
+        currentfile.close()
+        return xingSearchQuery, protected, nonProtected, originalOrdering
+
+
+    def __normalizeQualifications(self, ranking):
+        # find highest qualification of candidate
+        qualifications = [ranking[i].qualification for i in range(len(ranking))]
+        highest = max(qualifications)
+        for candidate in ranking:
+            candidate.qualification = candidate.qualification / highest
+            candidate.originalQualification = candidate.originalQualification / highest
+
+
+    def __determineIfProtected(self, r, protAttr):
         """
         takes a JSON profile and finds if the person belongs to the protected group
 
@@ -66,22 +129,19 @@ class XINGDataSetSimulator(object):
         r : JSON node
         a person description in JSON, everything below node "profile"
 
-        TODO: should maybe not always use the same protattr, je nachdem ob die query male oder female dominated war...vllt mehr finetunig?
         """
 
         if 'sex' in r['profile'][0]:
-            if r['profile'][0]['sex'] == self.__protAttr:
-                # print(">>> protected\n")
+            if r['profile'][0]['sex'] == protAttr:
                 return True
             else:
-                # print('>>> non-protected\n')
                 return False
         else:
             print('>>> undetermined\n')
             return False
 
 
-    def __determineWorkMonths(self, job_with_no_dates, job_with_same_year, job_with_undefined_dates, r):
+    def __determineWorkMonths(self, r):
         """
         takes a person's profile as JSON node and computes the total amount of work months this
         person has
@@ -89,9 +149,8 @@ class XINGDataSetSimulator(object):
         Parameters:
         ----------
         r : JSON node
-
-
         """
+
         total_working_months = 0  # ..of that profile
         job_duration = 0
 
@@ -104,7 +163,7 @@ class XINGDataSetSimulator(object):
                     job_duration_string = list_of_Jobs[count]['jobDates']
                     if job_duration_string == 'bis heute':
                         # print('job with no dates found - will be count for ' + str(job_with_no_dates) + ' months.')
-                        job_duration = job_with_no_dates
+                        job_duration = self.EDUCATION_OR_JOB_WITH_NO_DATES
 
                     else:
                         job_start_string, job_end_string = job_duration_string.split(' - ')
@@ -124,26 +183,20 @@ class XINGDataSetSimulator(object):
                             print("error reading end date")
 
                         if job_end - job_start == 0:
-                            delta = job_with_same_year
+                            delta = self.EDUCATION_OR_JOB_WITH_SAME_YEAR
                         else:
                             delta = job_end - job_start
 
                         job_duration = math.ceil(delta.total_seconds() / 2629743.83)
 
-                        # print(job_duration_string)
-                        # print('this job: ' + str(job_duration))
-
                 total_working_months += job_duration
-                # print('total jobs: ' + str(total_working_months))
-
-            # print("working: " +  str(total_working_months))
         else:
-            # print('-no jobs on profile-')
-            pass
+            print('-no jobs on profile-')
 
         return total_working_months
 
-    def __determineEduMonths(self, edu_with_no_dates, edu_with_same_year, edu_with_undefined_dates, r):
+
+    def __determineEduMonths(self, r):
         """
         takes a person's profile as JSON node and computes the total amount of work months this
         person has
@@ -151,9 +204,8 @@ class XINGDataSetSimulator(object):
         Parameters:
         ----------
         r : JSON node
-
-
         """
+
         total_education_months = 0  # ..of that profile
         edu_duration = 0
 
@@ -165,7 +217,7 @@ class XINGDataSetSimulator(object):
 
                     edu_duration_string = list_of_edu[count]['eduDuration']
                     if edu_duration_string == ('bis heute' or None or ''):
-                        edu_duration = edu_with_no_dates
+                        edu_duration = self.EDUCATION_OR_JOB_WITH_NO_DATES
                     else:
                         edu_start_string, edu_end_string = edu_duration_string.split(' - ')
 
@@ -184,7 +236,7 @@ class XINGDataSetSimulator(object):
                             print("error reading end date")
 
                         if edu_end - edu_start == 0:
-                            delta = edu_with_same_year
+                            delta = self.EDUCATION_OR_JOB_WITH_SAME_YEAR
                         else:
                             delta = edu_end - edu_start
 
@@ -193,108 +245,14 @@ class XINGDataSetSimulator(object):
                         # print(job_duration_string)
                         # print('this job: ' + str(job_duration))
 
-                else: edu_duration = edu_with_no_dates
+                else: edu_duration = self.EDUCATION_OR_JOB_WITH_NO_DATES
 
                 total_education_months += edu_duration
                 # print('total jobs: ' + str(total_working_months))
 
             # print("studying: " + str(total_education_months))
         else:
-            # print('-no education on profile-')
-            pass
+            print('-no education on profile-')
 
         return total_education_months
-
-    def simulateRankDump(self, pairsOfPAndAlpha):
-        """
-        loops over all .json files and collects the profile information from Xing into two data
-        structures. All protected candidates and their scores (length of job experience) are put
-        into an array of Candidate objects, all non-protected Candidate objects are put into a
-        different array
-
-        """
-
-        """
-        FIXME: quick and dirty fix to have separate data structures for each search query
-        should be done without a local array, maybe don't use a class anymore
-        """
-
-        files = glob.glob(self.__path)
-        eduOrJob_with_no_dates = 3  # months count if you had a job that has no associated dates
-        eduOrJob_with_same_year = 6  # months count if you had a job that started and finished in the same year
-        eduOrJob_with_undefined_dates = 1  # month given that the person entered the job
-        print("loaded ", files)  # list of files to analyze
-
-        for filename in files:
-            # FIXME: see FIXME above, we are using a new data structure to separate each category
-            # data from each other...very dirty
-
-            protected_count = 0
-            nonprotected_count = 0
-            score_array = []
-            sex_array = []
-
-            self.__nonProtectedCandidates = []
-            self.__protectedCandidates = []
-            self.__originalOrdering = []
-
-            currentfile = open(filename)  # filestream
-            data = json.load(currentfile)
-            xingSearchQuery = data['category']
-            k = len(data['profiles'])
-            print('\n\n %% category ' + xingSearchQuery + ' has ' + str(k) + ' entries\n')
-
-            identifier = 0  # TODO: yangStoyanovich ID explain why using it
-
-            for r in data['profiles']:
-                # determine Member since / Hits
-                if 'memberSince_Hits' in r['profile'][0]:
-                    hits_string = r['profile'][0]['memberSince_Hits']
-                    member_since, hits = hits_string.split(' / ')
-                    # print(str(hits))
-                work_experience = self.__determineWorkMonths(eduOrJob_with_no_dates, eduOrJob_with_same_year,
-                                                            eduOrJob_with_undefined_dates, r)
-                edu_experience = self.__determineEduMonths(eduOrJob_with_no_dates, eduOrJob_with_same_year,
-                                                          eduOrJob_with_undefined_dates, r)
-                score = (work_experience + edu_experience) * int(hits)
-
-                # print('profile score: 1000 * ' + str(score) + '\n(' + str(work_experience) + ' + '
-                #       + str(edu_experience) + ') / ' + str(hits))
-                score_array.append(str(round(score, 2)))
-
-                if self.__determineIfProtected(r):
-                    self.__protectedCandidates.append(Candidate(score, ProtectedAttribute(self.__protAttr), identifier))
-                    self.__originalOrdering.append(Candidate(score, ProtectedAttribute(self.__protAttr), identifier))
-                    identifier += 1
-                    protected_count += 1
-                    sex_array.append("Prtcd")  # protected
-                else:
-                    self.__nonProtectedCandidates.append(Candidate(score, [], identifier))
-                    self.__originalOrdering.append(Candidate(score, [], identifier))
-                    identifier += 1
-                    nonprotected_count += 1
-                    sex_array.append("nPrtcd")  # nonprotected
-
-            self.__protectedCandidates.sort(key=lambda candidate: candidate.qualification, reverse=True)
-            self.__nonProtectedCandidates.sort(key=lambda candidate: candidate.qualification, reverse=True)
-
-            # hier sind alle Kandidaten einer Kategorie eingesammelt...man könnte die hier schon ranken und das Ranking dumpen
-            # FIXME: alles umziehen und zusammen bündeln, sodass das rausschreiben auf die Platte nur an einer Stelle gemacht wird
-
-            normalizeQualifications(self.__protectedCandidates + self.__nonProtectedCandidates)
-            normalizeQualifications(self.__originalOrdering)
-
-            dumpRankingsToDisk(self.__protectedCandidates, self.__nonProtectedCandidates, k, xingSearchQuery,
-                               "../files/results/rankingDumps/Xing/" + xingSearchQuery, pairsOfPAndAlpha)
-            if not os.path.exists(os.getcwd() + "/../files/results/rankingDumps/Xing/" + xingSearchQuery + '/'):
-                os.makedirs(os.getcwd() + "/../files/results/rankingDumps/Xing/" + xingSearchQuery + '/')
-            writePickleToDisk(self.__originalOrdering,
-                              os.getcwd() + "/../files/results/rankingDumps/Xing/" + xingSearchQuery + '/' + xingSearchQuery + 'OriginalOrdering.pickle')
-
-            # ratio protected/unprotected
-            print(str(sex_array) + "\n" + str(score_array))
-            print("Ratio: " + str(protected_count) + " : " + str(nonprotected_count))
-            print("in %: " + str(protected_count / (protected_count + nonprotected_count)) + " : " +
-                  str(nonprotected_count / (protected_count + nonprotected_count)))
-            currentfile.close()
 
