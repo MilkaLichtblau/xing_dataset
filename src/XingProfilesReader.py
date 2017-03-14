@@ -12,7 +12,6 @@ import pandas as pd
 import pickle
 
 from Candidate import Candidate
-from utils.readWriteRankings import *
 
 
 class XingProfilesReader(object):
@@ -55,11 +54,10 @@ class XingProfilesReader(object):
         return self.__originalOrdering
 
 
-    def __init__(self, path, protectedAttributeDef):
-        self.entireDataSet = pd.DataFrame(columns=list('protected', 'nonProtected', 'originalOrdering'))
+    def __init__(self, path):
+        self.entireDataSet = pd.DataFrame(columns=['protected', 'nonProtected', 'originalOrdering'])
 
         files = glob.glob(path)
-        print("loaded ", files)  # list of files to analyze
 
         for filename in files:
             key, protected, nonProtected, origOrder = self.__readFileOfQuery(filename)
@@ -88,13 +86,13 @@ class XingProfilesReader(object):
             # determine Member since / Hits
             if 'memberSince_Hits' in r['profile'][0]:
                 hits_string = r['profile'][0]['memberSince_Hits']
-                [], hits = hits_string.split(' / ')
+                member_since, hits = hits_string.split(' / ')
 
             work_experience = self.__determineWorkMonths(r)
             edu_experience = self.__determineEduMonths(r)
             score = (work_experience + edu_experience) * int(hits)
 
-            if self.__determineIfProtected(r):
+            if self.__determineIfProtected(r, protectedAttribute):
                 protected.append(Candidate(score, [protectedAttribute]))
                 originalOrdering.append(Candidate(score, [protectedAttribute]))
             else:

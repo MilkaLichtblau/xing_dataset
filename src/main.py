@@ -7,7 +7,7 @@ import os
 from XingProfilesReader import XingProfilesReader
 
 def main():
-    xingData = XingProfilesReader()
+    xingData = XingProfilesReader('../data/*.json')
     xingData.dumpDataSet(os.getcwd() + '/' + 'xingData.pickle')
 
 if __name__ == '__main__':
