@@ -55,6 +55,9 @@ class XingProfilesReader(object):
 
 
     def __init__(self, path):
+        """
+        @param path: path to JSON files with Xing data
+        """
         self.entireDataSet = pd.DataFrame(columns=['protected', 'nonProtected', 'originalOrdering'])
 
         files = glob.glob(path)
@@ -70,6 +73,20 @@ class XingProfilesReader(object):
 
 
     def __readFileOfQuery(self, filename):
+        """
+        takes one .json file and reads all information, creates candidate objects from these
+        information and sorts them into 3 arrays. One contains all protected candidates, one contains
+        all non-protected candidates, one contains all candidates in the same order as they appear
+        in the json-file
+
+        @param filename: the json's filename
+
+        @return:
+            key: the search query string
+            protected: array that contains all protected candidates
+            nonProtected: array that contains all nonProtected candidates
+
+        """
         protected = []
         nonProtected = []
         originalOrdering = []
