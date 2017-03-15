@@ -23,7 +23,7 @@ class Candidate(object):
         """
         self.__qualification = qualification
         self.__protectedAttributes = protectedAttributes
-        # keeps the candidate's initial qualification for evaluation purposes, read-only
+        # keeps the candidate's initial qualification for evaluation purposes
         self.__originalQualification = qualification
         self.uuid = uuid.uuid4()
 
@@ -41,6 +41,11 @@ class Candidate(object):
     @property
     def originalQualification(self):
         return self.__originalQualification
+
+
+    @originalQualification.setter
+    def originalQualification(self, value):
+        self.__qualification = value
 
 
     @property

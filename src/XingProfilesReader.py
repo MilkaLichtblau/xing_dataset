@@ -104,6 +104,8 @@ class XingProfilesReader(object):
             if 'memberSince_Hits' in r['profile'][0]:
                 hits_string = r['profile'][0]['memberSince_Hits']
                 member_since, hits = hits_string.split(' / ')
+            else:
+                hits = 1
 
             work_experience = self.__determineWorkMonths(r)
             edu_experience = self.__determineEduMonths(r)
