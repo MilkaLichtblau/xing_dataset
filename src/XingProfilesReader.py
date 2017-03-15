@@ -103,7 +103,7 @@ class XingProfilesReader(object):
             # determine Member since / Hits
             if 'memberSince_Hits' in r['profile'][0]:
                 hits_string = r['profile'][0]['memberSince_Hits']
-                member_since, hits = hits_string.split(' / ')
+                hits = hits_string.split(' / ')[1]
             else:
                 hits = 1
 
