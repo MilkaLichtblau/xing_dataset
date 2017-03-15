@@ -1,7 +1,7 @@
 '''
 Created on Mar 14, 2017
-
 '''
+
 import os
 
 from XingProfilesReader import XingProfilesReader

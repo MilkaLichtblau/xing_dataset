@@ -97,7 +97,7 @@ class XingProfilesReader(object):
         xingSearchQuery = data['category']
         # if the Xing search query results in a gender neutral list,
         # we take female as the protected attribute
-        protectedAttribute = 'm' if data['dominantSexXing'] == 'm' else 'f'
+        protectedAttribute = 'm' if data['dominantSexXing'] == 'f' else 'f'
 
         for r in data['profiles']:
             # determine Member since / Hits
