@@ -1,7 +1,7 @@
 '''
 Created on Mar 15, 2017
-
 '''
+
 import unittest
 from XingProfilesReader import XingProfilesReader
 
