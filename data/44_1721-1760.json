@@ -1,16 +1,19 @@
 {
   "category": "Brand Assistant",
   "dominantSexXing": "f",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sandra Brand",
           "picture": "https://www.xing.com/image/c_3_c_958efee61_8950972_7/sandra-brand-foto.256x256.jpg",
           "memberSince_Hits": "7. März 2008 / 1786",
           "currJobDescr": "Project Assistant, Online & Crosschannel Development, Experience Development",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Project Assistant, Online & Crosschannel Development, Experience Development",
               "company": "Swisscom (Schweiz) AG",
@@ -84,7 +87,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -94,7 +98,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BPIH, Bern",
           "url": "https://www.xing.com/search/members?keywords=BPIH%2C+Bern",
@@ -104,14 +109,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Claudia Brand",
           "picture": "https://www.xing.com/image/0_2_1_eaff5a272_3501522_2/claudia-brand-foto.256x256.jpg",
           "memberSince_Hits": "19. Mai 2005 / 4539",
           "currJobDescr": "Assistentin der Geschäftsführung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin der Geschäftsführung",
               "company": "asculta Unternehmensberatung",
@@ -159,7 +166,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -170,7 +178,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "LMU München",
           "url": "https://www.xing.com/search/members?keywords=LMU+M%C3%BCnchen",
@@ -180,14 +189,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ulrich Brand",
           "picture": "https://www.xing.com/img/users/b/1/0/b6545c7dd.5998080,5.256x256.jpg",
           "memberSince_Hits": "25. Mai 2006 / 2600",
           "currJobDescr": "Assistent der Hochschulgastronomie",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistent der Hochschulgastronomie",
               "company": "Studierendenwerk Tübingen-Hohenheim",
@@ -243,7 +254,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -254,13 +266,15 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hotelfachschule Pegnitz",
           "url": "https://www.xing.com/search/members?keywords=Hotelfachschule+Pegnitz"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "3. Platz beim Grand Prix der Tagungshotellerie",
           "award_date": "2015"
@@ -268,14 +282,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dr. Izabella Brand",
           "picture": "https://www.xing.com/image/2_6_f_108fc7d2c_19048685_1/izabella-brand-foto.256x256.jpg",
           "memberSince_Hits": "25. April 2013 / 1045",
           "currJobDescr": "Wissenschaftliche Assistentin - Gruppenleiterin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Wissenschaftliche Assistentin - Gruppenleiterin",
               "company": "Universität Oldenburg",
@@ -306,7 +322,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -324,7 +341,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Carl von Ossietzky Universität Oldenburg",
           "url": "https://www.xing.com/search/members?keywords=Carl+von+Ossietzky+Universit%C3%A4t+Oldenburg",
@@ -344,7 +362,8 @@
           "eduDuration": "10/1993 - 06/1997"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Joachim Walter Schulze Preis",
           "award_date": "www.agef.org/jwspreis/preistraeger.html"
@@ -372,14 +391,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Isabell Brand",
           "picture": "https://www.xing.com/img/users/9/8/d/6253fba57.11296206,6.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2008 / 1109",
           "currJobDescr": "Assistentin Vertrieb Region Süd/West",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin Vertrieb Region Süd/West",
               "company": "Heitec AG",
@@ -425,7 +446,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -443,14 +465,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=B%C3%BCrokauffrau+%28IHK+Heilbronn+2001%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sonja Brand",
           "picture": "https://www.xing.com/image/1_8_9_993126e1a_14114738_4/sonja-brand-foto.256x256.jpg",
           "memberSince_Hits": "12. März 2010 / 4584",
           "currJobDescr": "Assistentin der Geschäftsleitung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin der Geschäftsleitung",
               "company": "WISAG Gebäude- und Industrieservice Hessen GmbH & Co. KG",
@@ -482,7 +506,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -492,14 +517,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Carolin Brand",
           "picture": "https://www.xing.com/image/c_0_8_8f3809de9_4390671_5/carolin-brand-foto.256x256.jpg",
           "memberSince_Hits": "21. November 2005 / 4967",
           "currJobDescr": "Marketing Assistentin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Assistentin",
               "company": "Florissa Handels- und Produktions-GmbH",
@@ -565,7 +592,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -579,7 +607,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Central Arkansas, AR/USA",
           "url": "https://www.xing.com/search/members?keywords=University+of+Central+Arkansas%2C+AR%2FUSA",
@@ -595,14 +624,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ACA-Instructor+Level+III+%28American+Canoe+Association%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Vanessa Brand",
           "picture": "https://www.xing.com/image/2_8_8_64fb6c44b_19937006_2/vanessa-brand-foto.256x256.jpg",
           "memberSince_Hits": "10. Dezember 2013 / 2116",
           "currJobDescr": "Assistentin der Therapeutischen Leitung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin der Therapeutischen Leitung",
               "company": "Medicos auf Schalke",
@@ -627,7 +658,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -643,14 +675,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Brand",
           "picture": "https://www.xing.com/image/c_0_a_6d7e8fd6c_15389747_1/peter-brand-foto.256x256.jpg",
           "memberSince_Hits": "18. Oktober 2010 / 1902",
           "currJobDescr": "Assistent der Geschäftsführung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistent der Geschäftsführung",
               "company": "Feltberg",
@@ -675,7 +709,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -689,7 +724,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Trier",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Trier",
@@ -700,14 +736,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP+ERP+Kernqualifikation%2C+SAP+User+Certification"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Brand",
           "picture": "https://www.xing.com/image/e_f_7_adc45eb02_13474571_5/sebastian-brand-foto.256x256.jpg",
           "memberSince_Hits": "16. November 2009 / 2557",
           "currJobDescr": "Assistant Storemanager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistant Storemanager",
               "company": "Runners Point Warenhandelsgesellschaft mbH",
@@ -753,7 +791,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -767,7 +806,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Verwaltungs- und Wirtschaftsakademie Leipzig",
           "url": "https://www.xing.com/search/members?keywords=Verwaltungs-+und+Wirtschaftsakademie+Leipzig",
@@ -785,14 +825,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=gelernter+Kaufmann+im+Einzelhandel+%28IHK%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Brand",
           "picture": "https://www.xing.com/image/7_f_2_1c447040f_15703154_2/andreas-brand-foto.256x256.jpg",
           "memberSince_Hits": "27. Dezember 2010 / 2570",
           "currJobDescr": "Assistent der Produktionsleitung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistent der Produktionsleitung",
               "company": "bosch Tiernahrung GmbH & Co. KG",
@@ -831,7 +873,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -844,14 +887,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Sensorik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Brand",
           "picture": "https://www.xing.com/image/e_1_8_80fa31a4a_23446679_2/daniel-brand-foto.256x256.jpg",
           "memberSince_Hits": "9. Oktober 2015 / 341",
           "currJobDescr": "Professional Project Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Professional Project Assistant",
               "company": "SBB Informatik AG",
@@ -882,7 +927,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -900,7 +946,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Nordwestschweiz (FHNW) in Olten",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Nordwestschweiz+%28FHNW%29+in+Olten",
@@ -924,14 +971,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Kaufmann+mit+Berufsmatur"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Johanna Brand",
           "picture": "https://www.xing.com/image/6_6_0_320fbee0a_20994051_2/johanna-brand-foto.256x256.jpg",
           "memberSince_Hits": "3. September 2014 / 1063",
           "currJobDescr": "Assistenz",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistenz",
               "company": "Engel & Völkers Commercial Stuttgart",
@@ -956,7 +1005,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -974,14 +1024,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MS+Office"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Don Brand",
           "picture": "https://www.xing.com/image/4_2_5_ac0f7a25c_11122771_2/don-brand-foto.256x256.jpg",
           "memberSince_Hits": "30. September 2008 / 515",
           "currJobDescr": "Assistant Terminal Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistant Terminal Manager",
               "company": "Mitsubishi Cement",
@@ -991,21 +1043,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Franziska Brand",
           "picture": "https://www.xing.com/image/8_b_4_8ccd95815_17416828_2/franziska-brand-foto.256x256.jpg",
           "memberSince_Hits": "29. Februar 2012 / 2464",
           "currJobDescr": "Assistenz der Produktions- und Standortleitung Werk Düsseldorf",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistenz der Produktions- und Standortleitung Werk Düsseldorf",
               "company": "Daimler AG",
@@ -1051,7 +1106,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1065,7 +1121,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "OTH Amberg-Weiden in Kooperation mit der THI Ingolstadt",
           "url": "https://www.xing.com/search/members?keywords=OTH+Amberg-Weiden+in+Kooperation+mit+der+THI+Ingolstadt",
@@ -1083,14 +1140,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=%C3%9Cbungsleiterschein+Breitensport"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Fabian Brand",
           "picture": "https://www.xing.com/image/f_a_4_f287298a2_26723624_1/fabian-brand-foto.256x256.jpg",
           "memberSince_Hits": "28. Dezember 2016 / 50",
           "currJobDescr": "Assistant Assurance",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistant Assurance",
               "company": "Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft, Nürnberg",
@@ -1122,7 +1181,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1136,7 +1196,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Örebro universitet",
           "url": "https://www.xing.com/search/members?keywords=%C3%96rebro+universitet",
@@ -1166,14 +1227,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MS+Office"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Ute Brand",
           "picture": "https://www.xing.com/image/f_0_a_40ab89740_8824365_3/ute-brand-foto.256x256.jpg",
           "memberSince_Hits": "12. Februar 2008 / 1915",
           "currJobDescr": "Assistenz",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistenz",
               "company": "ZF Friedrichshafen AG",
@@ -1183,7 +1246,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1193,7 +1257,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Alexander-von-Humboldt-Gymnasium, Schweinfurt",
           "url": "https://www.xing.com/search/members?keywords=Alexander-von-Humboldt-Gymnasium%2C+Schweinfurt",
@@ -1202,7 +1267,8 @@
       ],
       "qualifications": "Alexander-von-Humboldt-Gymnasium, Schweinfurt",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Alexander-von-Humboldt-Gymnasium%2C+Schweinfurt",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "First Cambridge Certificate",
           "award_date": "2002"
@@ -1210,14 +1276,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Conny Brand",
           "picture": "https://www.xing.com/image/0_6_e_b9119b642_10019825_4/conny-brand-foto.256x256.jpg",
           "memberSince_Hits": "21. April 2008 / 1524",
           "currJobDescr": "Assistentin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin",
               "company": "Robert Half Deutschland GmbH",
@@ -1263,7 +1331,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1275,14 +1344,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Versicherungsfachfrau+BWV"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Patricia Brand",
           "picture": "https://www.xing.com/img/users/e/8/4/4d60164f7.22848431,2.256x256.jpg",
           "memberSince_Hits": "9. Juli 2015 / 310",
           "currJobDescr": "Assistentin der Geschäftsführung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistentin der Geschäftsführung",
               "company": "Vitaphone GmbH",
@@ -1328,7 +1399,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1342,7 +1414,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Friedrich-List-Schule Berlin - Oberstufenzentrum Wirtschaftssprachen",
           "url": "https://www.xing.com/search/members?keywords=Friedrich-List-Schule+Berlin+-+Oberstufenzentrum+Wirtschaftssprachen",
@@ -1352,14 +1425,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Karen Brand",
           "picture": "https://www.xing.com/image/b_c_f_b3d0bcbb4_8730939_1/karen-brand-foto.256x256.jpg",
           "memberSince_Hits": "24. Januar 2008 / 2549",
           "currJobDescr": "Assistenz",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistenz",
               "company": "Audiotex Deutschland GmbH",
@@ -1377,7 +1452,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1387,14 +1463,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Claudia Brand",
           "picture": "https://www.xing.com/image/5_c_2_1e632ca69_20435537_3/claudia-brand-foto.256x256.jpg",
           "memberSince_Hits": "13. April 2014 / 829",
           "currJobDescr": "Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Manager",
               "company": "KPMG LLP",
@@ -1440,7 +1518,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1454,7 +1533,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Université Pierre Mendès France de Grenoble, Frankreich",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+Pierre+Mend%C3%A8s+France+de+Grenoble%2C+Frankreich",
@@ -1482,7 +1562,8 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Antje Brand",
@@ -1492,14 +1573,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Regina Brand",
           "picture": "https://www.xing.com/img/users/4/3/8/25975bbe5.19238779,15.256x256.jpg",
           "memberSince_Hits": "14. Juni 2013 / 660",
           "currJobDescr": "Leadership Accelerator & Agent of Change",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Leadership Accelerator & Agent of Change",
               "company": "Regina Brand (www.regina-brand.com)",
@@ -1559,7 +1642,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1569,7 +1653,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "INSEAD Business School",
           "url": "https://www.xing.com/search/members?keywords=INSEAD+Business+School",
@@ -1585,14 +1670,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Laura Brand",
           "picture": "https://www.xing.com/image/1_d_2_a00ed8af0_16016135_12/laura-brand-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2011 / 3440",
           "currJobDescr": "Marketing & Management - Mode, Marken, Medien",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Model",
               "company": "Modelagentur Greens",
@@ -1631,7 +1718,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1653,7 +1741,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Campus M21",
           "url": "https://www.xing.com/search/members?keywords=Campus+M21",
@@ -1677,14 +1766,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=F%C3%BChrungskr%C3%A4fte-Training"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Susanne Brand",
           "picture": "https://www.xing.com/image/1_4_3_ad9945d72_10329106_8/susanne-brand-foto.256x256.jpg",
           "memberSince_Hits": "27. Juni 2008 / 6520",
           "currJobDescr": "Auf der Suche nach einer neuen Herausforderung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Auf der Suche nach einer neuen Herausforderung",
               "company": "Powerpoint Spezialistin",
@@ -1757,7 +1848,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1772,14 +1864,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Brand",
           "picture": "https://www.xing.com/image/1_5_1_7382c3c60_7649221_2/sebastian-brand-foto.256x256.jpg",
           "memberSince_Hits": "17. Juli 2007 / 6718",
           "currJobDescr": "Geschäftsführender Gesellschafter",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Geschäftsführender Gesellschafter",
               "company": "BRAND BERGER GmbH & Co. KG",
@@ -1853,7 +1947,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1863,7 +1958,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "European Business School (EBS)",
           "url": "https://www.xing.com/search/members?keywords=European+Business+School+%28EBS%29",
@@ -1915,7 +2011,8 @@
       ],
       "qualifications": "CAD, Bauleitung, wissenschaftliches Arbeiten",
       "qualifications_url": "https://www.xing.com/search/members?keywords=CAD%2C+Bauleitung%2C+wissenschaftliches+Arbeiten",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "1. Preis Ideenwettbewerb Herford 2020",
           "award_date": "2005"
@@ -1935,14 +2032,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Gertraud Brand",
           "picture": "https://www.xing.com/image/9_f_2_729fc1334_18901191_7/gertraud-brand-foto.256x256.jpg",
           "memberSince_Hits": "16. März 2013 / 930",
           "currJobDescr": "Witschaftsingenieurwesen",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktionsverwaltung",
               "company": "Metawell GmbH",
@@ -1988,7 +2087,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1997,7 +2097,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HFH",
           "url": "https://www.xing.com/search/members?keywords=HFH",
@@ -2021,14 +2122,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Industriekauffrau"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Tina Brand",
           "picture": "https://www.xing.com/image/e_0_0_ddee649b0_10113462_1/tina-brand-foto.256x256.jpg",
           "memberSince_Hits": "9. Mai 2008 / 1969",
           "currJobDescr": "Selbstständig",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Selbstständig",
               "company": "Tina Brand",
@@ -2053,7 +2156,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2061,7 +2165,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Akademie für Datenverarbeitung Böblingen (ADV)",
           "url": "https://www.xing.com/search/members?keywords=Akademie+f%C3%BCr+Datenverarbeitung+B%C3%B6blingen+%28ADV%29",
@@ -2071,14 +2176,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Brand",
           "picture": "https://www.xing.com/image/8_f_9_acaa9675d_20633640_1/peter-brand-foto.256x256.jpg",
           "memberSince_Hits": "5. Juni 2014 / 843",
           "currJobDescr": "Inhaber",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Inhaber",
               "company": "pbr Consult",
@@ -2144,7 +2251,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2164,13 +2272,15 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dieter Brand",
           "picture": "https://www.xing.com/image/6_8_6_2ff6dafd8_18252431_4/dieter-brand-foto.256x256.jpg",
           "memberSince_Hits": "15. September 2012 / 919",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lehrbeauftragter",
               "company": "Hochschule Trier",
@@ -2202,7 +2312,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2221,14 +2332,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Brand",
           "picture": "https://www.xing.com/image/5_e_0_65fef5a0a_7735306_22/andreas-brand-foto.256x256.jpg",
           "memberSince_Hits": "4. August 2007 / 2829",
           "currJobDescr": "Executive Producer & Director",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Executive Producer & Director",
               "company": "Brand Films GmbH",
@@ -2246,7 +2359,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2268,7 +2382,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen",
@@ -2278,14 +2393,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sonja Brand",
           "picture": "https://www.xing.com/image/2_1_1_6dfa17820_18615702_11/sonja-brand-foto.256x256.jpg",
           "memberSince_Hits": "30. Dezember 2012 / 1664",
           "currJobDescr": "Head of Service und Support",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Service und Support",
               "company": "ergovia GmbH",
@@ -2352,7 +2469,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2362,7 +2480,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Handwerkskammer Mittelfranken",
           "url": "https://www.xing.com/search/members?keywords=Handwerkskammer+Mittelfranken",
@@ -2380,14 +2499,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Technischer+Fachwirt"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Brand",
           "picture": "https://www.xing.com/img/users/9/1/c/b39496999.6789964,1.256x256.jpg",
           "memberSince_Hits": "3. Dezember 2006 / 2992",
           "currJobDescr": "persönlich haftender Gesellschafter",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "persönlich haftender Gesellschafter",
               "company": "KARL BRAND KG",
@@ -2447,7 +2568,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2458,7 +2580,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Wirtschaft und Recht (HWR) Berlin School of Economics and Law",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Wirtschaft+und+Recht+%28HWR%29+Berlin+School+of+Economics+and+Law",
@@ -2476,14 +2599,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=AdA-Zertifikat"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Brand",
           "picture": "https://www.xing.com/img/users/c/4/6/05237126f.6709995,5.256x256.jpg",
           "memberSince_Hits": "13. November 2006 / 4381",
           "currJobDescr": "IT Risk and Control",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Risk and Control",
               "company": "Deutsche Bank AG",
@@ -2527,7 +2652,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2541,7 +2667,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Solihull College",
           "url": "https://www.xing.com/search/members?keywords=Solihull+College",
@@ -2551,7 +2678,8 @@
       ],
       "qualifications": "PECB ISO/IEC 27001 Lead Implementer",
       "qualifications_url": "https://www.xing.com/search/members?keywords=PECB+ISO%2FIEC+27001+Lead+Implementer",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "ITIL V3 Intermediate Level Service Operation",
           "award_date": "www.apmg-international.com"
@@ -2587,14 +2715,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Gabriela Brand",
           "picture": "https://www.xing.com/image/b_4_f_e5fa74200_14152750_1/gabriela-brand-foto.256x256.jpg",
           "memberSince_Hits": "19. März 2010 / 1715",
           "currJobDescr": "Freiberufliche Dozentin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freiberufliche Dozentin",
               "company": "Erwachsenenbildung",
@@ -2637,7 +2767,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2655,14 +2786,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Train-the-Trainer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Michael Brand",
           "picture": "https://www.xing.com/img/users/4/d/d/2fe5ebfd1.7440410,2.256x256.jpg",
           "memberSince_Hits": "1. Juni 2007 / 1384",
           "currJobDescr": "Inhaber",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Inhaber",
               "company": "Michael Brand EDV & Telekommunikation",
@@ -2708,7 +2841,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
@@ -2717,14 +2851,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+Trainer+%28MCT%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Wolfgang Brand",
           "picture": "https://www.xing.com/image/0_c_d_b9cb4ea64_7050254_7/wolfgang-brand-foto.256x256.jpg",
           "memberSince_Hits": "11. Februar 2007 / 41408",
           "currJobDescr": "Founder & Geschäftsführer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Founder & Geschäftsführer",
               "company": "Smart Media Berlin",
@@ -2836,7 +2972,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2850,7 +2987,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Naturwissenschaftliches Progymnasium",
           "url": "https://www.xing.com/search/members?keywords=Naturwissenschaftliches+Progymnasium",
@@ -2861,14 +2999,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Einzelhandelskaufmann+IHK"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Jessica Brand",
           "picture": "https://www.xing.com/image/f_9_8_bf78f6916_20688537_1/jessica-brand-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2014 / 574",
           "currJobDescr": "Biomedical Engineering",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Biomechanic Engineer",
               "company": "Stryker",
@@ -2912,7 +3052,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2926,7 +3067,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Delft",
           "url": "https://www.xing.com/search/members?keywords=TU+Delft",
@@ -2942,14 +3084,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Simone Neumann-Brand",
           "picture": "https://www.xing.com/image/f_c_2_5f6975c2e_10401533_4/simone-neumann-brand-foto.256x256.jpg",
           "memberSince_Hits": "15. Juli 2008 / 1949",
           "currJobDescr": "Dipl. Gesundheitstrainerin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dipl. Gesundheitstrainerin",
               "company": "back to balance e. U.",
@@ -2988,7 +3132,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2998,7 +3143,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Drumbl Akademie für Aus- und Weiterbildung GmbH, Graz",
           "url": "https://www.xing.com/search/members?keywords=Drumbl+Akademie+f%C3%BCr+Aus-+und+Weiterbildung+GmbH%2C+Graz",
@@ -3014,14 +3160,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Stefan Brand",
           "picture": "https://www.xing.com/image/7_e_8_a90891e84_18622097_2/stefan-brand-foto.256x256.jpg",
           "memberSince_Hits": "2. Januar 2013 / 843",
           "currJobDescr": "Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Manager",
               "company": "soccatours GmbH",
@@ -3074,7 +3222,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3092,7 +3241,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FHAM Erding",
           "url": "https://www.xing.com/search/members?keywords=FHAM+Erding",

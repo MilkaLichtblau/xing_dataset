@@ -1,16 +1,19 @@
 {
   "category": "Software Engineer",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Hartmut Pfaadt",
           "picture": "https://www.xing.com/image/e_8_0_38fcc1fa5_19257215_3/hartmut-pfaadt-foto.256x256.jpg",
           "memberSince_Hits": "19. Juni 2013 / 1549",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Pfaadt Software",
@@ -98,7 +101,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -112,7 +116,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Albstadt-Sigmaringen",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Albstadt-Sigmaringen",
@@ -124,14 +129,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Amateurfunk-Lizenz+Klasse+C+mit+erfolgreicher+Theorie-Pr%C3%BCfung+f%C3%BCr+Klasse+A"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marcel Prates",
           "picture": "https://www.xing.com/image/6_4_b_9fd1d847b_12498846_4/marcel-prates-foto.256x256.jpg",
           "memberSince_Hits": "25. Mai 2009 / 3630",
           "currJobDescr": "Hard-/Software Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Hard-/Software Entwickler",
               "company": "pm|Software",
@@ -170,7 +177,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -187,7 +195,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Albstadt-Sigmaringen",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Albstadt-Sigmaringen",
@@ -199,14 +208,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=EIB+Kompaktlehrgang-Zertikat+%282003%29+-+gepr%C3%BCft"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ilja Karanin",
           "picture": "https://www.xing.com/image/6_d_6_adeae6752_5991257_2/ilja-karanin-foto.256x256.jpg",
           "memberSince_Hits": "24. Mai 2006 / 7616",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "Independent Computer Software Professional",
@@ -266,7 +277,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -283,7 +295,8 @@
           "lang": "Litauisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Vilnius Gediminas Technische Universität - VGTU ( Vilnius, Litauen)",
           "url": "https://www.xing.com/search/members?keywords=Vilnius+Gediminas+Technische+Universit%C3%A4t+-+VGTU+%28+Vilnius%2C+Litauen%29",
@@ -301,14 +314,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Product+Training-Advanced+Monitoring%2F+PULSION++Basic+plus+2016"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jürgen Roscher",
           "picture": "https://www.xing.com/image/5_6_8_43ad91fe3_20598650_1/j%C3%BCrgen-roscher-foto.256x256.jpg",
           "memberSince_Hits": "27. Mai 2014 / 855",
           "currJobDescr": "Software Techniker, CNC-Programmierer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Techniker, CNC-Programmierer",
               "company": "WiCAM GmbH Technische Software",
@@ -347,7 +362,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -355,7 +371,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bystronic Deutschland GmbH",
           "url": "https://www.xing.com/search/members?keywords=Bystronic+Deutschland+GmbH",
@@ -383,14 +400,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Klaus Pfaadt",
           "picture": "https://www.xing.com/image/a_5_3_239c6b144_19752454_5/klaus-pfaadt-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2013 / 1523",
           "currJobDescr": "Software-Entwickler / Geschäftsführer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler / Geschäftsführer",
               "company": "Pfaadt Software",
@@ -471,7 +490,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -485,7 +505,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Albstadt-Ebingen",
           "url": "https://www.xing.com/search/members?keywords=FH+Albstadt-Ebingen",
@@ -495,14 +516,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Gorju",
           "picture": "https://www.xing.com/image/0_e_c_2edb44600_8570507_4/daniel-gorju-foto.256x256.jpg",
           "memberSince_Hits": "17. Dezember 2007 / 7541",
           "currJobDescr": "Software-Entwickler, IT Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler, IT Consultant",
               "company": "Nach Plan - Software.Entwicklung.Beratung",
@@ -639,7 +662,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -653,7 +677,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochshule Köln",
           "url": "https://www.xing.com/search/members?keywords=Fachhochshule+K%C3%B6ln",
@@ -669,14 +694,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Bengner",
           "picture": "https://www.xing.com/image/e_6_f_e03a23f51_7147806_4/thomas-bengner-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2007 / 1743",
           "currJobDescr": "Inhaber und Organisations-Programmierer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Inhaber und Organisations-Programmierer",
               "company": "Mechanismo Software",
@@ -707,21 +734,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matthias Dietrich",
           "picture": "https://www.xing.com/img/users/e/4/4/c9f08edd1.7706111,3.256x256.jpg",
           "memberSince_Hits": "29. Juli 2007 / 12764",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "rainboxx Software Engineering",
@@ -914,7 +944,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -928,7 +959,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fernuni Hagen",
           "url": "https://www.xing.com/search/members?keywords=Fernuni+Hagen",
@@ -940,14 +972,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker%2FAnwendungsentwicklung"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Madjid Nassiri",
           "picture": "https://www.xing.com/image/8_e_6_ce759ca5b_5649675_2/madjid-nassiri-foto.256x256.jpg",
           "memberSince_Hits": "21. Februar 2006 / 3160",
           "currJobDescr": "Senior IT-Consultant / Senior Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior IT-Consultant / Senior Software-Entwickler",
               "company": "Windhoff Software Services GmbH",
@@ -1000,7 +1034,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1013,7 +1048,8 @@
           "lang": "Persisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen Fachrichtung Informatik. Abschluß 1997, Note 1,1",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen+Fachrichtung+Informatik.+Abschlu%C3%9F+1997%2C+Note+1%2C1",
@@ -1022,14 +1058,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Schreiber",
           "picture": "https://www.xing.com/image/3_7_d_dc7e5bbf2_6641359_5/peter-schreiber-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2006 / 11011",
           "currJobDescr": "Selbständiger Softwareentwickler Java, Objective-C",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Selbständiger Softwareentwickler Java, Objective-C",
               "company": "sprola software",
@@ -1137,7 +1175,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1149,14 +1188,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Philippe Guigue",
           "picture": "https://www.xing.com/image/0_2_3_68aca8dc1_25311164_1/philippe-guigue-foto.256x256.jpg",
           "memberSince_Hits": "29. Juni 2016 / 127",
           "currJobDescr": "Freelance Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelance Software Engineer",
               "company": "Software Artisan",
@@ -1187,7 +1228,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1201,7 +1243,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "INRIA / Université de Nice Sophia Antipolis (Nice, France)",
           "url": "https://www.xing.com/search/members?keywords=INRIA+%2F+Universit%C3%A9+de+Nice+Sophia+Antipolis+%28Nice%2C+France%29",
@@ -1223,14 +1266,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christian Wenzl",
           "picture": "https://www.xing.com/image/e_1_4_9e0365e82_17444765_3/christian-wenzl-foto.256x256.jpg",
           "memberSince_Hits": "6. März 2012 / 838",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Tobit Software AG",
@@ -1304,7 +1349,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1326,7 +1372,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SRH Hochschule Heidelberg",
           "url": "https://www.xing.com/search/members?keywords=SRH+Hochschule+Heidelberg",
@@ -1344,14 +1391,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+NAV2009+C%2FSIDE+Solution+Development"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marcel Krull",
           "picture": "https://www.xing.com/image/2_d_b_477e22fee_4558768_4/marcel-krull-foto.256x256.jpg",
           "memberSince_Hits": "25. Januar 2006 / 2755",
           "currJobDescr": "Inhaber und Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Inhaber und Softwareentwickler",
               "company": "Marcel Krull- Software",
@@ -1403,7 +1452,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1429,7 +1479,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Wilhelm Büchner Hochschule",
           "url": "https://www.xing.com/search/members?keywords=Wilhelm+B%C3%BCchner+Hochschule",
@@ -1439,14 +1490,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stephan Lück",
           "picture": "https://www.xing.com/image/1_b_0_dbdf4665f_9089060_2/stephan-l%C3%BCck-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 4054",
           "currJobDescr": "Softwareentwickler Java",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler Java",
               "company": "SOBIS Software GmbH",
@@ -1513,7 +1566,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1527,7 +1581,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Siegen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Siegen",
@@ -1537,7 +1592,8 @@
       ],
       "qualifications": "Diplom Wirtschaftsinformatiker (Universität)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diplom+Wirtschaftsinformatiker+%28Universit%C3%A4t%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Qualifizierung zur Begabtenförderung der IHK Siegen",
           "award_date": "www.ihk-siegen.de/geschaeftsfelder/aus-und-weiterbildung/begabtenfoerderung.html"
@@ -1545,14 +1601,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rene Koch",
           "picture": "https://www.xing.com/image/2_f_0_6e783454b_10272657_1/rene-koch-foto.256x256.jpg",
           "memberSince_Hits": "12. Juni 2008 / 1542",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Freelancer (Software-Entwickler)",
@@ -1598,7 +1656,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1608,7 +1667,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Adam-Josef-Cüppers-Berufskolleg",
           "url": "https://www.xing.com/search/members?keywords=Adam-Josef-C%C3%BCppers-Berufskolleg",
@@ -1620,14 +1680,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Zertifikat%3A+Web+Development+Fundamentals+%28August+2014%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Richard Rieder",
           "picture": "https://www.xing.com/image/1_4_e_ffb6f0115_21121346_6/richard-rieder-foto.256x256.jpg",
           "memberSince_Hits": "28. September 2014 / 1614",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Automic Software GmbH",
@@ -1694,7 +1756,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1704,7 +1767,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Online Teleschulung",
           "url": "https://www.xing.com/search/members?keywords=Online+Teleschulung",
@@ -1716,14 +1780,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+ScrumMaster+by+bor%21sgloger+"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Chakravarthy Gundu",
           "picture": "https://www.xing.com/image/0_5_b_663b08df8_17820347_2/chakravarthy-gundu-foto.256x256.jpg",
           "memberSince_Hits": "13. Mai 2012 / 1360",
           "currJobDescr": "Senior software engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior software engineer",
               "company": "Accord software & systems pvt ltd",
@@ -1776,7 +1842,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1786,7 +1853,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Andhra University, INDIA",
           "url": "https://www.xing.com/search/members?keywords=Andhra+University%2C+INDIA",
@@ -1798,14 +1866,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SRKR+engineering+college+Bhimavaram%28Andhra+University%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marco Tenzer",
           "picture": "https://www.xing.com/image/8_6_4_53e16668f_11981387_3/marco-tenzer-foto.256x256.jpg",
           "memberSince_Hits": "23. Februar 2009 / 2006",
           "currJobDescr": "Softwareentwickler C# / C++",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler C# / C++",
               "company": "Dataforum Software GmbH",
@@ -1851,7 +1921,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1865,7 +1936,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Stuttgart",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Stuttgart",
@@ -1877,14 +1949,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diplom-Informatiker"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gerhard Preisinger",
           "picture": "https://www.xing.com/img/users/f/0/b/7666ed55d.4525403,3.256x256.jpg",
           "memberSince_Hits": "13. Januar 2006 / 2239",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "radiant:racoon Software Development",
@@ -1965,7 +2039,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1976,7 +2051,8 @@
           "lang": "Chinesisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universitaet Wien",
           "url": "https://www.xing.com/search/members?keywords=Universitaet+Wien",
@@ -2000,14 +2076,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Auslandsaufenthalte+in+England+%282+W%29%2C+Australien+%284+M%29+und+Taiwan+%286+W%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cedric Rohrbach",
           "picture": "https://www.xing.com/image/2_1_f_0b0a16642_18439355_3/cedric-rohrbach-foto.256x256.jpg",
           "memberSince_Hits": "5. November 2012 / 1722",
           "currJobDescr": "Selbständiger Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Selbständiger Softwareentwickler",
               "company": "Rohrbach Software GmbH",
@@ -2032,7 +2110,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2046,7 +2125,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Technik und Informatik in Bern",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik+und+Informatik+in+Bern",
@@ -2062,14 +2142,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sascha Zepter",
           "picture": "https://www.xing.com/image/b_1_7_dbfbfc79a_6881519_2/sascha-zepter-foto.256x256.jpg",
           "memberSince_Hits": "29. Dezember 2006 / 7554",
           "currJobDescr": "Consultant, Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Consultant, Software Engineer",
               "company": "Zepter Software + Consulting e. K.",
@@ -2150,7 +2232,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2168,14 +2251,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Citrix+Certified+Administrator%2C+09%2F2009"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Klaus Osselmann",
           "picture": "https://www.xing.com/image/7_d_b_dca763e9b_10789429_1/klaus-osselmann-foto.256x256.jpg",
           "memberSince_Hits": "30. Juli 2008 / 1807",
           "currJobDescr": "Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler",
               "company": "Klaus Osselmann - Software Consulting",
@@ -2228,7 +2313,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2242,7 +2328,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Duisburg Essen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Duisburg+Essen",
@@ -2266,14 +2353,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=+Modellbasiertes+Systems-Engineering+mit+SysML+%2809%2F2016+-+OOSE%29+"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christoph Hellmayr",
           "picture": "https://www.xing.com/image/1_e_5_896c5a742_14943550_2/christoph-hellmayr-foto.256x256.jpg",
           "memberSince_Hits": "9. August 2010 / 1425",
           "currJobDescr": "Software Engineer, Tool-Verantwortlicher",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Engineer, Tool-Verantwortlicher",
               "company": "Raiffeisen Software GmbH",
@@ -2346,7 +2435,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2356,7 +2446,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "JKU Linz",
           "url": "https://www.xing.com/search/members?keywords=JKU+Linz",
@@ -2374,14 +2465,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=F%C3%BChrung+im+Einsatz+%28Zugskommandant%29+-+%C3%96sterreichisches+Rotes+Kreuz+LV+O%C3%96"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Albert Schweiger",
           "picture": "https://www.xing.com/image/2_6_3_506fda51e_11322277_2/albert-schweiger-foto.256x256.jpg",
           "memberSince_Hits": "30. Oktober 2008 / 5437",
           "currJobDescr": "Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler",
               "company": "Schweiger x Software",
@@ -2446,7 +2539,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2460,14 +2554,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=EASY+ENTERPRISE.i+Consultant"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mudassar Hasan",
           "picture": "https://www.xing.com/image/d_a_9_91b09c789_23239170_2/mudassar-hasan-foto.256x256.jpg",
           "memberSince_Hits": "10. September 2015 / 425",
           "currJobDescr": "Principle Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Principle Software Engineer",
               "company": "SSI Software Services GmbH",
@@ -2506,7 +2602,8 @@
           ]
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "The University of Central Punjab, Lahore",
           "url": "https://www.xing.com/search/members?keywords=The+University+of+Central+Punjab%2C+Lahore",
@@ -2516,14 +2613,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nelson Varghese",
           "picture": "https://www.xing.com/image/1_4_f_b333fa667_19573740_1/nelson-varghese-foto.256x256.jpg",
           "memberSince_Hits": "4. September 2013 / 753",
           "currJobDescr": "Embedded Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Embedded Software Engineer",
               "company": "Samsung India Software Operations, Bangalore,India",
@@ -2555,7 +2654,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2565,7 +2665,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Cochin University of Science and Technology",
           "url": "https://www.xing.com/search/members?keywords=Cochin+University+of+Science+and+Technology",
@@ -2573,7 +2674,8 @@
           "eduDuration": "10/1996 - 08/2000"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "ISTQB Certified Tester (International Software Testing Qualifications Board)",
           "award_date": "www.istqb.org/‎"
@@ -2581,14 +2683,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Veysel Ovayolu",
           "picture": "https://www.xing.com/image/9_3_a_2f9249e82_8883826_5/veysel-ovayolu-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2008 / 1972",
           "currJobDescr": "Programmierer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Programmierer",
               "company": "Logis Software-Entwicklung und Beratung GmbH",
@@ -2634,7 +2738,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -2648,7 +2753,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachinformatiker",
           "url": "https://www.xing.com/search/members?keywords=Fachinformatiker",
@@ -2658,7 +2764,8 @@
       ],
       "qualifications": "Ausbildung zum Fachinformatiker Anwendungsentwicklung",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ausbildung+zum+Fachinformatiker+Anwendungsentwicklung",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Ausbildereignungsschein (AdA)",
           "award_date": "www.t-a-nord.de/weiterbildung/lehrgangsangebot/ausbildereignungsschein-ada/"
@@ -2666,14 +2773,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oliver Becker",
           "picture": "https://www.xing.com/image/0_4_c_eae3d8480_16311830_1/oliver-becker-foto.256x256.jpg",
           "memberSince_Hits": "22. Mai 2011 / 1634",
           "currJobDescr": "Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler",
               "company": "IWM Software AG, Software für Finanzdienstleister",
@@ -2712,7 +2821,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2722,7 +2832,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "IHK Saarland",
           "url": "https://www.xing.com/search/members?keywords=IHK+Saarland",
@@ -2740,14 +2851,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=XSLT+2.0"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Lux",
           "picture": "https://www.xing.com/image/2_2_e_568126600_24627927_1/alexander-lux-foto.256x256.jpg",
           "memberSince_Hits": "22. März 2016 / 233",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Atr-Software GmbH (Neu-Ulm)",
@@ -2779,7 +2892,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2789,7 +2903,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Ulm",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Ulm",
@@ -2825,14 +2940,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Science+%28Informatik%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Keiler",
           "picture": "https://www.xing.com/image/0_0_1_31889c859_17540408_3/sebastian-keiler-foto.256x256.jpg",
           "memberSince_Hits": "21. März 2012 / 1722",
           "currJobDescr": "Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler",
               "company": "Samuelson Unternehmensberatung und Software-Entwicklung GmbH",
@@ -2871,7 +2988,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2885,7 +3003,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Technik und Wirtschaft Berlin",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik+und+Wirtschaft+Berlin",
@@ -2901,7 +3020,8 @@
       ],
       "qualifications": "Master of Science (M. Sc.) Wirtschaftsinformatik, Berlin, 2016",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Master+of+Science+%28M.+Sc.%29+Wirtschaftsinformatik%2C+Berlin%2C+2016",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Master of Science Wirtschaftsinformatik",
           "award_date": "2015"
@@ -2909,14 +3029,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Malte Kempff",
           "picture": "https://www.xing.com/image/4_7_8_6a3a41bd6_13111481_6/malte-kempff-foto.256x256.jpg",
           "memberSince_Hits": "9. September 2009 / 1317",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "BearingPoint Software Solutions GmbH",
@@ -2955,7 +3077,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2965,7 +3088,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Akademie für Datenverarbeitung Böblingen",
           "url": "https://www.xing.com/search/members?keywords=Akademie+f%C3%BCr+Datenverarbeitung+B%C3%B6blingen",
@@ -2977,14 +3101,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Staatlich+gepr%C3%BCfter+Informatiker+Fachrichtung+Technik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jörg Jacobsen",
           "picture": "https://www.xing.com/image/6_e_3_a0c16603b_7210932_1/j%C3%B6rg-jacobsen-foto.256x256.jpg",
           "memberSince_Hits": "27. März 2007 / 3123",
           "currJobDescr": "OSX-/iOS-Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "OSX-/iOS-Software-Entwickler",
               "company": "Jacobsen Software Engineering",
@@ -3044,7 +3170,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3058,7 +3185,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Kiel",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Kiel",
@@ -3067,7 +3195,8 @@
       ],
       "qualifications": "ScrumMaster-Zertifizierung",
       "qualifications_url": "https://www.xing.com/search/members?keywords=ScrumMaster-Zertifizierung",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Committer im iMedia-Projekt",
           "award_date": "code.google.com/p/imedia/"
@@ -3075,14 +3204,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Oleksiy Antonov",
           "picture": "https://www.xing.com/image/6_e_4_0d0e7b22e_21391656_1/oleksiy-antonov-foto.256x256.jpg",
           "memberSince_Hits": "15. November 2014 / 673",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "Windhoff Software Services GmbH",
@@ -3156,7 +3287,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3170,7 +3302,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Nationale Polytechnische Universität Odessa",
           "url": "https://www.xing.com/search/members?keywords=Nationale+Polytechnische+Universit%C3%A4t+Odessa",
@@ -3180,14 +3313,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Pfohe",
           "picture": "https://www.xing.com/image/b_7_4_5bc976db3_16193676_2/thomas-pfohe-foto.256x256.jpg",
           "memberSince_Hits": "21. April 2011 / 1718",
           "currJobDescr": "Senior Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Softwareentwickler",
               "company": "red6 enterprise software GmbH",
@@ -3247,7 +3382,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3259,14 +3395,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "José Rodolfo Freitas",
           "picture": "https://www.xing.com/image/a_a_2_66c30b5ef_11325686_2/jos%C3%A9-rodolfo-freitas-foto.256x256.jpg",
           "memberSince_Hits": "31. Oktober 2008 / 975",
           "currJobDescr": "Freelancer Software Engineer and IT Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelancer Software Engineer and IT Consultant",
               "company": "Freitas Software and Interactive Medias",
@@ -3340,7 +3478,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Gut)"
@@ -3358,7 +3497,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad pompeu fabra",
           "url": "https://www.xing.com/search/members?keywords=Universidad+pompeu+fabra",
@@ -3376,14 +3516,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Certified+Java+Programmer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ralf Walter",
           "picture": "https://www.xing.com/image/6_a_8_7ceb3f012_18690694_1/ralf-walter-foto.256x256.jpg",
           "memberSince_Hits": "20. Januar 2013 / 1654",
           "currJobDescr": "Softwareentwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Softwareentwickler",
               "company": "SWP-irma Software Partner GmbH",
@@ -3464,7 +3606,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3475,14 +3618,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Lars Gendner",
           "picture": "https://www.xing.com/img/users/1/6/2/bd1d42681.4234699,4.256x256.jpg",
           "memberSince_Hits": "8. September 2005 / 3326",
           "currJobDescr": "Senior Software-Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software-Entwickler",
               "company": "Software Development & IT-Projektmanagement",
@@ -3514,7 +3659,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3528,7 +3674,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Hamburg",
@@ -3538,14 +3685,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Juan Sullca Ayllon",
           "picture": "https://www.xing.com/image/3_8_f_0619f6ccc_26383128_1/juan-sullca-ayllon-foto.256x256.jpg",
           "memberSince_Hits": "15. November 2016 / 107",
           "currJobDescr": "Senior Software Entwickler",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Entwickler",
               "company": "Freelance Software Consultant.",
@@ -3591,7 +3740,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3605,7 +3755,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Gabriel René Moreno Autonomous University (U.A.G.R.M).",
           "url": "https://www.xing.com/search/members?keywords=Gabriel+Ren%C3%A9+Moreno+Autonomous+University+%28U.A.G.R.M%29.",
@@ -3615,7 +3766,8 @@
       ],
       "qualifications": "Research Projects",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Research+Projects",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Teaching Programmierung für Kinder.",
           "award_date": "2009"
@@ -3631,14 +3783,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "David Hahn",
           "picture": "https://www.xing.com/image/0_a_7_14d1b48fb_9911342_2/david-hahn-foto.256x256.jpg",
           "memberSince_Hits": "3. April 2008 / 3473",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "SALT AND PEPPER Software GmbH & Co. KG",
@@ -3684,7 +3838,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3698,7 +3853,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Osnabrück",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Osnabr%C3%BCck",
@@ -3710,14 +3866,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Cisco+Certified+Network+Associate+1-4"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Michael Pichler",
           "picture": "https://www.xing.com/image/5_8_f_3838dfc94_4321215_3/michael-pichler-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2005 / 5190",
           "currJobDescr": "Software-Entwickler - Java, web (Vaadin, gwt)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software-Entwickler - Java, web (Vaadin, gwt)",
               "company": "NETCONOMY Software & Consulting GmbH",
@@ -3763,7 +3921,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3777,7 +3936,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Graz",
           "url": "https://www.xing.com/search/members?keywords=TU+Graz",

@@ -1,16 +1,19 @@
 {
   "category": "Marketing Associate",
   "dominantSexXing": "",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Quirin Fritz",
           "picture": "https://www.xing.com/image/b_6_a_f19765ce7_7956831_9/quirin-fritz-foto.256x256.jpg",
           "memberSince_Hits": "24. September 2007 / 3981",
           "currJobDescr": "Senior Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Marketing Associate",
               "company": "Reimann Investors Advisory",
@@ -91,7 +94,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -104,7 +108,8 @@
           "lang": "Latein"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität München (Geschwister-Scholl-Institut)",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen+%28Geschwister-Scholl-Institut%29",
@@ -120,21 +125,24 @@
       ],
       "qualifications": "Google Analytics Seminar",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Google+Analytics+Seminar",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "***"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Felicitas Hagen",
           "picture": "https://www.xing.com/img/users/b/b/d/120165f3d.14721962,3.256x256.jpg",
           "memberSince_Hits": "26. Juni 2010 / 1175",
           "currJobDescr": "Experiential Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Experiential Marketing Associate",
               "company": "Casper",
@@ -201,7 +209,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -227,7 +236,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Copenhagen Business School",
           "url": "https://www.xing.com/search/members?keywords=Copenhagen+Business+School",
@@ -255,7 +265,8 @@
       ],
       "qualifications": "GMAT",
       "qualifications_url": "https://www.xing.com/search/members?keywords=GMAT",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "DAAD PROMOS Stipendium",
           "award_date": "2012"
@@ -263,14 +274,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Anowar Hossain",
           "picture": "https://www.xing.com/image/2_5_5_2f4774190_18475783_2/anowar-hossain-foto.256x256.jpg",
           "memberSince_Hits": "15. November 2012 / 1009",
           "currJobDescr": "Luxury Real Estate Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Luxury Real Estate Marketing Associate",
               "company": "Decorus Realty LLC, Miami, Florida, USA",
@@ -288,12 +301,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Jagannath University, Dhaka",
           "url": "https://www.xing.com/search/members?keywords=Jagannath+University%2C+Dhaka",
@@ -303,14 +318,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Laura Böntert",
           "picture": "https://www.xing.com/img/users/9/9/0/a42f0d226.16781625,12.256x256.jpg",
           "memberSince_Hits": "16. September 2011 / 2976",
           "currJobDescr": "Marketing Associate Ecom WHSL",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate Ecom WHSL",
               "company": "Ralph Lauren Germany GmbH",
@@ -370,7 +387,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -384,7 +402,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Mediadesign University of Applied Sciences",
           "url": "https://www.xing.com/search/members?keywords=Mediadesign+University+of+Applied+Sciences",
@@ -394,7 +413,8 @@
       ],
       "qualifications": "BAW Sommer-Akademie (2011: Kundenorientierung; Social Media)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=BAW+Sommer-Akademie+%282011%3A+Kundenorientierung%3B+Social+Media%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Employee Of The Year 2014",
           "award_date": "2014"
@@ -402,14 +422,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dominik Junker",
           "picture": "https://www.xing.com/image/a_f_e_6643b8da9_3486874_2/dominik-junker-foto.256x256.jpg",
           "memberSince_Hits": "10. Mai 2005 / 5575",
           "currJobDescr": "Senior Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Marketing Associate",
               "company": "SapientNitro",
@@ -442,7 +464,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -460,7 +483,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "alfatraining",
           "url": "https://www.xing.com/search/members?keywords=alfatraining",
@@ -478,14 +502,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ebam+Business+Akademie%3A+Qualification+in+music+business+management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Wiesner",
           "picture": "https://www.xing.com/image/0_5_4_8289654e8_18044776_4/alexander-wiesner-foto.256x256.jpg",
           "memberSince_Hits": "16. Juli 2012 / 2032",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Keyence International (Belgium) NV/SA",
@@ -545,7 +571,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -563,7 +590,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Vrije Universiteit Brussel",
           "url": "https://www.xing.com/search/members?keywords=Vrije+Universiteit+Brussel",
@@ -581,14 +609,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Studium+Journalismus+und+Unternehmenskommunikation%2C+Berlin"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Kelly Bang",
           "picture": "https://www.xing.com/image/3_5_9_1b9c9cd25_20935113_1/kelly-bang-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2014 / 273",
           "currJobDescr": "Sales and Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales and Marketing Associate",
               "company": "B2B Sales Prospects",
@@ -598,13 +628,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stansfield College",
           "url": "https://www.xing.com/search/members?keywords=Stansfield+College",
@@ -614,14 +646,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Lulu Ang",
           "picture": "https://www.xing.com/image/f_3_1_e0ec92809_20519610_1/lulu-ang-foto.256x256.jpg",
           "memberSince_Hits": "6. Mai 2014 / 541",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Touchpoints Global",
@@ -638,7 +672,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -650,14 +685,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Ellen Beetz",
           "picture": "https://www.xing.com/img/users/7/1/6/ed306a7b8.20178330,4.256x256.jpg",
           "memberSince_Hits": "10. Februar 2014 / 590",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Pinterest",
@@ -702,7 +739,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -720,7 +758,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FU Berlin",
           "url": "https://www.xing.com/search/members?keywords=FU+Berlin",
@@ -744,14 +783,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fremdsprachenkorrespondentin"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Vernice Williams",
           "picture": "https://www.xing.com/image/e_b_b_0e91104ba_21674471_1/vernice-williams-foto.256x256.jpg",
           "memberSince_Hits": "12. Januar 2015 / 316",
           "currJobDescr": "Senior Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Marketing Associate",
               "company": "B2B Sales Prospects",
@@ -761,13 +802,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Saint Benilde",
           "url": "https://www.xing.com/search/members?keywords=University+of+Saint+Benilde",
@@ -777,14 +820,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Stacey Key",
           "picture": "https://www.xing.com/image/f_9_8_f93d0305c_20935107_3/stacey-key-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2014 / 367",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "B2B Sales Prospects",
@@ -801,7 +846,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -809,14 +855,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Stephanie Valentine",
           "picture": "https://www.xing.com/image/7_7_5_e621b3194_20438903_1/stephanie-valentine-foto.256x256.jpg",
           "memberSince_Hits": "14. April 2014 / 294",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Kickstart Sales Force",
@@ -834,21 +882,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Yasmin Dengel-Ongcoy",
           "picture": "https://www.xing.com/image/a_e_0_2874545ac_5704955_44/yasmin-dengel-ongcoy-foto.256x256.jpg",
           "memberSince_Hits": "9. März 2006 / 17451",
           "currJobDescr": "Marketing Associate Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate Manager",
               "company": "Accenture",
@@ -891,7 +942,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -899,7 +951,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Gutenberg Universität Mainz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Gutenberg+Universit%C3%A4t+Mainz",
@@ -911,14 +964,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Online+Marketing+Manager+%28Zertifikat%2C+2010%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Maxi Perten",
           "picture": "https://www.xing.com/image/3_a_3_c7cd44073_22077460_2/maxi-perten-foto.256x256.jpg",
           "memberSince_Hits": "9. März 2015 / 2862",
           "currJobDescr": "Marketing Associate, Copy Writer, Übersetzerin (Englisch und Deutsch)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate, Copy Writer, Übersetzerin (Englisch und Deutsch)",
               "company": "TechTarget",
@@ -943,7 +998,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -953,7 +1009,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Rostock",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Rostock",
@@ -963,14 +1020,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Margie Cruz",
           "picture": "https://www.xing.com/image/1_a_e_2dc09e5b8_21578935_1/margie-cruz-foto.256x256.jpg",
           "memberSince_Hits": "22. Dezember 2014 / 389",
           "currJobDescr": "Sales and Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales and Marketing Associate",
               "company": "Koalified",
@@ -980,13 +1039,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "San Jose University",
           "url": "https://www.xing.com/search/members?keywords=San+Jose+University",
@@ -995,14 +1056,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Cindy Lee",
           "picture": "https://www.xing.com/image/1_1_5_ce73d0ba9_21552950_3/cindy-lee-foto.256x256.jpg",
           "memberSince_Hits": "16. Dezember 2014 / 419",
           "currJobDescr": "Sales and Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales and Marketing Associate",
               "company": "B2B Sales Prospects",
@@ -1012,21 +1075,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Stefanie Weiß",
           "picture": "https://www.xing.com/image/6_3_d_35c24c8fb_15436558_4/stefanie-wei%C3%9F-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2010 / 3730",
           "currJobDescr": "Digital Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Digital Marketing Associate",
               "company": "TripAdvisor",
@@ -1065,7 +1131,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1082,7 +1149,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Prince of Songkla University",
           "url": "https://www.xing.com/search/members?keywords=Prince+of+Songkla+University",
@@ -1100,14 +1168,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Verhandlungsmethodik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Annie Mhallari",
           "picture": "https://www.xing.com/image/9_f_7_f6a20509c_21552970_1/annie-mhallari-foto.256x256.jpg",
           "memberSince_Hits": "16. Dezember 2014 / 382",
           "currJobDescr": "Sales and Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales and Marketing Associate",
               "company": "Koalified Leads",
@@ -1118,13 +1188,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Saint Lasalle",
           "url": "https://www.xing.com/search/members?keywords=University+of+Saint+Lasalle",
@@ -1132,7 +1204,8 @@
           "eduDuration": "06/2008 - 03/2011"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Employee of the year",
           "award_date": "2014"
@@ -1140,14 +1213,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Arif Mahmud",
           "picture": "https://www.xing.com/image/9_3_2_9cf269ec1_18623418_1/arif-mahmud-foto.256x256.jpg",
           "memberSince_Hits": "2. Januar 2013 / 458",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "tabithanaylor.com",
@@ -1157,21 +1232,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Attila Robert Nagy",
           "picture": "https://www.xing.com/image/b_9_3_e7682c849_20729727_3/attila-robert-nagy-foto.256x256.jpg",
           "memberSince_Hits": "1. Juli 2014 / 1167",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Allplan GmbH",
@@ -1217,7 +1295,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1235,7 +1314,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
@@ -1245,14 +1325,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Eva Lutter",
           "picture": "https://www.xing.com/image/4_d_0_e7f1e66f7_23700073_3/eva-lutter-foto.256x256.jpg",
           "memberSince_Hits": "12. November 2015 / 310",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "RXBAR",
@@ -1291,7 +1373,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1305,7 +1388,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Auburn University",
           "url": "https://www.xing.com/search/members?keywords=Auburn+University",
@@ -1315,14 +1399,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Ully Moore",
           "picture": "https://www.xing.com/image/a_5_d_937fbfaae_21553105_1/ully-moore-foto.256x256.jpg",
           "memberSince_Hits": "16. Dezember 2014 / 218",
           "currJobDescr": "Marketing Associate Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate Manager",
               "company": "KoalifiedLeads",
@@ -1332,21 +1418,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Kathrin Gustav",
           "picture": "https://www.xing.com/image/5_9_f_52f2bf3d1_20549484_1/kathrin-gustav-foto.256x256.jpg",
           "memberSince_Hits": "14. Mai 2014 / 556",
           "currJobDescr": "Partner Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Partner Marketing Associate",
               "company": "SAP SE, Walldorf",
@@ -1392,7 +1481,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1410,7 +1500,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Mittweida",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Mittweida",
@@ -1419,14 +1510,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Madeleine Feyock",
           "picture": "https://www.xing.com/image/2_f_1_ed32d1942_15574371_3/madeleine-feyock-foto.256x256.jpg",
           "memberSince_Hits": "25. November 2010 / 2887",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Dimensional Fund Advisors",
@@ -1486,7 +1579,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1508,7 +1602,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stockholm School of Economics",
           "url": "https://www.xing.com/search/members?keywords=Stockholm+School+of+Economics",
@@ -1544,14 +1639,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Graduate+Management+Admission+Test+%28GMAT%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Paul Stanciu",
           "picture": "https://www.xing.com/image/a_6_e_092c5a03e_12976948_2/paul-stanciu-foto.256x256.jpg",
           "memberSince_Hits": "18. August 2009 / 2212",
           "currJobDescr": "Customer Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Customer Marketing Associate",
               "company": "bwin.party digital entertainment",
@@ -1590,12 +1687,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Atelierele AdFel - Non-Conventional Advertising Awards",
           "award_date": "www.iqads.ro/stire_9167/castigatorii_atelierelor_adfel_isi_incep_internship_urile_in_agentii.html"
@@ -1603,14 +1702,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Michaela Frank",
           "picture": "https://www.xing.com/img/users/6/7/e/caa48b96a.11711827,2.256x256.jpg",
           "memberSince_Hits": "11. Januar 2009 / 609",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Hapa Team Handelsges. mbH",
@@ -1645,7 +1746,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1659,14 +1761,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Content+Management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Mizhane McKinzie",
           "picture": "https://www.xing.com/image/2_3_e_a955d1937_20030673_1/mizhane-mckinzie-foto.256x256.jpg",
           "memberSince_Hits": "9. Januar 2014 / 372",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Touchpoints Global",
@@ -1676,21 +1780,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Cyliax",
           "picture": "https://www.xing.com/image/7_e_7_224ab9440_6365962_6/alexander-cyliax-foto.256x256.jpg",
           "memberSince_Hits": "18. August 2006 / 6980",
           "currJobDescr": "Marketing Associate - Google Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate - Google Assistant",
               "company": "Google",
@@ -1780,7 +1887,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1794,7 +1902,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Oxford Brookes University",
           "url": "https://www.xing.com/search/members?keywords=Oxford+Brookes+University",
@@ -1826,7 +1935,8 @@
           "eduDuration": "1995 - 2005"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "LG Digital Marketing Award Home Entertainment, Global Best of the Best",
           "award_date": "2011"
@@ -1834,14 +1944,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Johannes Mulert",
           "picture": "https://www.xing.com/image/4_1_b_abbaca3c9_16649586_4/johannes-mulert-foto.256x256.jpg",
           "memberSince_Hits": "15. August 2011 / 2791",
           "currJobDescr": "Trade Marketing Associate Germany & Austria",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Trade Marketing Associate Germany & Austria",
               "company": "Under Armour",
@@ -1894,7 +2006,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1916,7 +2029,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Nacional de Tres de Febrero (Buenos Aires)",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Nacional+de+Tres+de+Febrero+%28Buenos+Aires%29",
@@ -1940,14 +2054,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Controlling+Zertifikat+der+Universit%C3%A4t+Bayreuth"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Carolin Nitsche",
           "picture": "https://www.xing.com/image/6_4_6_c5231f573_18541248_5/carolin-nitsche-foto.256x256.jpg",
           "memberSince_Hits": "4. Dezember 2012 / 2162",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Bosch Software Innovations Corp., USA",
@@ -1993,7 +2109,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2007,7 +2124,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Hochschule Wildau",
           "url": "https://www.xing.com/search/members?keywords=Technische+Hochschule+Wildau",
@@ -2023,7 +2141,8 @@
       ],
       "qualifications": "Französisch (UNIcert II Wirtschaft )",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Franz%C3%B6sisch+%28UNIcert+II+Wirtschaft+%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "\"Gute Tat mit Plakat\"",
           "award_date": "www.wall.de/de/press/news/zwei_gewinner_im_plakatwettbewerb_gute_tat_mit_plakat_gekuert"
@@ -2031,14 +2150,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Christi Keating",
           "picture": "https://www.xing.com/image/c_d_7_69c15f2f3_23931593_1/christi-keating-foto.256x256.jpg",
           "memberSince_Hits": "14. Dezember 2015 / 120",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Zadara Storage",
@@ -2048,7 +2169,8 @@
           ]
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Coastal Carolina University",
           "url": "https://www.xing.com/search/members?keywords=Coastal+Carolina+University",
@@ -2060,14 +2182,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Inbound+Marketing+Certification"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Carolin Schmunk",
           "picture": "https://www.xing.com/image/1_3_f_b7114b84f_20632817_3/carolin-schmunk-foto.256x256.jpg",
           "memberSince_Hits": "5. Juni 2014 / 1276",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Bureau van Dijk",
@@ -2090,7 +2214,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2104,7 +2229,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stauffenbergschule Frankfurt am Main",
           "url": "https://www.xing.com/search/members?keywords=Stauffenbergschule+Frankfurt+am+Main",
@@ -2116,14 +2242,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=IHK-Abschluss+Kauffrau+f%C3%BCr+Marketingkommunikation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Julian Sieber",
           "picture": "https://www.xing.com/image/0_8_0_02c3b4c58_23077127_1/julian-sieber-foto.256x256.jpg",
           "memberSince_Hits": "17. August 2015 / 831",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "Filestage GmbH",
@@ -2144,7 +2272,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2152,7 +2281,8 @@
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hanzehogeschool Groningen",
           "url": "https://www.xing.com/search/members?keywords=Hanzehogeschool+Groningen",
@@ -2167,14 +2297,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Lukas Kowalski",
           "picture": "https://www.xing.com/image/5_4_7_1517f49eb_22128269_1/lukas-kowalski-foto.256x256.jpg",
           "memberSince_Hits": "17. März 2015 / 734",
           "currJobDescr": "Sales & Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales & Marketing Associate",
               "company": "DNP Europa GmbH",
@@ -2226,7 +2358,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2244,7 +2377,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Tsukuba (筑波大学)",
           "url": "https://www.xing.com/search/members?keywords=University+of+Tsukuba+%28%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%29",
@@ -2262,14 +2396,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker+Anwendungsentwicklung+%28IHK+Abschluss%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Johanna Schmitz",
           "picture": "https://www.xing.com/image/a_d_a_79d24c7dd_7972849_4/johanna-schmitz-foto.256x256.jpg",
           "memberSince_Hits": "29. August 2007 / 3143",
           "currJobDescr": "Sales und Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales und Marketing Associate",
               "company": "Soneva Kiri",
@@ -2322,7 +2458,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2336,7 +2473,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Leuphana Universität Lüneburg",
           "url": "https://www.xing.com/search/members?keywords=Leuphana+Universit%C3%A4t+L%C3%BCneburg",
@@ -2360,14 +2498,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Magister+Artium+M.A.+Angewandte+Kulturwissenschaften"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dr. Anja Ziemann",
           "picture": "https://www.xing.com/image/0_2_6_16b46642d_19550087_2/anja-ziemann-foto.256x256.jpg",
           "memberSince_Hits": "2. September 2013 / 1712",
           "currJobDescr": "Clinical Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Clinical Marketing Associate",
               "company": "MedSkin Solutions Dr. Suwelack AG",
@@ -2420,7 +2560,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2434,7 +2575,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "mibeg-Institut Medizin, Köln",
           "url": "https://www.xing.com/search/members?keywords=mibeg-Institut+Medizin%2C+K%C3%B6ln",
@@ -2456,7 +2598,8 @@
       ],
       "qualifications": "MS-Project",
       "qualifications_url": "https://www.xing.com/search/members?keywords=+MS-Project",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Travel Award der American Society for Cell Biology",
           "award_date": "2012"
@@ -2464,14 +2607,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Lisa Banz-Hoppe",
           "picture": "https://www.xing.com/image/5_b_3_8e287133d_15243865_3/lisa-banz-hoppe-foto.256x256.jpg",
           "memberSince_Hits": "24. September 2010 / 2620",
           "currJobDescr": "Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Associate",
               "company": "MainFirst Affiliated Fund Managers S.A.",
@@ -2503,7 +2648,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2520,7 +2666,8 @@
           "lang": "Luxemburgisch Grundkenntnisse"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Kaiserslautern",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Kaiserslautern",
@@ -2538,14 +2685,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Training%3A+Online+Marketing+%28IHK+2012%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Aufricht",
           "picture": "https://www.xing.com/image/0_8_1_628367430_5983576_3/daniel-aufricht-foto.256x256.jpg",
           "memberSince_Hits": "22. Mai 2006 / 3153",
           "currJobDescr": "Digital Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Digital Marketing Associate",
               "company": "J.P. Morgan Asset Management",
@@ -2591,7 +2740,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2609,7 +2759,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hult International Business School London",
           "url": "https://www.xing.com/search/members?keywords=Hult+International+Business+School+London",
@@ -2625,14 +2776,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "yosr mongalgi",
           "picture": "https://www.xing.com/image/d_d_e_07d44d3bc_24080585_1/yosr-mongalgi-foto.256x256.jpg",
           "memberSince_Hits": "11. Januar 2016 / 46",
           "currJobDescr": "Marketing associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing associate",
               "company": "JTI - Japan Tobacco International",
@@ -2650,7 +2803,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2668,7 +2822,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Institut des hautes études commerciales de Carthage",
           "url": "https://www.xing.com/search/members?keywords=Institut+des+hautes+%C3%A9tudes+commerciales+de+Carthage",
@@ -2686,14 +2841,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Project+Management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Simon Cousin",
           "picture": "https://www.xing.com/image/d_c_b_9105be45d_17640367_1/simon-cousin-foto.256x256.jpg",
           "memberSince_Hits": "5. April 2012 / 676",
           "currJobDescr": "Digital Marketing Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Digital Marketing Associate",
               "company": "Symtrax",
@@ -2725,7 +2882,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2739,7 +2897,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Business School of Normandy",
           "url": "https://www.xing.com/search/members?keywords=Business+School+of+Normandy",

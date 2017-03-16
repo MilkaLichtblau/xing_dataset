@@ -1,16 +1,19 @@
 {
   "category": "bank teller",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Steven Teller",
           "picture": "https://www.xing.com/image/f_5_1_a99488937_24447019_1/steven-teller-foto.256x256.jpg",
           "memberSince_Hits": "26. Februar 2016 / 136",
           "currJobDescr": "Verkäufer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Verkäufer",
               "company": "KiK Textilien und Non-Food GmbH",
@@ -42,7 +45,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -63,7 +67,8 @@
           "lang": "Niederländisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Schule der Phantasie",
           "url": "https://www.xing.com/search/members?keywords=Schule+der+Phantasie",
@@ -79,14 +84,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Swantje Teller",
           "picture": "https://www.xing.com/image/2_9_5_445609af7_22947037_2/swantje-teller-foto.256x256.jpg",
           "memberSince_Hits": "26. Juli 2015 / 651",
           "currJobDescr": "Referendarin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Referendarin",
               "company": "Landgericht Frankfurt am Main",
@@ -125,7 +132,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -139,7 +147,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
           "url": "https://www.xing.com/search/members?keywords=Johann+Wolfgang+Goethe-Universit%C3%A4t+Frankfurt+am+Main",
@@ -157,14 +166,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Weiterbildung+im+Bereich+%22Deutsche+und+Internationale+Schiedsgerichtsbarkeit%22"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Andrew Welsh",
           "picture": "https://www.xing.com/image/3_8_1_a7079d0ad_17868906_1/andrew-welsh-foto.256x256.jpg",
           "memberSince_Hits": "27. Mai 2012 / 1446",
           "currJobDescr": "Sachbearbeiter Versand",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sachbearbeiter Versand",
               "company": "Liebherr Mischtechnik",
@@ -238,7 +249,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -252,7 +264,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kennesaw State University",
           "url": "https://www.xing.com/search/members?keywords=Kennesaw+State+University",
@@ -262,7 +275,8 @@
       ],
       "qualifications": "Deutsch Zertifikat Stufe B bis dato",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Deutsch+Zertifikat+Stufe+B+bis+dato",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Safety Award - DHL",
           "award_date": "2011"
@@ -286,14 +300,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Lorraine Douse",
           "picture": "https://www.xing.com/image/5_0_9_53268dcb7_13349366_3/lorraine-douse-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2009 / 567",
           "currJobDescr": "owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "owner",
               "company": "buska2",
@@ -303,21 +319,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Robert Hutze",
           "picture": "https://www.xing.com/image/f_3_1_b3d06f591_383021_49/robert-hutze-foto.256x256.jpg",
           "memberSince_Hits": "2. Juli 2004 / 15882",
           "currJobDescr": "Configuration Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Configuration Management",
               "company": "Raiffeisen Software GmbH (ehem. RACON)",
@@ -370,7 +389,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -380,7 +400,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Wien",
           "url": "https://www.xing.com/search/members?keywords=TU+Wien",
@@ -396,14 +417,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marcel Urech",
           "picture": "https://www.xing.com/image/f_7_6_1b6461c0b_16919586_1/marcel-urech-foto.256x256.jpg",
           "memberSince_Hits": "22. Oktober 2011 / 1661",
           "currJobDescr": "Senior Software Engineer / Teamleiter",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer / Teamleiter",
               "company": "finnova AG Bankware",
@@ -428,7 +451,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -438,7 +462,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HSR",
           "url": "https://www.xing.com/search/members?keywords=HSR",
@@ -456,14 +481,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Master+of+Advanced+Studies+in+Software+Engineering"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Song Keun Hye",
           "picture": "https://www.xing.com/image/9_9_a_a3fb6e856_9914141_1/song-keun-hye-foto.256x256.jpg",
           "memberSince_Hits": "3. April 2008 / 1057",
           "currJobDescr": "Bank Teller",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Bank Teller",
               "company": "Korean Bank",
@@ -473,7 +500,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -481,14 +509,16 @@
           "lang": "Koreanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "George Dewey University Of America",
           "url": "https://www.xing.com/search/members?keywords=George+Dewey+University+Of+America",
           "degree": "Bachelor In Banking & Finance"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Valedictorian @ George Dewey University In U.S.A",
           "award_date": "1995"
@@ -496,14 +526,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Ahmet Tayfun Canitez",
           "picture": "https://www.xing.com/image/3_c_3_6ef83903d_10689494_2/ahmet-tayfun-canitez-foto.256x256.jpg",
           "memberSince_Hits": "25. Juli 2008 / 897",
           "currJobDescr": "senior customer representative / specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "senior customer representative / specialist",
               "company": "citibank",
@@ -520,7 +552,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Fließend)"
@@ -530,7 +563,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Anadolu University",
           "url": "https://www.xing.com/search/members?keywords=Anadolu+University",
@@ -540,7 +574,8 @@
       ],
       "qualifications": "bank crisis experience for turkey 1995-2001 and global crisis experience 2009",
       "qualifications_url": "https://www.xing.com/search/members?keywords=bank+crisis+experience+for+turkey+1995-2001+and+global+crisis+experience+2009",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "citibank flexcube implemantation",
           "award_date": "2002"
@@ -548,14 +583,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Estela Hansen-Laborte",
           "picture": "https://www.xing.com/image/e_c_f_3cc8873c6_13647837_2/estela-hansen-laborte-foto.256x256.jpg",
           "memberSince_Hits": "17. Dezember 2009 / 1283",
           "currJobDescr": "commercial banking employee",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "commercial banking employee",
               "company": "PCIBank now (BDO)",
@@ -572,7 +609,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -586,7 +624,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Mindanao, Davao City Philippines",
           "url": "https://www.xing.com/search/members?keywords=University+of+Mindanao%2C+Davao+City+Philippines",
@@ -598,14 +637,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Benedict+International+Z%C3%BCrich+-+Office+Management+%28graduate%29+Oct.+2008+-+09"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Olusola Akinbo",
           "picture": "https://www.xing.com/image/2_e_9_a8ad35077_25078044_1/olusola-akinbo-foto.256x256.jpg",
           "memberSince_Hits": "26. Mai 2016 / 114",
           "currJobDescr": "Financial Service Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "relationship manager",
               "company": "Guaranty Trust Bank PLC",
@@ -644,7 +685,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -661,7 +703,8 @@
           "lang": "Yoruba"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Kaiserslautern (University of Applied Sciences)",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Kaiserslautern+%28University+of+Applied+Sciences%29",
@@ -679,14 +722,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Creativity%2C+Innovation+and+Winning+Attitudes"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Johanna Teller",
           "picture": "https://www.xing.com/assets/frontend_minified/img/users/nobody_f.256x256.jpg",
           "memberSince_Hits": "24. November 2010 / 488",
           "currJobDescr": "Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistant",
               "company": "Deutsche Bank",
@@ -696,21 +741,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Heimo Hofer",
           "picture": "https://www.xing.com/image/c_6_c_16d2ed1da_10154866_4/heimo-hofer-foto.256x256.jpg",
           "memberSince_Hits": "19. Mai 2008 / 6514",
           "currJobDescr": "Service & Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Service & Project Manager",
               "company": "Axians ICT Austria GmbH",
@@ -756,7 +804,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -774,7 +823,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Rechtswissenschaftliche Fakultät Salzburg",
           "url": "https://www.xing.com/search/members?keywords=Rechtswissenschaftliche+Fakult%C3%A4t+Salzburg",
@@ -785,14 +835,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=CCA+-+Change+Communication+Architect"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Matthew Montgomery",
           "picture": "https://www.xing.com/image/e_f_1_0a0e88521_7086766_6/matthew-montgomery-foto.256x256.jpg",
           "memberSince_Hits": "20. Februar 2007 / 2526",
           "currJobDescr": "Banking / Investment IT Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Banking / Investment IT Consultant",
               "company": "Otap Projects Ltd",
@@ -894,7 +946,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -920,7 +973,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Cass Business School",
           "url": "https://www.xing.com/search/members?keywords=Cass+Business+School",
@@ -936,14 +990,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Joram Seewi",
           "picture": "https://www.xing.com/image/f_6_3_a85112b3d_6868013_1/joram-seewi-foto.256x256.jpg",
           "memberSince_Hits": "23. Dezember 2006 / 4915",
           "currJobDescr": "Jongleur (Juggler), Comedy-Jongleur, Moderator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Jongleur (Juggler), Comedy-Jongleur, Moderator",
               "company": "Joram Seewi",
@@ -953,7 +1009,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -972,7 +1029,8 @@
           "lang": "Babysprache happahappamachen heiagehen auahaben etc"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Rheinische Friedrich-Wilhelms-Universität Bonn, Germany",
           "url": "https://www.xing.com/search/members?keywords=Rheinische+Friedrich-Wilhelms-Universit%C3%A4t+Bonn%2C+Germany",
@@ -982,7 +1040,8 @@
       ],
       "qualifications": "Seepferdchen",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Seepferdchen",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Deutsche Telekom Event-Jongleur zur EM",
           "award_date": "2008"
@@ -1026,14 +1085,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Debbie S. Clark",
           "picture": "https://www.xing.com/image/1_3_5_fc9228ef5_12190426_2/debbie-s-clark-foto.256x256.jpg",
           "memberSince_Hits": "26. März 2009 / 874",
           "currJobDescr": "Customer Service Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Customer Service Manager",
               "company": "Wachovia Bank",
@@ -1100,12 +1161,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Greenville Technical College",
           "url": "https://www.xing.com/search/members?keywords=Greenville+Technical+College",
@@ -1117,14 +1180,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Administration"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Wilton Ruano",
           "picture": "https://www.xing.com/image/9_0_3_240318a72_13156519_2/wilton-ruano-foto.256x256.jpg",
           "memberSince_Hits": "20. September 2009 / 592",
           "currJobDescr": "Financial Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Financial Consultant",
               "company": "Thomas Financial Group",
@@ -1169,12 +1234,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "California State University, Fullerton",
           "url": "https://www.xing.com/search/members?keywords=California+State+University%2C+Fullerton",
@@ -1184,14 +1251,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Georg Schwarzenberger",
           "picture": "https://www.xing.com/image/7_9_2_af479609b_9051497_4/georg-schwarzenberger-foto.256x256.jpg",
           "memberSince_Hits": "27. März 2008 / 4052",
           "currJobDescr": "Payments Development",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Payments Development",
               "company": "UniCredit Bank Austria AG",
@@ -1248,7 +1317,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1264,14 +1334,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Connie McCall",
           "picture": "https://www.xing.com/image/e_3_8_3e9ed43ab_12311781_2/connie-mccall-foto.256x256.jpg",
           "memberSince_Hits": "16. April 2009 / 685",
           "currJobDescr": "Teller/Customer Service",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Teller/Customer Service",
               "company": "Cobb Community Bank",
@@ -1289,12 +1361,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Tallahassee Community College",
           "url": "https://www.xing.com/search/members?keywords=Tallahassee+Community+College",
@@ -1304,14 +1378,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Greg Felder",
           "picture": "https://www.xing.com/image/b_4_b_596ab4c35_7967082_3/greg-felder-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2007 / 3348",
           "currJobDescr": "Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Consultant",
               "company": "Freelance",
@@ -1364,7 +1440,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1382,7 +1459,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of California, Berkeley Extension",
           "url": "https://www.xing.com/search/members?keywords=University+of+California%2C+Berkeley+Extension",
@@ -1400,14 +1478,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SWX+Trading+Licence"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mark Watkinson",
           "picture": "https://www.xing.com/image/e_0_f_0058c1544_12748124_2/mark-watkinson-foto.256x256.jpg",
           "memberSince_Hits": "8. Juli 2009 / 1202",
           "currJobDescr": "Test Analyst at Available for a new contract opportunity",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Test Analyst at Available for a new contract opportunity",
               "company": "Looking for new job opportunities",
@@ -1523,12 +1603,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "North East Surrey College of Technology (NESCOT)",
           "url": "https://www.xing.com/search/members?keywords=North+East+Surrey+College+of+Technology+%28NESCOT%29",
@@ -1538,7 +1620,8 @@
       ],
       "qualifications": "BTEC National Certificate in Business and Finance",
       "qualifications_url": "https://www.xing.com/search/members?keywords=BTEC+National+Certificate+in+Business+and+Finance",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Account Opening - Received a recognition award for exceptional work and results.",
           "award_date": "2006"
@@ -1578,14 +1661,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Jennifer Braun",
           "picture": "https://www.xing.com/image/e_e_6_0593eec84_12224619_2/jennifer-braun-foto.256x256.jpg",
           "memberSince_Hits": "31. März 2009 / 1170",
           "currJobDescr": "Director",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Director",
               "company": "Tutoring Club",
@@ -1617,12 +1702,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Akron",
           "url": "https://www.xing.com/search/members?keywords=University+of+Akron",
@@ -1638,14 +1725,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Marion O'Donnokoé",
           "picture": "https://www.xing.com/image/e_d_d_051964cd5_8045277_2/marion-o%27donnoko%C3%A9-foto.256x256.jpg",
           "memberSince_Hits": "15. Oktober 2007 / 1944",
           "currJobDescr": "Bilanzbuchhalter",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Bilanzbuchhalter",
               "company": "Consul GmbH Steuerberatungsgesellschaft",
@@ -1699,7 +1788,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1708,7 +1798,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Maryland",
           "url": "https://www.xing.com/search/members?keywords=University+of+Maryland",
@@ -1717,14 +1808,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "KAMRAN SIDDIQI",
           "picture": "https://www.xing.com/image/d_3_4_e8209e341_11514833_2/kamran-siddiqi-foto.256x256.jpg",
           "memberSince_Hits": "30. November 2008 / 871",
           "currJobDescr": "SENIOR BUSINESS ADVISOR",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SENIOR BUSINESS ADVISOR",
               "company": "CIBC",
@@ -1735,12 +1828,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "THE INTERNATIONAL UNIVERSITY",
           "url": "https://www.xing.com/search/members?keywords=THE+INTERNATIONAL+UNIVERSITY",
@@ -1752,7 +1847,8 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MBA"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Brandon Katrena",
@@ -1762,14 +1858,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Diana Saad",
           "picture": "https://www.xing.com/image/e_8_7_f58b1e5e5_18152722_2/diana-saad-foto.256x256.jpg",
           "memberSince_Hits": "18. August 2012 / 930",
           "currJobDescr": "Marketing, PR, Promotion & Advertising Controller",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing, PR, Promotion & Advertising Controller",
               "company": "Addounia TV",
@@ -1794,7 +1892,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1812,7 +1911,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Lazrski University",
           "url": "https://www.xing.com/search/members?keywords=Lazrski+University",
@@ -1830,14 +1930,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=2009%3A+New+Horizons+Institution+%28Two+Months%29+Syria+-Damascus+Certificate+in+Inter"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Narasimha Hebbar",
           "picture": "https://www.xing.com/image/1_5_4_bfd785d1c_13357717_1/narasimha-hebbar-foto.256x256.jpg",
           "memberSince_Hits": "26. Oktober 2009 / 972",
           "currJobDescr": "Consultanting Practice Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Consultanting Practice Manager",
               "company": "Oracle Financial Services Software Ltd",
@@ -1883,13 +1985,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karnataka University, Dharwad",
           "url": "https://www.xing.com/search/members?keywords=Karnataka+University%2C+Dharwad",
@@ -1907,14 +2011,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=National+Exchange+Certification+for+Financial+Markets"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Luciano Scorza",
           "picture": "https://www.xing.com/image/1_3_5_9e55ef816_3518787_1/luciano-scorza-foto.256x256.jpg",
           "memberSince_Hits": "30. Mai 2005 / 2089",
           "currJobDescr": "IT Project Portfolio Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Project Portfolio Manager",
               "company": "Deutsche Bank SAE (Spain)",
@@ -1960,7 +2066,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1974,7 +2081,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università degli Studi di Genova (Genoa - Italy)",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi+di+Genova+%28Genoa+-+Italy%29",
@@ -1982,7 +2090,8 @@
           "eduDuration": "09/1990 - 04/1996"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "grant from the “S. Benetton Foundation” for Social Studies and Research",
           "award_date": "1996"
@@ -1990,14 +2099,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Janina Gherghita",
           "picture": "https://www.xing.com/image/6_c_c_df2b4a56a_23684402_2/janina-gherghita-foto.256x256.jpg",
           "memberSince_Hits": "10. November 2015 / 177",
           "currJobDescr": "Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Manager",
               "company": "Gazprom",
@@ -2056,7 +2167,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2066,7 +2178,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ROMANIAN -GERMAN UNIVERSITY-Romania",
           "url": "https://www.xing.com/search/members?keywords=ROMANIAN+-GERMAN+UNIVERSITY-Romania",
@@ -2100,14 +2213,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Lissa Leuschner",
           "picture": "https://www.xing.com/image/d_4_3_172c9d93f_15783021_2/lissa-leuschner-foto.256x256.jpg",
           "memberSince_Hits": "16. Januar 2011 / 1516",
           "currJobDescr": "Legal Secretary",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Secretary",
               "company": "Grünecker Patent- und Rechtsanwälte",
@@ -2167,7 +2282,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2177,14 +2293,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Wilfried Falb",
           "picture": "https://www.xing.com/image/a_3_5_31caf4c6a_9032448_2/wilfried-falb-foto.256x256.jpg",
           "memberSince_Hits": "24. März 2008 / 1586",
           "currJobDescr": "Marketing Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Manager",
               "company": "HartterGroup an Axxiome company",
@@ -2223,7 +2341,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2231,7 +2350,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Handelsakademie Oberwart, Austria",
           "url": "https://www.xing.com/search/members?keywords=Handelsakademie+Oberwart%2C+Austria",
@@ -2240,14 +2360,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Vanja Tokic",
           "picture": "https://www.xing.com/image/5_7_b_f639c95c3_12752940_5/vanja-tokic-foto.256x256.jpg",
           "memberSince_Hits": "9. Juli 2009 / 1871",
           "currJobDescr": "Head of IT Delivery Controlling",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of IT Delivery Controlling",
               "company": "Raiffeisen Bank International AG",
@@ -2321,7 +2443,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2340,7 +2463,8 @@
           "lang": "Bosnian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Faculty of Electrical Engineering and Computing",
           "url": "https://www.xing.com/search/members?keywords=Faculty+of+Electrical+Engineering+and+Computing",
@@ -2350,14 +2474,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Alexandra Ollero",
           "picture": "https://www.xing.com/image/5_6_9_101a8abe1_22087001_2/alexandra-ollero-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2015 / 520",
           "currJobDescr": "Financial Controller New Installation & Modernization",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Financial Controller New Installation & Modernization",
               "company": "Schindler",
@@ -2396,7 +2522,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2410,7 +2537,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Alfonso X El Sabio",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Alfonso+X+El+Sabio",
@@ -2420,14 +2548,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Carla Trent",
           "picture": "https://www.xing.com/image/1_1_d_cb35bc82d_14075267_2/carla-trent-foto.256x256.jpg",
           "memberSince_Hits": "5. März 2010 / 672",
           "currJobDescr": "Designer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Designer",
               "company": "CT-Designs",
@@ -2444,12 +2574,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "CTU Online",
           "url": "https://www.xing.com/search/members?keywords=CTU+Online",
@@ -2459,14 +2591,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Balázs Pregh",
           "picture": "https://www.xing.com/image/8_1_7_64f92590f_17563347_1/bal%C3%A1zs-pregh-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2012 / 1240",
           "currJobDescr": "independent financial journalist, volunteer banking consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "independent financial journalist, volunteer banking consultant",
               "company": "Journal of Hungarian Economic Newsweek",
@@ -2533,7 +2667,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Ungarisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2558,14 +2693,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=English+as+a+second+language+%282002%29+ELTE+ITK"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Georgette Sleiman Eid",
           "picture": "https://www.xing.com/image/a_d_5_110477ed3_15489794_2/georgette-sleiman-eid-foto.256x256.jpg",
           "memberSince_Hits": "8. November 2010 / 1127",
           "currJobDescr": "Head of Trade Finance Department",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Trade Finance Department",
               "company": "Bank of Baghdad/Beirut Branch",
@@ -2611,7 +2748,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -2625,7 +2763,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "The Notre Dame University",
           "url": "https://www.xing.com/search/members?keywords=The+Notre+Dame+University",
@@ -2635,7 +2774,8 @@
       ],
       "qualifications": "February 2008:(CMA) Certified Management Accountant, IMA member No. 1062258",
       "qualifications_url": "https://www.xing.com/search/members?keywords=February+2008%3A%28CMA%29+Certified+Management+Accountant%2C+IMA+member+No.+1062258",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "“General Kanaan 1995 Award”having the highest GPA for the Academic year 1994-19",
           "award_date": "1995"
@@ -2643,14 +2783,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Waleed Qaiser",
           "picture": "https://www.xing.com/image/3_1_9_40c494cf7_23314950_3/waleed-qaiser-foto.256x256.jpg",
           "memberSince_Hits": "20. September 2015 / 281",
           "currJobDescr": "Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Engineer",
               "company": "Techlogix",
@@ -2666,13 +2808,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "National University of Computer and Emerging Sciences (FAST) Islamabad",
           "url": "https://www.xing.com/search/members?keywords=National+University+of+Computer+and+Emerging+Sciences+%28FAST%29+Islamabad",
@@ -2682,7 +2826,8 @@
       ],
       "qualifications": "Hands on Oracle 10g DBA Track",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Hands+on+Oracle+10g+DBA+Track",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Applicative implementation of D-Stream clustering Algorithm",
           "award_date": "ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6020884&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6020884"
@@ -2690,14 +2835,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dilaver \\\\\\\"dee\\\\\\\" Ceylan",
           "picture": "https://www.xing.com/image/7_1_1_166354b7e_10765207_3/dilaver-%5C%5C%5C%22dee%5C%5C%5C%22-ceylan-foto.256x256.jpg",
           "memberSince_Hits": "25. Juli 2008 / 770",
           "currJobDescr": "Emlakci",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Emlakci",
               "company": "Prudential Ct Realty",
@@ -2727,7 +2874,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch"
         },
@@ -2738,7 +2886,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hacettepe Universitesi/Ankara",
           "url": "https://www.xing.com/search/members?keywords=Hacettepe+Universitesi%2FAnkara",
@@ -2763,7 +2912,8 @@
       ],
       "qualifications": "Geological Engineer/Jeoloji Muhendisi",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Geological+Engineer%2FJeoloji+Muhendisi",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Honor Society",
           "award_date": "2007"
@@ -2775,14 +2925,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Filip Lipev",
           "picture": "https://www.xing.com/image/1_3_8_b55b9537a_11651496_2/filip-lipev-foto.256x256.jpg",
           "memberSince_Hits": "29. Dezember 2008 / 3306",
           "currJobDescr": "Economic analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economic analyst",
               "company": "CEEMarketWatch",
@@ -2821,7 +2973,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2834,7 +2987,8 @@
           "lang": "Bulgarian Native Language"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of National and World Economy",
           "url": "https://www.xing.com/search/members?keywords=University+of+National+and+World+Economy",
@@ -2846,13 +3000,15 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MS+Office"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Maria Jesus Casado Bravo",
           "picture": "https://www.xing.com/image/6_8_5_d9e6abe0e_19734395_3/maria-jesus-casado-bravo-foto.256x256.jpg",
           "memberSince_Hits": "18. Oktober 2013 / 483",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SEO and SEM Specialist. Barcelona, Spain",
               "company": "Printsome",
@@ -2905,7 +3061,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2923,7 +3080,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SEO y SEM: Online Marketing.",
           "url": "https://www.xing.com/search/members?keywords=SEO+y+SEM%3A+Online+Marketing.",
@@ -2940,14 +3098,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Link+Building"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Gian Paolo Santopaolo",
           "picture": "https://www.xing.com/image/8_4_8_78552d746_23465497_1/gian-paolo-santopaolo-foto.256x256.jpg",
           "memberSince_Hits": "12. Oktober 2015 / 203",
           "currJobDescr": "Team leader",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Team leader",
               "company": "IBV Informatik AG",
@@ -3007,7 +3167,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3017,14 +3178,16 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università degli Studi della Calabria",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi+della+Calabria",
           "degree": "Computer Science"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Microsoft Most Valuable Professional",
           "award_date": "https://mvp.microsoft.com/"

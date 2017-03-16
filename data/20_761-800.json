@@ -1,16 +1,19 @@
 {
   "category": "lawyer",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Luke Logan",
           "picture": "https://www.xing.com/image/6_1_1_658bbb5f6_20799681_1/luke-logan-foto.256x256.jpg",
           "memberSince_Hits": "18. Juli 2014 / 797",
           "currJobDescr": "Resolve issues, family lawyer and divorce lawyer – Costanzo lawyers",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Resolve issues, family lawyer and divorce lawyer – Costanzo lawyers",
               "company": "Costanzo Lawyers",
@@ -25,21 +28,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jafar Samdani",
           "picture": "https://www.xing.com/image/5_6_1_5c4d65fe1_14762495_6/jafar-samdani-foto.256x256.jpg",
           "memberSince_Hits": "4. Juli 2010 / 2509",
           "currJobDescr": "Senior Associate Lawyer/Advocate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Associate Lawyer/Advocate",
               "company": "THE LEGAL CENTER ( Khalid Adbul Jalil)",
@@ -98,7 +104,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -135,7 +142,8 @@
           "lang": "Hindi"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "university of the punjab",
           "url": "https://www.xing.com/search/members?keywords=university+of+the+punjab",
@@ -145,7 +153,8 @@
       ],
       "qualifications": "Life Member Lahore HighCourt Bar Assocaition, Life Member Lahore Bar Associatio",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Life+Member+Lahore+HighCourt+Bar+Assocaition%2C+Life+Member+Lahore+Bar+Associatio",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "GOD,s WAY.( book)",
           "award_date": "2010"
@@ -189,14 +198,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jonathan Kleiman",
           "picture": "https://www.xing.com/image/5_1_e_034dfa188_7953443_4/jonathan-kleiman-foto.256x256.jpg",
           "memberSince_Hits": "24. September 2007 / 3354",
           "currJobDescr": "Toronto Corporate Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Toronto Corporate Lawyer",
               "company": "Jonathan Kleiman, Toronto Business Lawyer",
@@ -228,12 +239,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Queens University",
           "url": "https://www.xing.com/search/members?keywords=Queens+University",
@@ -251,14 +264,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Outsourced+IT+Development"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Donna Elliott",
           "picture": "https://www.xing.com/image/8_7_0_38ff79090_14401081_3/donna-elliott-foto.256x256.jpg",
           "memberSince_Hits": "3. Mai 2010 / 3133",
           "currJobDescr": "Lawyer-Linguist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer-Linguist",
               "company": "Elliott Legal Translations",
@@ -311,7 +326,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -321,7 +337,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität zu Köln",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+zu+K%C3%B6ln",
@@ -345,14 +362,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Solicitor+of+the+Supreme+Court+of+New+South+Wales"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "John McFarland",
           "picture": "https://www.xing.com/image/a_a_a_f75f63dea_10380823_2/john-mcfarland-foto.256x256.jpg",
           "memberSince_Hits": "9. Juli 2008 / 1161",
           "currJobDescr": "Trial Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Trial Lawyer",
               "company": "Joyce & McFarland LLP",
@@ -370,12 +389,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Texas School of Law",
           "url": "https://www.xing.com/search/members?keywords=University+of+Texas+School+of+Law",
@@ -391,7 +412,8 @@
       ],
       "qualifications": "Provides business-risk counsel",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Provides+business-risk+counsel",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Top Lawyers - Houston",
           "award_date": "2006"
@@ -407,14 +429,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Timea Kovacs",
           "picture": "https://www.xing.com/image/b_f_5_d39ce97c7_8066252_4/timea-kovacs-foto.256x256.jpg",
           "memberSince_Hits": "17. Oktober 2007 / 4277",
           "currJobDescr": "Tutor (teaching Legal English), Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Tutor (teaching Legal English), Lawyer",
               "company": "Dr. Kovács Nyelvstúdió",
@@ -444,7 +468,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -462,7 +487,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Central European University Hungary / Közép-Európai Egyetem",
           "url": "https://www.xing.com/search/members?keywords=Central+European+University+Hungary+%2F+K%C3%B6z%C3%A9p-Eur%C3%B3pai+Egyetem",
@@ -481,21 +507,24 @@
       ],
       "qualifications": "Lawyer / Jogász",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Lawyer+%2F+Jog%C3%A1sz",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "4 published papers and articles"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Cesare Varallo",
           "picture": "https://www.xing.com/image/7_3_6_eb3da9903_19585312_2/cesare-varallo-foto.256x256.jpg",
           "memberSince_Hits": "10. September 2013 / 455",
           "currJobDescr": "Independent Food Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Independent Food Lawyer",
               "company": "Avv. Cesare Varallo",
@@ -527,7 +556,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -537,7 +567,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Summer Academy in Global Food Law and Policy",
           "url": "https://www.xing.com/search/members?keywords=Summer+Academy+in+Global+Food+Law+and+Policy",
@@ -561,14 +592,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Lawyer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Wenbao/文豹 Qiao/乔",
           "picture": "https://www.xing.com/image/8_8_8_0ab3eaef3_3453876_1/wenbao-%E6%96%87%E8%B1%B9-qiao-%E4%B9%94-foto.256x256.jpg",
           "memberSince_Hits": "22. April 2005 / 3838",
           "currJobDescr": "Partner, Chinesischer Rechtsanwalt, Chinese Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Partner, Chinesischer Rechtsanwalt, Chinese Lawyer",
               "company": "Shanghai Debund Law Offices/上海大邦律师事务所",
@@ -592,7 +625,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -603,7 +637,8 @@
           "lang": "Chinesisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universitaet Goettingen/哥廷根大学",
           "url": "https://www.xing.com/search/members?keywords=Universitaet+Goettingen%2F%E5%93%A5%E5%BB%B7%E6%A0%B9%E5%A4%A7%E5%AD%A6",
@@ -621,14 +656,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=China+Bar+Qualification+and+Lawyer+Licence"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Kurt Manzenreiter",
           "picture": "https://www.xing.com/image/8_4_d_08a3162e6_20837817_1/kurt-manzenreiter-foto.256x256.jpg",
           "memberSince_Hits": "28. Juli 2014 / 1089",
           "currJobDescr": "Lawyer / Senior Legal Counsel",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer / Senior Legal Counsel",
               "company": "Primetals",
@@ -667,7 +704,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -677,7 +715,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Kepler University Linz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Kepler+University+Linz",
@@ -687,7 +726,8 @@
       ],
       "qualifications": "Bar exam taken at the bar examining board of the upper regional court of Linz",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bar+exam+taken+at+the+bar+examining+board+of+the+upper+regional+court+of+Linz+",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Appointment as \"Senior Legal Counsel\" within Siemens",
           "award_date": "2013"
@@ -695,14 +735,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Gerhard Mahr",
           "picture": "https://www.xing.com/img/users/f/8/5/188c83ea2.5709633,2.256x256.jpg",
           "memberSince_Hits": "10. März 2006 / 896",
           "currJobDescr": "Rechtsanwalt /Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Rechtsanwalt /Lawyer",
               "company": "Rechtsanwaltssozietät Ludwig & Callies",
@@ -769,7 +811,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -787,7 +830,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Westfälische Wilhelms-Universität Münster;",
           "url": "https://www.xing.com/search/members?keywords=Westf%C3%A4lische+Wilhelms-Universit%C3%A4t+M%C3%BCnster%3B",
@@ -797,14 +841,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "David Goldman",
           "picture": "https://www.xing.com/image/e_3_b_da4df2d5f_12562894_2/david-goldman-foto.256x256.jpg",
           "memberSince_Hits": "6. Juni 2009 / 1373",
           "currJobDescr": "Lawyer / Attorney",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer / Attorney",
               "company": "Florida Estate Planning Lawyer - Apple Law Firm PLLC",
@@ -824,12 +870,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Florida Coastal School of Law",
           "url": "https://www.xing.com/search/members?keywords=Florida+Coastal+School+of+Law",
@@ -839,14 +887,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mary Roubos",
           "picture": "https://www.xing.com/image/a_4_a_b31743d50_17393405_1/mary-roubos-foto.256x256.jpg",
           "memberSince_Hits": "23. Februar 2012 / 726",
           "currJobDescr": "Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer",
               "company": "N/A",
@@ -870,7 +920,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -884,7 +935,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Deakin University",
           "url": "https://www.xing.com/search/members?keywords=Deakin+University",
@@ -896,14 +948,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Qualified+Dispensary+Technician"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Valérie Tandeau de Marsac",
           "picture": "https://www.xing.com/image/d_8_b_7e685e949_13597327_2/val%C3%A9rie-tandeau-de-marsac-foto.256x256.jpg",
           "memberSince_Hits": "8. Dezember 2009 / 2088",
           "currJobDescr": "Avocat au Barreau de Paris (lawyer registered with the Paris Bar)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Avocat au Barreau de Paris (lawyer registered with the Paris Bar)",
               "company": "Jeantet Associés",
@@ -970,7 +1024,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch"
         },
@@ -981,7 +1036,8 @@
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Université Paris II - Assas",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+Paris+II+-+Assas",
@@ -1017,14 +1073,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Membre+du+Conseil+de+l%27Ordre+du+Barreau+des+Hauts+de+Seine+%282002-2008%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alon Saposhnik",
           "picture": "https://www.xing.com/image/5_e_4_c21b73200_16890765_1/alon-saposhnik-foto.256x256.jpg",
           "memberSince_Hits": "15. Oktober 2011 / 1961",
           "currJobDescr": "Lawyer, Manager, Head of German-Israeli Desk at Alon Saposhnik Law Office",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer, Manager, Head of German-Israeli Desk at Alon Saposhnik Law Office",
               "company": "Alon Saposhnik, Law Office Herzliya (Tel-Aviv) Israel",
@@ -1065,7 +1123,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1076,7 +1135,8 @@
           "lang": "Hebräisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bucerius Law School & WHU - Otto Beisheim School of Management",
           "url": "https://www.xing.com/search/members?keywords=Bucerius+Law+School+%26+WHU+-+Otto+Beisheim+School+of+Management",
@@ -1088,14 +1148,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Intercultural+communication+workshop"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Darya Zhuk",
           "picture": "https://www.xing.com/image/6_f_a_0a2a83efc_14942783_4/darya-zhuk-foto.256x256.jpg",
           "memberSince_Hits": "9. August 2010 / 661",
           "currJobDescr": "Lawyer, Partner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer, Partner",
               "company": "Law firm Glimstedt",
@@ -1119,7 +1181,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1136,7 +1199,8 @@
           "lang": "Belarusian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "School of Business & Management of Technology of Belarusian State University",
           "url": "https://www.xing.com/search/members?keywords=School+of+Business+%26+Management+of+Technology+of+Belarusian+State+University",
@@ -1152,14 +1216,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Antonio Ibáñez Martínez",
           "picture": "https://www.xing.com/image/5_4_5_6d49b3349_9383807_3/antonio-ib%C3%A1%C3%B1ez-mart%C3%ADnez-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 7605",
           "currJobDescr": "Formador, Cconsultor, Coach, Abogado / Trainer, Consultant, Coach, Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Formador, Cconsultor, Coach, Abogado / Trainer, Consultant, Coach, Lawyer",
               "company": "www.antonioib.com",
@@ -1272,7 +1338,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         },
@@ -1280,7 +1347,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Complutense de Madrid",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Complutense+de+Madrid",
@@ -1379,14 +1447,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Alexandra Price",
           "picture": "https://www.xing.com/image/5_0_7_aa9ffa5f6_19248070_3/alexandra-price-foto.256x256.jpg",
           "memberSince_Hits": "17. Juni 2013 / 1090",
           "currJobDescr": "Legal and financial translator / Lawyer-linguist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal and financial translator / Lawyer-linguist",
               "company": "Translation business owner",
@@ -1417,7 +1487,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1435,7 +1506,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Cambridge, UK",
           "url": "https://www.xing.com/search/members?keywords=University+of+Cambridge%2C+UK",
@@ -1465,14 +1537,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Solicitor+of+the+Senior+Court+of+England+and+Wales+%28currently+non-practising%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Patricio Morenés",
           "picture": "https://www.xing.com/image/7_4_8_21cc42cab_18704761_2/patricio-moren%C3%A9s-foto.256x256.jpg",
           "memberSince_Hits": "23. Januar 2013 / 628",
           "currJobDescr": "Associate Lawyer (Corporate/M&A)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Associate Lawyer (Corporate/M&A)",
               "company": "Allen & Overy LLP",
@@ -1504,7 +1578,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1514,7 +1589,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Instituto de Empresa (IE)",
           "url": "https://www.xing.com/search/members?keywords=Instituto+de+Empresa+%28IE%29",
@@ -1530,14 +1606,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Hedwig Zingg Sanchez",
           "picture": "https://www.xing.com/image/f_f_2_520a69065_16904022_1/hedwig-zingg-sanchez-foto.256x256.jpg",
           "memberSince_Hits": "18. Oktober 2011 / 1994",
           "currJobDescr": "LAWYER CLAIMS MANAGER",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "LAWYER CLAIMS MANAGER",
               "company": "AXA ASSURANCES SA",
@@ -1613,7 +1691,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1635,7 +1714,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "UNIVERSITY OF ZURICH",
           "url": "https://www.xing.com/search/members?keywords=UNIVERSITY+OF+ZURICH",
@@ -1704,14 +1784,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Stiftungsrecht%2C+Sozialversicherungsrecht"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Michael Burkert",
           "picture": "https://www.xing.com/image/d_7_8_dd67eb4d9_6397743_7/michael-burkert-foto.256x256.jpg",
           "memberSince_Hits": "25. August 2006 / 10699",
           "currJobDescr": "Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer",
               "company": "Wellensiek Rechtsanwälte",
@@ -1799,7 +1881,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1817,7 +1900,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Leipzig",
           "url": "https://www.xing.com/search/members?keywords=University+of+Leipzig",
@@ -1865,14 +1949,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=LL.M+%28London%3B+Banking+%26+Finance%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Joao Manuel Verdades Cordeiro dos Santos",
           "picture": "https://www.xing.com/image/f_c_6_209326858_4411267_4/joao-manuel-verdades--cordeiro-dos-santos-foto.256x256.jpg",
           "memberSince_Hits": "27. November 2005 / 6957",
           "currJobDescr": "Lawyer/Avocat/Advogado",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer/Avocat/Advogado",
               "company": "Verdades dos Santos",
@@ -1974,7 +2060,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1996,7 +2083,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Nova Forum – Executive Institute/School of Economics of Universidade Nova Lisbon",
           "url": "https://www.xing.com/search/members?keywords=Nova+Forum+%E2%80%93+Executive+Institute%2FSchool+of+Economics+of+Universidade+Nova+Lisbon",
@@ -2024,7 +2112,8 @@
       ],
       "qualifications": "First Certificate Examination First of Cambridge University",
       "qualifications_url": "https://www.xing.com/search/members?keywords=First+Certificate+Examination+First+of+Cambridge+University",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Competent Comunicator - Lisbon Toastmaster International Club",
           "award_date": "2008"
@@ -2032,14 +2121,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alexey Ermolaev",
           "picture": "https://www.xing.com/image/0_1_9_a08cf186f_19619076_2/alexey-ermolaev-foto.256x256.jpg",
           "memberSince_Hits": "19. September 2013 / 800",
           "currJobDescr": "Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer",
               "company": "KSK Group",
@@ -2106,7 +2197,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2120,7 +2212,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "KSK group",
           "url": "https://www.xing.com/search/members?keywords=KSK+group",
@@ -2141,14 +2234,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Emma Wasberg",
           "picture": "https://www.xing.com/image/7_c_c_8a0118d2f_18780661_1/emma-wasberg-foto.256x256.jpg",
           "memberSince_Hits": "13. Februar 2013 / 855",
           "currJobDescr": "Junior lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Junior lawyer",
               "company": "Agreement24/ Avtal24 AB",
@@ -2173,7 +2268,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -2183,7 +2279,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stockholm University",
           "url": "https://www.xing.com/search/members?keywords=Stockholm+University",
@@ -2199,14 +2296,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Eduardo Beitia",
           "picture": "https://www.xing.com/image/8_9_f_9e24271f8_8954115_1/eduardo-beitia-foto.256x256.jpg",
           "memberSince_Hits": "8. März 2008 / 1700",
           "currJobDescr": "Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer",
               "company": "EBF Private Law Firm Spain - Saudi Arabia",
@@ -2244,7 +2343,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2258,7 +2358,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Amsterdam School of International Relations, UVA, Amsterdam, The Netherlands",
           "url": "https://www.xing.com/search/members?keywords=Amsterdam+School+of+International+Relations%2C+UVA%2C+Amsterdam%2C+The+Netherlands",
@@ -2286,14 +2387,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dominique Calcò Labbruzzo",
           "picture": "https://www.xing.com/image/0_c_7_aed0ba4fd_13023392_12/dominique-calc%C3%B2-labbruzzo-foto.256x256.jpg",
           "memberSince_Hits": "26. August 2009 / 21075",
           "currJobDescr": "Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer",
               "company": "LAW by CALCÒ",
@@ -2316,7 +2419,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2334,7 +2438,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Cambridge",
           "url": "https://www.xing.com/search/members?keywords=Cambridge",
@@ -2363,14 +2468,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=German+law%2C+particurlarly+Competition+and+Intellectual+Property+Law"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Şevket Güney Bigat",
           "picture": "https://www.xing.com/image/f_2_a_b59513d67_11160174_2/%C5%9Fevket-g%C3%BCney-bigat-foto.256x256.jpg",
           "memberSince_Hits": "7. Oktober 2008 / 2598",
           "currJobDescr": "Avukat, Legal Advisor, Attorney, Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Avukat, Legal Advisor, Attorney, Lawyer",
               "company": "BİGAT AVUKATLIK BÜROSU, Bigat Law Firm",
@@ -2402,7 +2509,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2416,7 +2524,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Yeditepe Üniversitesi, Yeditepe University",
           "url": "https://www.xing.com/search/members?keywords=Yeditepe+%C3%9Cniversitesi%2C+Yeditepe+University",
@@ -2440,14 +2549,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Hukuk+Dan%C4%B1%C5%9Fman%C4%B1"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Sam Morgan",
           "picture": "https://www.xing.com/image/5_3_8_2fc62415e_10939633_2/sam-morgan-foto.256x256.jpg",
           "memberSince_Hits": "30. August 2008 / 1354",
           "currJobDescr": "Trial Lawyer - Employment Rights Litigation",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Trial Lawyer - Employment Rights Litigation",
               "company": "Gasiorek, Morgan & Greco, P.C.",
@@ -2479,12 +2590,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Michigan State University College of Law",
           "url": "https://www.xing.com/search/members?keywords=Michigan+State+University+College+of+Law",
@@ -2500,7 +2613,8 @@
       ],
       "qualifications": "Licensed in State of Michigan (since 1981), both State and Federal Courts",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Licensed+in+State+of+Michigan+%28since+1981%29%2C+both+State+and+Federal+Courts",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Best Lawyers In America - Labor & Employment",
           "award_date": "www.bestlawyers.com"
@@ -2532,14 +2646,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Christoph Naumann",
           "picture": "https://www.xing.com/image/0_6_f_03f2e8255_5583859_9/christoph-naumann-foto.256x256.jpg",
           "memberSince_Hits": "1. Februar 2006 / 16873",
           "currJobDescr": "Partner, Lawyer (Rechtsanwalt), Attorney-at-Law (New York)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Partner, Lawyer (Rechtsanwalt), Attorney-at-Law (New York)",
               "company": "Watson Farley & Williams LLP",
@@ -2634,7 +2750,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2645,7 +2762,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Cologne",
           "url": "https://www.xing.com/search/members?keywords=University+of+Cologne",
@@ -2689,7 +2807,8 @@
       ],
       "qualifications": "Certificate in Transnational Law (University of Geneva)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+in+Transnational+Law+%28University+of+Geneva%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Ambassador of Goodwill (The Rotary Foundation)",
           "award_date": "www.rotary.org"
@@ -2709,14 +2828,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Henry Tuason",
           "picture": "https://www.xing.com/image/f_9_c_93d5037d7_20603731_2/henry-tuason-foto.256x256.jpg",
           "memberSince_Hits": "28. Mai 2014 / 368",
           "currJobDescr": "Lawyer & Real Estate Broker.",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer & Real Estate Broker.",
               "company": "Sumagui Law Office",
@@ -2734,12 +2855,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Adamson University College of Law",
           "url": "https://www.xing.com/search/members?keywords=Adamson+University+College+of+Law",

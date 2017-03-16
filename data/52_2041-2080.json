@@ -1,16 +1,19 @@
 {
   "category": "Online Product Manager",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marc Renner",
           "picture": "https://www.xing.com/image/3_6_8_cf8fd9ef8_4369074_13/marc-renner-foto.256x256.jpg",
           "memberSince_Hits": "14. November 2005 / 7699",
           "currJobDescr": "Scrum Product Owner - Consultant CRM / Online / Mobile",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Scrum Product Owner - Consultant CRM / Online / Mobile",
               "company": "Interim Management Renner",
@@ -112,7 +115,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -126,7 +130,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Coaching Center Berlin",
           "url": "https://www.xing.com/search/members?keywords=Coaching+Center+Berlin",
@@ -141,7 +146,8 @@
       ],
       "qualifications": "Prince2 Foundation",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Prince2+Foundation",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Stipendiat der Carl-Duisberg-Gesellschaft in Brasilien",
           "award_date": "www.cdc.de/Auslandspraktikum.1738.0.html"
@@ -149,14 +155,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Janine Mohry",
           "picture": "https://www.xing.com/image/8_e_d_f0df69be8_16943920_13/janine-mohry-foto.256x256.jpg",
           "memberSince_Hits": "28. Oktober 2011 / 2602",
           "currJobDescr": "Product Manager Berufliche Qualifizierung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Manager Berufliche Qualifizierung",
               "company": "Deutsche Bahn AG / DB Training, Learning & Consulting",
@@ -236,7 +244,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -250,7 +259,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Zweijährige Höhere Berufsfachschule für Wirtschaft u. Verwaltung (Fremdsprachen)",
           "url": "https://www.xing.com/search/members?keywords=Zweij%C3%A4hrige+H%C3%B6here+Berufsfachschule+f%C3%BCr+Wirtschaft+u.+Verwaltung+%28Fremdsprachen%29"
@@ -263,7 +273,8 @@
       ],
       "qualifications": "Adobe Photoshop CS5, HTML, CSS",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Adobe+Photoshop+CS5%2C+HTML%2C+CSS",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Goldene Schallplatte",
           "award_date": "2007"
@@ -278,14 +289,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Lars Janzik",
           "picture": "https://www.xing.com/image/d_d_d_2ad662d76_4313225_9/lars-janzik-foto.256x256.jpg",
           "memberSince_Hits": "21. Oktober 2005 / 10709",
           "currJobDescr": "Vice President Product Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Vice President Product Management",
               "company": "WeltN24 GmbH - Axel Springer SE",
@@ -366,7 +379,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -377,7 +391,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Hamburg-Harburg",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Hamburg-Harburg",
@@ -393,7 +408,8 @@
       ],
       "qualifications": "Kommunikation & Verhandlung (NLP I), Ralf Stumpf Seminare, 2005-2007",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Kommunikation+%26+Verhandlung+%28NLP+I%29%2C+Ralf+Stumpf+Seminare%2C+2005-2007",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Veröffentlichung \"Anwenderinnovationen in Online-Communities\"",
           "award_date": "www.amazon.de/gp/product/3834933953/ref=cm_cr_mts_prod_img"
@@ -401,14 +417,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dirk Friedrich Walther",
           "picture": "https://www.xing.com/image/2_7_8_dfbace5ca_393095_28/dirk-friedrich-walther-foto.256x256.jpg",
           "memberSince_Hits": "26. Juli 2004 / 12351",
           "currJobDescr": "Product Manager E-Commerce",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Manager E-Commerce",
               "company": "CTS EVENTIM AG & Co. KGaA",
@@ -461,7 +479,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -472,7 +491,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Tile Hill College, Coventry, UK",
           "url": "https://www.xing.com/search/members?keywords=Tile+Hill+College%2C+Coventry%2C+UK",
@@ -503,7 +523,8 @@
           "eduDuration": "06/1977 - 01/1980"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "uLead Führungskräfte Entwicklung der Otto Akademie",
           "award_date": "2016"
@@ -523,14 +544,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Juergen Biermann",
           "picture": "https://www.xing.com/image/3_3_b_17d0b0641_11170007_4/juergen-biermann-foto.256x256.jpg",
           "memberSince_Hits": "8. Oktober 2008 / 2431",
           "currJobDescr": "Product Management and Online Gaming Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Management and Online Gaming Specialist",
               "company": "Myself",
@@ -586,7 +609,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -600,7 +624,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SFU Vancouver",
           "url": "https://www.xing.com/search/members?keywords=SFU+Vancouver",
@@ -616,7 +641,8 @@
       ],
       "qualifications": "User Experience (UX) for the Web - Certificate of Achievement (Open2Learn)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=User+Experience+%28UX%29+for+the+Web+-++Certificate+of+Achievement+%28Open2Learn%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "MOT Business Council Entrance Scholarship",
           "award_date": "www.sfu.ca"
@@ -624,14 +650,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bastian Hassloch",
           "picture": "https://www.xing.com/image/8_e_8_55bdb8816_6467223_13/bastian-hassloch-foto.256x256.jpg",
           "memberSince_Hits": "12. September 2006 / 6220",
           "currJobDescr": "Produktmanager Systemsteuerung",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktmanager Systemsteuerung",
               "company": "EOS GmbH",
@@ -705,7 +733,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -713,7 +742,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Applied Science, Ansbach",
           "url": "https://www.xing.com/search/members?keywords=University+of+Applied+Science%2C+Ansbach",
@@ -725,14 +755,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Scrum+Product+Owner"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ralf Mueller",
           "picture": "https://www.xing.com/image/c_0_7_8f0e9c1f5_371754_10/ralf-mueller-foto.256x256.jpg",
           "memberSince_Hits": "3. Juni 2004 / 7313",
           "currJobDescr": "Produktmanager (freiberuflich)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktmanager (freiberuflich)",
               "company": "Product Manager (Freelance)",
@@ -876,7 +908,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -884,7 +917,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Berufsschule für Bankkaufleute München",
           "url": "https://www.xing.com/search/members?keywords=Berufsschule+f%C3%BCr+Bankkaufleute+M%C3%BCnchen",
@@ -894,14 +928,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Frank Fischer",
           "picture": "https://www.xing.com/image/c_8_6_9e7ba8e4f_5800772_7/frank-fischer-foto.256x256.jpg",
           "memberSince_Hits": "5. April 2006 / 7582",
           "currJobDescr": "Freelance - Berater | Produktmanager | Konzepter",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelance - Berater | Produktmanager | Konzepter",
               "company": "KREATIVRAKETEN KG",
@@ -988,7 +1024,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -996,7 +1033,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule der Medien Stuttgart, Stuttgart Media University",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+der+Medien+Stuttgart%2C+Stuttgart+Media+University",
@@ -1008,14 +1046,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=IREB%C2%AE+Certified+Professional+for+Requirements+Engineering"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Silvio Schimke",
           "picture": "https://www.xing.com/image/c_2_1_085388fc7_3234620_4/silvio-schimke-foto.256x256.jpg",
           "memberSince_Hits": "2. Dezember 2004 / 10208",
           "currJobDescr": "Chief Product Owner // Online Marketing & eCommerce //",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Product Owner // Online Marketing & eCommerce //",
               "company": "1&1 Internet SE",
@@ -1089,7 +1129,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1097,13 +1138,15 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HfTL Leipzig",
           "url": "https://www.xing.com/search/members?keywords=HfTL+Leipzig"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "TransAlp 07 :)",
           "award_date": "2007"
@@ -1115,14 +1158,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Müller",
           "picture": "https://www.xing.com/image/6_1_3_4e1d5d17e_13226622_6/sebastian-m%C3%BCller-foto.256x256.jpg",
           "memberSince_Hits": "4. Oktober 2009 / 2548",
           "currJobDescr": "Product Owner / Produktmanager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Owner / Produktmanager",
               "company": "HolidayCheck AG",
@@ -1224,7 +1269,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1238,7 +1284,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FOM Hochschule für Oekonomie & Management",
           "url": "https://www.xing.com/search/members?keywords=FOM+Hochschule+f%C3%BCr+Oekonomie+%26+Management",
@@ -1254,7 +1301,8 @@
       ],
       "qualifications": "Städtisches Schönborn Gymnasium mit Realschule Würzburg (Mittlere Reife 2003)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=St%C3%A4dtisches+Sch%C3%B6nborn+Gymnasium+mit+Realschule+W%C3%BCrzburg+%28Mittlere+Reife+2003%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Certified Agile Requirements Specialist (CARS)",
           "award_date": "agile-requirements-institute.org/cars-lehrplan.html"
@@ -1310,14 +1358,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dominique Winter",
           "picture": "https://www.xing.com/image/a_b_3_22badf884_7024504_5/dominique-winter-foto.256x256.jpg",
           "memberSince_Hits": "5. Februar 2007 / 8592",
           "currJobDescr": "Product Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Owner",
               "company": "REWE Digital GmbH",
@@ -1398,7 +1448,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1408,7 +1459,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HS Emden/Leer",
           "url": "https://www.xing.com/search/members?keywords=HS+Emden%2FLeer",
@@ -1430,7 +1482,8 @@
       ],
       "qualifications": "Foundation Certificate in IT Service Management (ITILv2)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Foundation+Certificate+in+IT+Service+Management+%28ITILv2%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Best Session Award - Usability Professional 2015",
           "award_date": "2015"
@@ -1438,14 +1491,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Melanie Rothe",
           "picture": "https://www.xing.com/image/1_1_6_2d3b70cd1_6709182_8/melanie-rothe-foto.256x256.jpg",
           "memberSince_Hits": "13. November 2006 / 13051",
           "currJobDescr": "Freelancer für Product Management / Online Marketing",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelancer für Product Management / Online Marketing",
               "company": "Freier Berater",
@@ -1543,7 +1598,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1554,7 +1610,8 @@
           "lang": "Russisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FHM - Fachhochschule München, FHTW Berlin - University of Applied Sciences",
           "url": "https://www.xing.com/search/members?keywords=FHM+-+Fachhochschule+M%C3%BCnchen%2C+FHTW+Berlin+-+University+of+Applied+Sciences",
@@ -1566,14 +1623,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Excel+f%C3%BCr+Controller+%282008%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Anja Sauer",
           "picture": "https://www.xing.com/image/0_7_6_810b11815_373054_8/anja-sauer-foto.256x256.jpg",
           "memberSince_Hits": "7. Juni 2004 / 18691",
           "currJobDescr": "Senior Product Manager - Core Experience",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager - Core Experience",
               "company": "AutoScout24 GmbH",
@@ -1647,7 +1706,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1661,7 +1721,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Appalachian State University Boone, NC",
           "url": "https://www.xing.com/search/members?keywords=Appalachian+State+University+Boone%2C+NC",
@@ -1677,14 +1738,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=+Multimedia+Producer%2C+Mediadesign+Hochschule"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jochen Kurz",
           "picture": "https://www.xing.com/image/2_8_a_e06baf526_3250143_5/jochen-kurz-foto.256x256.jpg",
           "memberSince_Hits": "16. Dezember 2004 / 9065",
           "currJobDescr": "Head of Product Management - Customer Marketing",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Product Management - Customer Marketing",
               "company": "AutoScout24 GmbH",
@@ -1758,7 +1821,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1766,7 +1830,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Konstanz+Technik%2C+Wirtschaft+und+Gestaltung",
@@ -1784,7 +1849,8 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Lean+Startup+Machine"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Lindemann",
@@ -1794,14 +1860,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Johannes Höller",
           "picture": "https://www.xing.com/image/0_6_9_574be2b05_5811871_7/johannes-h%C3%B6ller-foto.256x256.jpg",
           "memberSince_Hits": "8. April 2006 / 7697",
           "currJobDescr": "Senior Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager",
               "company": "Yatego GmbH",
@@ -1889,7 +1957,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1907,7 +1976,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Kepler Universität Linz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Kepler+Universit%C3%A4t+Linz",
@@ -1916,7 +1986,8 @@
       ],
       "qualifications": "Bing Ads Accredited Professional (2016)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bing+Ads+Accredited+Professional+%282016%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bing Ads Accredited Professional",
           "award_date": "advertise.bingads.microsoft.com/de-de/einen-pro-suchen?MemberID=11a21f0c-919c-412b-bb4c-5fae11ac1b59"
@@ -1928,14 +1999,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Shanin Schüßler",
           "picture": "https://www.xing.com/image/a_2_5_4ae714c9d_9973996_11/shanin-sch%C3%BC%C3%9Fler-foto.256x256.jpg",
           "memberSince_Hits": "14. April 2008 / 6411",
           "currJobDescr": "Product Manager Digital - technikboerse.com",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Manager Digital - technikboerse.com",
               "company": "Deutscher Landwirtschaftsverlag GmbH",
@@ -1995,7 +2068,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2013,7 +2087,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Brighton",
           "url": "https://www.xing.com/search/members?keywords=University+of+Brighton",
@@ -2029,7 +2104,8 @@
       ],
       "qualifications": "How To Build Products Customer Love (2016)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=How+To+Build+Products+Customer+Love+%282016%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Diplom-Betriebswirt (FH) mit sehr gutem Abschluss",
           "award_date": "2011"
@@ -2041,7 +2117,8 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Philipp Cordes",
@@ -2051,14 +2128,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jens Fischer",
           "picture": "https://www.xing.com/img/users/0/3/8/3a158783b.3326875,3.256x256.jpg",
           "memberSince_Hits": "14. Februar 2005 / 2210",
           "currJobDescr": "Head of Product Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Product Management",
               "company": "NetDoktor.de GmbH",
@@ -2117,7 +2196,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2127,7 +2207,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU-Berlin, TU-München",
           "url": "https://www.xing.com/search/members?keywords=TU-Berlin%2C+TU-M%C3%BCnchen"
@@ -2135,14 +2216,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christian Krauß",
           "picture": "https://www.xing.com/image/7_f_8_d4f860511_3457907_2/christian-krau%C3%9F-foto.256x256.jpg",
           "memberSince_Hits": "25. April 2005 / 7989",
           "currJobDescr": "Manager Strategic Projects / Sr. Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Manager Strategic Projects / Sr. Product Manager",
               "company": "Axel Springer ideas Engineering GmbH",
@@ -2202,7 +2285,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2213,7 +2297,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule der Deutschen Telekom AG Berlin, TU-Berlin",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+der+Deutschen+Telekom+AG+Berlin%2C+TU-Berlin",
@@ -2224,14 +2309,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Professional+for+Requirements+Engineering+%28IREB+-+04%2F09%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Lars Pallme König",
           "picture": "https://www.xing.com/image/3_8_0_e083f561f_7113049_7/lars-pallme-k%C3%B6nig-foto.256x256.jpg",
           "memberSince_Hits": "28. Februar 2007 / 7132",
           "currJobDescr": "Produktmanager User Experience",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktmanager User Experience",
               "company": "Parfümerie Douglas GmbH",
@@ -2326,7 +2413,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2336,7 +2424,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Gutenberg-Universität Mainz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Gutenberg-Universit%C3%A4t+Mainz",
@@ -2352,7 +2441,8 @@
       ],
       "qualifications": "Business Special „Starker Auftritt\" Seminar",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Business+Special+%E2%80%9EStarker+Auftritt%22+Seminar",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Masterarbeit: Social Media im Kundenbeziehungsmanagement (Note: 1,3)",
           "award_date": "2012"
@@ -2368,7 +2458,8 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bastian Scheefe",
@@ -2378,14 +2469,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Bine Meissner",
           "picture": "https://www.xing.com/image/a_e_a_eddd05fae_5690089_5/bine-meissner-foto.256x256.jpg",
           "memberSince_Hits": "4. März 2006 / 3895",
           "currJobDescr": "Product Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Owner",
               "company": "Töchter & Söhne Gesellschaft für digitale Helfer mbH",
@@ -2492,7 +2585,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2506,7 +2600,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Freie Universität Berlin, TFH Wildau",
           "url": "https://www.xing.com/search/members?keywords=Freie+Universit%C3%A4t+Berlin%2C+TFH+Wildau",
@@ -2515,7 +2610,8 @@
       ],
       "qualifications": "Dark Horse‘s Design Thinking Workshop",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dark+Horse%E2%80%98s+Design+Thinking+Workshop",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "sologics e-commerce award",
           "award_date": "2008"
@@ -2523,14 +2619,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Volker Beier",
           "picture": "https://www.xing.com/img/users/c/7/3/da58196c6.380412,4.256x256.jpg",
           "memberSince_Hits": "25. Juni 2004 / 7315",
           "currJobDescr": "Produktmanager E-Book",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktmanager E-Book",
               "company": "Cornelsen Verlag GmbH",
@@ -2597,7 +2695,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2607,7 +2706,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität der Künste Berlin",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+der+K%C3%BCnste+Berlin",
@@ -2625,14 +2725,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Project+Management+Associate+%28IPMA+Level+D%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ingo Helmke",
           "picture": "https://www.xing.com/img/users/e/9/3/c0bfa5cf3.3268811,5.256x256.jpg",
           "memberSince_Hits": "7. Januar 2005 / 7648",
           "currJobDescr": "Product Owner Mobile",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Owner Mobile",
               "company": "Star Finanz-Software Entwicklung und Vertriebs GmbH",
@@ -2699,7 +2801,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2713,7 +2816,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Université du Québec à Montréal (UQAM)",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+du+Qu%C3%A9bec+%C3%A0+Montr%C3%A9al+%28UQAM%29",
@@ -2737,14 +2841,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=%E2%80%A2+Praxissemester+an+der+Universit%C3%A9+du+Qu%C3%A9bec+%C3%A0+Montr%C3%A9al+%281994%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefan Beitz",
           "picture": "https://www.xing.com/image/6_4_c_a5ee6a819_6530754_3/stefan-beitz-foto.256x256.jpg",
           "memberSince_Hits": "27. September 2006 / 12447",
           "currJobDescr": "Senior Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager",
               "company": "Cornelsen Verlag GmbH",
@@ -2816,7 +2922,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2830,7 +2937,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Trier",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Trier",
@@ -2842,14 +2950,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ausbildereignung+%28AdA%29+gem.+AEVO+%28IHK+-+2012%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Anton Skornyakov",
           "picture": "https://www.xing.com/image/d_6_9_07d939ca5_12963620_16/anton-skornyakov-foto.256x256.jpg",
           "memberSince_Hits": "16. August 2009 / 5358",
           "currJobDescr": "Agile Coach, Experte für digitale Innovationen, Scrum Master, Product Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Agile Coach, Experte für digitale Innovationen, Scrum Master, Product Owner",
               "company": "Agile Coach, Lean Innovation Expert",
@@ -2923,7 +3033,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2941,7 +3052,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Collège des Ingénieurs",
           "url": "https://www.xing.com/search/members?keywords=Coll%C3%A8ge+des+Ing%C3%A9nieurs",
@@ -2963,7 +3075,8 @@
       ],
       "qualifications": "Certified LeSS Practitioner (Large Scale Scrum)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+LeSS+Practitioner+%28Large+Scale+Scrum%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Studienpreis, Wilhelm und Else Heraeus Stiftung",
           "award_date": "www.we-heraeus-stiftung.de/"
@@ -2975,14 +3088,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Krüger",
           "picture": "https://www.xing.com/image/e_5_9_892e63000_6432559_5/andreas-kr%C3%BCger-foto.256x256.jpg",
           "memberSince_Hits": "3. September 2006 / 4949",
           "currJobDescr": "Senior Product Manager Mobile",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager Mobile",
               "company": "HolidayCheck AG",
@@ -3056,7 +3171,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3070,7 +3186,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule München",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+M%C3%BCnchen",
@@ -3086,14 +3203,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Scrum+Product+Owner+%28CSPO%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tobias Fuchs",
           "picture": "https://www.xing.com/image/4_b_c_831f73039_6780889_17/tobias-fuchs-foto.256x256.jpg",
           "memberSince_Hits": "1. Dezember 2006 / 7676",
           "currJobDescr": "Produktmanager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Produktmanager",
               "company": "Otto (GmbH & Co KG)",
@@ -3146,7 +3265,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3164,7 +3284,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "PFH Private Hochschule Göttingen",
           "url": "https://www.xing.com/search/members?keywords=PFH+Private+Hochschule+G%C3%B6ttingen",
@@ -3188,14 +3309,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Berlitz+Languages+%E2%80%93+Spanish+Advanced%2C+Madrid"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sai Erra",
           "picture": "https://www.xing.com/image/9_9_f_08150dc88_20935641_2/sai-erra-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2014 / 523",
           "currJobDescr": "Product Owner & Senior business Analyst (GMS Process & Technology)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Owner & Senior business Analyst (GMS Process & Technology)",
               "company": "KPMG AG Wirtschaftsprüfungsgesellschaft",
@@ -3241,7 +3364,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -3260,7 +3384,8 @@
           "lang": "telugu"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Otto -von-Guericke University Magdeburg",
           "url": "https://www.xing.com/search/members?keywords=Otto+-von-Guericke+University+Magdeburg",
@@ -3276,7 +3401,8 @@
       ],
       "qualifications": "Bachelors in Informatic @ SCSVMV Univeristy, Kanchipuram, India",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelors+in+Informatic+%40+SCSVMV+Univeristy%2C+Kanchipuram%2C+India",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "University Gold Medalist in Bachelors",
           "award_date": "2010"
@@ -3284,14 +3410,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Alexandra Geßner",
           "picture": "https://www.xing.com/img/users/a/b/0/7c80c4801.10024827,18.256x256.jpg",
           "memberSince_Hits": "22. April 2008 / 3062",
           "currJobDescr": "Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Manager",
               "company": "myToys.de GmbH (A member of the Otto Group)",
@@ -3379,7 +3507,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3393,7 +3522,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Merseburg (FH)",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Merseburg+%28FH%29",
@@ -3403,7 +3533,8 @@
       ],
       "qualifications": "2. Platz Startupweekend Berlin 2011 (Gründerworkshop)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=2.+Platz+Startupweekend+Berlin+2011+%28Gr%C3%BCnderworkshop%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Kundenorientierte Internetseiten:Nr. 1 Online Shops >Bekleidung,Textilien,Schuhe",
           "award_date": "www.welt.de/sonderthemen/article135850729/Online-Shops-nach-Marktsegment.html"
@@ -3411,14 +3542,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jan Schammer",
           "picture": "https://www.xing.com/image/d_3_2_71be165b3_15472445_22/jan-schammer-foto.256x256.jpg",
           "memberSince_Hits": "4. November 2010 / 3876",
           "currJobDescr": "Senior Product Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager",
               "company": "PETS DELI Roseneck GmbH",
@@ -3478,7 +3611,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3492,7 +3626,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Berlin",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Berlin",
@@ -3505,14 +3640,16 @@
     },
     {
       "sex":"m",
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Claas Jans",
           "picture": "https://www.xing.com/image/2_0_2_859344904_6637484_8/claas-jans-foto.256x256.jpg",
           "memberSince_Hits": "24. Oktober 2006 / 5575",
           "currJobDescr": "Senior Product Manager / Product Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager / Product Owner",
               "company": "CTS EVENTIM Sports GmbH",
@@ -3600,7 +3737,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3608,7 +3746,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universiteit van Tilburg (NL)",
           "url": "https://www.xing.com/search/members?keywords=Universiteit+van+Tilburg+%28NL%29",
@@ -3626,14 +3765,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Besitzer+der+Shopdomain+MyShirts4You.com+%28Webdesign%2BTextildesign%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Ben-Lahcen",
           "picture": "https://www.xing.com/image/b_6_1_3ed75b044_6630117_6/sebastian-ben-lahcen-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2006 / 5688",
           "currJobDescr": "Senior Produkt-Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Produkt-Manager",
               "company": "ClassiConn Dortmund GmbH & Co. KG",
@@ -3714,7 +3855,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3728,7 +3870,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ruhr-Universität Bochum",
           "url": "https://www.xing.com/search/members?keywords=Ruhr-Universit%C3%A4t+Bochum",
@@ -3740,14 +3883,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Visual+Paradigm+Suite"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Fischer",
           "picture": "https://www.xing.com/image/f_b_0_d02532b63_6000696_14/thomas-fischer-foto.256x256.jpg",
           "memberSince_Hits": "26. Mai 2006 / 8472",
           "currJobDescr": "Head of Product Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Product Management",
               "company": "Immonet GmbH // Axel Springer SE",
@@ -3772,7 +3917,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3782,7 +3928,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Wismar - University of Technology Business and Design",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Wismar+-+University+of+Technology+Business+and+Design",
@@ -3794,14 +3941,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+ScrumMaster+-+CSM+%282010%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Mackel",
           "picture": "https://www.xing.com/image/c_4_7_ac2f2daba_388231_2/daniel-mackel-foto.256x256.jpg",
           "memberSince_Hits": "14. Juli 2004 / 15699",
           "currJobDescr": "Group Product Manager User Services (Bereichsleitung)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Group Product Manager User Services (Bereichsleitung)",
               "company": "idealo internet GmbH",
@@ -3868,7 +4017,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3876,7 +4026,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Institut of Electronic Business Berlin, Universität der Künste Berlin",
           "url": "https://www.xing.com/search/members?keywords=Institut+of+Electronic+Business+Berlin%2C+Universit%C3%A4t+der+K%C3%BCnste+Berlin",
@@ -3890,7 +4041,8 @@
       ],
       "qualifications": "Scrum Product Owner Advanced (2011)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Scrum+Product+Owner+Advanced+%282011%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Beitrag zum 5. Workshop der GMDS-Projektgruppe Mobiles Computing in der Medizin",
           "award_date": "www.shaker.de/Online-Gesamtkatalog-Download/2008.04.14-15.59.35-89.202.163.174-rad64C5E.tmp/3-8322-4394-1_INH.PDF"
@@ -3906,14 +4058,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matteo Gamba",
           "picture": "https://www.xing.com/image/4_3_1_440792a6c_17451947_11/matteo-gamba-foto.256x256.jpg",
           "memberSince_Hits": "8. März 2012 / 3337",
           "currJobDescr": "Senior Product Manager - CA, UK & DE stores",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Manager - CA, UK & DE stores",
               "company": "Wayfair",
@@ -4001,7 +4155,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -4015,7 +4170,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Florida",
           "url": "https://www.xing.com/search/members?keywords=University+of+Florida",
@@ -4039,14 +4195,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ECDL+%282005%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Guido Marquardt",
           "picture": "https://www.xing.com/image/7_c_e_78ce42579_386992_3/guido-marquardt-foto.256x256.jpg",
           "memberSince_Hits": "12. Juli 2004 / 10415",
           "currJobDescr": "Leiter Produktmanagement",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Leiter Produktmanagement",
               "company": "ACP IT Solutions AG",
@@ -4134,7 +4292,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -4148,7 +4307,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karriereberater-Akademie (Martin Wehrle)",
           "url": "https://www.xing.com/search/members?keywords=Karriereberater-Akademie+%28Martin+Wehrle%29",
@@ -4170,7 +4330,8 @@
       ],
       "qualifications": "Certified ScrumMaster (CSM)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+ScrumMaster+%28CSM%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "OnlineStar",
           "award_date": "2009"

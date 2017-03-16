@@ -1,16 +1,19 @@
 {
   "category": "Back end Developer",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "David Reynolds",
           "picture": "https://www.xing.com/image/1_5_2_96e6c0c7d_25949576_1/david-reynolds-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2016 / 290",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "David Reynolds",
@@ -224,7 +227,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -234,7 +238,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Queen Mary, University of London",
           "url": "https://www.xing.com/search/members?keywords=Queen+Mary%2C+University+of+London",
@@ -244,14 +249,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mladen Gulan",
           "picture": "https://www.xing.com/image/b_d_5_53792adb5_24789795_1/mladen-gulan-foto.256x256.jpg",
           "memberSince_Hits": "15. April 2016 / 351",
           "currJobDescr": "PHP and Front-End Web Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "PHP and Front-End Web Developer",
               "company": "Carnegie Technologies",
@@ -285,7 +292,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -308,7 +316,8 @@
           "lang": "Bosnian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Faculty of Business and Industrial Management, University \"Union\", Belgrade",
           "url": "https://www.xing.com/search/members?keywords=Faculty+of+Business+and+Industrial+Management%2C+University+%22Union%22%2C+Belgrade",
@@ -338,14 +347,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+of+Belgrade+Stock+Exchange+%22Basic+course+on+Stock+Exchanges%22"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Davide Alberto Molin",
           "picture": "https://www.xing.com/image/a_6_5_762c37d75_6740784_3/davide-alberto-molin-foto.256x256.jpg",
           "memberSince_Hits": "21. November 2006 / 1739",
           "currJobDescr": "Full-Stack Developer (remote)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Full-Stack Developer (remote)",
               "company": "Hubro Education",
@@ -515,7 +526,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -527,14 +539,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=High+School+diploma+in+Advertising.+mark%3A+60%2F60"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Martin Geise",
           "picture": "https://www.xing.com/img/users/0/c/7/5e7f1d250.6811912,1.256x256.jpg",
           "memberSince_Hits": "8. Dezember 2006 / 2748",
           "currJobDescr": "Senior Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Developer",
               "company": "365FarmNet Group GmbH & Co.KG",
@@ -636,7 +650,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -644,7 +659,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "(F)HTW Berlin, University of applied sciences (Berlin - Germany)",
           "url": "https://www.xing.com/search/members?keywords=%28F%29HTW+Berlin%2C+University+of+applied+sciences+%28Berlin+-+Germany%29",
@@ -654,14 +670,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alberto Fortes Sánchez",
           "picture": "https://www.xing.com/image/c_f_d_8df275b63_8263062_2/alberto-fortes-s%C3%A1nchez-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2007 / 1927",
           "currJobDescr": "Web Designer & Front End developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Designer & Front End developer",
               "company": "Zinkia Entertainment",
@@ -742,12 +760,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Academia Integral",
           "url": "https://www.xing.com/search/members?keywords=Academia+Integral",
@@ -765,14 +785,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Licenciado+en+Filosof%C3%ADa%2C+Fac+de+M%C3%A1laga+%282001%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Georgij Černyšiov",
           "picture": "https://www.xing.com/img/users/9/5/d/1be1606da.19780861,11.256x256.jpg",
           "memberSince_Hits": "30. Oktober 2013 / 1282",
           "currJobDescr": "Distributed Systems Lead Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Distributed Systems Lead Developer",
               "company": "MONKEY WORKS GmbH",
@@ -811,7 +833,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -827,7 +850,8 @@
       ],
       "qualifications": "IELTS",
       "qualifications_url": "https://www.xing.com/search/members?keywords=IELTS",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "“Conexum” Information Technology Online Competition For Students",
           "award_date": "conexum.lt/?lang=en"
@@ -835,14 +859,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mirek Ratman",
           "picture": "https://www.xing.com/image/1_6_7_44932c7f7_10415693_3/mirek-ratman-foto.256x256.jpg",
           "memberSince_Hits": "17. Juli 2008 / 3697",
           "currJobDescr": "Senior Backend Developer (PHP, Javascript, Doctrine, Elastic Search)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Backend Developer (PHP, Javascript, Doctrine, Elastic Search)",
               "company": "E-commerce Holding Ltd. (a part of Rockaway Capital Group - rockawaycapital.com)",
@@ -951,7 +977,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Polnisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -968,7 +995,8 @@
           "lang": "Slovak"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Silesia - Katowice - Poland",
           "url": "https://www.xing.com/search/members?keywords=University+of+Silesia+-+Katowice+-+Poland",
@@ -980,14 +1008,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=good+knowledge+in+graphics+and+animations+technologies+Photoshop+and+Flash"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Fedor Veriaiskiy",
           "picture": "https://www.xing.com/image/0_b_e_45c4f8d47_21486616_1/fedor-veriaiskiy-foto.256x256.jpg",
           "memberSince_Hits": "4. Dezember 2014 / 810",
           "currJobDescr": "Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Developer",
               "company": "1&1 Internet SE",
@@ -1026,7 +1056,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1040,7 +1071,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Saint Petersburg State Polytechnical University",
           "url": "https://www.xing.com/search/members?keywords=Saint+Petersburg+State+Polytechnical+University",
@@ -1050,14 +1082,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Aleksander Wons",
           "picture": "https://www.xing.com/image/5_7_a_654a1b761_17871887_2/aleksander-wons-foto.256x256.jpg",
           "memberSince_Hits": "28. Mai 2012 / 2015",
           "currJobDescr": "Senior Backend Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Backend Developer",
               "company": "Daft Media Limited",
@@ -1103,7 +1137,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Polnisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1117,7 +1152,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Opole University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Opole+University+of+Technology",
@@ -1127,14 +1163,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Janis Freiberg",
           "picture": "https://www.xing.com/image/5_1_b_7051f4359_18885782_3/janis-freiberg-foto.256x256.jpg",
           "memberSince_Hits": "12. März 2013 / 1430",
           "currJobDescr": "(Full Stack) Senior Web-Developer, Engineer, Arhitect: Interactive IPTV/VOD",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "(Full Stack) Senior Web-Developer, Engineer, Arhitect: Interactive IPTV/VOD",
               "company": "IZZI, SIA",
@@ -1187,7 +1225,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1204,7 +1243,8 @@
           "lang": "Lettisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Ventspils",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Ventspils",
@@ -1222,14 +1262,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=RailsConf+Europe+2008"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "yuriy khavaldzhy",
           "picture": "https://www.xing.com/image/5_3_0_414459455_24128930_1/yuriy-khavaldzhy-foto.256x256.jpg",
           "memberSince_Hits": "18. Januar 2016 / 77",
           "currJobDescr": "Java Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Java Developer",
               "company": "AGM Soft corp. (Minsk, Belarus)",
@@ -1247,7 +1289,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1255,14 +1298,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ivaylo Tabakov",
           "picture": "https://www.xing.com/image/0_6_9_90e253369_16297965_4/ivaylo-tabakov-foto.256x256.jpg",
           "memberSince_Hits": "18. Mai 2011 / 5404",
           "currJobDescr": "Senior .NET Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior .NET Software Developer",
               "company": "State Street Bank GmbH",
@@ -1336,7 +1381,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1353,7 +1399,8 @@
           "lang": "Bulgarian First Language"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University “St. Kliment Ohridski”, Sofia, Bulgaria",
           "url": "https://www.xing.com/search/members?keywords=University+%E2%80%9CSt.+Kliment+Ohridski%E2%80%9D%2C+Sofia%2C+Bulgaria",
@@ -1381,7 +1428,8 @@
       ],
       "qualifications": "2008 IETLS score - 7.0 - equal to TOEFL paper- 600 and TOEFL Computer - 250",
       "qualifications_url": "https://www.xing.com/search/members?keywords=2008+IETLS+score+-+7.0+-+equal+to+TOEFL+paper-+600+and+TOEFL+Computer+-+250",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Best Exchange Student in UEC Tokyo",
           "award_date": "www.uec.ac.jp/eng/"
@@ -1389,14 +1437,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Junaid Farooqui",
           "picture": "https://www.xing.com/image/8_8_a_31ea9c391_25260029_1/junaid-farooqui-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2016 / 49",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Enter markets, United Arab Emirates",
@@ -1449,13 +1499,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Silver Performer of the year",
           "award_date": "2014"
@@ -1471,14 +1523,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bogdan Plieshka",
           "picture": "https://www.xing.com/image/8_2_4_89c8b76e2_19036457_4/bogdan-plieshka-foto.256x256.jpg",
           "memberSince_Hits": "22. April 2013 / 1089",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Pepper.com - The World's Largest Deal Community",
@@ -1524,7 +1578,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1541,7 +1596,8 @@
           "lang": "Ukranian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'",
           "url": "https://www.xing.com/search/members?keywords=National+Technical+University+of+Ukraine+%27Kyiv+Polytechnic+Institute%27",
@@ -1551,14 +1607,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Anne Timo Berend Dikkerboom",
           "picture": "https://www.xing.com/image/c_2_2_0d1975286_7462568_3/anne-timo-berend-dikkerboom-foto.256x256.jpg",
           "memberSince_Hits": "6. Juni 2007 / 1803",
           "currJobDescr": "Web Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Developer",
               "company": "Dikkerboom Internet Services",
@@ -1583,7 +1641,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1594,7 +1653,8 @@
           "lang": "Niederländisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Oldenburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Oldenburg"
@@ -1602,14 +1662,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sergey Shevchenko",
           "picture": "https://www.xing.com/image/1_5_0_0f1bb0771_19887314_1/sergey-shevchenko-foto.256x256.jpg",
           "memberSince_Hits": "26. November 2013 / 472",
           "currJobDescr": "Senior PHP Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior PHP Developer",
               "company": "W3 EDGE",
@@ -1634,7 +1696,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1648,7 +1711,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kharkiv National Aerospace University",
           "url": "https://www.xing.com/search/members?keywords=Kharkiv+National+Aerospace+University",
@@ -1658,14 +1722,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Alexandra Borovova",
           "picture": "https://www.xing.com/image/a_d_e_5579f8c1d_25833724_1/alexandra-borovova-foto.256x256.jpg",
           "memberSince_Hits": "12. September 2016 / 56",
           "currJobDescr": "Frontend Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Frontend Developer",
               "company": "First International Bookmaker Company",
@@ -1697,7 +1763,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1711,7 +1778,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bauman Moscow State Technical University",
           "url": "https://www.xing.com/search/members?keywords=Bauman+Moscow+State+Technical+University",
@@ -1721,14 +1789,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Олег Бойко",
           "picture": "https://www.xing.com/image/f_3_6_5801edb8d_20827297_1/%D0%BE%D0%BB%D0%B5%D0%B3-%D0%B1%D0%BE%D0%B9%D0%BA%D0%BE-foto.256x256.jpg",
           "memberSince_Hits": "24. Juli 2014 / 119",
           "currJobDescr": "Back-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Back-End Developer",
               "company": "Brainify Today",
@@ -1753,7 +1823,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Fließend)"
@@ -1763,7 +1834,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ternopil National Economic University",
           "url": "https://www.xing.com/search/members?keywords=Ternopil+National+Economic+University",
@@ -1779,14 +1851,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Davor Ecimovic",
           "picture": "https://www.xing.com/image/4_3_a_69e7d5361_20882005_1/davor-ecimovic-foto.256x256.jpg",
           "memberSince_Hits": "8. August 2014 / 542",
           "currJobDescr": "Lead Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lead Front-end Developer",
               "company": "Funstage",
@@ -1832,7 +1906,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -1849,7 +1924,8 @@
           "lang": "Bosnian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Pan-European University Apeiron",
           "url": "https://www.xing.com/search/members?keywords=Pan-European+University+Apeiron",
@@ -1861,14 +1937,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+System+Engineer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Samer Baydoun",
           "picture": "https://www.xing.com/image/1_3_a_d16d2ed32_15953723_1/samer-baydoun-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2011 / 1015",
           "currJobDescr": "Game Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Game Developer",
               "company": "Travian Games GmbH",
@@ -1928,7 +2006,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1942,7 +2021,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Syrian Virtual University & Edexcel",
           "url": "https://www.xing.com/search/members?keywords=Syrian+Virtual+University+%26+Edexcel",
@@ -1964,14 +2044,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Birol Apaydın",
           "picture": "https://www.xing.com/image/7_2_3_f97326e51_13710491_3/birol-apayd%C4%B1n-foto.256x256.jpg",
           "memberSince_Hits": "30. Dezember 2009 / 736",
           "currJobDescr": "Front-End Back-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Back-End Developer",
               "company": "GNG Tanıtım",
@@ -1989,7 +2071,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1999,7 +2082,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Anadolu Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=Anadolu+%C3%9Cniversitesi",
@@ -2015,14 +2099,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bassem Rabia",
           "picture": "https://www.xing.com/image/c_b_6_95b6695ef_19115082_6/bassem-rabia-foto.256x256.jpg",
           "memberSince_Hits": "13. Mai 2013 / 1536",
           "currJobDescr": "Web 2.0 Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web 2.0 Developer",
               "company": "Norfolky",
@@ -2068,7 +2154,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2086,7 +2173,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "The Higher Institute of Computer Science and Mathematics from the University of",
           "url": "https://www.xing.com/search/members?keywords=The+Higher+Institute+of+Computer+Science+and+Mathematics+from+the+University+of",
@@ -2098,14 +2186,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Applied+Information+Technology+Degree%3A+Computer+Systems+and+Software"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bernard Thouin",
           "picture": "https://www.xing.com/image/4_b_3_d04f4ceaa_3358929_2/bernard-thouin-foto.256x256.jpg",
           "memberSince_Hits": "3. März 2005 / 2821",
           "currJobDescr": "Business applications RAD developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Business applications RAD developer",
               "company": "Banco Itaú, Zurich branch",
@@ -2277,7 +2367,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2291,7 +2382,8 @@
           "lang": "Schwedisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "INSEAD, Fontainebleau, France",
           "url": "https://www.xing.com/search/members?keywords=INSEAD%2C+Fontainebleau%2C+France",
@@ -2305,7 +2397,8 @@
           "eduDuration": "09/1965 - 06/1969"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "UBS Process Excellence Award",
           "award_date": "2006"
@@ -2313,14 +2406,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Arley Triana Morín",
           "picture": "https://www.xing.com/image/1_1_f_ae3b47df9_13677692_7/arley-triana-mor%C3%ADn-foto.256x256.jpg",
           "memberSince_Hits": "22. Dezember 2009 / 3075",
           "currJobDescr": "Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Developer",
               "company": "SAP SE",
@@ -2366,7 +2461,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2380,7 +2476,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Computer Sciences, Havana, Cuba",
           "url": "https://www.xing.com/search/members?keywords=University+of+Computer+Sciences%2C+Havana%2C+Cuba",
@@ -2388,7 +2485,8 @@
           "eduDuration": "09/2003 - 09/2007"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "SAP Spot Award",
           "award_date": "2016"
@@ -2408,14 +2506,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Claudio Capo",
           "picture": "https://www.xing.com/image/7_8_2_f1061cc25_24833306_5/claudio-capo-foto.256x256.jpg",
           "memberSince_Hits": "21. April 2016 / 306",
           "currJobDescr": "Web Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Developer",
               "company": "Web Developer",
@@ -2475,7 +2575,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2489,14 +2590,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=PHP+Developer+Fundamentals+on+MySQL%C2%AE+Environment+-+Certification"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Muhammed Athimannil",
           "picture": "https://www.xing.com/image/4_d_7_fe98572d6_24653015_1/muhammed-athimannil-foto.256x256.jpg",
           "memberSince_Hits": "26. März 2016 / 270",
           "currJobDescr": "Frontend Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Frontend Developer",
               "company": "Carspring",
@@ -2556,7 +2659,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2566,7 +2670,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "London Metropolitan University",
           "url": "https://www.xing.com/search/members?keywords=London+Metropolitan+University",
@@ -2582,14 +2687,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Adrián Silvestre Martínez",
           "picture": "https://www.xing.com/image/7_e_a_2f0953f74_19141045_4/adri%C3%A1n-silvestre-mart%C3%ADnez-foto.256x256.jpg",
           "memberSince_Hits": "20. Mai 2013 / 791",
           "currJobDescr": "Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Developer",
               "company": "InterCultural Elements GmbH & Co. KG",
@@ -2635,7 +2742,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2660,7 +2768,8 @@
           "lang": "Catalan Valencian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Isik University - Turkey",
           "url": "https://www.xing.com/search/members?keywords=Isik+University+-+Turkey",
@@ -2678,14 +2787,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Deutsch+als+Fremdsprache+Telc+-+B1+"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Aliaksandr Kavalevich",
           "picture": "https://www.xing.com/image/4_9_1_e55e86688_20549733_1/aliaksandr-kavalevich-foto.256x256.jpg",
           "memberSince_Hits": "14. Mai 2014 / 849",
           "currJobDescr": "Senior Backend Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Backend Developer",
               "company": "Zalando SE",
@@ -2738,7 +2849,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2748,7 +2860,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Dzjarzauny Belorussko-Rossijskij Universitet, Mogilev, Belarus",
           "url": "https://www.xing.com/search/members?keywords=Dzjarzauny+Belorussko-Rossijskij+Universitet%2C+Mogilev%2C+Belarus",
@@ -2772,14 +2885,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Scrum+Master"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sven Kaiser",
           "picture": "https://www.xing.com/image/7_8_9_10446d101_6212209_4/sven-kaiser-foto.256x256.jpg",
           "memberSince_Hits": "18. Juli 2006 / 14395",
           "currJobDescr": "Senior Software Developer | Unified Rendering",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Developer | Unified Rendering",
               "company": "SAP SE",
@@ -2881,7 +2996,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2889,7 +3005,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=Darmstadt",
@@ -2908,7 +3025,8 @@
       ],
       "qualifications": "Autor - Typo3 Magazin",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Autor+-+Typo3+Magazin",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Siegerurkunde Bundesjugendspiele"
         },
@@ -2918,14 +3036,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mohamed Abderrezak djadoun",
           "picture": "https://www.xing.com/img/users/9/f/2/71a412688.22628519,1.256x256.jpg",
           "memberSince_Hits": "3. Juni 2015 / 459",
           "currJobDescr": "Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Developer",
               "company": "Seerene GmbH",
@@ -2971,7 +3091,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2989,7 +3110,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Sciences and Technology Houari Boumediene",
           "url": "https://www.xing.com/search/members?keywords=University+of+Sciences+and+Technology+Houari+Boumediene",
@@ -2999,14 +3121,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tibor Varga",
           "picture": "https://www.xing.com/image/a_c_f_429943e8d_20952931_1/tibor-varga-foto.256x256.jpg",
           "memberSince_Hits": "25. August 2014 / 792",
           "currJobDescr": "Senior Java/J2EE Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Java/J2EE Developer",
               "company": "VICO Research & Consulting GmbH",
@@ -3085,7 +3209,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -3099,7 +3224,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Budapest, Ungarn",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Budapest%2C+Ungarn",
@@ -3115,14 +3241,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Hendrik Berends",
           "picture": "https://www.xing.com/image/e_c_e_9c19b9f44_17249761_10/hendrik-berends-foto.256x256.jpg",
           "memberSince_Hits": "19. Januar 2012 / 1983",
           "currJobDescr": "Web Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Developer",
               "company": "GOLDLAND MEDIA GmbH",
@@ -3174,7 +3302,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3184,7 +3313,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "cimdata.de Akademie für digitale Medien",
           "url": "https://www.xing.com/search/members?keywords=cimdata.de+Akademie+f%C3%BCr+digitale+Medien",
@@ -3200,14 +3330,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Şevket Bulamaz",
           "picture": "https://www.xing.com/image/2_d_1_a8388d42c_14086456_2/%C5%9Fevket-bulamaz-foto.256x256.jpg",
           "memberSince_Hits": "7. März 2010 / 1237",
           "currJobDescr": "Senior Web Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Web Developer",
               "company": "Markafoni",
@@ -3232,7 +3364,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch"
         },
@@ -3240,7 +3373,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Eskişehir Osmangazi Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=Eski%C5%9Fehir+Osmangazi+%C3%9Cniversitesi",
@@ -3250,7 +3384,8 @@
       ],
       "qualifications": "MSSQL, Access",
       "qualifications_url": "https://www.xing.com/search/members?keywords=MSSQL%2C+Access",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "En başarılı Koca ödülü",
           "award_date": "2010"
@@ -3262,14 +3397,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Łukasz Szumyło",
           "picture": "https://www.xing.com/image/9_5_0_f9daf083f_15476257_1/%C5%82ukasz-szumy%C5%82o-foto.256x256.jpg",
           "memberSince_Hits": "5. November 2010 / 1009",
           "currJobDescr": "Xamarin Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Xamarin Developer",
               "company": "BLStream",
@@ -3343,7 +3480,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Polnisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3353,7 +3491,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Wrocław University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Wroc%C5%82aw+University+of+Technology",
@@ -3363,14 +3502,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Montaser Elsawy",
           "picture": "https://www.xing.com/image/b_d_7_47c5532e4_21074028_1/montaser-elsawy-foto.256x256.jpg",
           "memberSince_Hits": "18. September 2014 / 263",
           "currJobDescr": "Senior Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Software Developer",
               "company": "ACS",
@@ -3416,7 +3557,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3426,7 +3568,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Cairo",
           "url": "https://www.xing.com/search/members?keywords=Cairo",
@@ -3438,14 +3581,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Berlitz+English"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ivan Vlasov",
           "picture": "https://www.xing.com/image/5_2_e_8f3c0a146_19328347_1/ivan-vlasov-foto.256x256.jpg",
           "memberSince_Hits": "5. Juli 2013 / 374",
           "currJobDescr": "Front-end developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-end developer",
               "company": "WeSee",
@@ -3490,7 +3635,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3504,7 +3650,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Samara State Technical University",
           "url": "https://www.xing.com/search/members?keywords=Samara+State+Technical+University",
@@ -3516,14 +3663,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=IELTS+%286%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Brandon Taylor",
           "picture": "https://www.xing.com/image/9_6_a_1ea382dea_22261458_1/brandon-taylor-foto.256x256.jpg",
           "memberSince_Hits": "1. April 2015 / 435",
           "currJobDescr": "Full Stack Django Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Full Stack Django Developer",
               "company": "Celerity",
@@ -3576,7 +3725,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3590,7 +3740,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Oklahoma State University",
           "url": "https://www.xing.com/search/members?keywords=Oklahoma+State+University",
@@ -3604,7 +3755,8 @@
           "eduDuration": "1992 - 1994"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Edward R. Murrow Award",
           "award_date": "www.texastribune.org/2010/06/16/good-night-and-good-on-us/"
@@ -3632,14 +3784,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ricardo Borelli",
           "picture": "https://www.xing.com/image/b_8_4_f1092ee5f_11986534_1/ricardo-borelli-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2009 / 1071",
           "currJobDescr": "iOS Software Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "iOS Software Developer",
               "company": "PagSeguro UOL",
@@ -3685,7 +3839,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3695,7 +3850,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidade São Judas Tadeu",
           "url": "https://www.xing.com/search/members?keywords=Universidade+S%C3%A3o+Judas+Tadeu",
@@ -3711,14 +3867,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ionut Alexuc",
           "picture": "https://www.xing.com/image/e_4_5_d8f88cf32_10075938_4/ionut-alexuc-foto.256x256.jpg",
           "memberSince_Hits": "1. Mai 2008 / 2942",
           "currJobDescr": "Drupal Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Drupal Developer",
               "company": "LimePixels",
@@ -3743,7 +3901,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3757,7 +3916,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Master, West University of Timisoara",
           "url": "https://www.xing.com/search/members?keywords=Master%2C+West+University+of+Timisoara",

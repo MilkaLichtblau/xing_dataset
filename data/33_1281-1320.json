@@ -1,16 +1,19 @@
 {
   "category": "Front End Developer",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Diana Ilithya",
           "picture": "https://www.xing.com/img/users/4/3/c/cdcb2d657.5839429,20.256x256.jpg",
           "memberSince_Hits": "17. April 2006 / 3268",
           "currJobDescr": "Web Designer & Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Designer & Front-End Developer",
               "company": "Freelance",
@@ -140,7 +143,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -162,7 +166,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Treehouse Inc. (USA)",
           "url": "https://www.xing.com/search/members?keywords=Treehouse+Inc.+%28USA%29",
@@ -190,7 +195,8 @@
       ],
       "qualifications": "CMS: WordPress.",
       "qualifications_url": "https://www.xing.com/search/members?keywords=CMS%3A+WordPress.",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Design Mention (Aug) for a Personal Website",
           "award_date": "www.awwwards.com/best-websites/ilithya-net"
@@ -202,14 +208,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alberto Fortes Sánchez",
           "picture": "https://www.xing.com/image/c_f_d_8df275b63_8263062_2/alberto-fortes-s%C3%A1nchez-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2007 / 1927",
           "currJobDescr": "Web Designer & Front End developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Designer & Front End developer",
               "company": "Zinkia Entertainment",
@@ -290,12 +298,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Academia Integral",
           "url": "https://www.xing.com/search/members?keywords=Academia+Integral",
@@ -313,14 +323,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Licenciado+en+Filosof%C3%ADa%2C+Fac+de+M%C3%A1laga+%282001%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oliver Schafeld",
           "picture": "https://www.xing.com/image/5_b_e_3bd5d6104_4402232_4/oliver-schafeld-foto.256x256.jpg",
           "memberSince_Hits": "24. November 2005 / 7142",
           "currJobDescr": "Senior Front-End Developer (freelance)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front-End Developer (freelance)",
               "company": "Unitymedia",
@@ -376,7 +388,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -394,7 +407,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Coursera",
           "url": "https://www.xing.com/search/members?keywords=Coursera",
@@ -426,7 +440,8 @@
       ],
       "qualifications": "Agile Software Development",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Agile+Software+Development",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Multiplatform Mobile App Development with Web Technologies",
           "award_date": "https://www.coursera.org/account/accomplishments/records/G9D768NDFYUS"
@@ -450,14 +465,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Fauzan Khan",
           "picture": "https://www.xing.com/image/6_c_f_39cecbc4c_25755750_1/fauzan-khan-foto.256x256.jpg",
           "memberSince_Hits": "3. September 2016 / 154",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "SharePop",
@@ -489,7 +506,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -505,14 +523,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Technology+%28Computer+Science+%26+Engineering%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Davor Ecimovic",
           "picture": "https://www.xing.com/image/4_3_a_69e7d5361_20882005_1/davor-ecimovic-foto.256x256.jpg",
           "memberSince_Hits": "8. August 2014 / 542",
           "currJobDescr": "Lead Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lead Front-end Developer",
               "company": "Funstage",
@@ -558,7 +578,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -575,7 +596,8 @@
           "lang": "Bosnian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Pan-European University Apeiron",
           "url": "https://www.xing.com/search/members?keywords=Pan-European+University+Apeiron",
@@ -587,14 +609,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+System+Engineer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Junaid Farooqui",
           "picture": "https://www.xing.com/image/8_8_a_31ea9c391_25260029_1/junaid-farooqui-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2016 / 49",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Enter markets, United Arab Emirates",
@@ -647,13 +671,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Silver Performer of the year",
           "award_date": "2014"
@@ -669,14 +695,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Aleksandar Prohaska",
           "picture": "https://www.xing.com/image/6_1_9_5d06c9ff9_18952414_1/aleksandar-prohaska-foto.256x256.jpg",
           "memberSince_Hits": "29. März 2013 / 1154",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "DuMont Net GmbH & Co. KG",
@@ -708,13 +736,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Novi Sad",
           "url": "https://www.xing.com/search/members?keywords=University+of+Novi+Sad",
@@ -723,14 +753,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Arkadiusz Chatys",
           "picture": "https://www.xing.com/image/5_9_7_a9246a859_25761618_1/arkadiusz-chatys-foto.256x256.jpg",
           "memberSince_Hits": "4. September 2016 / 46",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Squiz",
@@ -748,7 +780,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -758,7 +791,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
           "url": "https://www.xing.com/search/members?keywords=Zachodniopomorski+Uniwersytet+Technologiczny+w+Szczecinie",
@@ -768,14 +802,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Iliuta Stoica",
           "picture": "https://www.xing.com/image/3_0_e_514e7fbb7_17029680_4/iliuta-stoica-foto.256x256.jpg",
           "memberSince_Hits": "21. November 2011 / 978",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "IliutaStoica",
@@ -807,7 +843,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -817,7 +854,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Gh Asachi",
           "url": "https://www.xing.com/search/members?keywords=Gh+Asachi",
@@ -825,7 +863,8 @@
           "eduDuration": "09/2005 - 06/2009"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Graphical Designer",
           "award_date": "2009"
@@ -833,14 +872,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alessandro Maruccia",
           "picture": "https://www.xing.com/image/a_c_0_3d8d72e3d_17070362_3/alessandro-maruccia-foto.256x256.jpg",
           "memberSince_Hits": "1. Dezember 2011 / 2171",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "RaceBets International Gaming Ltd.",
@@ -879,7 +920,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -895,14 +937,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Aleksandar Krajnalic",
           "picture": "https://www.xing.com/image/9_0_0_6cee0b9da_10828483_4/aleksandar-krajnalic-foto.256x256.jpg",
           "memberSince_Hits": "7. August 2008 / 1553",
           "currJobDescr": "Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-end Developer",
               "company": "scripttic",
@@ -941,7 +985,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -956,14 +1001,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Maximiliano Porrés",
           "picture": "https://www.xing.com/image/8_a_2_19930bfe1_19105165_1/maximiliano-porr%C3%A9s-foto.256x256.jpg",
           "memberSince_Hits": "10. Mai 2013 / 760",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "Everis",
@@ -1002,7 +1049,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1016,7 +1064,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Central Tech Education Center",
           "url": "https://www.xing.com/search/members?keywords=Central+Tech+Education+Center",
@@ -1044,14 +1093,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dirk Schmid",
           "picture": "https://www.xing.com/image/6_4_8_a2b6ddfe4_13370982_7/dirk-schmid-foto.256x256.jpg",
           "memberSince_Hits": "28. Oktober 2009 / 4611",
           "currJobDescr": "Interaction Designer & Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Interaction Designer & Front End Developer",
               "company": "Dirk Schmid",
@@ -1097,7 +1148,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1107,7 +1159,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HS Anhalt",
           "url": "https://www.xing.com/search/members?keywords=HS+Anhalt",
@@ -1115,7 +1168,8 @@
           "eduDuration": "10/2006 - 02/2011"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "TDC Communication Design Winner 2012",
           "award_date": "www.tdc.org/tdc-communication-design-winners-2012/"
@@ -1139,14 +1193,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matteo Crippa",
           "picture": "https://www.xing.com/image/d_6_f_2d28b9145_18782404_2/matteo-crippa-foto.256x256.jpg",
           "memberSince_Hits": "13. Februar 2013 / 697",
           "currJobDescr": "UI & UX Designer, Front end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "UI & UX Designer, Front end Developer",
               "company": "Modomodo",
@@ -1192,7 +1248,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1206,7 +1263,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Consorzio Sintesa Milano / Fondo Sociale Europeo/Regione Lombardia",
           "url": "https://www.xing.com/search/members?keywords=Consorzio+Sintesa+Milano+%2F+Fondo+Sociale+Europeo%2FRegione+Lombardia",
@@ -1224,14 +1282,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Front+end+developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefano Longo",
           "picture": "https://www.xing.com/image/c_d_d_dd51d3e11_26634497_1/stefano-longo-foto.256x256.jpg",
           "memberSince_Hits": "14. Dezember 2016 / 22",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Acotel Net",
@@ -1256,7 +1316,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1266,7 +1327,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "La Sapienza",
           "url": "https://www.xing.com/search/members?keywords=La+Sapienza",
@@ -1282,14 +1344,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Olivier Guillard",
           "picture": "https://www.xing.com/image/d_7_a_b55072ea7_17940575_1/olivier-guillard-foto.256x256.jpg",
           "memberSince_Hits": "16. Juni 2012 / 1084",
           "currJobDescr": "Web designer & Front End developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web designer & Front End developer",
               "company": "The World We Live In",
@@ -1325,7 +1389,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1339,7 +1404,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Université François Rabelais",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+Fran%C3%A7ois+Rabelais",
@@ -1349,7 +1415,8 @@
       ],
       "qualifications": "Diplôme professionnalisant INFOGRAPHISTE MULTIMEDIAS, AFPA (2011)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dipl%C3%B4me+professionnalisant+INFOGRAPHISTE+MULTIMEDIAS%2C+AFPA+%282011%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Honorable Mention",
           "award_date": "www.awwwards.com"
@@ -1381,14 +1448,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Darius Calota",
           "picture": "https://www.xing.com/image/5_e_9_c0082ea4e_25135126_1/darius-calota-foto.256x256.jpg",
           "memberSince_Hits": "4. Juni 2016 / 101",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "Munich General Insurance Services RO S.R.L.",
@@ -1420,7 +1489,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Rumänisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1432,14 +1502,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Milena Nedeljkovic",
           "picture": "https://www.xing.com/image/e_5_9_c92f32ecf_24229603_3/milena-nedeljkovic-foto.256x256.jpg",
           "memberSince_Hits": "30. Januar 2016 / 128",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "GotCourts",
@@ -1464,12 +1536,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Krojač Web Design School",
           "url": "https://www.xing.com/search/members?keywords=Kroja%C4%8D+Web+Design+School",
@@ -1485,14 +1559,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Hannes Stein",
           "picture": "https://www.xing.com/image/e_8_e_c8e49b5f1_21789777_1/hannes-stein-foto.256x256.jpg",
           "memberSince_Hits": "26. Januar 2015 / 846",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "trivago",
@@ -1517,7 +1593,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1527,7 +1604,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik%2C+Wirtschaft+und+Kultur+Leipzig",
@@ -1537,14 +1615,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mina Hosseini Moghadam",
           "picture": "https://www.xing.com/image/5_6_5_8ddb9c013_26152747_3/mina-hosseini-moghadam-foto.256x256.jpg",
           "memberSince_Hits": "20. Oktober 2016 / 35",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "Yara Information Technology",
@@ -1569,7 +1649,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1579,7 +1660,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Alzahra University",
           "url": "https://www.xing.com/search/members?keywords=Alzahra+University",
@@ -1589,14 +1671,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Skrabl",
           "picture": "https://www.xing.com/image/4_3_c_4a8e2b8e3_13674692_6/alexander-skrabl-foto.256x256.jpg",
           "memberSince_Hits": "22. Dezember 2009 / 1229",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Pulselive",
@@ -1628,7 +1712,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1638,7 +1723,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "BIMA Award for Licence Bureau with DotLabel Ltd.",
           "award_date": "bimaawards.com/"
@@ -1646,14 +1732,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gabriel Ortuño",
           "picture": "https://www.xing.com/image/e_a_7_cf2a974f5_12535570_2/gabriel-ortu%C3%B1o-foto.256x256.jpg",
           "memberSince_Hits": "1. Juni 2009 / 941",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "11870.com",
@@ -1678,7 +1766,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1688,7 +1777,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad de Cadiz",
           "url": "https://www.xing.com/search/members?keywords=Universidad+de+Cadiz",
@@ -1698,14 +1788,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Ahmer Khan",
           "picture": "https://www.xing.com/image/6_5_f_fc652c818_25190635_1/ahmer-khan-foto.256x256.jpg",
           "memberSince_Hits": "13. Juni 2016 / 43",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Bond Internet Consultancy",
@@ -1737,13 +1829,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Karachi",
           "url": "https://www.xing.com/search/members?keywords=University+of+Karachi",
@@ -1753,7 +1847,8 @@
       ],
       "qualifications": "HTML5 CSS3 Certification from W3Schools",
       "qualifications_url": "https://www.xing.com/search/members?keywords=HTML5+CSS3+Certification+from+W3Schools",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Team Performance Award",
           "award_date": "2015"
@@ -1761,14 +1856,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefan Koch",
           "picture": "https://www.xing.com/image/7_2_2_4e6713921_3625920_10/stefan-koch-foto.256x256.jpg",
           "memberSince_Hits": "1. August 2005 / 8147",
           "currJobDescr": "Senior Front-End Developer ( UI/UX )",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front-End Developer ( UI/UX )",
               "company": "Schmidt-Ohm + Partner Werbeagentur GmbH",
@@ -1800,7 +1897,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1814,7 +1912,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Medienschule Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Medienschule+Hamburg",
@@ -1831,14 +1930,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Kaufmann+f%C3%BCr+Marketingkommunikation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bogdan Plieshka",
           "picture": "https://www.xing.com/image/8_2_4_89c8b76e2_19036457_4/bogdan-plieshka-foto.256x256.jpg",
           "memberSince_Hits": "22. April 2013 / 1089",
           "currJobDescr": "Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer",
               "company": "Pepper.com - The World's Largest Deal Community",
@@ -1884,7 +1985,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1901,7 +2003,8 @@
           "lang": "Ukranian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'",
           "url": "https://www.xing.com/search/members?keywords=National+Technical+University+of+Ukraine+%27Kyiv+Polytechnic+Institute%27",
@@ -1911,14 +2014,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marcelo Kutz",
           "picture": "https://www.xing.com/image/0_e_0_c37068d68_17786472_3/marcelo-kutz-foto.256x256.jpg",
           "memberSince_Hits": "4. Mai 2012 / 522",
           "currJobDescr": "Senior Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front-end Developer",
               "company": "Chleba Marketing Digital",
@@ -1929,7 +2034,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1943,7 +2049,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Unibrasil",
           "url": "https://www.xing.com/search/members?keywords=Unibrasil",
@@ -1955,14 +2062,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Curso+de+Ingl%C3%AAs+%28Centro+Europeu+-+2007%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Luisfer Romero Calero",
           "picture": "https://www.xing.com/image/f_c_3_36bc48b82_18574688_3/luisfer-romero-calero-foto.256x256.jpg",
           "memberSince_Hits": "14. Dezember 2012 / 1639",
           "currJobDescr": "Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-end Developer",
               "company": "th data GmbH",
@@ -2036,7 +2145,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2060,14 +2170,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Brian Foree",
           "picture": "https://www.xing.com/image/4_e_8_ea3257bca_26578906_4/brian-foree-foto.256x256.jpg",
           "memberSince_Hits": "7. Dezember 2016 / 56",
           "currJobDescr": "Interaction Designer & Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Interaction Designer & Front-End Developer",
               "company": "Death Angeles",
@@ -2099,7 +2211,8 @@
           ]
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bellevue College",
           "url": "https://www.xing.com/search/members?keywords=Bellevue+College",
@@ -2117,14 +2230,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Attention+to+detail+and+ability+to+work+on+fixed+deadlines."
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Giovanni Canzio",
           "picture": "https://www.xing.com/image/7_b_a_280a8197a_9275893_2/giovanni-canzio-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 3619",
           "currJobDescr": "Usability Designer and Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Usability Designer and Front-end Developer",
               "company": "Open Publishing GmbH",
@@ -2188,7 +2303,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2206,7 +2322,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Istituto Europeo di Design",
           "url": "https://www.xing.com/search/members?keywords=Istituto+Europeo+di+Design",
@@ -2222,14 +2339,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Emanuele Pelliccione",
           "picture": "https://www.xing.com/image/7_4_b_8a5f4b69c_10789962_9/emanuele-pelliccione-foto.256x256.jpg",
           "memberSince_Hits": "30. Juli 2008 / 3006",
           "currJobDescr": "Senior Front-End Developer & Usability Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front-End Developer & Usability Specialist",
               "company": "ECRM Italia",
@@ -2268,7 +2387,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2278,7 +2398,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "L’Agorà Training Center - Milan - Italy",
           "url": "https://www.xing.com/search/members?keywords=L%E2%80%99Agor%C3%A0+Training+Center+-+Milan+-+Italy",
@@ -2306,7 +2427,8 @@
       ],
       "qualifications": "Front-End Web Developer",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Front-End+Web+Developer",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "IWD Award",
           "award_date": "www.italianwebdesign.it/il-premio-di-italianwebdesign-questo-mese-va-a-manuxonline/"
@@ -2318,14 +2440,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Paul Hayes",
           "picture": "https://www.xing.com/image/8_4_2_ce5c054ee_20072351_2/paul-hayes-foto.256x256.jpg",
           "memberSince_Hits": "17. Januar 2014 / 1514",
           "currJobDescr": "Front End Developer & Internet Marketing Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front End Developer & Internet Marketing Consultant",
               "company": "Srsly!",
@@ -2356,12 +2480,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Australian National University",
           "url": "https://www.xing.com/search/members?keywords=Australian+National+University",
@@ -2371,14 +2497,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nicolai Moschüring",
           "picture": "https://www.xing.com/image/c_9_a_ed7653264_11830063_3/nicolai-mosch%C3%BCring-foto.256x256.jpg",
           "memberSince_Hits": "30. Januar 2009 / 1525",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "S2S GmbH",
@@ -2436,7 +2564,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2446,7 +2575,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "LMU München",
           "url": "https://www.xing.com/search/members?keywords=LMU+M%C3%BCnchen",
@@ -2455,14 +2585,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mihail Marcu",
           "picture": "https://www.xing.com/image/7_7_a_4186b6a9f_21025827_1/mihail-marcu-foto.256x256.jpg",
           "memberSince_Hits": "10. September 2014 / 404",
           "currJobDescr": "Front-end Developer & UI/UX Designer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-end Developer & UI/UX Designer",
               "company": "Torrential Systems",
@@ -2522,7 +2654,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2536,7 +2669,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Academy of Economic Studies of Moldova",
           "url": "https://www.xing.com/search/members?keywords=Academy+of+Economic+Studies+of+Moldova",
@@ -2561,7 +2695,8 @@
           "eduDuration": "09/1998 - 05/2004"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Finalist and winner of the Contest “Moldova Open Innovation Week 2012”",
           "award_date": "2012"
@@ -2573,14 +2708,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Devin Hartman",
           "picture": "https://www.xing.com/image/0_7_f_962d4b152_12510425_3/devin-hartman-foto.256x256.jpg",
           "memberSince_Hits": "27. Mai 2009 / 2835",
           "currJobDescr": "Senior Front-end developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front-end developer",
               "company": "disdar GmbH",
@@ -2647,7 +2784,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2657,7 +2795,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Rochester Institute of Technology",
           "url": "https://www.xing.com/search/members?keywords=Rochester+Institute+of+Technology",
@@ -2669,14 +2808,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Web+components"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Varga",
           "picture": "https://www.xing.com/image/3_f_5_382b78306_18496384_2/peter-varga-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2012 / 1599",
           "currJobDescr": "Senior Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front End Developer",
               "company": "whatchado GmbH",
@@ -2708,7 +2849,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2722,7 +2864,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of West Hungary",
           "url": "https://www.xing.com/search/members?keywords=University+of+West+Hungary",
@@ -2738,14 +2881,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Fatih Özdemir",
           "picture": "https://www.xing.com/image/8_3_f_bd10d0838_18100097_1/fatih-%C3%B6zdemir-foto.256x256.jpg",
           "memberSince_Hits": "2. August 2012 / 980",
           "currJobDescr": "Jr. Front End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Jr. Front End Developer",
               "company": "Manifaktüre",
@@ -2756,7 +2901,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch"
         },
@@ -2765,7 +2911,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Giresun Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=Giresun+%C3%9Cniversitesi",
@@ -2773,7 +2920,8 @@
           "eduDuration": "09/2011 - 06/2016"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bilişim Yıldızları E-Blog Kategori İkincisi",
           "award_date": "www.fozdemir.com/bilisim-yildizlari-2011"
@@ -2785,14 +2933,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Roman Panchenko",
           "picture": "https://www.xing.com/image/c_6_f_8a2b801c7_21114946_2/roman-panchenko-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2014 / 562",
           "currJobDescr": "Front-end Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-end Developer",
               "company": "Luxoft",
@@ -2838,7 +2988,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -2848,7 +2999,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kharkiv National University of Radioelectronics",
           "url": "https://www.xing.com/search/members?keywords=Kharkiv+National+University+of+Radioelectronics",
@@ -2862,14 +3014,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marat Dulin",
           "picture": "https://www.xing.com/image/3_4_0_97e96a511_21934064_1/marat-dulin-foto.256x256.jpg",
           "memberSince_Hits": "17. Februar 2015 / 493",
           "currJobDescr": "Senior Front End Developer, then Front End Development Team Lead",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Front End Developer, then Front End Development Team Lead",
               "company": "Yandex LLC",
@@ -2908,7 +3062,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2926,7 +3081,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Plekhanov Russian University of Economics",
           "url": "https://www.xing.com/search/members?keywords=Plekhanov+Russian+University+of+Economics",
@@ -2936,14 +3092,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gerbrand van Dantzig",
           "picture": "https://www.xing.com/image/6_b_5_65b0e9e54_20734963_6/gerbrand-van-dantzig-foto.256x256.jpg",
           "memberSince_Hits": "2. Juli 2014 / 1531",
           "currJobDescr": "Front-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front-End Developer",
               "company": "gvand.net",
@@ -3017,7 +3175,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -3033,14 +3192,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Francesco Orsi",
           "picture": "https://www.xing.com/image/1_f_1_451a867a5_12950412_4/francesco-orsi-foto.256x256.jpg",
           "memberSince_Hits": "13. August 2009 / 1471",
           "currJobDescr": "Web Designer, Front-End Developer, Back-End Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Designer, Front-End Developer, Back-End Developer",
               "company": "D2 Interactive",
@@ -3080,7 +3241,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3094,7 +3256,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università di Pisa",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+di+Pisa",

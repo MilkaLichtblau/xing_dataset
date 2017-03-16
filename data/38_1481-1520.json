@@ -1,16 +1,19 @@
 {
   "category": "System Administrator",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Fabio Salmistraro",
           "picture": "https://www.xing.com/img/users/2/9/3/e1f13d60c.12056135,4.256x256.jpg",
           "memberSince_Hits": "6. März 2009 / 3286",
           "currJobDescr": "Senior Unix System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Unix System Administrator",
               "company": "Société Générale",
@@ -96,7 +99,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -114,7 +118,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Padova, Italy",
           "url": "https://www.xing.com/search/members?keywords=University+of+Padova%2C+Italy",
@@ -125,14 +130,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=-+Hewlett-Packard%2C+%E2%80%9CHP-UX+11i+v3+-+Certified+Systems+Administrator+%28CSA%29%E2%80%9D"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Kai Lanio",
           "picture": "https://www.xing.com/image/2_2_5_ffec92dde_6095761_2/kai-lanio-foto.256x256.jpg",
           "memberSince_Hits": "21. Juni 2006 / 2861",
           "currJobDescr": "System Administrator, Hard- und Software Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator, Hard- und Software Consultant",
               "company": "Lanio - Organisation und Beratung",
@@ -212,7 +219,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -226,7 +234,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TÜV Rheinland",
           "url": "https://www.xing.com/search/members?keywords=T%C3%9CV+Rheinland",
@@ -234,7 +243,8 @@
           "eduDuration": "02/2003 - 01/2005"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "IHK Abschluss mit Auszeichnung als Bester des Jahrganges im Kreis",
           "award_date": "2005"
@@ -242,14 +252,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Nicola Gazzeri",
           "picture": "https://www.xing.com/image/2_9_4_cd585f53e_10137163_2/nicola-gazzeri-foto.256x256.jpg",
           "memberSince_Hits": "15. Mai 2008 / 3086",
           "currJobDescr": "IT Specialist and system administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Specialist and system administrator",
               "company": "Payback GmbH, Munich, Germany",
@@ -295,7 +307,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -309,7 +322,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università di Pisa",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+di+Pisa",
@@ -321,14 +335,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=University+extended+course%3A+%22LAN+and+Internet+services+management%21"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Blagoveschensky",
           "picture": "https://www.xing.com/image/8_b_3_31c335e98_4246377_3/alexander-blagoveschensky-foto.256x256.jpg",
           "memberSince_Hits": "15. September 2005 / 797",
           "currJobDescr": "Senior System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Link-Assistant.Com",
@@ -374,7 +390,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -384,7 +401,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Belarusian State University of Informatics and Radioelectronics",
           "url": "https://www.xing.com/search/members?keywords=Belarusian+State+University+of+Informatics+and+Radioelectronics",
@@ -395,14 +413,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Blue+Coat+SE+Accreditation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mitchell Berrenstein",
           "picture": "https://www.xing.com/image/e_e_9_7112e5a5f_20054863_2/mitchell-berrenstein-foto.256x256.jpg",
           "memberSince_Hits": "14. Januar 2014 / 974",
           "currJobDescr": "Enduser Support Specialist/VIP support/System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Enduser Support Specialist/VIP support/System Administrator",
               "company": "Produban S.L. (Grupo Santander)",
@@ -511,7 +531,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Niederländisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -525,7 +546,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ROC Bijlmer",
           "url": "https://www.xing.com/search/members?keywords=ROC+Bijlmer",
@@ -539,7 +561,8 @@
           "eduDuration": "08/2000 - 07/2004"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Business Desktop Deployment"
         },
@@ -576,14 +599,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Soeren Sievers",
           "picture": "https://www.xing.com/image/6_2_e_c21fe1bd3_12508297_11/soeren-sievers-foto.256x256.jpg",
           "memberSince_Hits": "27. Mai 2009 / 2650",
           "currJobDescr": "IT System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT System Administrator",
               "company": "Arnold Consult AG",
@@ -677,7 +702,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -691,14 +717,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Jansen+Academy%2C+SICO+%E2%80%93+Siemens+International+Consulting+Orientation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alessio Rosato",
           "picture": "https://www.xing.com/image/9_5_d_916b62817_18160016_3/alessio-rosato-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2012 / 1236",
           "currJobDescr": "System Administrator / Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator / Project Manager",
               "company": "Sorint.Lab s.r.l.",
@@ -730,7 +758,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -744,7 +773,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Industrial Technichal Institute Francesco Severi",
           "url": "https://www.xing.com/search/members?keywords=Industrial+Technichal+Institute+Francesco+Severi",
@@ -756,7 +786,8 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Business+Relationship+Manager"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Piero Gerletti",
@@ -766,14 +797,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Goncalo Jose Mendes Ramos",
           "picture": "https://www.xing.com/image/b_f_f_f8c51e8b7_11341013_2/goncalo-jose-mendes-ramos-foto.256x256.jpg",
           "memberSince_Hits": "3. November 2008 / 1469",
           "currJobDescr": "Senior System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Outsystems",
@@ -826,7 +859,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Fließend)"
@@ -844,7 +878,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Escola Náutica Infante D. Henrinque",
           "url": "https://www.xing.com/search/members?keywords=Escola+N%C3%A1utica+Infante+D.+Henrinque",
@@ -855,14 +890,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Solaris+System+Administration+I+and+II"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jakub Gaj",
           "picture": "https://www.xing.com/image/8_b_7_1acabb342_8484048_9/jakub-gaj-foto.256x256.jpg",
           "memberSince_Hits": "27. November 2007 / 1881",
           "currJobDescr": "Senior System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator",
               "company": "European Investment Bank",
@@ -969,7 +1006,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -983,7 +1021,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Maius College",
           "url": "https://www.xing.com/search/members?keywords=Maius+College",
@@ -994,14 +1033,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=AWS+Certified+Solutions+Architect+-+Associate"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Wolfgang Kamradek",
           "picture": "https://www.xing.com/img/users/d/f/a/23f3e2c11.20135265,1.256x256.jpg",
           "memberSince_Hits": "30. Januar 2014 / 1088",
           "currJobDescr": "UNIX System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "UNIX System Administrator",
               "company": "Kamradek",
@@ -1088,7 +1129,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1098,14 +1140,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Red+Hat+Enterprise+Service+Bus+Deployment+with+Red+Hat+JBoss+Fuse+%28Training%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ivan Nemet",
           "picture": "https://www.xing.com/image/6_f_b_03df95d80_19802687_2/ivan-nemet-foto.256x256.jpg",
           "memberSince_Hits": "5. November 2013 / 941",
           "currJobDescr": "System administrator, SMATV (DTV) administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System administrator, SMATV (DTV) administrator",
               "company": "RT-RK d.o.o",
@@ -1157,13 +1201,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "CISCO CCNA Academy",
           "url": "https://www.xing.com/search/members?keywords=CISCO+CCNA+Academy",
@@ -1185,14 +1231,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Manoj Patnaik",
           "picture": "https://www.xing.com/image/0_c_1_c06a7f07f_13884867_2/manoj-patnaik-foto.256x256.jpg",
           "memberSince_Hits": "31. Januar 2010 / 1333",
           "currJobDescr": "IT IS - Network / System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT IS - Network / System Administrator",
               "company": "Tata Consultancy Services",
@@ -1224,7 +1272,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1244,7 +1293,8 @@
           "lang": "Oriya"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Utkal University",
           "url": "https://www.xing.com/search/members?keywords=Utkal+University",
@@ -1254,14 +1304,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Johann Krach",
           "picture": "https://www.xing.com/img/users/c/f/a/098f53920.8548378,6.256x256.jpg",
           "memberSince_Hits": "12. Dezember 2007 / 1059",
           "currJobDescr": "Senior - Project Manager,Product developer eBanking & SWIFT,System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior - Project Manager,Product developer eBanking & SWIFT,System Administrator",
               "company": "HypoVereinsbank – UniCredit Bank AG",
@@ -1306,7 +1358,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1320,7 +1373,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Private commercial school Merkur / Handelsschule Merkur, Oberstdorf",
           "url": "https://www.xing.com/search/members?keywords=Private+commercial+school+Merkur+%2F+Handelsschule+Merkur%2C+Oberstdorf",
@@ -1332,14 +1386,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certification+Project+Management+-+Frankfurt+School+of+Finance+%26+Management+2014"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matthias Dieter",
           "picture": "https://www.xing.com/image/1_4_d_71a51f31b_13977034_14/matthias-dieter-foto.256x256.jpg",
           "memberSince_Hits": "16. Februar 2010 / 1702",
           "currJobDescr": "IT System Administrator, IT Consultant, IT Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT System Administrator, IT Consultant, IT Project Manager",
               "company": "Qubes GmbH",
@@ -1413,7 +1469,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1427,7 +1484,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SAE Institute Frankfurt",
           "url": "https://www.xing.com/search/members?keywords=SAE+Institute+Frankfurt",
@@ -1451,14 +1509,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker+-+Systemintegration+%282002%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Maksim Kunin",
           "picture": "https://www.xing.com/image/b_2_b_f50cac8df_14228771_2/maksim-kunin-foto.256x256.jpg",
           "memberSince_Hits": "3. April 2010 / 821",
           "currJobDescr": "System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator",
               "company": "Nokia",
@@ -1497,7 +1557,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1511,7 +1572,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technion (Israeli Technological Institute)",
           "url": "https://www.xing.com/search/members?keywords=Technion+%28Israeli+Technological+Institute%29",
@@ -1529,14 +1591,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Communication+Technician+%28Israeli+Air+Force+Technological+College%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Lehr",
           "picture": "https://www.xing.com/image/e_5_9_d1b4de901_11983397_5/thomas-lehr-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2009 / 4690",
           "currJobDescr": "System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator",
               "company": "ATLAS Dienstleistungen für Vermögensberatung GmbH",
@@ -1582,7 +1646,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1596,7 +1661,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Darmstadt",
@@ -1606,7 +1672,8 @@
       ],
       "qualifications": "Citrix Certified XenServer 6 Administrator",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Citrix+Certified+XenServer+6+Administrator",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "IBM Certified Specialist - System p Administration (2009)",
           "award_date": "2009"
@@ -1638,14 +1705,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Maxim Amelyanchik",
           "picture": "https://www.xing.com/image/c_6_9_81f0da622_13614628_4/maxim-amelyanchik-foto.256x256.jpg",
           "memberSince_Hits": "11. Dezember 2009 / 2376",
           "currJobDescr": "System-Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System-Administrator",
               "company": "SORUS-EDV",
@@ -1684,7 +1753,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1702,14 +1772,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Technik-Programmierer+%282006%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sergey Podkopaev",
           "picture": "https://www.xing.com/image/7_3_3_e326d0b53_23396490_1/sergey-podkopaev-foto.256x256.jpg",
           "memberSince_Hits": "2. Oktober 2015 / 157",
           "currJobDescr": "System administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System administrator",
               "company": "Euro Design",
@@ -1734,7 +1806,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1744,7 +1817,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Eurasian Open Institute",
           "url": "https://www.xing.com/search/members?keywords=Eurasian+Open+Institute",
@@ -1762,14 +1836,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP+BusinessObjects+Enterprise+XI+3.0+3.1+Administering+Servers+%E2%80%93+Windows"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Werner Schönbeck",
           "picture": "https://www.xing.com/image/d_d_7_ab837aeb8_12868275_4/werner-sch%C3%B6nbeck-foto.256x256.jpg",
           "memberSince_Hits": "29. Juli 2009 / 2394",
           "currJobDescr": "System-Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System-Administrator",
               "company": "Selbständig",
@@ -1815,7 +1891,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1829,14 +1906,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation+V3"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bogdan Plačkov",
           "picture": "https://www.xing.com/image/f_0_c_b3c3d1994_18163860_1/bogdan-pla%C4%8Dkov-foto.256x256.jpg",
           "memberSince_Hits": "22. August 2012 / 957",
           "currJobDescr": "ERP System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "ERP System Administrator",
               "company": "ComData",
@@ -1860,21 +1939,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Efstathios Foulidis",
           "picture": "https://www.xing.com/img/users/1/1/e/22b0769b2.17620836,17.256x256.jpg",
           "memberSince_Hits": "2. April 2012 / 1382",
           "currJobDescr": "System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator",
               "company": "CHIP Digital GmbH",
@@ -1934,7 +2016,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1948,7 +2031,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Sheffield",
           "url": "https://www.xing.com/search/members?keywords=University+of+Sheffield",
@@ -1958,14 +2042,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Leon Garcia",
           "picture": "https://www.xing.com/image/e_1_3_4c15b423d_15109280_1/leon-garcia-foto.256x256.jpg",
           "memberSince_Hits": "5. September 2010 / 9347",
           "currJobDescr": "System Administrator Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator Engineer",
               "company": "BCBL",
@@ -2004,12 +2090,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Autonoma de Aguascalientes",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Autonoma+de+Aguascalientes",
@@ -2027,14 +2115,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SSL+VPN+Architect+Certification+%28Stonegate%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Björn Brandt",
           "picture": "https://www.xing.com/image/e_d_4_b5f4d7363_14247934_5/bj%C3%B6rn-brandt-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2010 / 1780",
           "currJobDescr": "System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator",
               "company": "Enovos Deutschland SE",
@@ -2066,7 +2156,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
@@ -2075,14 +2166,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=1990+-+IHK+gepr.+Werkschutzfachkraft"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Amar Prasovic",
           "picture": "https://www.xing.com/image/4_5_4_14a1baff1_8466675_2/amar-prasovic-foto.256x256.jpg",
           "memberSince_Hits": "22. November 2007 / 3265",
           "currJobDescr": "Linux System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Linux System Administrator",
               "company": "CHECK24 Vergleichsportal",
@@ -2135,7 +2228,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2165,7 +2259,8 @@
           "lang": "Macedonian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ILS",
           "url": "https://www.xing.com/search/members?keywords=ILS",
@@ -2189,14 +2284,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Linux+System+Administrator+%28LIN201%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Constantine Korobov",
           "picture": "https://www.xing.com/image/0_9_5_e6516270e_20353965_3/constantine-korobov-foto.256x256.jpg",
           "memberSince_Hits": "24. März 2014 / 487",
           "currJobDescr": "Linux engineer/System administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Linux engineer/System administrator",
               "company": "goldenplanet.dk",
@@ -2221,7 +2318,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2231,7 +2329,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ivano-Frankivsk National Technical University of Oil and Gas",
           "url": "https://www.xing.com/search/members?keywords=Ivano-Frankivsk+National+Technical+University+of+Oil+and+Gas",
@@ -2241,14 +2340,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cristian Ceobanu",
           "picture": "https://www.xing.com/image/e_c_d_101d1fa17_18780635_1/cristian-ceobanu-foto.256x256.jpg",
           "memberSince_Hits": "13. Februar 2013 / 641",
           "currJobDescr": "System administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System administrator",
               "company": "Coillte",
@@ -2294,7 +2395,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2308,7 +2410,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universitatea Bucuresti",
           "url": "https://www.xing.com/search/members?keywords=Universitatea+Bucuresti",
@@ -2320,14 +2423,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=CCNA"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Ruch",
           "picture": "https://www.xing.com/image/7_6_9_8e36c63c7_11788795_14/alexander-ruch-foto.256x256.jpg",
           "memberSince_Hits": "23. Januar 2009 / 5161",
           "currJobDescr": "IT System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT System Administrator",
               "company": "optivo GmbH (an Episerver Company)",
@@ -2394,7 +2499,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2402,7 +2508,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Baumann Bildung & Qualifizierung",
           "url": "https://www.xing.com/search/members?keywords=Baumann+Bildung+%26+Qualifizierung",
@@ -2426,14 +2533,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dell+KACE+%28K1000%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cumhur Salur",
           "picture": "https://www.xing.com/image/9_6_d_f69b1871f_19640320_1/cumhur-salur-foto.256x256.jpg",
           "memberSince_Hits": "24. September 2013 / 892",
           "currJobDescr": "System Administrator für Lotus Notes und MS Exchange",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator für Lotus Notes und MS Exchange",
               "company": "Hewlett Packard Enterprise Services GmbH",
@@ -2449,7 +2558,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2465,14 +2575,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Bojan Karaman",
           "picture": "https://www.xing.com/image/6_9_a_f9a4efaf0_17327340_2/bojan-karaman-foto.256x256.jpg",
           "memberSince_Hits": "7. Februar 2012 / 674",
           "currJobDescr": "Windows System administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Windows System administrator",
               "company": "La Fantana doo Beograd",
@@ -2511,7 +2623,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2521,7 +2634,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technical College",
           "url": "https://www.xing.com/search/members?keywords=Technical+College",
@@ -2533,14 +2647,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+IT+Pro%3A+Server+Administrator"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "David Cox",
           "picture": "https://www.xing.com/image/9_a_a_bc173e171_17911756_1/david-cox-foto.256x256.jpg",
           "memberSince_Hits": "7. Juni 2012 / 2145",
           "currJobDescr": "Unix System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Unix System Administrator",
               "company": "Cognizant/Credit Suisse",
@@ -2585,7 +2701,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2595,7 +2712,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Warwick",
           "url": "https://www.xing.com/search/members?keywords=University+of+Warwick",
@@ -2613,14 +2731,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Linux%2B+%28Comptia%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oleg Grigoriev",
           "picture": "https://www.xing.com/image/f_b_d_9d0929262_20637999_2/oleg-grigoriev-foto.256x256.jpg",
           "memberSince_Hits": "7. Juni 2014 / 585",
           "currJobDescr": "Senior System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Oracle",
@@ -2680,7 +2800,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2690,7 +2811,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karelian State Pedagogical University",
           "url": "https://www.xing.com/search/members?keywords=Karelian+State+Pedagogical+University",
@@ -2700,14 +2822,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexandru Ghionghios",
           "picture": "https://www.xing.com/image/4_4_f_169512037_10889033_2/alexandru-ghionghios-foto.256x256.jpg",
           "memberSince_Hits": "20. August 2008 / 1434",
           "currJobDescr": "Unix System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Unix System Administrator",
               "company": "Siemens IT Solutions and Services",
@@ -2746,7 +2870,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Rumänisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2760,7 +2885,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Polytechnic University of Timisoara",
           "url": "https://www.xing.com/search/members?keywords=Polytechnic+University+of+Timisoara",
@@ -2772,14 +2898,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Cisco+Certified+Network+Associate+%28CCNA3%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christian Dülberg",
           "picture": "https://www.xing.com/image/b_f_d_c63a4842b_11688965_2/christian-d%C3%BClberg-foto.256x256.jpg",
           "memberSince_Hits": "7. Januar 2009 / 1519",
           "currJobDescr": "DevOps / System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "DevOps / System Administrator",
               "company": "Duelberg Systemadministration Services LTD",
@@ -2846,7 +2974,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2860,7 +2989,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University for applied sciences of Bochum",
           "url": "https://www.xing.com/search/members?keywords=University+for+applied+sciences+of+Bochum",
@@ -2870,14 +3000,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Igor Papić",
           "picture": "https://www.xing.com/image/5_e_6_d0ad1de94_21667656_1/igor-papi%C4%87-foto.256x256.jpg",
           "memberSince_Hits": "10. Januar 2015 / 907",
           "currJobDescr": "Linux System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Linux System Administrator",
               "company": "Iskon Internet d.d.",
@@ -2902,7 +3034,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2915,7 +3048,8 @@
           "lang": "Croatian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Rijeka",
           "url": "https://www.xing.com/search/members?keywords=University+of+Rijeka",
@@ -2923,7 +3057,8 @@
           "eduDuration": "10/2010 - 07/2013"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Scholarship of Sisak-moslavina county, Croatia",
           "award_date": "2010"
@@ -2931,14 +3066,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Jaroslaw Szymczak",
           "picture": "https://www.xing.com/image/7_e_d_2e9188121_17222535_1/jaroslaw-szymczak-foto.256x256.jpg",
           "memberSince_Hits": "13. Januar 2012 / 1033",
           "currJobDescr": "Linux System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Linux System Administrator",
               "company": "Nestlé Institute of Health Sciences",
@@ -2991,7 +3128,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3013,7 +3151,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Jackson State University",
           "url": "https://www.xing.com/search/members?keywords=Jackson+State+University",
@@ -3035,7 +3174,8 @@
       ],
       "qualifications": "ITIL Foundation certificate (2013)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation+certificate+%282013%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Award of Ministry of Science",
           "award_date": "www.nauka.gov.pl"
@@ -3043,14 +3183,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Belevcov",
           "picture": "https://www.xing.com/image/c_c_6_1efd79d70_20353278_1/alexander-belevcov-foto.256x256.jpg",
           "memberSince_Hits": "24. März 2014 / 355",
           "currJobDescr": "System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Administrator",
               "company": "Insoft",
@@ -3082,7 +3224,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3092,7 +3235,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Harkivs'kij Nacional'nij Universitet im. V.N. Karazina",
           "url": "https://www.xing.com/search/members?keywords=Harkivs%27kij+Nacional%27nij+Universitet+im.+V.N.+Karazina",
@@ -3104,14 +3248,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=TS%3A+Windows+7+and+Office+2010%2C+Deploying+%28Microsoft%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oleg Kucherov",
           "picture": "https://www.xing.com/image/e_9_b_66fbd21a2_24838379_1/oleg-kucherov-foto.256x256.jpg",
           "memberSince_Hits": "21. April 2016 / 59",
           "currJobDescr": "UNIX System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "UNIX System Administrator",
               "company": "NCOC N.V.",
@@ -3157,7 +3303,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -3167,7 +3314,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technical-Economic Academy of Cinema and Television",
           "url": "https://www.xing.com/search/members?keywords=Technical-Economic+Academy+of+Cinema+and+Television",
@@ -3185,14 +3333,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Red+Hat+Certified+Engineer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ashraf Hafiz",
           "picture": "https://www.xing.com/image/9_c_9_c0c99d4cc_7831891_2/ashraf-hafiz-foto.256x256.jpg",
           "memberSince_Hits": "26. August 2007 / 847",
           "currJobDescr": "Senior System Administrator - Windows",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator - Windows",
               "company": "Qatar University",
@@ -3210,12 +3360,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ain Shams University",
           "url": "https://www.xing.com/search/members?keywords=Ain+Shams+University",
@@ -3227,14 +3379,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=TOEFL+1995"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Vladimir Nikolic",
           "picture": "https://www.xing.com/image/e_b_9_8b911513b_22298270_1/vladimir-nikolic-foto.256x256.jpg",
           "memberSince_Hits": "9. April 2015 / 293",
           "currJobDescr": "Senior System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior System Administrator",
               "company": "ServiceNow",
@@ -3273,7 +3427,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3282,7 +3437,8 @@
           "lang": "slovenian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Belgrade, Faculty of Electrical Engineering",
           "url": "https://www.xing.com/search/members?keywords=University+of+Belgrade%2C+Faculty+of+Electrical+Engineering",

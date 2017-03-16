@@ -1,16 +1,19 @@
 {
   "category": "Account Executive",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ralf Roffmann",
           "picture": "https://www.xing.com/image/7_a_2_faefc6172_18764376_2/ralf-roffmann-foto.256x256.jpg",
           "memberSince_Hits": "8. Februar 2013 / 1162",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "Atos IT Solutions and Services GmbH",
@@ -104,7 +107,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -116,14 +120,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christoph Glessner",
           "picture": "https://www.xing.com/img/users/1/6/3/29a66cb00.19791427,4.256x256.jpg",
           "memberSince_Hits": "3. November 2013 / 1020",
           "currJobDescr": "Senior Strategic Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Strategic Account Executive",
               "company": "VMware",
@@ -169,7 +175,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -186,7 +193,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Applied Sciences Trier",
           "url": "https://www.xing.com/search/members?keywords=University+of+Applied+Sciences+Trier",
@@ -196,14 +204,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andrei Plattner",
           "picture": "https://www.xing.com/image/2_b_a_76daac0e1_8005779_8/andrei-plattner-foto.256x256.jpg",
           "memberSince_Hits": "5. Oktober 2007 / 4792",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "Oracle Software (Schweiz) GmbH - Advanced Customer Support",
@@ -242,7 +252,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -256,7 +267,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Statement of Performance",
           "award_date": "2005"
@@ -264,14 +276,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Miklos Matuska",
           "picture": "https://www.xing.com/image/d_6_1_0c9cf2925_7029353_4/miklos-matuska-foto.256x256.jpg",
           "memberSince_Hits": "6. Februar 2007 / 5579",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "SAS Institute GmbH",
@@ -326,7 +340,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -340,14 +355,16 @@
           "lang": "Ungarisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU München",
           "url": "https://www.xing.com/search/members?keywords=TU+M%C3%BCnchen",
           "degree": "Informatik, Nebenfach Wirtschaftswissenschaften"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Oracle Sales Champion",
           "award_date": "2008"
@@ -355,14 +372,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cesare S. Grassi",
           "picture": "https://www.xing.com/image/8_4_0_09873366c_3418136_2/cesare-s-grassi-foto.256x256.jpg",
           "memberSince_Hits": "5. April 2005 / 9314",
           "currJobDescr": "Enterprise Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Enterprise Account Executive",
               "company": "ServiceNow - The Enterprise IT Cloud Company",
@@ -450,7 +469,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -461,7 +481,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Customer Centric Selling from Customer Centric Systems, LLC",
           "url": "https://www.xing.com/search/members?keywords=Customer+Centric+Selling+from+Customer+Centric+Systems%2C+LLC",
@@ -519,7 +540,8 @@
       ],
       "qualifications": "Eidg. Fähigkeitsausweis als Maschinenschlosser",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Eidg.+F%C3%A4higkeitsausweis+als+Maschinenschlosser",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Achivement 107%",
           "award_date": "www.redhat.com"
@@ -575,14 +597,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "David Pedevilla",
           "picture": "https://www.xing.com/image/6_1_2_b3b52f0e9_5611365_2/david-pedevilla-foto.256x256.jpg",
           "memberSince_Hits": "9. Februar 2006 / 3567",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "SUSE Linux GmbH",
@@ -635,7 +659,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -657,7 +682,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Neuchâtel",
           "url": "https://www.xing.com/search/members?keywords=University+of+Neuch%C3%A2tel",
@@ -667,14 +693,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "René Wermelinger",
           "picture": "https://www.xing.com/image/b_1_7_3605ce440_16963419_3/ren%C3%A9-wermelinger-foto.256x256.jpg",
           "memberSince_Hits": "3. November 2011 / 1309",
           "currJobDescr": "Head Liability Broking and Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head Liability Broking and Account Executive",
               "company": "Aon Risk Solution Schweiz AG",
@@ -720,7 +748,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -738,14 +767,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+to+Associate+in+Risk+Management+%28ARM%29+%282001+-+2002%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Schilm",
           "picture": "https://www.xing.com/image/9_a_b_3a100f3a7_3611038_7/peter-schilm-foto.256x256.jpg",
           "memberSince_Hits": "22. Juli 2005 / 6525",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "BlueCat Networks",
@@ -810,7 +841,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -818,7 +850,8 @@
           "lang": "Englisch"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "VR-Innovationspreis",
           "award_date": "cosateq.com/index.php?NewsArchiv_190309_Innovationspreis"
@@ -826,14 +859,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dugan Trevathan",
           "picture": "https://www.xing.com/image/6_1_b_f685e1895_17898920_7/dugan-trevathan-foto.256x256.jpg",
           "memberSince_Hits": "4. Juni 2012 / 1797",
           "currJobDescr": "Account Executive EMEA",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive EMEA",
               "company": "riskmethods GmbH",
@@ -907,7 +942,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -917,7 +953,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Texas",
           "url": "https://www.xing.com/search/members?keywords=University+of+Texas",
@@ -929,14 +966,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=B2+Zertifikat+-+Goethe+Institut"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Selcuk Yavuz",
           "picture": "https://www.xing.com/image/3_5_8_44dff8ad7_11791547_4/selcuk-yavuz-foto.256x256.jpg",
           "memberSince_Hits": "23. Januar 2009 / 2481",
           "currJobDescr": "Elite Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Elite Account Executive",
               "company": "Yelp",
@@ -1024,7 +1063,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1038,7 +1078,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Yelp Presidents Club - San Juan/Puerto Rico 2015",
           "award_date": "2015"
@@ -1050,14 +1091,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Wück",
           "picture": "https://www.xing.com/img/users/2/7/8/41a2437a2.3563150,2.256x256.jpg",
           "memberSince_Hits": "24. Juni 2005 / 6862",
           "currJobDescr": "Global Account Executive Expert",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Account Executive Expert",
               "company": "SAP Deutschland SE & Co. KG, Walldorf",
@@ -1103,7 +1146,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1113,7 +1157,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Berufsakademie Berlin",
           "url": "https://www.xing.com/search/members?keywords=Berufsakademie+Berlin",
@@ -1121,7 +1166,8 @@
           "eduDuration": "09/2000 - 08/2003"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "SAP Top Performer",
           "award_date": "2015"
@@ -1161,14 +1207,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Meyer",
           "picture": "https://www.xing.com/image/c_3_e_ca678c69b_5600518_1/thomas-meyer-foto.256x256.jpg",
           "memberSince_Hits": "6. Februar 2006 / 2968",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "FedEx Express",
@@ -1196,7 +1244,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1207,7 +1256,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen",
@@ -1218,14 +1268,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=langj%C3%A4hrige+Erfahrung+und+Erfolge+im+Au%C3%9Fendienst"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gerald Stacherl",
           "picture": "https://www.xing.com/image/3_4_e_4dd3dda4b_3542729_7/gerald-stacherl-foto.256x256.jpg",
           "memberSince_Hits": "13. Juni 2005 / 5380",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "SAP Österreich GmbH",
@@ -1277,7 +1329,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1285,7 +1338,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Applied Sciences - Technikum Wien",
           "url": "https://www.xing.com/search/members?keywords=University+of+Applied+Sciences+-+Technikum+Wien",
@@ -1299,7 +1353,8 @@
       ],
       "qualifications": "Ingenieur (Ing.) - Nachrichtentechnik TGM",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ingenieur+%28Ing.%29+-+Nachrichtentechnik+TGM",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Leistungsstipendium/ Excellence Scholarship - University Technikum Wien",
           "award_date": "www.technikum-wien.at"
@@ -1307,14 +1362,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dean Valentine",
           "picture": "https://www.xing.com/image/5_8_f_4443b4b4a_22805256_1/dean-valentine-foto.256x256.jpg",
           "memberSince_Hits": "2. Juli 2015 / 176",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "WANdisco",
@@ -1360,7 +1417,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1370,7 +1428,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "The Open University",
           "url": "https://www.xing.com/search/members?keywords=The+Open+University",
@@ -1382,14 +1441,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=HP2-E59%3A+Introduction+to+Selling+Servers%2C+Storage%2C+Networking+and+Services."
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marcel Kauer",
           "picture": "https://www.xing.com/image/0_1_a_893dfc38f_3295445_3/marcel-kauer-foto.256x256.jpg",
           "memberSince_Hits": "25. Januar 2005 / 8885",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "Dell",
@@ -1498,7 +1559,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1508,14 +1570,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Elisabetta Genovese",
           "picture": "https://www.xing.com/image/5_8_d_bbc4bcda7_9287891_2/elisabetta-genovese-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 1049",
           "currJobDescr": "Account executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account executive",
               "company": "Relata",
@@ -1539,7 +1603,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1557,7 +1622,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università IULM",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+IULM",
@@ -1573,14 +1639,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Jule Hermes",
           "picture": "https://www.xing.com/image/1_d_9_1d9edd314_4371765_2/jule-hermes-foto.256x256.jpg",
           "memberSince_Hits": "14. November 2005 / 6334",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "SRTS Europe GmbH",
@@ -1640,7 +1708,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1658,14 +1727,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Frank C. Schneider",
           "picture": "https://www.xing.com/img/users/c/a/f/4b14a2074.4301567,2.256x256.jpg",
           "memberSince_Hits": "16. Oktober 2005 / 2384",
           "currJobDescr": "Account Executive Expert",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive Expert",
               "company": "SAP",
@@ -1719,7 +1790,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1727,7 +1799,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BUESPA Budapest",
           "url": "https://www.xing.com/search/members?keywords=BUESPA+Budapest",
@@ -1746,7 +1819,8 @@
           "eduDuration": "1998 - 2004"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Top sales performance - SAP winner circle recognition in Hawaii",
           "award_date": "2015"
@@ -1778,14 +1852,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rainer Berse",
           "picture": "https://www.xing.com/image/1_0_9_01fef4441_375229_1/rainer-berse-foto.256x256.jpg",
           "memberSince_Hits": "14. Juni 2004 / 8860",
           "currJobDescr": "Key Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Key Account Executive",
               "company": "Dell | EMC",
@@ -1851,7 +1927,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1859,7 +1936,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Staatliche Fachschule Technik",
           "url": "https://www.xing.com/search/members?keywords=Staatliche+Fachschule+Technik",
@@ -1877,14 +1955,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Staatlich+gepr%C3%BCfter+Elektrotechniker+Fachrichtung+Datenverarbeitungstechnik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Kravtschenko",
           "picture": "https://www.xing.com/img/users/0/2/4/f40757537.5588433,3.256x256.jpg",
           "memberSince_Hits": "2. Februar 2006 / 4245",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "SAP",
@@ -1937,7 +2017,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1951,7 +2032,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH-Wien",
           "url": "https://www.xing.com/search/members?keywords=FH-Wien",
@@ -1973,7 +2055,8 @@
       ],
       "qualifications": "Gartner Social Styles Analysis",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Gartner+Social+Styles+Analysis",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "SAP Winners Circle 2016",
           "award_date": "www.sap.com"
@@ -2005,14 +2088,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Kerstin Antje Kremer",
           "picture": "https://www.xing.com/image/b_3_e_d77ef9448_18694959_14/kerstin-antje-kremer-foto.256x256.jpg",
           "memberSince_Hits": "21. Januar 2013 / 4343",
           "currJobDescr": "Account Executive MM/GB",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive MM/GB",
               "company": "salesforce.com Germany GmbH",
@@ -2086,7 +2171,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2100,7 +2186,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Trinity College Dublin",
           "url": "https://www.xing.com/search/members?keywords=Trinity+College+Dublin",
@@ -2133,7 +2220,8 @@
       ],
       "qualifications": "Präsentation Skills 2016",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Pr%C3%A4sentation+Skills+2016",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Master of Science",
           "award_date": "www.nottingham.ac.uk/"
@@ -2149,14 +2237,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Yoel Leinwand",
           "picture": "https://www.xing.com/image/0_9_9_640546bb4_13650578_2/yoel-leinwand-foto.256x256.jpg",
           "memberSince_Hits": "17. Dezember 2009 / 1055",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "Google",
@@ -2179,7 +2269,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2197,14 +2288,16 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Indiana University",
           "url": "https://www.xing.com/search/members?keywords=Indiana+University",
           "degree": "Telecommunications"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Atlanta Broadcast Advertising Club Seller of the Year",
           "award_date": "2009"
@@ -2224,14 +2317,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Daniela Deltl",
           "picture": "https://www.xing.com/image/c_4_2_15895dbf0_16150227_7/daniela-deltl-foto.256x256.jpg",
           "memberSince_Hits": "11. April 2011 / 1062",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "falknereiss Marketingagentur",
@@ -2263,7 +2358,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2277,7 +2373,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Werbeakademie",
           "url": "https://www.xing.com/search/members?keywords=Werbeakademie",
@@ -2287,7 +2384,8 @@
       ],
       "qualifications": "IELTS",
       "qualifications_url": "https://www.xing.com/search/members?keywords=IELTS",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Post Prospekt Award (für Nah&Frisch)",
           "award_date": "2015"
@@ -2295,14 +2393,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dietmar Vad",
           "picture": "https://www.xing.com/image/1_d_b_533da43a4_4461098_4/dietmar-vad-foto.256x256.jpg",
           "memberSince_Hits": "15. Dezember 2005 / 5415",
           "currJobDescr": "Account Executive, Partner Sales",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive, Partner Sales",
               "company": "Dell EMC",
@@ -2376,7 +2476,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2386,7 +2487,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule der Deutschen Bundespost, Dieburg",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+der+Deutschen+Bundespost%2C+Dieburg",
@@ -2394,7 +2496,8 @@
           "eduDuration": "1981 - 1984"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "EMC - President´s Club 2015",
           "award_date": "2015"
@@ -2442,14 +2545,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Kaemmerer",
           "picture": "https://www.xing.com/image/1_9_d_4257bf7cd_12323839_3/thomas-kaemmerer-foto.256x256.jpg",
           "memberSince_Hits": "19. April 2009 / 3153",
           "currJobDescr": "Account Executive EMEA",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive EMEA",
               "company": "Catchpoint Systems",
@@ -2491,7 +2596,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2505,7 +2611,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universitaet der Kuenste, Berlin",
           "url": "https://www.xing.com/search/members?keywords=Universitaet+der+Kuenste%2C+Berlin",
@@ -2514,7 +2621,8 @@
       ],
       "qualifications": "Solution Selling, Novell 2008",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Solution+Selling%2C+Novell+2008",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "NPS Champion EMEA, Dell OEM Solutions",
           "award_date": "2012"
@@ -2530,14 +2638,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Neubauer",
           "picture": "https://www.xing.com/image/0_7_7_d321489e8_3308649_2/thomas-neubauer-foto.256x256.jpg",
           "memberSince_Hits": "2. Februar 2005 / 11748",
           "currJobDescr": "Account Executive CRM for Financial Services",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive CRM for Financial Services",
               "company": "Microsoft Deutschland GmbH",
@@ -2603,7 +2713,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2617,7 +2728,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "London Business School",
           "url": "https://www.xing.com/search/members?keywords=London+Business+School",
@@ -2635,14 +2747,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diplom+Kaufmann"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Becker",
           "picture": "https://www.xing.com/image/6_0_2_ffb6657a5_63724_2/thomas-becker-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2004 / 16586",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "Nimble Storage GmbH",
@@ -2702,7 +2816,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2716,7 +2831,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Bielefeld",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Bielefeld",
@@ -2726,7 +2842,8 @@
       ],
       "qualifications": "ITIL v3 Foundation Examination (2009)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+v3+Foundation+Examination+%282009%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Ehrenmedaille der Bundeswehr",
           "award_date": "1992"
@@ -2734,14 +2851,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Arvid Hansen",
           "picture": "https://www.xing.com/image/3_6_8_35fd7f383_5632217_1/arvid-hansen-foto.256x256.jpg",
           "memberSince_Hits": "16. Februar 2006 / 3727",
           "currJobDescr": "Key Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Key Account Executive",
               "company": "Gartner Switzerland GmbH",
@@ -2808,7 +2927,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2819,7 +2939,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Diplom (Oekonomie und -management):",
           "url": "https://www.xing.com/search/members?keywords=Diplom+%28Oekonomie+und+-management%29%3A",
@@ -2829,7 +2950,8 @@
       ],
       "qualifications": "Certified Tennis Coach",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Tennis+Coach",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "top performer",
           "award_date": "2012"
@@ -2837,14 +2959,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gregor Schnidder",
           "picture": "https://www.xing.com/image/3_a_a_315e02291_13844403_3/gregor-schnidder-foto.256x256.jpg",
           "memberSince_Hits": "24. Januar 2010 / 2960",
           "currJobDescr": "Worldwide Account Executive Regional",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Worldwide Account Executive Regional",
               "company": "Federal Express Europe Inc.",
@@ -2883,7 +3007,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2891,7 +3016,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Erlangen-Nürnberg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Erlangen-N%C3%BCrnberg",
@@ -2900,7 +3026,8 @@
       ],
       "qualifications": "SSN (Situational Sales Negotiation)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=SSN+%28Situational+Sales+Negotiation%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "World Of Champions - Bronze Winner",
           "award_date": "2010"
@@ -2908,14 +3035,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Joachim Lotz",
           "picture": "https://www.xing.com/image/a_c_9_2f71a8be5_4275322_3/joachim-lotz-foto.256x256.jpg",
           "memberSince_Hits": "2. Oktober 2005 / 5805",
           "currJobDescr": "Enterprise Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Enterprise Account Executive",
               "company": "Software AG",
@@ -2962,7 +3091,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2974,14 +3104,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=St.+Galler+KAM-Konzept+-+Excellence+im+Key+Account+Management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Britta Schnitzer",
           "picture": "https://www.xing.com/image/5_e_3_df0dc2562_3499746_4/britta-schnitzer-foto.256x256.jpg",
           "memberSince_Hits": "18. Mai 2005 / 11532",
           "currJobDescr": "Senior Account Executive/ Global Strategic Accounts",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive/ Global Strategic Accounts",
               "company": "JMP, an devision of SAS",
@@ -3048,7 +3180,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3058,14 +3191,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sascha Heitland",
           "picture": "https://www.xing.com/img/users/c/7/d/b4b772569.3153245,17.256x256.jpg",
           "memberSince_Hits": "19. August 2004 / 6760",
           "currJobDescr": "Internal Account Executive DE",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Internal Account Executive DE",
               "company": "Apple",
@@ -3111,7 +3246,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3125,14 +3261,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Apple+Certified+Associate+%2F+Mac+OS+X+10.6+Snow+Leopard"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rami Khuri",
           "picture": "https://www.xing.com/image/0_b_4_58f1ac330_3158389_3/rami-khuri-foto.256x256.jpg",
           "memberSince_Hits": "30. August 2004 / 10196",
           "currJobDescr": "Director Consulting Services / Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Director Consulting Services / Account Executive",
               "company": "CGI",
@@ -3192,7 +3330,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -3206,7 +3345,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Kaiserslautern, Fachhochschule Wiesbaden",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Kaiserslautern%2C+Fachhochschule+Wiesbaden",
@@ -3217,14 +3357,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diplom"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Kenneth Abe",
           "picture": "https://www.xing.com/image/0_0_2_f3cffb4c0_5806584_8/kenneth-abe-foto.256x256.jpg",
           "memberSince_Hits": "6. April 2006 / 9168",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "salesforce.com Germany GmbH",
@@ -3277,7 +3419,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3287,7 +3430,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "salesforce.com PEAK PERFORMERS CLUB 2014",
           "award_date": "www.salesforce.com/de"
@@ -3303,14 +3447,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Fiona Schäfer",
           "picture": "https://www.xing.com/img/users/1/b/8/afd9e3259.10896322,6.256x256.jpg",
           "memberSince_Hits": "6. Mai 2008 / 3702",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "Ogilvy & Mather Advertising",
@@ -3377,7 +3523,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3391,7 +3538,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Ilmenau",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Ilmenau",
@@ -3399,7 +3547,8 @@
           "eduDuration": "2007 - 2011"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "ADC: 2x Silber, 1x Bronze",
           "award_date": "www.adc.de/"
@@ -3411,14 +3560,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Schneiderheinze",
           "picture": "https://www.xing.com/image/f_1_b_e0b3d2f6c_6409294_3/thomas-schneiderheinze-foto.256x256.jpg",
           "memberSince_Hits": "28. August 2006 / 3292",
           "currJobDescr": "Account Executive Customer Engagement & Commerce",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive Customer Engagement & Commerce",
               "company": "SAP Schweiz AG",
@@ -3464,7 +3615,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3475,14 +3627,16 @@
           "lang": "Russisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Dresden, Uni Leipzig",
           "url": "https://www.xing.com/search/members?keywords=TU+Dresden%2C+Uni+Leipzig",
           "degree": "Geografie, Geologie, Chemie"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "DELL Halle Award",
           "award_date": "2008"
@@ -3490,14 +3644,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefan Meyer",
           "picture": "https://www.xing.com/image/1_2_1_05485bb5b_3656280_8/stefan-meyer-foto.256x256.jpg",
           "memberSince_Hits": "18. August 2005 / 3003",
           "currJobDescr": "Senior Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Account Executive",
               "company": "Microsoft Schweiz GmbH",
@@ -3536,7 +3692,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3549,14 +3706,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "RICKY RAKIB",
           "picture": "https://www.xing.com/image/f_3_7_a2ae08663_17185728_1/ricky-rakib-foto.256x256.jpg",
           "memberSince_Hits": "5. Januar 2012 / 744",
           "currJobDescr": "Account Executive",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive",
               "company": "Anixter Inc",
@@ -3594,12 +3753,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "American Public University",
           "url": "https://www.xing.com/search/members?keywords=American+Public+University",
@@ -3611,14 +3772,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Trained+in+Six+Sigma%2C+Countrywide+University"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Martin Hundt",
           "picture": "https://www.xing.com/image/3_4_9_c5bb3f42e_58812_2/martin-hundt-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2004 / 7737",
           "currJobDescr": "Account Executive Telco Service Provider",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Executive Telco Service Provider",
               "company": "DELL EMC",
@@ -3685,7 +3848,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3695,7 +3859,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Wirtschaftsinformatik an der Fachhochschule der Wirtschaft in 51465 Bergisch G",
           "url": "https://www.xing.com/search/members?keywords=Wirtschaftsinformatik+an+der+Fachhochschule+der+Wirtschaft+in+51465+Bergisch+G",
@@ -3711,7 +3876,8 @@
       ],
       "qualifications": "VSP5",
       "qualifications_url": "https://www.xing.com/search/members?keywords=VSP5",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bayrische Lebensrettungsmedaille",
           "award_date": "1990"

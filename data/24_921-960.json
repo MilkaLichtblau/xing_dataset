@@ -1,16 +1,19 @@
 {
   "category": "Application Support Analyst",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Konsta Danyliuk",
           "picture": "https://www.xing.com/image/e_b_f_19d2660e4_24614195_3/konsta-danyliuk-foto.256x256.jpg",
           "memberSince_Hits": "20. März 2016 / 81",
           "currJobDescr": "Senior Application Support analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Support analyst",
               "company": "Barclays Capital",
@@ -35,7 +38,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -48,7 +52,8 @@
           "lang": "Ukrainian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "National Aviation University (Kyiv, Ukraine).",
           "url": "https://www.xing.com/search/members?keywords=National+Aviation+University+%28Kyiv%2C+Ukraine%29.",
@@ -60,14 +65,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL%C2%AE+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hrvoje Bakovic",
           "picture": "https://www.xing.com/image/a_2_f_b1969f8f1_19165475_2/hrvoje-bakovic-foto.256x256.jpg",
           "memberSince_Hits": "26. Mai 2013 / 513",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "Wirecard AG",
@@ -99,7 +106,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -108,7 +116,8 @@
           "lang": "Croatian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Faculty of electrical engineering",
           "url": "https://www.xing.com/search/members?keywords=Faculty+of+electrical+engineering",
@@ -117,14 +126,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Paul Parker-Duber",
           "picture": "https://www.xing.com/image/9_c_4_e0b3815f6_3205445_1/paul-parker-duber-foto.256x256.jpg",
           "memberSince_Hits": "6. November 2004 / 1245",
           "currJobDescr": "3rd Line Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "3rd Line Application Support Analyst",
               "company": "Eversheds LLP",
@@ -161,7 +172,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -173,14 +185,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Educated+to+Degree+Standard"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marcus Hutchinson",
           "picture": "https://www.xing.com/image/4_a_5_0dd23e14f_12433758_3/marcus-hutchinson-foto.256x256.jpg",
           "memberSince_Hits": "12. Mai 2009 / 887",
           "currJobDescr": "Snr Trade Floor Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Snr Trade Floor Support Analyst",
               "company": "UBS",
@@ -233,7 +247,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -242,7 +257,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kilburn Polytechnic",
           "url": "https://www.xing.com/search/members?keywords=Kilburn+Polytechnic",
@@ -254,14 +270,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diploma+in+Computer+Science"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Terry Douglas",
           "picture": "https://www.xing.com/img/users/b/6/4/d288b3547.4562167,2.256x256.jpg",
           "memberSince_Hits": "26. Januar 2006 / 1101",
           "currJobDescr": "SaaS Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SaaS Support Analyst",
               "company": "FrontRange",
@@ -314,7 +332,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -324,7 +343,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Staffordshire University",
           "url": "https://www.xing.com/search/members?keywords=Staffordshire+University",
@@ -336,14 +356,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+v3+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Patrik Körber",
           "picture": "https://www.xing.com/image/2_b_b_e1b5700dd_11319913_2/patrik-k%C3%B6rber-foto.256x256.jpg",
           "memberSince_Hits": "30. Oktober 2008 / 2142",
           "currJobDescr": "Senior Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Support Analyst",
               "company": "E.ON Energy Trading SE",
@@ -389,7 +411,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -401,14 +424,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+V3+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Kirill Tsap",
           "picture": "https://www.xing.com/image/4_d_d_b614076b5_25187451_1/kirill-tsap-foto.256x256.jpg",
           "memberSince_Hits": "12. Juni 2016 / 24",
           "currJobDescr": "SimCorp Dimension Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SimCorp Dimension Support Analyst",
               "company": "Rabobank International",
@@ -447,7 +472,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -457,7 +483,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kyiv National University of Trade and Economics",
           "url": "https://www.xing.com/search/members?keywords=Kyiv+National+University+of+Trade+and+Economics",
@@ -475,14 +502,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Data+Extractor+%28Basic%29+by+SimCorp+A%2FS+%E2%80%93+Denmark+-+Certificate"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Martin Popov",
           "picture": "https://www.xing.com/image/b_4_1_ccc60a668_16842691_2/martin-popov-foto.256x256.jpg",
           "memberSince_Hits": "2. Oktober 2011 / 2621",
           "currJobDescr": "Product Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Product Support Analyst",
               "company": "zetVisions AG",
@@ -512,7 +541,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -541,7 +571,8 @@
           "lang": "Bulgarisch Muttersprache"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Englisches Institut Heidelberg",
           "url": "https://www.xing.com/search/members?keywords=Englisches+Institut+Heidelberg",
@@ -563,14 +594,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Katrin Ziarkowski",
           "picture": "https://www.xing.com/img/users/f/4/6/1a0e6cfda.8588658,3.256x256.jpg",
           "memberSince_Hits": "21. Dezember 2007 / 953",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "OCLC GmbH",
@@ -651,7 +684,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -669,7 +703,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HTWK Leipzig",
           "url": "https://www.xing.com/search/members?keywords=HTWK+Leipzig",
@@ -677,7 +712,8 @@
           "eduDuration": "10/1993 - 03/1998"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "39. Europäischer Wettbewerb, Bundessieger Sachsen",
           "award_date": "www.europaeischer-wettbewerb.de"
@@ -685,14 +721,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Lyubomira Valcheva",
           "picture": "https://www.xing.com/image/c_1_8_35497938d_21606534_1/lyubomira-valcheva-foto.256x256.jpg",
           "memberSince_Hits": "30. Dezember 2014 / 989",
           "currJobDescr": "Technical Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Analyst",
               "company": "Experian",
@@ -738,7 +776,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -756,7 +795,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "New Bulgarian University",
           "url": "https://www.xing.com/search/members?keywords=New+Bulgarian+University",
@@ -768,14 +808,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=BMC+Control-M+Workload+Automation+8.0%3A+Scheduling+Certification"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jaison Joseph",
           "picture": "https://www.xing.com/image/5_1_b_16c29693f_24288302_4/jaison-joseph-foto.256x256.jpg",
           "memberSince_Hits": "6. Februar 2016 / 234",
           "currJobDescr": "Software Engineer / Senior Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Engineer / Senior Application Support Analyst",
               "company": "Deutsche Bank AG / HCL GmBH",
@@ -785,7 +827,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -795,7 +838,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bangalore University",
           "url": "https://www.xing.com/search/members?keywords=Bangalore+University",
@@ -805,7 +849,8 @@
       ],
       "qualifications": "Computer Application",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Computer+Application+",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "O2 Infinity - Outstanding Performer of the Year",
           "award_date": "2014"
@@ -813,14 +858,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Florian Grison",
           "picture": "https://www.xing.com/img/users/f/9/d/390ba1f14.14806,2.256x256.jpg",
           "memberSince_Hits": "18. Dezember 2003 / 3139",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "Capital Group Corporate Global",
@@ -845,7 +892,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -856,7 +904,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Université d'Orléans : Institut Universitaire de Technologie",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A9+d%27Orl%C3%A9ans+%3A+Institut+Universitaire+de+Technologie",
@@ -868,14 +917,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MOS+Excel+2003+certification%2C+2008"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Denis Terze",
           "picture": "https://www.xing.com/image/5_3_4_1e570a9bc_3370384_4/denis-terze-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2005 / 4256",
           "currJobDescr": "IT Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Analyst",
               "company": "Bio-Rad Laboratories GmbH",
@@ -914,7 +965,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -929,14 +981,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jean-Marc Dejean",
           "picture": "https://www.xing.com/image/9_6_e_9a1a25cc2_9927164_2/jean-marc-dejean-foto.256x256.jpg",
           "memberSince_Hits": "5. April 2008 / 1089",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "CAFOD",
@@ -982,7 +1036,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -996,7 +1051,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Oxford University of Continued Education",
           "url": "https://www.xing.com/search/members?keywords=Oxford+University+of+Continued+Education",
@@ -1012,14 +1068,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Phuoc Tran",
           "picture": "https://www.xing.com/image/4_8_1_8f419372b_21431098_1/phuoc-tran-foto.256x256.jpg",
           "memberSince_Hits": "23. November 2014 / 733",
           "currJobDescr": "IT Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Analyst",
               "company": "UBS Investment Bank, Zürich",
@@ -1058,7 +1116,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1071,7 +1130,8 @@
           "lang": "Vietnamesisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Basel",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Basel",
@@ -1089,14 +1149,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Entrepreneurship+-+Kompetenzen"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Anthony Eguavoen",
           "picture": "https://www.xing.com/image/e_0_5_3481fdb6c_25205559_1/anthony-eguavoen-foto.256x256.jpg",
           "memberSince_Hits": "14. Juni 2016 / 100",
           "currJobDescr": "Application Support Analyst, System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst, System Administrator",
               "company": "Sunrise Communications AG",
@@ -1106,7 +1168,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1116,7 +1179,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Institute of Continued Education",
           "url": "https://www.xing.com/search/members?keywords=Institute+of+Continued+Education",
@@ -1128,14 +1192,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=1997+%E2%80%93+1998%09+-+IBM+AS%2F400+Operating+system+and+Cobol+programming"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Peter Hoddersen",
           "picture": "https://www.xing.com/image/8_4_7_4a9012e16_14106888_1/peter-hoddersen-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2010 / 1063",
           "currJobDescr": "Global Credit Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Credit Support Analyst",
               "company": "Deutsche Bank AG",
@@ -1160,7 +1226,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1170,7 +1237,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Maryland, Maryland",
           "url": "https://www.xing.com/search/members?keywords=University+of+Maryland%2C+Maryland",
@@ -1182,14 +1250,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Introduction+to+UNIX+System+Administr"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Ariya Scholze",
           "picture": "https://www.xing.com/image/c_c_2_90fd6a810_20861735_1/ariya-scholze-foto.256x256.jpg",
           "memberSince_Hits": "3. August 2014 / 637",
           "currJobDescr": "IT-Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT-Support Analyst",
               "company": "NXP Semiconductors Germany",
@@ -1235,7 +1305,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1248,7 +1319,8 @@
           "lang": "Thai"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Oregon, USA",
           "url": "https://www.xing.com/search/members?keywords=University+of+Oregon%2C+USA",
@@ -1272,14 +1344,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Deutsch+B2+Abschluss"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Rosa Santos",
           "picture": "https://www.xing.com/image/2_c_1_603766bcb_19441633_2/rosa-santos-foto.256x256.jpg",
           "memberSince_Hits": "4. August 2013 / 1554",
           "currJobDescr": "Technical Support Analyst, DoubleClick for Advertisers",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Analyst, DoubleClick for Advertisers",
               "company": "VoxPro",
@@ -1325,7 +1399,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1346,7 +1421,8 @@
           "lang": "Creole"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "London Metropolitan University",
           "url": "https://www.xing.com/search/members?keywords=London+Metropolitan+University",
@@ -1358,14 +1434,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=DoubleClick+Trafficker+Certificate"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sebastian Seilz",
           "picture": "https://www.xing.com/image/6_9_2_6a502707a_18097089_2/sebastian-seilz-foto.256x256.jpg",
           "memberSince_Hits": "1. August 2012 / 1211",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "Experian Marketing Services",
@@ -1395,7 +1473,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1405,7 +1484,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Erich Gutenberg Berufskolleg Köln",
           "url": "https://www.xing.com/search/members?keywords=Erich+Gutenberg+Berufskolleg+K%C3%B6ln",
@@ -1414,14 +1494,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Robert Teichmeister",
           "picture": "https://www.xing.com/image/3_2_6_0f6906e51_12217061_3/robert-teichmeister-foto.256x256.jpg",
           "memberSince_Hits": "31. März 2009 / 1601",
           "currJobDescr": "Integrated Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Integrated Support Analyst",
               "company": "Shell Austria",
@@ -1467,7 +1549,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1477,7 +1560,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Wien",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Wien",
@@ -1487,14 +1571,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Guilherme Cenzi",
           "picture": "https://www.xing.com/image/e_9_e_a882c9020_13824811_2/guilherme-cenzi-foto.256x256.jpg",
           "memberSince_Hits": "20. Januar 2010 / 743",
           "currJobDescr": "Systems Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Systems Support Analyst",
               "company": "T-Systems do Brasil",
@@ -1512,7 +1598,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1526,7 +1613,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Centro Universitário Fundação Santo André",
           "url": "https://www.xing.com/search/members?keywords=Centro+Universit%C3%A1rio+Funda%C3%A7%C3%A3o+Santo+Andr%C3%A9",
@@ -1538,14 +1626,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Cambridge%27s+First+Certificate+in+English"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marcus Häger",
           "picture": "https://www.xing.com/image/7_b_5_7eb6e4cec_26435648_1/marcus-h%C3%A4ger-foto.256x256.jpg",
           "memberSince_Hits": "21. November 2016 / 29",
           "currJobDescr": "Senior IT Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior IT Support Analyst",
               "company": "TCC Global",
@@ -1570,7 +1660,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1580,7 +1671,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Gewerbliche Schulen der Stadt Mönchengladbach",
           "url": "https://www.xing.com/search/members?keywords=Gewerbliche+Schulen+der+Stadt+M%C3%B6nchengladbach",
@@ -1604,14 +1696,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=07%2F96-08%2F96%09Hewlett+Packard%2C+System+Administration+HPUX%2C+Network%2C+Graphics%2C+prin"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jérôme du Maire",
           "picture": "https://www.xing.com/image/a_9_e_be4f2729c_20955209_2/j%C3%A9r%C3%B4me-du-maire-foto.256x256.jpg",
           "memberSince_Hits": "25. August 2014 / 594",
           "currJobDescr": "Front Office Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Front Office Support Analyst",
               "company": "Commerz Systems GmbH",
@@ -1636,7 +1730,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1650,7 +1745,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Friedrich-Schiller-Universität Jena",
           "url": "https://www.xing.com/search/members?keywords=Friedrich-Schiller-Universit%C3%A4t+Jena",
@@ -1666,14 +1762,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Oleksandr Borysiuk",
           "picture": "https://www.xing.com/image/5_f_d_63481abf4_19137912_1/oleksandr-borysiuk-foto.256x256.jpg",
           "memberSince_Hits": "19. Mai 2013 / 827",
           "currJobDescr": "Enterprise Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Enterprise Support Analyst",
               "company": "Dell",
@@ -1712,7 +1810,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1729,7 +1828,8 @@
           "lang": "Ukrainian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "NTUU \"KPI\"",
           "url": "https://www.xing.com/search/members?keywords=NTUU+%22KPI%22",
@@ -1740,14 +1840,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MCSA%3A+Windows+Server+2012"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sebastian Ruff",
           "picture": "https://www.xing.com/image/1_6_7_8b5f0f59c_5873101_1/sebastian-ruff-foto.256x256.jpg",
           "memberSince_Hits": "25. April 2006 / 1133",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "Barclaycard Barclays Bank PLC",
@@ -1772,7 +1874,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1788,14 +1891,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Gabriel Manthey",
           "picture": "https://www.xing.com/image/a_0_2_39346866f_9947516_2/gabriel-manthey-foto.256x256.jpg",
           "memberSince_Hits": "9. April 2008 / 1776",
           "currJobDescr": "Business Product Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Business Product Support Analyst",
               "company": "Infor",
@@ -1883,7 +1988,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1901,7 +2007,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität für Wirtschaft Breslau (Uniwersytet Ekonomiczny Wrocław)",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+f%C3%BCr+Wirtschaft+Breslau+%28Uniwersytet+Ekonomiczny+Wroc%C5%82aw%29",
@@ -1942,14 +2049,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL%C2%AE+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Julia Oldenburg",
           "picture": "https://www.xing.com/image/c_a_e_3bf565623_21904855_1/julia-oldenburg-foto.256x256.jpg",
           "memberSince_Hits": "12. Februar 2015 / 719",
           "currJobDescr": "IT Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Analyst",
               "company": "UBS Switzerland AG",
@@ -1967,7 +2076,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1985,7 +2095,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen",
@@ -1995,14 +2106,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Noémi Nádor",
           "picture": "https://www.xing.com/image/1_8_8_4180e5816_10945814_3/no%C3%A9mi-n%C3%A1dor-foto.256x256.jpg",
           "memberSince_Hits": "1. September 2008 / 901",
           "currJobDescr": "SAP FI/CO Application Support analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SAP FI/CO Application Support analyst",
               "company": "ExxonMobil",
@@ -2012,7 +2125,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Ungarisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2022,7 +2136,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BGF PSZF Budapest - College of Finance and Accountancy",
           "url": "https://www.xing.com/search/members?keywords=BGF+PSZF+Budapest+-+College+of+Finance+and+Accountancy"
@@ -2030,14 +2145,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Christiane Brodhage",
           "picture": "https://www.xing.com/image/2_9_a_d76822f87_10203128_2/christiane-brodhage-foto.256x256.jpg",
           "memberSince_Hits": "28. Mai 2008 / 2553",
           "currJobDescr": "Senior Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Support Analyst",
               "company": "Galileo by Travelport",
@@ -2048,7 +2165,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2058,14 +2176,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Jennifer Steiner",
           "picture": "https://www.xing.com/image/a_c_9_d73126113_18234335_1/jennifer-steiner-foto.256x256.jpg",
           "memberSince_Hits": "11. September 2012 / 523",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "OCLC GmbH",
@@ -2083,12 +2203,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stadtbücherei Idar-Oberstein",
           "url": "https://www.xing.com/search/members?keywords=Stadtb%C3%BCcherei+Idar-Oberstein",
@@ -2098,14 +2220,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Viktoria Rost",
           "picture": "https://www.xing.com/image/a_3_7_0348c4d06_20391725_1/viktoria-rost-foto.256x256.jpg",
           "memberSince_Hits": "2. April 2014 / 1177",
           "currJobDescr": "Application Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Support Analyst",
               "company": "OCLC GmbH",
@@ -2144,7 +2268,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2158,7 +2283,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik%2C+Wirtschaft+und+Kultur+Leipzig",
@@ -2168,14 +2294,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Antony Wilson",
           "picture": "https://www.xing.com/image/b_c_5_68a1079d8_20470088_1/antony-wilson-foto.256x256.jpg",
           "memberSince_Hits": "23. April 2014 / 834",
           "currJobDescr": "Desktop Support Analyst \\ IT Technician",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Desktop Support Analyst \\ IT Technician",
               "company": "---",
@@ -2219,7 +2347,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Grundkenntnisse)"
@@ -2232,7 +2361,8 @@
           "lang": "Maori"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Information and Animation Technology",
           "url": "https://www.xing.com/search/members?keywords=Information+and+Animation+Technology",
@@ -2244,14 +2374,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+Desktop+Technician"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Santoshi Pratima",
           "picture": "https://www.xing.com/image/3_5_9_3ea77788a_20481187_1/santoshi-pratima-foto.256x256.jpg",
           "memberSince_Hits": "26. April 2014 / 406",
           "currJobDescr": "Support Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Support Analyst",
               "company": "Cognizant Technology Solutions",
@@ -2276,7 +2408,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2286,7 +2419,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "C.V.RAMAN college of engineering India",
           "url": "https://www.xing.com/search/members?keywords=C.V.RAMAN+college+of+engineering+India",
@@ -2294,7 +2428,8 @@
           "eduDuration": "06/2004 - 05/2008"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Internal project star award",
           "award_date": "2013"
@@ -2302,14 +2437,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hayrettin Sahin",
           "picture": "https://www.xing.com/image/8_7_e_ffaf02bdd_17069022_2/hayrettin-sahin-foto.256x256.jpg",
           "memberSince_Hits": "1. Dezember 2011 / 1758",
           "currJobDescr": "Fachinformatiker Systemintegration",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Fachinformatiker Systemintegration",
               "company": "Poolia Deutschland GmbH \\ E.H. Worlée GmbH & Co. KG",
@@ -2369,7 +2506,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2386,7 +2524,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Berufsfachschule für Kaufm. Assistenz",
           "url": "https://www.xing.com/search/members?keywords=Berufsfachschule+f%C3%BCr+Kaufm.+Assistenz",
@@ -2398,14 +2537,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker+f%C3%BCr+Systemintegration"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Noemi Pirscoveanu",
           "picture": "https://www.xing.com/image/b_9_7_949273255_21634167_1/noemi-pirscoveanu-foto.256x256.jpg",
           "memberSince_Hits": "6. Januar 2015 / 447",
           "currJobDescr": "Oracle Senior Support Engineer - CRM OnDemand Supplementals",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Senior Support Engineer - CRM OnDemand Supplementals",
               "company": "Oracle Romania",
@@ -2443,7 +2584,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2461,7 +2603,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "State University of Political and Administrative Studies",
           "url": "https://www.xing.com/search/members?keywords=State+University+of+Political+and+Administrative+Studies",
@@ -2483,7 +2626,8 @@
       ],
       "qualifications": "Schiller Institute – course of German language",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Schiller+Institute+%E2%80%93+course+of+German+language",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Oracle Software - Proactive Support Product Line Champion Finalist",
           "award_date": "2014"
@@ -2507,14 +2651,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Robin Fleming",
           "picture": "https://www.xing.com/image/d_1_1_2e9f00a13_11345829_4/robin-fleming-foto.256x256.jpg",
           "memberSince_Hits": "3. November 2008 / 1656",
           "currJobDescr": "Windows Help and Admin Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Windows Help and Admin Assistant",
               "company": "Credit Swiss",
@@ -2566,7 +2712,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2576,7 +2723,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "College of Technology",
           "url": "https://www.xing.com/search/members?keywords=College+of+Technology",
@@ -2600,14 +2748,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=5+O+levels+%2C+English+%2C+Maths+%2C+French+%2C+Physics+%2C+2+Higher+exams+French+Maths"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dirk Harbke",
           "picture": "https://www.xing.com/image/c_0_e_fef5a0b7a_4493921_5/dirk-harbke-foto.256x256.jpg",
           "memberSince_Hits": "3. Januar 2006 / 3544",
           "currJobDescr": "IT-Berater, selbstständig",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT-Berater, selbstständig",
               "company": "Harbke IT",
@@ -2674,7 +2824,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2688,7 +2839,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Lüneburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+L%C3%BCneburg",
@@ -2699,14 +2851,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ACSP+%28Apple+Certified+Support+Professional%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sharad Sharma",
           "picture": "https://www.xing.com/image/e_e_c_0b69d272f_22878216_1/sharad-sharma-foto.256x256.jpg",
           "memberSince_Hits": "14. Juli 2015 / 1486",
           "currJobDescr": "Management Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Management Consultant",
               "company": "Edison Wesley Kleinfield GmbH",
@@ -2738,7 +2892,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -2748,7 +2903,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Rajasthan",
           "url": "https://www.xing.com/search/members?keywords=University+of+Rajasthan",
@@ -2760,14 +2916,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=RSA+VLG+Admin+Training+attended"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Charles Jones",
           "picture": "https://www.xing.com/image/c_9_2_7a9a14b37_24388963_1/charles-jones-foto.256x256.jpg",
           "memberSince_Hits": "19. Februar 2016 / 262",
           "currJobDescr": "Service Delivery Manager and Subject Matter Expert",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Service Delivery Manager and Subject Matter Expert",
               "company": "Zurich Insurance",
@@ -2819,7 +2977,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -2829,7 +2988,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "The University of Texas at Dallas",
           "url": "https://www.xing.com/search/members?keywords=The+University+of+Texas+at+Dallas",

@@ -1,16 +1,19 @@
 {
   "category": "Database Administrator",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Shyju Komban",
           "picture": "https://www.xing.com/image/d_8_1_700591d30_9037004_5/shyju-komban-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2008 / 1366",
           "currJobDescr": "Senior Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Database Administrator",
               "company": "Global Technology Services[ENOC]",
@@ -49,13 +52,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Calicut university",
           "url": "https://www.xing.com/search/members?keywords=Calicut+university",
@@ -71,14 +76,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+PL%2FSQL+Developer+Certified+Associate+%28OCA%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Enrico Fasani",
           "picture": "https://www.xing.com/img/users/2/9/b/1751664b1.16013848,1.256x256.jpg",
           "memberSince_Hits": "10. März 2011 / 342",
           "currJobDescr": "SENIOR DATABASE ADMINISTRATOR",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SENIOR DATABASE ADMINISTRATOR",
               "company": "BluArancio Spa",
@@ -201,7 +208,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -211,7 +219,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università degli Studi Roma 2 “Tor Vergata”",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi+Roma+2+%E2%80%9CTor+Vergata%E2%80%9D",
@@ -223,14 +232,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+Trainer+%3A+MCT+Enrollment"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sam Pravin",
           "picture": "https://www.xing.com/image/3_b_2_537ae6ee7_16862248_3/sam-pravin-foto.256x256.jpg",
           "memberSince_Hits": "7. Oktober 2011 / 1092",
           "currJobDescr": "Senior Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Database Administrator",
               "company": "Neos IT Services",
@@ -276,12 +287,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hindustan Engineering College",
           "url": "https://www.xing.com/search/members?keywords=Hindustan+Engineering+College",
@@ -305,14 +318,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle12c+Certified+Professional+Database+Administrator+Oracle"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ismail Aboussaad",
           "picture": "https://www.xing.com/image/5_3_4_37c84a90c_23637581_1/ismail-aboussaad-foto.256x256.jpg",
           "memberSince_Hits": "4. November 2015 / 207",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "Capgemini",
@@ -365,7 +380,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Grundkenntnisse)"
@@ -383,7 +399,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "EMSI",
           "url": "https://www.xing.com/search/members?keywords=EMSI",
@@ -407,14 +424,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=1Z0-051%2C1Z0-052+Oracle+Database+11g+Administrator+Certified+Associate+%28OCA%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Burak Ozdemir",
           "picture": "https://www.xing.com/image/c_a_6_cc20692a1_20433684_2/burak-ozdemir-foto.256x256.jpg",
           "memberSince_Hits": "12. April 2014 / 584",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "bwin.party digital entertainment",
@@ -460,7 +479,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -474,7 +494,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Old Dominion University, Virginia, USA",
           "url": "https://www.xing.com/search/members?keywords=Old+Dominion+University%2C+Virginia%2C+USA",
@@ -492,14 +513,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Database+Oncall"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "ATILIM BOY",
           "picture": "https://www.xing.com/image/1_2_a_8c1af2126_11038915_3/atilim-boy-foto.256x256.jpg",
           "memberSince_Hits": "17. September 2008 / 1902",
           "currJobDescr": "Senior Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Database Administrator",
               "company": "Vodafone",
@@ -552,7 +575,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch"
         },
@@ -561,7 +585,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Anadolu Universitesi",
           "url": "https://www.xing.com/search/members?keywords=Anadolu+Universitesi",
@@ -577,14 +602,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Ugo Mirenghi",
           "picture": "https://www.xing.com/image/a_e_e_120cc107b_21896875_1/ugo-mirenghi-foto.256x256.jpg",
           "memberSince_Hits": "11. Februar 2015 / 519",
           "currJobDescr": "Oracle Database Administrator at European Central Bank - Frankfurt am Main",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator at European Central Bank - Frankfurt am Main",
               "company": "Serco GmbH",
@@ -630,7 +657,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -648,7 +676,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Politecnico di Bari",
           "url": "https://www.xing.com/search/members?keywords=Politecnico+di+Bari",
@@ -666,14 +695,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+SQL+Server+Administration"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gergö Kis",
           "picture": "https://www.xing.com/image/a_a_b_cf7068412_19965993_1/gerg%C3%B6-kis-foto.256x256.jpg",
           "memberSince_Hits": "18. Dezember 2013 / 1223",
           "currJobDescr": "Oracle Database Administrator bei UniCredit Business Integrated Solutions",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator bei UniCredit Business Integrated Solutions",
               "company": "UniCredit Business Integrated Solutions",
@@ -705,7 +736,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -719,7 +751,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "EDUTUS",
           "url": "https://www.xing.com/search/members?keywords=EDUTUS",
@@ -737,14 +770,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Database+11g+Security+Certified+Implementation+Specialist"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Joerg ROEHRDANZ",
           "picture": "https://www.xing.com/image/e_4_4_428494496_10357883_18/joerg-roehrdanz-foto.256x256.jpg",
           "memberSince_Hits": "3. Juli 2008 / 3381",
           "currJobDescr": "SAP Data Migration Team Lead, SAP Basis- & Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SAP Data Migration Team Lead, SAP Basis- & Oracle Database Administrator",
               "company": "Kontron AG",
@@ -783,7 +818,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -797,14 +833,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=International+professional+experience%3A+Canada%2C+USA%2C+Malaysia"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dmytro Fedorov",
           "picture": "https://www.xing.com/image/4_2_f_acd885b5b_21792822_1/dmytro-fedorov-foto.256x256.jpg",
           "memberSince_Hits": "26. Januar 2015 / 327",
           "currJobDescr": "Database Administrator/Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator/Developer",
               "company": "Chal-Tec GmbH",
@@ -878,7 +916,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -892,7 +931,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kharkiv Polytechnical University",
           "url": "https://www.xing.com/search/members?keywords=Kharkiv+Polytechnical+University",
@@ -904,14 +944,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Brainbench+Job+Role+Certificate+-+RDBMS+Concepts"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nijat Alakbarov",
           "picture": "https://www.xing.com/image/a_0_e_19c4d4464_24139522_1/nijat-alakbarov-foto.256x256.jpg",
           "memberSince_Hits": "19. Januar 2016 / 310",
           "currJobDescr": "Senior Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Database Administrator",
               "company": "Wirecard AG",
@@ -950,7 +992,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -970,7 +1013,8 @@
           "lang": "Azerbaijani"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Birmingham",
           "url": "https://www.xing.com/search/members?keywords=University+of+Birmingham",
@@ -988,7 +1032,8 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Junior+Level+Administration+%28LPIC-1%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tayfur Boler",
@@ -998,14 +1043,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nariman Narimanov",
           "picture": "https://www.xing.com/image/d_8_5_061acb83b_18674956_2/nariman-narimanov-foto.256x256.jpg",
           "memberSince_Hits": "16. Januar 2013 / 1035",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "Commerz Finanz",
@@ -1049,7 +1096,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1067,7 +1115,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Azerbaijan State University",
           "url": "https://www.xing.com/search/members?keywords=Azerbaijan+State+University",
@@ -1083,7 +1132,8 @@
       ],
       "qualifications": "- Using Oracle Enterprise Manager Cloud Control 13c Ed 1 (Munich, 2016)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=-+Using+Oracle+Enterprise+Manager+Cloud+Control+13c+Ed+1+%28Munich%2C+2016%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "OCP 12c",
           "award_date": "2016"
@@ -1111,14 +1161,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jorge Marques",
           "picture": "https://www.xing.com/image/a_4_4_b6870d8c3_21179442_1/jorge-marques-foto.256x256.jpg",
           "memberSince_Hits": "9. Oktober 2014 / 516",
           "currJobDescr": "Project Manager / Senior Database Administrator (PM DBA)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Project Manager / Senior Database Administrator (PM DBA)",
               "company": "RBC Investor & Treasury Services",
@@ -1199,7 +1251,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1217,7 +1270,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Escola Secundária da Parede (Madorna)",
           "url": "https://www.xing.com/search/members?keywords=Escola+Secund%C3%A1ria+da+Parede+%28Madorna%29",
@@ -1229,14 +1283,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+System+Engineer+%28MCP%2FMCSE%29+SQL+Certification%2C+at+Rumos%2C+in+2"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ivan Schuster",
           "picture": "https://www.xing.com/image/7_d_9_fce6c2809_26063735_1/ivan-schuster-foto.256x256.jpg",
           "memberSince_Hits": "10. Oktober 2016 / 25",
           "currJobDescr": "Oracle Database Administrator Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator Consultant",
               "company": "Teiko",
@@ -1261,7 +1317,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1283,14 +1340,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Database+10g+Certified+Professional+%28OCP%29+%282008%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "M Amin Farvardin",
           "picture": "https://www.xing.com/image/4_0_c_62d849ed2_23632842_1/m-amin-farvardin-foto.256x256.jpg",
           "memberSince_Hits": "4. November 2015 / 200",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "Robotron Datenbank-Software GmbH",
@@ -1329,7 +1388,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1342,7 +1402,8 @@
           "lang": "Persisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Sheikh Bahaei University, Isfahan/ Iran",
           "url": "https://www.xing.com/search/members?keywords=Sheikh+Bahaei+University%2C+Isfahan%2F+Iran",
@@ -1354,14 +1415,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Database+12c%3A+ASM+Administration+%5BD81242DE10%5D"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rolfe Hare",
           "picture": "https://www.xing.com/image/a_2_9_b3e70504f_11618295_7/rolfe-hare-foto.256x256.jpg",
           "memberSince_Hits": "19. Dezember 2008 / 3262",
           "currJobDescr": "Oracle EBS Applications Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle EBS Applications Database Administrator",
               "company": "Raiffeisen Bank",
@@ -1393,7 +1456,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1411,7 +1475,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Polytechnic of Wales",
           "url": "https://www.xing.com/search/members?keywords=Polytechnic+of+Wales",
@@ -1421,7 +1486,8 @@
       ],
       "qualifications": "BSc(Hons) Computer Studies",
       "qualifications_url": "https://www.xing.com/search/members?keywords=BSc%28Hons%29+Computer+Studies",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "ITIL V3 Foundation",
           "award_date": "2008"
@@ -1433,14 +1499,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Baris Arslan",
           "picture": "https://www.xing.com/image/1_3_4_1f1de1455_13219351_4/baris-arslan-foto.256x256.jpg",
           "memberSince_Hits": "3. Oktober 2009 / 947",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Isbank AG",
@@ -1472,7 +1540,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Gut)"
@@ -1482,7 +1551,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Maltepe Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=Maltepe+%C3%9Cniversitesi",
@@ -1493,14 +1563,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+V3+Service+Management+Foundation+"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Paul Förster",
           "picture": "https://www.xing.com/image/8_e_2_75eae968e_8894923_3/paul-f%C3%B6rster-foto.256x256.jpg",
           "memberSince_Hits": "26. Februar 2008 / 3341",
           "currJobDescr": "Senior Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Database Administrator",
               "company": "Informatik Service Center ISC-EJPD",
@@ -1525,7 +1597,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1535,7 +1608,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Industrie- und Handelskammer zu Köln",
           "url": "https://www.xing.com/search/members?keywords=Industrie-+und+Handelskammer+zu+K%C3%B6ln",
@@ -1553,14 +1627,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=English+as+a+second+language+%28TOEFL+1995%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dieter Henig",
           "picture": "https://www.xing.com/image/5_a_f_77dfa3f12_5878572_6/dieter-henig-foto.256x256.jpg",
           "memberSince_Hits": "26. April 2006 / 1893",
           "currJobDescr": "Oracle Database Administrator Expert",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator Expert",
               "company": "Bossard AG",
@@ -1627,7 +1703,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1641,7 +1718,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Nürnberg",
           "url": "https://www.xing.com/search/members?keywords=FH+N%C3%BCrnberg",
@@ -1657,7 +1735,8 @@
       ],
       "qualifications": "Project Manager PRINCE2",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Project+Manager++PRINCE2",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "PRINCE2 Practitioneer",
           "award_date": "2016"
@@ -1673,14 +1752,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christopher Kizziar",
           "picture": "https://www.xing.com/image/2_d_f_7e4bdbf07_16529961_1/christopher-kizziar-foto.256x256.jpg",
           "memberSince_Hits": "15. Juli 2011 / 567",
           "currJobDescr": "Senior Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Database Administrator",
               "company": "Quality Support Services",
@@ -1705,7 +1786,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1715,7 +1797,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "DeKalb Technical College",
           "url": "https://www.xing.com/search/members?keywords=DeKalb+Technical+College",
@@ -1725,7 +1808,8 @@
       ],
       "qualifications": "Defense Security Expert (US Army Unit Security Manager Certified)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Defense+Security+Expert+%28US+Army+Unit+Security+Manager+Certified%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "US Army Meritorious Achievement Award",
           "award_date": "2011"
@@ -1745,14 +1829,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sabine Langer",
           "picture": "https://www.xing.com/image/0_1_f_7b3a73ac4_20319668_3/sabine-langer-foto.256x256.jpg",
           "memberSince_Hits": "16. März 2014 / 896",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "PAYBACK GmbH, Part of the American Express Group",
@@ -1791,7 +1877,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1801,7 +1888,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule München",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+M%C3%BCnchen",
@@ -1813,14 +1901,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Internet+Webmaster"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cavit Doering",
           "picture": "https://www.xing.com/img/users/6/0/c/b86a9a579.7685598,6.256x256.jpg",
           "memberSince_Hits": "25. Juli 2007 / 1471",
           "currJobDescr": "IT-System Betrieb / Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT-System Betrieb / Database Administrator",
               "company": "REWE DORTMUND Großhandel eG",
@@ -1859,7 +1949,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1873,14 +1964,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SuSe+Certified+Linux+Administrator"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Massimo Malara",
           "picture": "https://www.xing.com/image/5_2_c_4a85df383_9193968_1/massimo-malara-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 1182",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Aircom International Ltd",
@@ -1908,7 +2001,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch"
         },
@@ -1919,7 +2013,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universita' degli studi mediterranea di Reggio Calabria",
           "url": "https://www.xing.com/search/members?keywords=Universita%27+degli+studi+mediterranea+di+Reggio+Calabria",
@@ -1935,14 +2030,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dominik Sliwa",
           "picture": "https://www.xing.com/image/8_8_0_7300561db_4350375_3/dominik-sliwa-foto.256x256.jpg",
           "memberSince_Hits": "6. November 2005 / 4775",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Rhenus Assets & Services GmbH & Co KG",
@@ -1988,7 +2085,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2002,14 +2100,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "mazen orabi",
           "picture": "https://www.xing.com/image/c_e_3_38ca2549f_25787016_1/mazen-orabi-foto.256x256.jpg",
           "memberSince_Hits": "6. September 2016 / 92",
           "currJobDescr": "Database Administrator and data warehouse developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator and data warehouse developer",
               "company": "adviqo AG",
@@ -2075,7 +2175,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2089,7 +2190,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Faculty of Information Technology Engineering of Damascus University",
           "url": "https://www.xing.com/search/members?keywords=Faculty+of+Information+Technology+Engineering+of+Damascus+University",
@@ -2101,14 +2203,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MongoDB+for+DBAs+M102"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Martin Eichenberger",
           "picture": "https://www.xing.com/image/d_e_9_6ad8a7fba_8907414_1/martin-eichenberger-foto.256x256.jpg",
           "memberSince_Hits": "28. Februar 2008 / 2624",
           "currJobDescr": "Senior Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Database Administrator",
               "company": "Atos AG",
@@ -2153,7 +2257,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2171,14 +2276,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Certified+Professional"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Agbor Enow",
           "picture": "https://www.xing.com/image/d_b_2_e6a0a3b6a_4244496_1/agbor-enow-foto.256x256.jpg",
           "memberSince_Hits": "14. September 2005 / 3729",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Carnegie Mellon University",
@@ -2217,7 +2324,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2228,7 +2336,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Maryland University College",
           "url": "https://www.xing.com/search/members?keywords=University+of+Maryland+University+College",
@@ -2246,14 +2355,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP+Certified+Solution+Consultant+Management+Accounting"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rohit Goyal",
           "picture": "https://www.xing.com/image/8_8_e_c0ea97a6a_17872643_1/rohit-goyal-foto.256x256.jpg",
           "memberSince_Hits": "28. Mai 2012 / 543",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "avato consulting ag",
@@ -2278,12 +2389,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=TU+Darmstadt",
@@ -2295,14 +2408,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Performance+tuning+expert"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Narasingarao Nagireddi",
           "picture": "https://www.xing.com/image/e_3_3_7b80e05dd_19523146_1/narasingarao-nagireddi-foto.256x256.jpg",
           "memberSince_Hits": "26. August 2013 / 938",
           "currJobDescr": "Senior Oracle Application Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Application Database Administrator",
               "company": "Nous Infosystems",
@@ -2320,7 +2435,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2330,7 +2446,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Sydney, Australia",
           "url": "https://www.xing.com/search/members?keywords=University+of+Sydney%2C+Australia",
@@ -2346,7 +2463,8 @@
       ],
       "qualifications": "AIX Jumpstart for Unix Professionals ( Soalris , HP-UX ) AN14D1DE",
       "qualifications_url": "https://www.xing.com/search/members?keywords=AIX+Jumpstart+for+Unix+Professionals+%28+Soalris+%2C+HP-UX+%29+AN14D1DE",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Snap award for efficient onsite client support",
           "award_date": "2013"
@@ -2362,14 +2480,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Joshua Brooks",
           "picture": "https://www.xing.com/image/e_2_4_94764884a_8729515_1/joshua-brooks-foto.256x256.jpg",
           "memberSince_Hits": "24. Januar 2008 / 1064",
           "currJobDescr": "Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Oracle Database Administrator",
               "company": "OptiSolutions",
@@ -2393,7 +2513,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2402,7 +2523,8 @@
           "lang": "Afrikaans"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Port Elizabeth",
           "url": "https://www.xing.com/search/members?keywords=University+of+Port+Elizabeth",
@@ -2414,14 +2536,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+10g+OCP+%282007%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Robert Moser",
           "picture": "https://www.xing.com/image/f_c_c_46d2370e5_8434993_3/robert-moser-foto.256x256.jpg",
           "memberSince_Hits": "15. November 2007 / 2231",
           "currJobDescr": "Software Developer, Senior Consultant, Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Developer, Senior Consultant, Database Administrator",
               "company": "PSI Metals Austria GmbH",
@@ -2446,7 +2570,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2456,7 +2581,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HTL Kapfenberg",
           "url": "https://www.xing.com/search/members?keywords=HTL+Kapfenberg",
@@ -2466,14 +2592,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Roberto Hernandez",
           "picture": "https://www.xing.com/image/3_8_f_26c9eecd9_18792234_1/roberto-hernandez-foto.256x256.jpg",
           "memberSince_Hits": "15. Februar 2013 / 1668",
           "currJobDescr": "Senior Oracle Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Oracle Database Administrator",
               "company": "BANKIA",
@@ -2491,7 +2619,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2503,14 +2632,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tobias Schindlbeck",
           "picture": "https://www.xing.com/img/users/3/b/8/982768335.12479765,4.256x256.jpg",
           "memberSince_Hits": "21. Mai 2009 / 1501",
           "currJobDescr": "Senior Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Database Administrator",
               "company": "Vodafone Kabel Deutschland GmbH",
@@ -2570,7 +2701,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2582,14 +2714,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Turkel Mammadli",
           "picture": "https://www.xing.com/image/5_b_d_dcab8bc26_24075445_1/turkel-mammadli-foto.256x256.jpg",
           "memberSince_Hits": "11. Januar 2016 / 408",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "portrix Systems GmbH",
@@ -2607,7 +2741,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2621,7 +2756,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Qafqaz University",
           "url": "https://www.xing.com/search/members?keywords=Qafqaz+University",
@@ -2631,7 +2767,8 @@
       ],
       "qualifications": "Oracle Exadata Database Machine Administration Workshop",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Exadata+Database+Machine+Administration+Workshop",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Oracle Database 11g Administrator Certified Professional (OCP)",
           "award_date": "2015"
@@ -2643,14 +2780,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Markus Scheidegger",
           "picture": "https://www.xing.com/image/f_a_7_be02384d5_11270869_3/markus-scheidegger-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2008 / 2022",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Abraxas Informatik AG",
@@ -2703,7 +2842,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2713,7 +2853,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Zuger Techniker- & Informatikschule",
           "url": "https://www.xing.com/search/members?keywords=Zuger+Techniker-+%26+Informatikschule",
@@ -2725,14 +2866,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation+in+IT+Service+Management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Kishan De Silva",
           "picture": "https://www.xing.com/image/c_6_f_c2a8c21ca_14957400_5/kishan-de-silva-foto.256x256.jpg",
           "memberSince_Hits": "11. August 2010 / 1657",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "BCA Group",
@@ -2771,7 +2914,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2785,7 +2929,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Surrey, UK",
           "url": "https://www.xing.com/search/members?keywords=University+of+Surrey%2C+UK",
@@ -2797,14 +2942,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certification+Course+-+Windows+Architecture+II"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Kresimir Skoda",
           "picture": "https://www.xing.com/image/4_f_a_d7671af9a_4453095_2/kresimir-skoda-foto.256x256.jpg",
           "memberSince_Hits": "12. Dezember 2005 / 842",
           "currJobDescr": "Senior Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Database Administrator",
               "company": "Erste Group Card Processor",
@@ -2834,7 +2981,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2845,14 +2993,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Cornak",
           "picture": "https://www.xing.com/image/7_9_1_75e651de8_16134728_2/daniel-cornak-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2011 / 868",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Deutsche Telekom Technik GmbH",
@@ -2870,7 +3020,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
@@ -2879,14 +3030,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Oracle+Database+11g+Administrator+Certified+Professional"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sarkhan Allahverdiyev",
           "picture": "https://www.xing.com/image/9_6_3_19d74a5c8_25854781_1/sarkhan-allahverdiyev-foto.256x256.jpg",
           "memberSince_Hits": "15. September 2016 / 24",
           "currJobDescr": "Database Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Database Administrator",
               "company": "Cybernet LLC",

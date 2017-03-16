@@ -1,16 +1,19 @@
 {
   "category": "Technical Support Specialist",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Toni Tiveron",
           "picture": "https://www.xing.com/image/b_9_b_dc7e2da0e_15958982_1/toni-tiveron-foto.256x256.jpg",
           "memberSince_Hits": "25. Februar 2011 / 603",
           "currJobDescr": "Tech Support Specialist IV",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Tech Support Specialist IV",
               "company": "HERE ITALY s.r.l. Unipersonale",
@@ -63,7 +66,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -77,14 +81,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Clavister+Firewalls"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dennis Daub",
           "picture": "https://www.xing.com/image/e_7_7_6be88befc_21218775_2/dennis-daub-foto.256x256.jpg",
           "memberSince_Hits": "16. Oktober 2014 / 669",
           "currJobDescr": "Teamleiter Service Desk / Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Teamleiter Service Desk / Support Specialist",
               "company": "perinova IT-Management GmbH",
@@ -109,7 +115,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -119,7 +126,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Christian-Schmidt-Schule",
           "url": "https://www.xing.com/search/members?keywords=Christian-Schmidt-Schule",
@@ -131,14 +139,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+Foundation+Zertifizierung"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stephen Audritsh",
           "picture": "https://www.xing.com/image/3_b_7_f26a1c823_7076845_4/stephen-audritsh-foto.256x256.jpg",
           "memberSince_Hits": "17. Februar 2007 / 2068",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Computop Wirtschaftsinformatik GmbH",
@@ -163,7 +173,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -171,7 +182,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Softway Training Hirschaid",
           "url": "https://www.xing.com/search/members?keywords=Softway+Training+Hirschaid",
@@ -187,14 +199,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christophe Ribourtout",
           "picture": "https://www.xing.com/image/7_9_1_051806890_15105579_2/christophe-ribourtout-foto.256x256.jpg",
           "memberSince_Hits": "4. September 2010 / 1730",
           "currJobDescr": "Global Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Technical Support Specialist",
               "company": "Citrix Online",
@@ -247,7 +261,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -269,7 +284,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ECE Lyon",
           "url": "https://www.xing.com/search/members?keywords=ECE+Lyon",
@@ -279,14 +295,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rene Franco",
           "picture": "https://www.xing.com/image/f_b_0_a4e300b62_18716398_3/rene-franco-foto.256x256.jpg",
           "memberSince_Hits": "26. Januar 2013 / 1268",
           "currJobDescr": "CADISON Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "CADISON Support Specialist",
               "company": "ITandFactory GmbH",
@@ -337,7 +355,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -363,7 +382,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Politécnica de Madrid",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Polit%C3%A9cnica+de+Madrid",
@@ -373,14 +393,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Guillermo Prisant",
           "picture": "https://www.xing.com/image/6_e_1_c7c00243f_14248572_7/guillermo-prisant-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2010 / 1560",
           "currJobDescr": "Technical Customer Support Specialist based in Valencia, Spain",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Customer Support Specialist based in Valencia, Spain",
               "company": "Abbot Medical Optics Spain (AMO)",
@@ -419,7 +441,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -448,7 +471,8 @@
           "lang": "catalan"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ENET 28 & Universidad Buenos Aires",
           "url": "https://www.xing.com/search/members?keywords=ENET+28+%26+Universidad+Buenos+Aires"
@@ -456,14 +480,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Vlad Rusu",
           "picture": "https://www.xing.com/image/a_f_6_3590aa021_23607739_1/vlad-rusu-foto.256x256.jpg",
           "memberSince_Hits": "31. Oktober 2015 / 301",
           "currJobDescr": "Customer Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Customer Support Specialist",
               "company": "Amadeus Airport IT GmbH",
@@ -523,7 +549,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -541,7 +568,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technical University of Cluj-Napoca, Romania",
           "url": "https://www.xing.com/search/members?keywords=Technical+University+of+Cluj-Napoca%2C+Romania",
@@ -562,14 +590,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alessandro Palma",
           "picture": "https://www.xing.com/image/0_f_a_0cd599334_20444458_1/alessandro-palma-foto.256x256.jpg",
           "memberSince_Hits": "15. April 2014 / 500",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Chromsystems Instruments & Chemicals GmbH",
@@ -601,7 +631,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -611,7 +642,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Pisa",
           "url": "https://www.xing.com/search/members?keywords=University+of+Pisa",
@@ -625,14 +657,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dennis Van den Abbeel",
           "picture": "https://www.xing.com/img/users/d/f/7/ee78f5c0a.8838284,7.256x256.jpg",
           "memberSince_Hits": "14. Februar 2008 / 833",
           "currJobDescr": "Support Specialist – Second Level",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Support Specialist – Second Level",
               "company": "1WorldSync GmbH",
@@ -664,7 +698,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -678,7 +713,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Keine Hochschule",
           "url": "https://www.xing.com/search/members?keywords=Keine+Hochschule"
@@ -688,14 +724,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Informations-+%26+Telekommunikationssystemelektroniker+%28IHK+2007%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Nils Bülow",
           "picture": "https://www.xing.com/image/1_a_0_b4761f6dd_20841367_1/nils-b%C3%BClow-foto.256x256.jpg",
           "memberSince_Hits": "28. Juli 2014 / 694",
           "currJobDescr": "Polyolefins Customer Development & Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Polyolefins Customer Development & Technical Support Specialist",
               "company": "ExxonMobil Chemical",
@@ -720,7 +758,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -738,7 +777,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -750,14 +790,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diplom-Chemiker"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Navneet Singh",
           "picture": "https://www.xing.com/image/e_2_5_0ef280697_25687420_1/navneet-singh-foto.256x256.jpg",
           "memberSince_Hits": "25. August 2016 / 39",
           "currJobDescr": "IT Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Specialist",
               "company": "Tata Consultancy Services Ltd",
@@ -767,7 +809,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -781,14 +824,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MSTSC"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Herschell Pasztirak",
           "picture": "https://www.xing.com/image/0_7_5_3dc498650_25056797_3/herschell-pasztirak-foto.256x256.jpg",
           "memberSince_Hits": "24. Mai 2016 / 74",
           "currJobDescr": "Client Services & Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Client Services & Support Specialist",
               "company": "Wifient Inc.",
@@ -876,7 +921,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -896,7 +942,8 @@
           "lang": "tagalog"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Cebu Doctors' University",
           "url": "https://www.xing.com/search/members?keywords=Cebu+Doctors%27+University",
@@ -908,14 +955,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+of+Completion+for+QuickBooks+Payroll+Direct+Deposit"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Palermo",
           "picture": "https://www.xing.com/image/0_9_c_6111160bc_24074058_1/thomas-palermo-foto.256x256.jpg",
           "memberSince_Hits": "11. Januar 2016 / 115",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Astrata Europe",
@@ -926,7 +975,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -946,7 +996,8 @@
       ],
       "qualifications": "Cisco Certified Network Associate",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Cisco+Certified+Network+Associate",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Qualstar - Recognition & Award Program for Exceptional Contribution",
           "award_date": "2013"
@@ -954,14 +1005,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Stühle",
           "picture": "https://www.xing.com/image/0_a_e_4e3f0a395_11669741_9/thomas-st%C3%BChle-foto.256x256.jpg",
           "memberSince_Hits": "3. Januar 2009 / 1815",
           "currJobDescr": "Technical Support Specialist EMEA",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist EMEA",
               "company": "Autodesk",
@@ -1007,7 +1060,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1021,7 +1075,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Westfälische Wilhelms Universität Münster",
           "url": "https://www.xing.com/search/members?keywords=Westf%C3%A4lische+Wilhelms+Universit%C3%A4t+M%C3%BCnster",
@@ -1033,14 +1088,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Smallworld+Core+Application+Developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matthias Zoßeder",
           "picture": "https://www.xing.com/image/0_d_8_7d9d365dc_21981770_1/matthias-zo%C3%9Feder-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2015 / 195",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Multitest elektronische Systeme GmbH",
@@ -1065,7 +1122,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1075,7 +1133,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technikerschule München",
           "url": "https://www.xing.com/search/members?keywords=Technikerschule+M%C3%BCnchen",
@@ -1093,14 +1152,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachkraft+f%C3%BCr+Qualit%C3%A4ts-+und+Umweltmanagement+%28T%C3%9CV+S%C3%BCd%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Eric Nabbefeld",
           "picture": "https://www.xing.com/image/d_3_6_5bdbdae37_23704334_1/eric-nabbefeld-foto.256x256.jpg",
           "memberSince_Hits": "13. November 2015 / 340",
           "currJobDescr": "IT Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Specialist",
               "company": "ABB Kaufel GmbH",
@@ -1118,7 +1179,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1128,7 +1190,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "OSZ Teltow Technik",
           "url": "https://www.xing.com/search/members?keywords=OSZ+Teltow+Technik",
@@ -1138,14 +1201,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dr. Valérie Staudt",
           "picture": "https://www.xing.com/image/2_d_7_767c73588_23693934_2/val%C3%A9rie-staudt-foto.256x256.jpg",
           "memberSince_Hits": "11. November 2015 / 872",
           "currJobDescr": "Customer Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Customer Support Specialist",
               "company": "Abbott in Deutschland",
@@ -1170,7 +1235,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1184,7 +1250,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Gutenberg-Universität Mainz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Gutenberg-Universit%C3%A4t+Mainz",
@@ -1193,7 +1260,8 @@
       ],
       "qualifications": "Qualitätsbeauftragte (TÜV)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Qualit%C3%A4tsbeauftragte+%28T%C3%9CV%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Dagmar Eißner-Förderpreis für Nachwuchswissenschaftlerinnen",
           "award_date": "2011"
@@ -1201,14 +1269,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Noel Winslow",
           "picture": "https://www.xing.com/image/e_7_1_05483caac_11417761_2/noel-winslow-foto.256x256.jpg",
           "memberSince_Hits": "14. November 2008 / 617",
           "currJobDescr": "Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Support Specialist",
               "company": "Dealer.com",
@@ -1218,21 +1288,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Terry Jackson",
           "picture": "https://www.xing.com/img/users/8/6/3/ab0e049c0.22638063,2.256x256.jpg",
           "memberSince_Hits": "5. Juni 2015 / 123",
           "currJobDescr": "Software Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Software Support Specialist",
               "company": "Asolva, Inc.",
@@ -1264,7 +1337,8 @@
           ]
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Computer Education Institute",
           "url": "https://www.xing.com/search/members?keywords=Computer+Education+Institute"
@@ -1278,14 +1352,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=-+Systems+Administration"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Joerg Rohde",
           "picture": "https://www.xing.com/image/2_b_6_bf44e4392_3410808_2/joerg-rohde-foto.256x256.jpg",
           "memberSince_Hits": "1. April 2005 / 2968",
           "currJobDescr": "Technical Product Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Product Support Specialist",
               "company": "Overland Storage GmbH",
@@ -1338,7 +1414,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1346,7 +1423,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachochschul Reife",
           "url": "https://www.xing.com/search/members?keywords=Fachochschul+Reife"
@@ -1354,14 +1432,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Michael Robertson",
           "picture": "https://www.xing.com/image/f_e_9_15eea1f8f_18459965_2/michael-robertson-foto.256x256.jpg",
           "memberSince_Hits": "11. November 2012 / 1806",
           "currJobDescr": "Experienced Technical Support Specialist – Finance & Risk Department",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Experienced Technical Support Specialist – Finance & Risk Department",
               "company": "THOMSON REUTERS MARKETS SA - Geneva, Switzerland",
@@ -1393,7 +1473,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1413,14 +1494,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander Besl",
           "picture": "https://www.xing.com/image/e_9_3_55cd8f1f3_9002563_4/alexander-besl-foto.256x256.jpg",
           "memberSince_Hits": "17. März 2008 / 2861",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "EURO-LOG AG",
@@ -1480,7 +1563,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1490,7 +1574,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Systemtechniker DOS/UNIX“ mit Zertifikat",
           "url": "https://www.xing.com/search/members?keywords=Systemtechniker+DOS%2FUNIX%E2%80%9C+mit+Zertifikat",
@@ -1499,7 +1584,8 @@
       ],
       "qualifications": "Office English 3 (Berlitz Level 4, CEF A 2.3)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Office+English+3+%28Berlitz+Level+4%2C+CEF+A+2.3%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Microsoft Certified Profesional - MCP"
         },
@@ -1514,14 +1600,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Steffen Knaak",
           "picture": "https://www.xing.com/img/users/0/a/6/50a4bbdef.11897752,7.256x256.jpg",
           "memberSince_Hits": "10. Februar 2009 / 1379",
           "currJobDescr": "Technical Support Specialist / Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist / Consultant",
               "company": "COSMO CONSULT GmbH",
@@ -1539,7 +1627,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1547,7 +1636,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Tectura GmbH",
           "url": "https://www.xing.com/search/members?keywords=Tectura+GmbH",
@@ -1571,14 +1661,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SharePoint+2013+%2F+2016+Administration"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Lars Armstroff",
           "picture": "https://www.xing.com/image/b_c_0_70391b4dd_8889429_5/lars-armstroff-foto.256x256.jpg",
           "memberSince_Hits": "25. Februar 2008 / 3961",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "John Deere",
@@ -1610,7 +1702,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1628,7 +1721,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität der Bundeswehr München LRT 93 M",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+der+Bundeswehr+M%C3%BCnchen+LRT+93+M",
@@ -1640,14 +1734,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Segelbootf%C3%BChrerscheine+Binnen%2FSee+%28sailing+license+inland+and+coastal+waters%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gérald Chabanis",
           "picture": "https://www.xing.com/image/3_b_f_4ac209dcf_11805019_3/g%C3%A9rald-chabanis-foto.256x256.jpg",
           "memberSince_Hits": "26. Januar 2009 / 2048",
           "currJobDescr": "Rheology Customer Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Rheology Customer Support Specialist",
               "company": "Malvern Instruments GmbH",
@@ -1693,7 +1789,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1707,7 +1804,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Münster",
           "url": "https://www.xing.com/search/members?keywords=FH+M%C3%BCnster",
@@ -1723,14 +1821,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Ute D. Mayer",
           "picture": "https://www.xing.com/img/users/b/5/7/9031f7c40.18817067,5.256x256.jpg",
           "memberSince_Hits": "21. Februar 2013 / 235",
           "currJobDescr": "Management Support Specialist at SAP CH / Global Partner Operations",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Management Support Specialist at SAP CH / Global Partner Operations",
               "company": "SAP (Switzerland) Inc.",
@@ -1787,7 +1887,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1809,14 +1910,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=University+of+Heidelberg%2C+Political+Science+and+Sociology+%28no+final+exams%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christian Deutschland",
           "picture": "https://www.xing.com/image/9_4_4_36cf76306_24502376_1/christian-deutschland-foto.256x256.jpg",
           "memberSince_Hits": "4. März 2016 / 159",
           "currJobDescr": "Support Specialist 1st Level",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Support Specialist 1st Level",
               "company": "Computacenter Managed Services GmbH",
@@ -1855,7 +1958,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1873,7 +1977,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Ilmenau",
           "url": "https://www.xing.com/search/members?keywords=TU+Ilmenau",
@@ -1901,14 +2006,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mario Gfatter",
           "picture": "https://www.xing.com/image/2_7_5_ec05ef8c9_18621003_1/mario-gfatter-foto.256x256.jpg",
           "memberSince_Hits": "2. Januar 2013 / 869",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "PKE Electronics AG",
@@ -1940,7 +2047,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1954,14 +2062,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Elektrotechnische+Sicherheitsvorschriften"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alberto Matthei",
           "picture": "https://www.xing.com/image/2_a_f_f60bdefcb_17986602_1/alberto-matthei-foto.256x256.jpg",
           "memberSince_Hits": "29. Juni 2012 / 782",
           "currJobDescr": "Crop Protection Systems Support Specialist EAME",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Crop Protection Systems Support Specialist EAME",
               "company": "Syngenta Crop Protection AG",
@@ -2000,7 +2110,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2018,7 +2129,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Pontificia Universidad Catolica de Chile",
           "url": "https://www.xing.com/search/members?keywords=Pontificia+Universidad+Catolica+de+Chile",
@@ -2028,14 +2140,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Murat Oeztuerk",
           "picture": "https://www.xing.com/image/c_8_e_7d418e7ff_23390419_1/murat-oeztuerk-foto.256x256.jpg",
           "memberSince_Hits": "1. Oktober 2015 / 492",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "HCL Technologies",
@@ -2053,7 +2167,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2071,7 +2186,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ABB",
           "url": "https://www.xing.com/search/members?keywords=ABB",
@@ -2081,14 +2197,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefan Piesendel",
           "picture": "https://www.xing.com/img/users/a/d/8/3735bb92f.8711546,3.256x256.jpg",
           "memberSince_Hits": "21. Januar 2008 / 516",
           "currJobDescr": "Senior Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Technical Support Specialist",
               "company": "Mitel Deutschland GmbH",
@@ -2113,7 +2231,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2123,7 +2242,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Koblenz",
           "url": "https://www.xing.com/search/members?keywords=FH+Koblenz",
@@ -2134,14 +2254,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fernmeldeelektroniker+IHK+%28DeTeWe+D%C3%BCsseldorf%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alexander R. Haidmayer",
           "picture": "https://www.xing.com/image/0_0_9_87838cdec_16531161_7/alexander-r-haidmayer-foto.256x256.jpg",
           "memberSince_Hits": "15. Juli 2011 / 1468",
           "currJobDescr": "Online Technical and Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Online Technical and Support Specialist",
               "company": "Anzeigen und Marketing Kleine Zeitung GmbH & CoKG",
@@ -2194,7 +2316,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2208,7 +2331,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karl Franzens Universität",
           "url": "https://www.xing.com/search/members?keywords=Karl+Franzens+Universit%C3%A4t",
@@ -2220,14 +2344,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ECDL+%28European+Computer+Driving+License%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Nicole Goede",
           "picture": "https://www.xing.com/image/6_c_e_deefd2a31_10086043_2/nicole-goede-foto.256x256.jpg",
           "memberSince_Hits": "4. Mai 2008 / 2362",
           "currJobDescr": "Applikationsspezialistin (Technical Support Specialist)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Applikationsspezialistin (Technical Support Specialist)",
               "company": "Immucor Medizinische Diagnostik",
@@ -2280,7 +2406,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2294,14 +2421,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Medizinisch+Technische+Laborassistentin"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Nadine Zimmer",
           "picture": "https://www.xing.com/image/f_b_7_2bf85433a_10143724_5/nadine-zimmer-foto.256x256.jpg",
           "memberSince_Hits": "16. Mai 2008 / 2864",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Namics (Deutschland) GmbH",
@@ -2375,7 +2504,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2393,14 +2523,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Berlitz+English+Proficiency+Level+4+%28zertifiziert%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Eugen Schneider",
           "picture": "https://www.xing.com/image/1_a_3_2e3441b49_12137717_4/eugen-schneider-foto.256x256.jpg",
           "memberSince_Hits": "19. März 2009 / 2007",
           "currJobDescr": "Technical Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Support Specialist",
               "company": "Misumi Europa GmbH",
@@ -2425,7 +2557,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2439,7 +2572,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Friedrich-Ebert-Schule Wiesbaden",
           "url": "https://www.xing.com/search/members?keywords=Friedrich-Ebert-Schule+Wiesbaden",
@@ -2457,14 +2591,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ausbildereignungsschein"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tibor Nemeth",
           "picture": "https://www.xing.com/image/e_a_1_f807a43d1_13069356_5/tibor-nemeth-foto.256x256.jpg",
           "memberSince_Hits": "1. September 2009 / 1931",
           "currJobDescr": "System Engineer / Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Engineer / Support Specialist",
               "company": "RICOH SCHWEIZ AG",
@@ -2538,7 +2674,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2556,14 +2693,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MTA"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mitchell Berrenstein",
           "picture": "https://www.xing.com/image/e_e_9_7112e5a5f_20054863_2/mitchell-berrenstein-foto.256x256.jpg",
           "memberSince_Hits": "14. Januar 2014 / 974",
           "currJobDescr": "Enduser Support Specialist/VIP support/System Administrator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Enduser Support Specialist/VIP support/System Administrator",
               "company": "Produban S.L. (Grupo Santander)",
@@ -2672,7 +2811,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Niederländisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2686,7 +2826,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ROC Bijlmer",
           "url": "https://www.xing.com/search/members?keywords=ROC+Bijlmer",
@@ -2700,7 +2841,8 @@
           "eduDuration": "08/2000 - 07/2004"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Business Desktop Deployment"
         },
@@ -2737,14 +2879,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dr. Shruti Parikh",
           "picture": "https://www.xing.com/image/7_9_d_9437b84ae_13945433_4/shruti-parikh-foto.256x256.jpg",
           "memberSince_Hits": "10. Februar 2010 / 999",
           "currJobDescr": "Senior Product Support Specialist EMEA",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Support Specialist EMEA",
               "company": "Thermo Fisher Scientific",
@@ -2776,7 +2920,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2796,7 +2941,8 @@
           "lang": "Gujurati"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Newcastle University",
           "url": "https://www.xing.com/search/members?keywords=Newcastle+University",
@@ -2812,7 +2958,8 @@
       ],
       "qualifications": "TEF Niveau B1/B2",
       "qualifications_url": "https://www.xing.com/search/members?keywords=TEF+Niveau+B1%2FB2",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "British Science Festival Bursary Award",
           "award_date": "2012"
@@ -2824,14 +2971,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ioannis Patrikas",
           "picture": "https://www.xing.com/image/a_d_a_20c321d2f_25514053_1/ioannis-patrikas-foto.256x256.jpg",
           "memberSince_Hits": "30. Juli 2016 / 53",
           "currJobDescr": "IT Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Specialist",
               "company": "self-employed person",
@@ -2877,7 +3026,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2891,7 +3041,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technological Institute of Western Macedonia, Greece",
           "url": "https://www.xing.com/search/members?keywords=Technological+Institute+of+Western+Macedonia%2C+Greece",
@@ -2913,14 +3064,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oleksandr Shugurov",
           "picture": "https://www.xing.com/image/6_c_f_b7f85bc6d_19864320_3/oleksandr-shugurov-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2013 / 560",
           "currJobDescr": "IT Support Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "IT Support Specialist",
               "company": "3Shape",
@@ -2958,7 +3111,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2968,7 +3122,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Dniepropetrovsk National University of Railway Transport",
           "url": "https://www.xing.com/search/members?keywords=Dniepropetrovsk+National+University+of+Railway+Transport",

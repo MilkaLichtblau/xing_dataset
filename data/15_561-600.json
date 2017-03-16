@@ -1,16 +1,19 @@
 {
   "category": "Dental Assistant",
   "dominantSexXing": "f",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Madelon Miller",
           "picture": "https://www.xing.com/image/2_2_8_da7c84e96_14117839_2/madelon-miller-foto.256x256.jpg",
           "memberSince_Hits": "12. März 2010 / 723",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "---",
@@ -20,21 +23,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Linlin Tang",
           "picture": "https://www.xing.com/img/users/9/e/8/2e8c4948c.22547357,2.256x256.jpg",
           "memberSince_Hits": "21. Mai 2015 / 136",
           "currJobDescr": "Chairside Dental Assistant and Independent Dental Prophylaxis",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chairside Dental Assistant and Independent Dental Prophylaxis",
               "company": "Dr. Thomas Jehle München",
@@ -47,14 +53,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Brenda Ehling",
           "picture": "https://www.xing.com/image/7_3_4_6818f50a0_11785303_2/brenda-ehling-foto.256x256.jpg",
           "memberSince_Hits": "22. Januar 2009 / 735",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "US Federal Governement",
@@ -64,12 +72,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Institute of Medical and Dental Technology",
           "url": "https://www.xing.com/search/members?keywords=Institute+of+Medical+and+Dental+Technology",
@@ -78,14 +88,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "MARTHA INES GARCIA ARIZA",
           "picture": "https://www.xing.com/image/3_d_8_27631facb_9063081_1/martha-ines-garcia-ariza-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 837",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Dentistry All Smiles Family",
@@ -101,12 +113,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Colegio Odontologico Colombiano",
           "url": "https://www.xing.com/search/members?keywords=Colegio+Odontologico+Colombiano",
@@ -116,14 +130,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Ksenija Krämer",
           "picture": "https://www.xing.com/image/6_d_1_39b97d3db_21732300_2/ksenija-kr%C3%A4mer-foto.256x256.jpg",
           "memberSince_Hits": "18. Januar 2015 / 548",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Bundeswehr",
@@ -134,7 +150,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -147,14 +164,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Thomas Müller",
           "picture": "https://www.xing.com/image/2_b_8_d602c4b88_26194219_1/thomas-m%C3%BCller-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2016 / 122",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Hochschule Fresenius",
@@ -166,14 +185,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Veera Maunu",
           "picture": "https://www.xing.com/image/4_b_5_60640c43f_10827965_1/veera-maunu-foto.256x256.jpg",
           "memberSince_Hits": "7. August 2008 / 541",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Espoon kaupunki",
@@ -184,21 +205,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Finnisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Patrizia Miranda",
           "picture": "https://www.xing.com/image/1_5_c_fc62c93f7_9393181_1/patrizia-miranda-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 874",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Excellence in Dentistry",
@@ -208,7 +232,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         },
@@ -218,14 +243,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Anna Zezul",
           "picture": "https://www.xing.com/image/0_c_4_c641f35cf_23473696_1/anna-zezul-foto.256x256.jpg",
           "memberSince_Hits": "13. Oktober 2015 / 629",
           "currJobDescr": "Dental Assistant, Fachwirt",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant, Fachwirt",
               "company": "Mrs Sporty Schwerin",
@@ -240,7 +267,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -261,7 +289,8 @@
           "lang": "Ukrainisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachwirt bei WBS Training",
           "url": "https://www.xing.com/search/members?keywords=Fachwirt+bei+WBS+Training",
@@ -273,14 +302,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=+Praktiken-Reiseb%C3%BCro"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mengia Brönnimann",
           "picture": "https://www.xing.com/image/9_e_7_740c0159e_24276330_1/mengia-br%C3%B6nnimann-foto.256x256.jpg",
           "memberSince_Hits": "4. Februar 2016 / 106",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Zahnarztpraxis Dr. Dehmelt",
@@ -298,7 +329,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -312,14 +344,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=B%C3%BCrofachdiplom+im+Selbststudium"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mary Rose Hess",
           "picture": "https://www.xing.com/image/2_8_0_35e96738c_14613272_2/mary-rose-hess-foto.256x256.jpg",
           "memberSince_Hits": "9. Juni 2010 / 1681",
           "currJobDescr": "Dental Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Dr. Wolfgang Bussmann",
@@ -358,7 +392,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -371,7 +406,8 @@
           "lang": "Tagalog"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Erhard-Berufskolleg Bonn, Germany",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Erhard-Berufskolleg+Bonn%2C+Germany",
@@ -383,14 +419,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fluent+in+German+English+and+Tagalog"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Clarissa Sophie Heinzelmeier",
           "picture": "https://www.xing.com/image/3_8_9_068db0e1c_26253931_1/clarissa-sophie-heinzelmeier-foto.256x256.jpg",
           "memberSince_Hits": "1. November 2016 / 22",
           "currJobDescr": "Health Economics",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Assistant",
               "company": "Praxisgemeinschaft Hans-Peter Beyer & Dr. Ron Tehsmer",
@@ -450,7 +488,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -460,7 +499,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Fresenius Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Fresenius+Hamburg",
@@ -470,14 +510,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Sylvelin Carlton",
           "picture": "https://www.xing.com/image/7_8_5_0374412e0_17882463_2/sylvelin-carlton-foto.256x256.jpg",
           "memberSince_Hits": "31. Mai 2012 / 1016",
           "currJobDescr": "Co-Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Co-Owner",
               "company": "Watercrest Properties, LLC",
@@ -495,7 +537,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -511,14 +554,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Aleksandra Crnoglavac",
           "picture": "https://www.xing.com/image/3_9_c_7b60d428e_21648054_1/aleksandra-crnoglavac-foto.256x256.jpg",
           "memberSince_Hits": "7. Januar 2015 / 399",
           "currJobDescr": "Dentist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dentist",
               "company": "Community Health Centre \"Novi Beograd\"",
@@ -543,7 +588,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -557,7 +603,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Belgrade Faculty of Dentistry",
           "url": "https://www.xing.com/search/members?keywords=University+of+Belgrade+Faculty+of+Dentistry",
@@ -565,7 +612,8 @@
           "eduDuration": "10/2005 - 07/2012"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Scholarship '' Zaduzbina Dragoljuba Marinkovica'' for biomedical sciences",
           "award_date": "www.bg.ac.rs/sr/univerzitet/zaduzbine/dragoljub-marinkovic.php"
@@ -577,14 +625,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Christie Edwards",
           "picture": "https://www.xing.com/image/c_5_5_6add0da8a_23185996_1/christie-edwards-foto.256x256.jpg",
           "memberSince_Hits": "2. September 2015 / 192",
           "currJobDescr": "Territory Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Territory Associate",
               "company": "Align Technology",
@@ -622,7 +672,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -632,7 +683,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Victorian Institute of Technology",
           "url": "https://www.xing.com/search/members?keywords=Victorian+Institute+of+Technology",
@@ -662,14 +714,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=B2+Level+German"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Aida Cokaj",
           "picture": "https://www.xing.com/image/d_9_3_7a7bfd60f_21867636_1/aida-cokaj-foto.256x256.jpg",
           "memberSince_Hits": "6. Februar 2015 / 315",
           "currJobDescr": "Dentist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dentist",
               "company": "\"Arti\" clinic",
@@ -694,7 +748,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -716,7 +771,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Albanian University of Tirana",
           "url": "https://www.xing.com/search/members?keywords=Albanian+University+of+Tirana",
@@ -726,14 +782,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Alexandra Schreiber",
           "picture": "https://www.xing.com/img/users/c/1/7/116fe6acd.22565500,4.256x256.jpg",
           "memberSince_Hits": "24. Mai 2015 / 226",
           "currJobDescr": "Dental Hygienist, B. Sc.",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dental Hygienist, B. Sc.",
               "company": "Zahnarztpraxis Bad Tölz",
@@ -765,7 +823,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -775,7 +834,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "praxisHochschule University of Applied Sciences Köln",
           "url": "https://www.xing.com/search/members?keywords=praxisHochschule+University+of+Applied+Sciences+K%C3%B6ln",
@@ -791,14 +851,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Nancy Falke",
           "picture": "https://www.xing.com/image/0_0_e_5be624cbf_10222908_6/nancy-falke-foto.256x256.jpg",
           "memberSince_Hits": "1. Juni 2008 / 5488",
           "currJobDescr": "Student Exchange Coordinator of the Faculty of Life Sciences, HAW Hamburg",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Student Exchange Coordinator of the Faculty of Life Sciences, HAW Hamburg",
               "company": "Hamburg University of Applied Sciences",
@@ -851,7 +913,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -874,7 +937,8 @@
           "lang": "Hausa Igbo Zuhörerkenntnisse"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hamburg University of Applied Sciences",
           "url": "https://www.xing.com/search/members?keywords=Hamburg+University+of+Applied+Sciences",
@@ -892,14 +956,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MPH+-+MASTER+OF+PUBLIC+HEALTH+-+%28Student+until+August+2009%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Claudia Krater",
           "picture": "https://www.xing.com/image/1_9_d_e8d3f0255_8401250_1/claudia-krater-foto.256x256.jpg",
           "memberSince_Hits": "7. November 2007 / 1558",
           "currJobDescr": "Zahnärztin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Zahnärztin",
               "company": "Dental Practices",
@@ -938,7 +1004,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -964,7 +1031,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Freie Universität Berlin",
           "url": "https://www.xing.com/search/members?keywords=Freie+Universit%C3%A4t+Berlin",
@@ -982,14 +1050,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dr.+of++Dentistry+%28DMD%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Saskia Ziemer",
           "picture": "https://www.xing.com/image/b_9_d_f0a0b6ad5_19948754_1/saskia-ziemer-foto.256x256.jpg",
           "memberSince_Hits": "13. Dezember 2013 / 838",
           "currJobDescr": "International Business Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Praktikantin",
               "company": "Auswärtiges Amt / Federal Foreign Office",
@@ -1056,7 +1126,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1078,7 +1149,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Dr.Hirsch Akademie GmbH",
           "url": "https://www.xing.com/search/members?keywords=Dr.Hirsch+Akademie+GmbH",
@@ -1094,14 +1166,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Raquel Neumann",
           "picture": "https://www.xing.com/img/users/a/4/9/ad530902a.5861006,2.256x256.jpg",
           "memberSince_Hits": "23. April 2006 / 1989",
           "currJobDescr": "Business Consultant - Strategic Projects",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Business Consultant - Strategic Projects",
               "company": "Dentsply Sirona Restorative",
@@ -1161,7 +1235,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1178,7 +1253,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Mannheim Business School",
           "url": "https://www.xing.com/search/members?keywords=Mannheim+Business+School",
@@ -1200,14 +1276,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Sunny Petropoullakis",
           "picture": "https://www.xing.com/image/2_1_9_49273c513_8061527_1/sunny-petropoullakis-foto.256x256.jpg",
           "memberSince_Hits": "19. Oktober 2007 / 1038",
           "currJobDescr": "Realtor Associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Realtor Associate",
               "company": "Hawaii Land Realty Corp.",
@@ -1229,12 +1307,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "New Tribes Bible Institute",
           "url": "https://www.xing.com/search/members?keywords=New+Tribes+Bible+Institute",
@@ -1250,14 +1330,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Tina Sonnenfroh",
           "picture": "https://www.xing.com/image/0_f_6_acaa1794a_12572955_7/tina-sonnenfroh-foto.256x256.jpg",
           "memberSince_Hits": "8. Juni 2009 / 4125",
           "currJobDescr": "Social Media Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Social Media Manager",
               "company": "PERI GmbH",
@@ -1331,7 +1413,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1345,7 +1428,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Neu-Ulm",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Neu-Ulm",
@@ -1357,14 +1441,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Projektmanagement+"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Simone Theimer - Roith",
           "picture": "https://www.xing.com/img/users/6/f/a/483b03080.10985135,18.256x256.jpg",
           "memberSince_Hits": "8. September 2008 / 4956",
           "currJobDescr": "Sales Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sales Manager",
               "company": "Cargopack Verpackungsgesellschaft für Industriegüter mbH",
@@ -1445,7 +1531,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1455,7 +1542,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ILS Hamburg",
           "url": "https://www.xing.com/search/members?keywords=ILS+Hamburg",
@@ -1473,14 +1561,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP+RR"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Maria De Fatima Gouveia",
           "picture": "https://www.xing.com/image/4_a_b_a508e2229_20433378_8/maria-de-fatima-gouveia-foto.256x256.jpg",
           "memberSince_Hits": "12. April 2014 / 491",
           "currJobDescr": "Administrative Assistant Accountant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Administrative Assistant Accountant",
               "company": "Aires M ,Silva Poças e outros/Luis Mendes -Serv.Contab.e Inf.Lda",
@@ -1524,7 +1614,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1538,7 +1629,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Escola de Hotelaria e Turismo do Porto",
           "url": "https://www.xing.com/search/members?keywords=Escola+de+Hotelaria+e+Turismo+do+Porto",
@@ -1556,14 +1648,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Qualified+as+kitchen+chef+by+the+School+of+Hospitality+and+Tourism+from+Porto"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Melanie Ging",
           "picture": "https://www.xing.com/image/c_3_9_c30084394_19445344_1/melanie-ging-foto.256x256.jpg",
           "memberSince_Hits": "5. August 2013 / 261",
           "currJobDescr": "Fachberaterin im Aussendienst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Fachberaterin im Aussendienst",
               "company": "Ultradent Products",
@@ -1595,7 +1689,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1608,14 +1703,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Sara Hodel",
           "picture": "https://www.xing.com/image/8_2_1_08aa8fac0_26336850_4/sara-hodel-foto.256x256.jpg",
           "memberSince_Hits": "10. November 2016 / 17",
           "currJobDescr": "Sachbearbeiterin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sachbearbeiterin",
               "company": "Chocofactory",
@@ -1679,7 +1776,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1697,7 +1795,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SRK Zertifikat Pflegehelferin",
           "url": "https://www.xing.com/search/members?keywords=SRK+Zertifikat+Pflegehelferin",
@@ -1721,14 +1820,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Petra Punz",
           "picture": "https://www.xing.com/image/b_c_9_954fb4a23_18993002_2/petra-punz-foto.256x256.jpg",
           "memberSince_Hits": "10. April 2013 / 1639",
           "currJobDescr": "Freelance physical therapist and research associate",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelance physical therapist and research associate",
               "company": "Master of Public Health",
@@ -1757,7 +1858,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1765,7 +1867,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johannes Gutenberg Universität Mainz",
           "url": "https://www.xing.com/search/members?keywords=Johannes+Gutenberg+Universit%C3%A4t+Mainz",
@@ -1789,14 +1892,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Craniosacral+therapy+according+to+Upledger"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Virginia Oehri",
           "picture": "https://www.xing.com/image/6_e_a_c49690aeb_25404182_1/virginia-oehri-foto.256x256.jpg",
           "memberSince_Hits": "13. Juli 2016 / 506",
           "currJobDescr": "Account Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Account Manager",
               "company": "Telecom Liechtenstein",
@@ -1834,7 +1939,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1848,7 +1954,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Berufsmaturität BZB Buchs",
           "url": "https://www.xing.com/search/members?keywords=Berufsmaturit%C3%A4t+BZB+Buchs",
@@ -1864,14 +1971,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Kira Hall",
           "picture": "https://www.xing.com/image/f_1_2_563c195ae_19182236_1/kira-hall-foto.256x256.jpg",
           "memberSince_Hits": "30. Mai 2013 / 727",
           "currJobDescr": "Lehrkraft für \"Dentalhygiene und Präventionsmanagement\"",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lehrkraft für \"Dentalhygiene und Präventionsmanagement\"",
               "company": "praxisHochschule - University of Applied Sciences",
@@ -1910,12 +2019,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Akademie der Naturheilkunde",
           "url": "https://www.xing.com/search/members?keywords=Akademie+der+Naturheilkunde",
@@ -1931,14 +2042,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Canan Özkaynak",
           "picture": "https://www.xing.com/image/8_4_a_f723feac6_16941055_2/canan-%C3%B6zkaynak-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2011 / 434",
           "currJobDescr": "Translator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Translator",
               "company": "Türkische Botschaft Bern",
@@ -1984,7 +2097,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2006,7 +2120,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "OG University",
           "url": "https://www.xing.com/search/members?keywords=OG+University"
@@ -2014,7 +2129,8 @@
       ],
       "qualifications": "Social development",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Social+development",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Best Hair Dresser in BZB Biel",
           "award_date": "1993"
@@ -2022,14 +2138,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Aruna Bhat",
           "picture": "https://www.xing.com/img/users/a/3/f/8f88b4059.16203450,5.256x256.jpg",
           "memberSince_Hits": "25. April 2011 / 561",
           "currJobDescr": "Zahnärztin",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Zahnärztin",
               "company": "Dr Wahler und Kollegen",
@@ -2074,7 +2192,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2087,7 +2206,8 @@
           "lang": "Hindi and Kannada Indian Languages"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Leicester",
           "url": "https://www.xing.com/search/members?keywords=University+of+Leicester",
@@ -2105,14 +2225,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Dental+Surgery%2C+BDS"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Patricia Schiemann",
           "picture": "https://www.xing.com/image/a_5_7_c89caea3e_9374479_3/patricia-schiemann-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 1578",
           "currJobDescr": "Odontologa - Orofacial pain and dysfunction of the temporomandibular joint",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Odontologa - Orofacial pain and dysfunction of the temporomandibular joint",
               "company": "Private Practice",
@@ -2198,7 +2320,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2212,7 +2335,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Spanish Ministry of Education and Culture",
           "url": "https://www.xing.com/search/members?keywords=Spanish+Ministry+of+Education+and+Culture",
@@ -2240,14 +2364,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Biljana Ilic",
           "picture": "https://www.xing.com/img/users/e/f/b/8e8ccd937.22345285,1.256x256.jpg",
           "memberSince_Hits": "18. April 2015 / 185",
           "currJobDescr": "Physiotherapist, Dental nurse",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Physiotherapist, Dental nurse",
               "company": "Vojvodina Clinic of Dentistry",
@@ -2257,7 +2383,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -2273,7 +2400,8 @@
           "lang": "Serbian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "School of Applied Health Sciences Belgrade",
           "url": "https://www.xing.com/search/members?keywords=School+of+Applied+Health+Sciences+Belgrade",
@@ -2284,14 +2412,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=English+certificate%3A+University+of+Radnicki+%22Radivoj+Cirpanov%22%2C+Novi+Sad"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Florian C. Schober",
           "picture": "https://www.xing.com/image/3_5_7_eb7172c6b_3370599_2/florian-c-schober-foto.256x256.jpg",
           "memberSince_Hits": "10. März 2005 / 3669",
           "currJobDescr": "Consultant and Trainer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Consultant and Trainer",
               "company": "Entrepreneur",
@@ -2337,7 +2467,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2359,7 +2490,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HSG Hochschule St. Gallen",
           "url": "https://www.xing.com/search/members?keywords=HSG+Hochschule+St.+Gallen",
@@ -2381,14 +2513,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Andreas Wilpert",
           "picture": "https://www.xing.com/image/e_c_f_1bf2c494c_13075894_3/andreas-wilpert-foto.256x256.jpg",
           "memberSince_Hits": "2. September 2009 / 7423",
           "currJobDescr": "Leiter Digitale Technologien",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Leiter Digitale Technologien",
               "company": "Degudent GmbH",
@@ -2455,7 +2589,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2463,7 +2598,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Wirtschaft und Politik, Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Wirtschaft+und+Politik%2C+Hamburg",
@@ -2473,14 +2609,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Cherry Qi",
           "picture": "https://www.xing.com/image/6_9_3_4363c8a5c_13666958_4/cherry-qi-foto.256x256.jpg",
           "memberSince_Hits": "21. Dezember 2009 / 1268",
           "currJobDescr": "GM Assistant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "GM Assistant",
               "company": "Shenzhen Yadental (dental equipment) Trading Co., Ltd",
@@ -2504,7 +2642,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Chinesisch"
         },
@@ -2512,7 +2651,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Jiujiang University",
           "url": "https://www.xing.com/search/members?keywords=Jiujiang+University",
@@ -2521,14 +2661,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Karen A. Schulze",
           "picture": "https://www.xing.com/image/a_d_6_e73f692fc_6754876_1/karen-a-schulze-foto.256x256.jpg",
           "memberSince_Hits": "24. November 2006 / 2565",
           "currJobDescr": "Associate Prof. and Dir of Restorative Research",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Associate Prof. and Dir of Restorative Research",
               "company": "University of the Pacific, San Francisco, USA",
@@ -2574,7 +2716,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2582,7 +2725,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Leipzig, Germany; University of Florida, Gainesville, USA;",
           "url": "https://www.xing.com/search/members?keywords=University+of+Leipzig%2C+Germany%3B+University+of+Florida%2C+Gainesville%2C+USA%3B"
@@ -2590,14 +2734,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Gary Umeda",
           "picture": "https://www.xing.com/image/c_6_7_f9cd627de_17030284_1/gary-umeda-foto.256x256.jpg",
           "memberSince_Hits": "21. November 2011 / 1036",
           "currJobDescr": "Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Owner",
               "company": "Gary T. Umeda",
@@ -2607,21 +2753,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Peter Prechtel",
           "picture": "https://www.xing.com/image/f_0_3_23bcc3262_8390812_14/peter-prechtel-foto.256x256.jpg",
           "memberSince_Hits": "5. November 2007 / 7487",
           "currJobDescr": "Praxisinhaber - Sendlinger Str 20 - München / Altstadtlage",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Praxisinhaber - Sendlinger Str 20 - München / Altstadtlage",
               "company": "Implantologie und Kieferchirurgie an der Asamkirche München",
@@ -2655,7 +2804,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2668,7 +2818,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Adelaide / Australien",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Adelaide+%2F+Australien",
@@ -2687,7 +2838,8 @@
       ],
       "qualifications": "Spezialist Implantologie, MSc Master in oral surgery, dental implantology",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Spezialist+Implantologie%2C+MSc+Master+in+oral+surgery%2C+dental+implantology",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Member of Worlds Leading Implant Centers",
           "award_date": "www.leadingimplantcenters.com/en/news/article/specialist_in_oral_surgery_dr_peter_prechtel_msc_is_a_new_member_of_leading_implant_centers/"

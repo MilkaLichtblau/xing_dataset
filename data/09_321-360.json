@@ -1,16 +1,19 @@
 {
   "category": "economist",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Sonja Reibe",
           "picture": "https://www.xing.com/image/3_f_b_8eb431e77_7657928_6/sonja-reibe-foto.256x256.jpg",
           "memberSince_Hits": "18. April 2007 / 3347",
           "currJobDescr": "Health Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Health Economist",
               "company": "Ich bin Freiberuflerin",
@@ -97,7 +100,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -115,7 +119,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ATN Zurich (Switzerland)",
           "url": "https://www.xing.com/search/members?keywords=ATN+Zurich+%28Switzerland%29",
@@ -137,7 +142,8 @@
       ],
       "qualifications": "Certificate ‘Espagnol para extranjeros‘, Tandem Santiago, Chile",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+%E2%80%98Espagnol+para+extranjeros%E2%80%98%2C+Tandem+Santiago%2C+Chile",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bayer Life Award",
           "award_date": "2012"
@@ -145,14 +151,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Holger Fahrinkrug",
           "picture": "https://www.xing.com/image/3_0_d_6fb0f222f_10945693_5/holger-fahrinkrug-foto.256x256.jpg",
           "memberSince_Hits": "1. September 2008 / 2995",
           "currJobDescr": "Chief Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Economist",
               "company": "Oddo Meriten Asset Management",
@@ -184,7 +192,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -202,7 +211,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Goettingen",
           "url": "https://www.xing.com/search/members?keywords=University+of+Goettingen",
@@ -211,14 +221,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Bastian Hepperle",
           "picture": "https://www.xing.com/image/1_a_3_f8e644e36_5704386_2/bastian-hepperle-foto.256x256.jpg",
           "memberSince_Hits": "8. März 2006 / 2560",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "Bankhaus Lampe KG",
@@ -257,7 +269,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -265,7 +278,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Uni Würzburg/Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Uni+W%C3%BCrzburg%2FHamburg",
@@ -277,14 +291,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Investmentanalyst%2FDVFA"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Gert Wehinger",
           "picture": "https://www.xing.com/image/d_c_a_e7ebb537b_12588046_2/gert-wehinger-foto.256x256.jpg",
           "memberSince_Hits": "11. Juni 2009 / 1796",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "OECD - Organisation for Economic Co-operation and Development",
@@ -336,7 +352,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -362,7 +379,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Vienna University of Economics and Business Administration",
           "url": "https://www.xing.com/search/members?keywords=Vienna+University+of+Economics+and+Business+Administration",
@@ -386,14 +404,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Former+member+and+Alumni+of+AIESEC"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Ghulam Mohey-ud-din",
           "picture": "https://www.xing.com/image/b_1_2_dedc6e358_9994871_4/ghulam-mohey-ud-din-foto.256x256.jpg",
           "memberSince_Hits": "17. April 2008 / 983",
           "currJobDescr": "Urban Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Urban Economist",
               "company": "The Urban Unit, Government of Punjab",
@@ -453,7 +473,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -465,7 +486,8 @@
           "lang": "Punjabi"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Government College University, Lahore",
           "url": "https://www.xing.com/search/members?keywords=Government+College+University%2C+Lahore",
@@ -481,7 +503,8 @@
       ],
       "qualifications": "Diploma in Project Management",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diploma+in+Project+Management",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Consolation Prize in Research Paper Competition",
           "award_date": "moheyuddin.tripod.com/mycv.html"
@@ -493,14 +516,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Kaan Nazli",
           "picture": "https://www.xing.com/image/0_6_b_0b340deda_18291938_1/kaan-nazli-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2012 / 884",
           "currJobDescr": "Senior Economist, Emerging Markets",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist, Emerging Markets",
               "company": "ING Investment Management",
@@ -532,12 +557,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "New York University",
           "url": "https://www.xing.com/search/members?keywords=New+York+University",
@@ -547,14 +574,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hura Adrian Ovidiu",
           "picture": "https://www.xing.com/image/a_0_7_abeb38fa9_16987749_1/hura-adrian-ovidiu-foto.256x256.jpg",
           "memberSince_Hits": "9. November 2011 / 716",
           "currJobDescr": "economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "economist",
               "company": "---",
@@ -585,7 +614,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -599,7 +629,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "\"Valahia\" - Targoviste, Romania",
           "url": "https://www.xing.com/search/members?keywords=%22Valahia%22+-+Targoviste%2C+Romania",
@@ -621,14 +652,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Jan Schuepbach",
           "picture": "https://www.xing.com/image/c_5_0_7d5e0f23b_16482145_1/jan-schuepbach-foto.256x256.jpg",
           "memberSince_Hits": "4. Juli 2011 / 770",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "Credit Suisse",
@@ -667,7 +700,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -685,7 +719,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ETH Zürich",
           "url": "https://www.xing.com/search/members?keywords=ETH+Z%C3%BCrich",
@@ -707,14 +742,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alexander Kockerbeck",
           "picture": "https://www.xing.com/image/9_8_7_e05435dd2_15935458_1/alexander-kockerbeck-foto.256x256.jpg",
           "memberSince_Hits": "20. Februar 2011 / 1849",
           "currJobDescr": "Economist / Video Producer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist / Video Producer",
               "company": "KOCKI'S Productions (kockis.com)",
@@ -738,7 +775,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -756,7 +794,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ESC Reims, Uni Bocconi, Uni Frankfurt",
           "url": "https://www.xing.com/search/members?keywords=ESC+Reims%2C+Uni+Bocconi%2C+Uni+Frankfurt",
@@ -767,14 +806,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Film+and+TV+Journalism"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jorg Radeke",
           "picture": "https://www.xing.com/image/3_8_f_7f8216e74_13972016_2/jorg-radeke-foto.256x256.jpg",
           "memberSince_Hits": "9. Februar 2010 / 1414",
           "currJobDescr": "Consultant Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Consultant Economist",
               "company": "Berlin Economics",
@@ -820,7 +861,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -838,7 +880,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Rostock",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Rostock",
@@ -848,14 +891,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Neela Khandge",
           "picture": "https://www.xing.com/image/a_6_e_44b17939d_6897327_1/neela-khandge-foto.256x256.jpg",
           "memberSince_Hits": "4. Januar 2007 / 1627",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "Neela Khandge",
@@ -899,12 +944,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Mumbai",
           "url": "https://www.xing.com/search/members?keywords=University+of+Mumbai",
@@ -922,14 +969,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=MA+Economics"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Torben Hendricks",
           "picture": "https://www.xing.com/image/c_6_d_3915a9747_11365718_5/torben-hendricks-foto.256x256.jpg",
           "memberSince_Hits": "6. November 2008 / 2574",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "RWE Supply & Trading",
@@ -982,7 +1031,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -996,7 +1046,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Westfälische Wilhelms-Universität Münster",
           "url": "https://www.xing.com/search/members?keywords=Westf%C3%A4lische+Wilhelms-Universit%C3%A4t+M%C3%BCnster",
@@ -1016,7 +1067,8 @@
           "eduDuration": "10/2000 - 02/2004"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Preis der Volksbank Essen für die ausgezeichnete wissenschaftliche Masterarbeit",
           "award_date": "2007"
@@ -1028,14 +1080,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Christian Schiller",
           "picture": "https://www.xing.com/image/0_2_a_d64c7035d_9042419_1/christian-schiller-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2008 / 1662",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "International Monetary Fund",
@@ -1071,12 +1125,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Mainz",
           "url": "https://www.xing.com/search/members?keywords=University+of+Mainz",
@@ -1087,14 +1143,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Macro-economics%2C+Public+Finances"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Torsten Wezel",
           "picture": "https://www.xing.com/image/2_1_5_1dcc76d26_3327335_5/torsten-wezel-foto.256x256.jpg",
           "memberSince_Hits": "14. Februar 2005 / 2149",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "International Monetary Fund",
@@ -1126,7 +1184,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1137,7 +1196,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Harvard University, Kennedy School of Government",
           "url": "https://www.xing.com/search/members?keywords=Harvard+University%2C+Kennedy+School+of+Government",
@@ -1165,14 +1225,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Nicolas Picco",
           "picture": "https://www.xing.com/image/0_7_a_912468c6a_18644715_2/nicolas-picco-foto.256x256.jpg",
           "memberSince_Hits": "8. Januar 2013 / 547",
           "currJobDescr": "Economist - Senior Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist - Senior Specialist",
               "company": "Swiss Financial Market Supervisory Authority FINMA",
@@ -1204,7 +1266,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1222,7 +1285,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Grenoble, France",
           "url": "https://www.xing.com/search/members?keywords=University+of+Grenoble%2C+France",
@@ -1240,14 +1304,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=CFA+%28Chartered+Financial+Analyst%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Chris Angelopoulos",
           "picture": "https://www.xing.com/image/0_e_7_472585d0c_14342391_3/chris-angelopoulos-foto.256x256.jpg",
           "memberSince_Hits": "22. April 2010 / 730",
           "currJobDescr": "Chief Economist, Head of Investment & Research",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Economist, Head of Investment & Research",
               "company": "SK AEGIS - Duff & Phelps Strategic Alliance",
@@ -1293,7 +1359,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1319,7 +1386,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Henley Business School",
           "url": "https://www.xing.com/search/members?keywords=Henley+Business+School",
@@ -1355,14 +1423,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Matlab"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hans Peter Bech",
           "picture": "https://www.xing.com/image/e_d_c_4f8cfd886_4278165_6/hans-peter-bech-foto.256x256.jpg",
           "memberSince_Hits": "4. Oktober 2005 / 2361",
           "currJobDescr": "Author and economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Author and economist",
               "company": "TBK Consult ApS",
@@ -1457,7 +1527,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1474,7 +1545,8 @@
           "lang": "Dänisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Copenhagen",
           "url": "https://www.xing.com/search/members?keywords=University+of+Copenhagen",
@@ -1486,14 +1558,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Software+Industry+Growth+Doctor"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mombert Hoppe",
           "picture": "https://www.xing.com/image/a_1_e_8b45e01f6_3425165_2/mombert-hoppe-foto.256x256.jpg",
           "memberSince_Hits": "8. April 2005 / 4748",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "World Bank Group (IBRD)",
@@ -1525,7 +1599,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1545,7 +1620,8 @@
           "lang": "Niederländisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Maastricht University, Universidad del Pacifico (Lima), Institut d'Etudes",
           "url": "https://www.xing.com/search/members?keywords=Maastricht+University%2C+Universidad+del+Pacifico+%28Lima%29%2C+Institut+d%27Etudes"
@@ -1553,14 +1629,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "NICOLETA RADAUCEANU",
           "picture": "https://www.xing.com/img/users/4/5/3/279a3c2ce.22516804,1.256x256.jpg",
           "memberSince_Hits": "16. Mai 2015 / 106",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "NR",
@@ -1584,7 +1662,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1606,7 +1685,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Academy of Economics Studies Bucharest",
           "url": "https://www.xing.com/search/members?keywords=Academy+of+Economics+Studies+Bucharest",
@@ -1618,14 +1698,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=teacher"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Stefan Tobias",
           "picture": "https://www.xing.com/image/0_2_d_2660d72df_3205894_3/stefan-tobias-foto.256x256.jpg",
           "memberSince_Hits": "7. November 2004 / 3665",
           "currJobDescr": "Senior economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior economist",
               "company": "CER (Community of European Railways, Brussels)",
@@ -1692,7 +1774,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1710,7 +1793,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Heidelberg, University of Dortmund",
           "url": "https://www.xing.com/search/members?keywords=University+of+Heidelberg%2C+University+of+Dortmund",
@@ -1719,14 +1803,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Karsten Junius",
           "picture": "https://www.xing.com/image/c_1_4_fb6bcad50_8751407_3/karsten-junius-foto.256x256.jpg",
           "memberSince_Hits": "28. Januar 2008 / 4384",
           "currJobDescr": "Chief Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Economist",
               "company": "Bank J. Safra Sarasin (Zurich, Schweiz)",
@@ -1751,7 +1837,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1769,7 +1856,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "CFA Institut",
           "url": "https://www.xing.com/search/members?keywords=CFA+Institut",
@@ -1805,14 +1893,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=CFA"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Fernando del Río",
           "picture": "https://www.xing.com/image/a_3_c_3af79bb7b_19807459_1/fernando-del-r%C3%ADo-foto.256x256.jpg",
           "memberSince_Hits": "6. November 2013 / 460",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "Freelance Consultant",
@@ -1859,7 +1949,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1877,7 +1968,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bosphorus University",
           "url": "https://www.xing.com/search/members?keywords=Bosphorus+University",
@@ -1896,14 +1988,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Wolfgang Kornprobst",
           "picture": "https://www.xing.com/image/5_4_9_2d3a4a02c_11687032_3/wolfgang-kornprobst-foto.256x256.jpg",
           "memberSince_Hits": "6. Januar 2009 / 3784",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "Siemens AG",
@@ -1935,7 +2029,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1943,7 +2038,8 @@
           "lang": "Englisch"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Promotion \"summa cum laude\"",
           "award_date": "2008"
@@ -1951,14 +2047,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Aysegul Aykol Kocabas",
           "picture": "https://www.xing.com/image/4_e_7_36de204aa_11163359_1/aysegul-aykol-kocabas-foto.256x256.jpg",
           "memberSince_Hits": "7. Oktober 2008 / 623",
           "currJobDescr": "Chief Economist and Head of Investor Relations",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Economist and Head of Investor Relations",
               "company": "ICBC TURKEY",
@@ -1976,12 +2074,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Boğaziçi Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=Bo%C4%9Fazi%C3%A7i+%C3%9Cniversitesi",
@@ -1999,14 +2099,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=CAPITAL+MARKETS+BOARD+LICENSE%3A+Corporate+Governance+Rating+Specialist"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Jasmina Kirchhoff",
           "picture": "https://www.xing.com/image/5_c_8_922cebf63_6912674_18/jasmina-kirchhoff-foto.256x256.jpg",
           "memberSince_Hits": "8. Januar 2007 / 2098",
           "currJobDescr": "Senior Economist, Gesundheitswirtschaft, FS \"Pharmastandort Deutschland\"",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist, Gesundheitswirtschaft, FS \"Pharmastandort Deutschland\"",
               "company": "Institut der deutschen Wirtschaft Köln",
@@ -2066,7 +2168,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2079,7 +2182,8 @@
           "lang": "Serbisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Bielefeld, Lund University",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bielefeld%2C+Lund+University",
@@ -2089,14 +2193,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Maximilian Freier",
           "picture": "https://www.xing.com/image/0_0_c_1c87e9039_3495590_1/maximilian-freier-foto.256x256.jpg",
           "memberSince_Hits": "16. Mai 2005 / 5640",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "European Central Bank",
@@ -2146,7 +2252,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2157,7 +2264,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität, München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t%2C+M%C3%BCnchen"
@@ -2165,14 +2273,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Paula Haunit",
           "picture": "https://www.xing.com/image/6_a_e_c88a00050_3196508_1/paula-haunit-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2004 / 7603",
           "currJobDescr": "Senior Country Risk Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Country Risk Economist",
               "company": "RBS",
@@ -2220,7 +2330,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2231,7 +2342,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of London, Birkbeck",
           "url": "https://www.xing.com/search/members?keywords=University+of+London%2C+Birkbeck",
@@ -2253,14 +2365,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dr. Stefanie Brodmann",
           "picture": "https://www.xing.com/image/5_e_c_a906b0130_24095350_1/stefanie-brodmann-foto.256x256.jpg",
           "memberSince_Hits": "13. Januar 2016 / 207",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "World Bank",
@@ -2299,7 +2413,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2325,7 +2440,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universitat Pompeu Fabra",
           "url": "https://www.xing.com/search/members?keywords=Universitat+Pompeu+Fabra",
@@ -2346,14 +2462,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Anastasiia Kornienko",
           "picture": "https://www.xing.com/image/d_6_b_1cc97caa6_23880189_1/anastasiia-kornienko-foto.256x256.jpg",
           "memberSince_Hits": "6. Dezember 2015 / 18",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "Maxidom",
@@ -2371,7 +2489,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2388,7 +2507,8 @@
           "lang": "украинский"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Saint-Petersburg State University",
           "url": "https://www.xing.com/search/members?keywords=Saint-Petersburg+State+University",
@@ -2404,14 +2524,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Andreas Hoefert",
           "picture": "https://www.xing.com/image/1_1_8_c8f4af2fa_8866915_1/andreas-hoefert-foto.256x256.jpg",
           "memberSince_Hits": "20. Februar 2008 / 2602",
           "currJobDescr": "Chief Global Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Chief Global Economist",
               "company": "UBS Financial Services Inc.",
@@ -2429,7 +2551,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2443,7 +2566,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of St. Gallen",
           "url": "https://www.xing.com/search/members?keywords=University+of+St.+Gallen",
@@ -2454,14 +2578,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Series+7%2C+16%2C+24%2C+66%2C+86+%26+87"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Christoph Jeßberger",
           "picture": "https://www.xing.com/image/c_5_e_642a7a3dc_6940372_2/christoph-je%C3%9Fberger-foto.256x256.jpg",
           "memberSince_Hits": "15. Januar 2007 / 1039",
           "currJobDescr": "Economist, Postdoctoral Research Fellow",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist, Postdoctoral Research Fellow",
               "company": "Bauhaus Luftfahrt e.V.",
@@ -2500,7 +2626,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2525,7 +2652,8 @@
           "lang": "Sprache hinzufügen"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
@@ -2541,14 +2669,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Stephanie Lindeck",
           "picture": "https://www.xing.com/image/f_3_f_7b3536c9a_5687327_8/stephanie-lindeck-foto.256x256.jpg",
           "memberSince_Hits": "3. März 2006 / 5157",
           "currJobDescr": "Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist",
               "company": "Bank Julius Bär Europe AG",
@@ -2580,7 +2710,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2591,7 +2722,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johann Wolfgang Goethe-Universität Frankfurt",
           "url": "https://www.xing.com/search/members?keywords=Johann+Wolfgang+Goethe-Universit%C3%A4t+Frankfurt",
@@ -2607,14 +2739,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Василий Лукьянов",
           "picture": "https://www.xing.com/image/1_0_c_ad38ace9d_20436506_1/%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9-%D0%BB%D1%83%D0%BA%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2-foto.256x256.jpg",
           "memberSince_Hits": "13. April 2014 / 320",
           "currJobDescr": "Health Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Health Economist",
               "company": "Synergus AB",
@@ -2653,7 +2787,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2667,7 +2802,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Erasmus Universiteit Rotterdam",
           "url": "https://www.xing.com/search/members?keywords=Erasmus+Universiteit+Rotterdam",
@@ -2689,14 +2825,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Claudia Kettner-Marx",
           "picture": "https://www.xing.com/image/4_3_6_87756695c_17213533_1/claudia-kettner-marx-foto.256x256.jpg",
           "memberSince_Hits": "11. Januar 2012 / 1192",
           "currJobDescr": "Environmental Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Environmental Economist",
               "company": "Austrian Institute of Economic Research (WIFO)",
@@ -2748,7 +2886,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2762,7 +2901,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Vienna University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Vienna+University+of+Technology",
@@ -2782,7 +2922,8 @@
           "eduDuration": "2000 - 2005"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Presse-Stipendium \"MSc Renewable Energy in Central & Eastern Europe\"",
           "award_date": "2010"
@@ -2790,14 +2931,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
          "sex": "f",
           "name": "Sandra Stüdemann",
           "picture": "https://www.xing.com/image/6_7_b_925254649_13859015_3/sandra-st%C3%BCdemann-foto.256x256.jpg",
           "memberSince_Hits": "26. Januar 2010 / 926",
           "currJobDescr": "Senior Petroleum Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Petroleum Economist",
               "company": "RWE Dea AG, Hamburg",
@@ -2828,7 +2971,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2838,7 +2982,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FOM Hamburg",
           "url": "https://www.xing.com/search/members?keywords=FOM+Hamburg",
@@ -2848,14 +2993,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Sacha Wunsch-Vincent",
           "picture": "https://www.xing.com/image/8_3_2_ea73672f2_7342818_5/sacha-wunsch-vincent-foto.256x256.jpg",
           "memberSince_Hits": "8. Mai 2007 / 4729",
           "currJobDescr": "Senior Economist / Professor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist / Professor",
               "company": "World Intellectual Property Organisation (United Nations)",
@@ -2879,7 +3026,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2893,7 +3041,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Maastricht",
           "url": "https://www.xing.com/search/members?keywords=University+of+Maastricht",
@@ -2912,14 +3061,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Toni Ahnert",
           "picture": "https://www.xing.com/image/0_2_e_8897f0fb9_7700235_4/toni-ahnert-foto.256x256.jpg",
           "memberSince_Hits": "27. Juli 2007 / 1650",
           "currJobDescr": "Research Economist (Principal Researcher)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Research Economist (Principal Researcher)",
               "company": "Bank of Canada",
@@ -3014,7 +3165,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3028,7 +3180,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "London School Of Economics",
           "url": "https://www.xing.com/search/members?keywords=London+School+Of+Economics",
@@ -3066,7 +3219,8 @@
           "eduDuration": "09/2003 - 09/2005"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Lamfalussy Research Fellowship, European Central Bank",
           "award_date": "2011"
@@ -3082,14 +3236,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Hans Zenger",
           "picture": "https://www.xing.com/img/users/5/6/c/dc500ad1e.6040718,9.256x256.jpg",
           "memberSince_Hits": "6. Juni 2006 / 4003",
           "currJobDescr": "Member of the Chief Economist Team",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Member of the Chief Economist Team",
               "company": "Europäische Kommission",
@@ -3123,7 +3279,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3137,7 +3294,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
@@ -3165,14 +3323,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Alex Waters",
           "picture": "https://www.xing.com/image/d_c_2_d68ed3de7_24003076_1/alex-waters-foto.256x256.jpg",
           "memberSince_Hits": "29. Dezember 2015 / 118",
           "currJobDescr": "Economist and Global Quantitative Macroeconomics Team Leader",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Economist and Global Quantitative Macroeconomics Team Leader",
               "company": "Roubini Global Economics",
@@ -3197,7 +3357,8 @@
           ]
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Kent",
           "url": "https://www.xing.com/search/members?keywords=University+of+Kent",
@@ -3219,14 +3380,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Christian M. Bender",
           "picture": "https://www.xing.com/image/a_6_c_92fcd10dc_14628804_5/christian-m-bender-foto.256x256.jpg",
           "memberSince_Hits": "11. Juni 2010 / 2898",
           "currJobDescr": "Senior Economist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Economist",
               "company": "WIK-Consult GmbH",
@@ -3272,7 +3435,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3286,7 +3450,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Justus-Liebig-Universität Gießen",
           "url": "https://www.xing.com/search/members?keywords=Justus-Liebig-Universit%C3%A4t+Gie%C3%9Fen",

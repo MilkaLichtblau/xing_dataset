@@ -1,16 +1,19 @@
 {
   "category": "Application Developer",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Giampiero Bonifazi",
           "picture": "https://www.xing.com/image/1_f_f_96f972559_9474318_6/giampiero-bonifazi-foto.256x256.jpg",
           "memberSince_Hits": "28. März 2008 / 2127",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "TeamworkPM",
@@ -84,7 +87,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         },
@@ -95,7 +99,8 @@
           "lang": "Italienisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Adobe/Macromedia Training Center",
           "url": "https://www.xing.com/search/members?keywords=Adobe%2FMacromedia+Training+Center",
@@ -119,14 +124,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Advanced+ColdFusion+8+Certified+Developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "David Reynolds",
           "picture": "https://www.xing.com/image/1_5_2_96e6c0c7d_25949576_1/david-reynolds-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2016 / 289",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "David Reynolds",
@@ -340,7 +347,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -350,7 +358,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Queen Mary, University of London",
           "url": "https://www.xing.com/search/members?keywords=Queen+Mary%2C+University+of+London",
@@ -360,14 +369,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hesam Kamalan",
           "picture": "https://www.xing.com/image/8_1_5_6ef83ac6a_20830565_3/hesam-kamalan-foto.256x256.jpg",
           "memberSince_Hits": "25. Juli 2014 / 535",
           "currJobDescr": "Senior Android Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Android Application Developer",
               "company": "GrabTaxi",
@@ -399,7 +410,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -408,7 +420,8 @@
           "lang": "Persian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Staffordshire University",
           "url": "https://www.xing.com/search/members?keywords=Staffordshire+University",
@@ -418,7 +431,8 @@
       ],
       "qualifications": "Bachelor in Electrical & Electronic Engineering",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+in+Electrical+%26+Electronic+Engineering",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Australian Mobile Award Candidate for \"Fancied\" Application",
           "award_date": "mobileawards.com.au/ma2013/entry_details.asp?ID=11884&Category_ID=5439"
@@ -426,14 +440,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Toni Menninger",
           "picture": "https://www.xing.com/image/c_2_9_890c6f4eb_22927965_1/toni-menninger-foto.256x256.jpg",
           "memberSince_Hits": "22. Juli 2015 / 805",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "Staatssekretariat für Wirtschaft SECO",
@@ -506,7 +522,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -520,7 +537,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Julius-Maximilians-Universität Würzburg",
           "url": "https://www.xing.com/search/members?keywords=Julius-Maximilians-Universit%C3%A4t+W%C3%BCrzburg",
@@ -530,14 +548,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marco Mächler",
           "picture": "https://www.xing.com/image/5_3_b_cb1a23600_11169821_2/marco-m%C3%A4chler-foto.256x256.jpg",
           "memberSince_Hits": "8. Oktober 2008 / 1335",
           "currJobDescr": "Senior Application Developer Lotus Domino",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer Lotus Domino",
               "company": "CSC",
@@ -575,7 +595,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -597,14 +618,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=IBM+Certified+Advanced+Application+Developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Kim-David Hauser",
           "picture": "https://www.xing.com/image/7_e_6_fbf1dc357_18829091_2/kim-david-hauser-foto.256x256.jpg",
           "memberSince_Hits": "25. Februar 2013 / 1845",
           "currJobDescr": "Mobile Application Developer / Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Mobile Application Developer / Project Manager",
               "company": "e-switch Solutions AG",
@@ -657,7 +680,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -675,7 +699,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "DigiComp",
           "url": "https://www.xing.com/search/members?keywords=DigiComp",
@@ -699,14 +724,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Apprenticeship+as+Application+Developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Erdem Selçuk",
           "picture": "https://www.xing.com/image/0_2_9_ac077b327_10493809_2/erdem-sel%C3%A7uk-foto.256x256.jpg",
           "memberSince_Hits": "25. Juli 2008 / 1435",
           "currJobDescr": "C# Developer, Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "C# Developer, Application Developer",
               "company": "Antalya IVF",
@@ -743,7 +770,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch"
         },
@@ -753,14 +781,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marek Stankala",
           "picture": "https://www.xing.com/image/4_8_6_fb4820d51_23005622_1/marek-stankala-foto.256x256.jpg",
           "memberSince_Hits": "5. August 2015 / 304",
           "currJobDescr": "Senior Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer",
               "company": "Geocom Informatik AG",
@@ -799,7 +829,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -813,7 +844,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Wrocław University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Wroc%C5%82aw+University+of+Technology",
@@ -823,14 +855,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Markus Gälli",
           "picture": "https://www.xing.com/image/c_9_3_e79348895_5741924_1/markus-g%C3%A4lli-foto.256x256.jpg",
           "memberSince_Hits": "20. März 2006 / 8908",
           "currJobDescr": "Kanban Practitioner / Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Kanban Practitioner / Application Developer",
               "company": "Swisscom (Schweiz) AG",
@@ -931,7 +965,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -945,7 +980,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Bern,",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bern%2C",
@@ -969,14 +1005,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Scrum+Master"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sven Kiesow",
           "picture": "https://www.xing.com/image/c_4_2_a86390893_11508874_3/sven-kiesow-foto.256x256.jpg",
           "memberSince_Hits": "29. November 2008 / 2708",
           "currJobDescr": "Technical Project Manager / Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Technical Project Manager / Application Developer",
               "company": "Proximity Technology GmbH | BBDO Network",
@@ -1001,7 +1039,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1019,7 +1058,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen",
@@ -1030,14 +1070,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Adobe+CQ+5.4+Developer+Training+PTR"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Uli Niggemann",
           "picture": "https://www.xing.com/image/8_9_e_8f7b8c818_6376877_3/uli-niggemann-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2006 / 4842",
           "currJobDescr": "Mobile Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Mobile Application Developer",
               "company": "jumero",
@@ -1111,7 +1153,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1119,7 +1162,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Flensburg",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Flensburg",
@@ -1129,7 +1173,8 @@
       ],
       "qualifications": "Dipl. Inform. (FH)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dipl.+Inform.+%28FH%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Red Dot online, BASE – Tannenbaum der Wünsche",
           "award_date": "red-dot.org/4555.html?detail=597"
@@ -1137,14 +1182,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jürgen Graf",
           "picture": "https://www.xing.com/image/a_9_7_8c6922e64_6383359_8/j%C3%BCrgen-graf-foto.256x256.jpg",
           "memberSince_Hits": "22. August 2006 / 2314",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "UniCredit Business Integrated Solutions (UBIS)",
@@ -1199,7 +1246,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1215,14 +1263,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alexander Müller",
           "picture": "https://www.xing.com/image/e_8_6_f27488765_13498042_4/alexander-m%C3%BCller-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2009 / 2686",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "Mitel Deutschland GmbH",
@@ -1261,7 +1311,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1271,7 +1322,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HWR Berlin",
           "url": "https://www.xing.com/search/members?keywords=HWR+Berlin",
@@ -1283,14 +1335,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Science+in+Computer+Science"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Verena Zaiser",
           "picture": "https://www.xing.com/image/7_8_4_cd95b7ca5_14847479_5/verena-zaiser-foto.256x256.jpg",
           "memberSince_Hits": "18. Juli 2010 / 3181",
           "currJobDescr": "Mobile Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Mobile Application Developer",
               "company": "aaronprojects GmbH",
@@ -1343,12 +1397,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule der Medien",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+der+Medien",
@@ -1366,14 +1422,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Game+Design+Seminar+-+Hochschule+der+Medien+WS2011%2F12"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Kay Stenschke",
           "picture": "https://www.xing.com/image/2_a_d_5433e39f9_18857604_1/kay-stenschke-foto.256x256.jpg",
           "memberSince_Hits": "4. März 2013 / 1056",
           "currJobDescr": "Freelance Application Developer & Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Freelance Application Developer & Consultant",
               "company": "CoExec GmbH",
@@ -1416,7 +1474,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1438,14 +1497,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=dipl.+Multimedia+Producer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Md Rakibul Alam",
           "picture": "https://www.xing.com/image/2_9_7_2de5088e2_26170745_1/md-rakibul-alam-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2016 / 74",
           "currJobDescr": "Web And Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web And Application Developer",
               "company": "Upwork",
@@ -1470,7 +1531,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1479,7 +1541,8 @@
           "lang": "Bengali"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technical University of Munich",
           "url": "https://www.xing.com/search/members?keywords=Technical+University+of+Munich",
@@ -1497,14 +1560,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Web+Development"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Stefan Kögler",
           "picture": "https://www.xing.com/image/e_c_b_4f2092a49_3333814_2/stefan-k%C3%B6gler-foto.256x256.jpg",
           "memberSince_Hits": "17. Februar 2005 / 10118",
           "currJobDescr": "Senior iOS Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior iOS Application Developer",
               "company": "Bauer Xcel Media Deutschland KG",
@@ -1592,7 +1657,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1600,7 +1666,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -1608,7 +1675,8 @@
           "eduDuration": "10/1995 - 03/2003"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "GAMERS.DE GOLD - 88% | GeoDrop HD (iOS)",
           "award_date": "www.gamers.de/artikel/1641/2/geodrop-hd/schoene-gruesse-von-tetris--co.html"
@@ -1620,14 +1688,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Adrian Aebi",
           "picture": "https://www.xing.com/image/4_e_5_fb632fffc_15847598_2/adrian-aebi-foto.256x256.jpg",
           "memberSince_Hits": "31. Januar 2011 / 2368",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "CSC Switzerland GmbH",
@@ -1645,7 +1715,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1655,7 +1726,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Berner Fachhochschule",
           "url": "https://www.xing.com/search/members?keywords=Berner+Fachhochschule",
@@ -1673,14 +1745,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+Solution+Developer+%28MCSD%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marco Warm",
           "picture": "https://www.xing.com/image/0_5_6_981aafe07_18600392_2/marco-warm-foto.256x256.jpg",
           "memberSince_Hits": "23. Dezember 2012 / 1108",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "Birkenstock GmbH & Co. KG Services",
@@ -1698,7 +1772,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1712,7 +1787,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BSZ Löbau",
           "url": "https://www.xing.com/search/members?keywords=BSZ+L%C3%B6bau",
@@ -1723,14 +1799,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ITIL+%282011%29+Foundation"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Tim Jansen",
           "picture": "https://www.xing.com/image/7_e_2_cc11808af_61474_3/tim-jansen-foto.256x256.jpg",
           "memberSince_Hits": "1. April 2004 / 4820",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "QVC Deutschland Inc & Co KG",
@@ -1776,7 +1854,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1788,14 +1867,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Anton Schmid",
           "picture": "https://www.xing.com/image/1_1_9_f8927a9e7_17366167_1/anton-schmid-foto.256x256.jpg",
           "memberSince_Hits": "16. Februar 2012 / 3149",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "UniCredit Business Integrated Solutions S.C.p.A.",
@@ -1854,7 +1935,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1864,7 +1946,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Control Data Institut, München",
           "url": "https://www.xing.com/search/members?keywords=Control+Data+Institut%2C+M%C3%BCnchen",
@@ -1888,14 +1971,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=..."
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Herwig Steininger",
           "picture": "https://www.xing.com/image/d_6_d_e2fabde0f_7999158_3/herwig-steininger-foto.256x256.jpg",
           "memberSince_Hits": "4. Oktober 2007 / 3801",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "iteratec GmbH",
@@ -1932,7 +2017,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1946,7 +2032,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Vienna University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Vienna+University+of+Technology",
@@ -1958,14 +2045,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Resource+Planning%2C+Effort+Estimation%2C+Team+Leading%2C+Testing"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Michael Bogen",
           "picture": "https://www.xing.com/image/6_6_6_306bce11c_11144829_2/michael-bogen-foto.256x256.jpg",
           "memberSince_Hits": "4. Oktober 2008 / 2774",
           "currJobDescr": "Senior Application Developer, Professional Services Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer, Professional Services Consultant",
               "company": "ToHRex - Team of HR Experts",
@@ -2004,7 +2093,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2017,14 +2107,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Organisationsprogrammierer+IBM.+Fachrichtung+Witschaftsinformatik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Matthias Gläßner",
           "picture": "https://www.xing.com/image/6_3_e_7ed7bd9f2_12910072_7/matthias-gl%C3%A4%C3%9Fner-foto.256x256.jpg",
           "memberSince_Hits": "5. August 2009 / 4608",
           "currJobDescr": "Senior Application Developer TYPO3",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer TYPO3",
               "company": "Matthias Gläßner IT-Lösungen",
@@ -2112,7 +2204,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2125,7 +2218,8 @@
           "lang": "großes Latinum"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Bremen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bremen",
@@ -2139,7 +2233,8 @@
       ],
       "qualifications": "AJAX",
       "qualifications_url": "https://www.xing.com/search/members?keywords=AJAX",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Empfehlungsschreiben des Genossenschaftsverbandes Bayern 12/2013",
           "award_date": "www.matthias-glaessner.de/fileadmin/auszeichnungen/Empfehlungsschreiben_GVB_M%C3%BCnchen_Gl%C3%A4%C3%9Fner_2013.pdf"
@@ -2147,14 +2242,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Andreas Grässer",
           "picture": "https://www.xing.com/image/3_3_0_55930e216_10861831_4/andreas-gr%C3%A4sser-foto.256x256.jpg",
           "memberSince_Hits": "14. August 2008 / 2501",
           "currJobDescr": "Senior Application Developer, Creator",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer, Creator",
               "company": "planet-h.com",
@@ -2193,7 +2290,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2205,14 +2303,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Frank Corr",
           "picture": "https://www.xing.com/image/4_7_2_9881e702a_10782278_2/frank-corr-foto.256x256.jpg",
           "memberSince_Hits": "29. Juli 2008 / 1318",
           "currJobDescr": "SAS Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "SAS Application Developer",
               "company": "ISBAN",
@@ -2265,7 +2365,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2279,14 +2380,16 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Newcastle upon Tyne",
           "url": "https://www.xing.com/search/members?keywords=Newcastle+upon+Tyne",
           "degree": "BSC Hons. in Geology"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Advanceed Programmer for SAS9",
           "award_date": "support.sas.com/certify/creds/credprog.html"
@@ -2294,14 +2397,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sven Hartwig",
           "picture": "https://www.xing.com/image/8_9_b_a8f4043de_3559431_1/sven-hartwig-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2005 / 3311",
           "currJobDescr": "Expert Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Expert Application Developer",
               "company": "Swiss Re (Swiss Reinsurance Company)",
@@ -2340,7 +2445,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2354,7 +2460,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Furtwangen (D), DeMontfort University (UK)",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Furtwangen+%28D%29%2C+DeMontfort+University+%28UK%29",
@@ -2372,14 +2479,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Berufsbildner+%2F+eidg.+dipl.+Lehrmeister+%282004%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Nicolas Kuhn",
           "picture": "https://www.xing.com/image/8_c_a_6ce191d46_7835683_11/nicolas-kuhn-foto.256x256.jpg",
           "memberSince_Hits": "27. August 2007 / 3966",
           "currJobDescr": "Application Developer Senior",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer Senior",
               "company": "Zürcher Kantonalbank",
@@ -2418,7 +2527,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2432,7 +2542,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HSR Hochschule für Technik Rapperswil",
           "url": "https://www.xing.com/search/members?keywords=HSR+Hochschule+f%C3%BCr+Technik+Rapperswil",
@@ -2454,7 +2565,8 @@
       ],
       "qualifications": "ECDL-Certificate",
       "qualifications_url": "https://www.xing.com/search/members?keywords=ECDL-Certificate",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bachelor of Science in Business Information Technology",
           "award_date": "2013"
@@ -2470,14 +2582,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Jutikorn Vrojananulux",
             "picture": "https://www.xing.com/image/d_b_0_0043da775_19339206_2/jutikorn-vrojananulux-foto.256x256.jpg",
           "memberSince_Hits": "9. Juli 2013 / 454",
           "currJobDescr": "Android Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Android Application Developer",
               "company": "Mobiles-Technologies",
@@ -2509,7 +2623,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2518,7 +2633,8 @@
           "lang": "Thai"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "King Mongkutt University of Technology North Bangkok",
           "url": "https://www.xing.com/search/members?keywords=King+Mongkutt+University+of+Technology+North+Bangkok",
@@ -2526,7 +2642,8 @@
           "eduDuration": "05/2006 - 02/2009"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Winner of BlackBerry Bangkok Hackathon",
           "award_date": "2011"
@@ -2534,14 +2651,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Stephen Miesel",
           "picture": "https://www.xing.com/image/f_e_b_dc70c831e_18046255_2/stephen-miesel-foto.256x256.jpg",
           "memberSince_Hits": "16. Juli 2012 / 1123",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "Incadea Deutschland GmbH",
@@ -2573,7 +2692,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2583,7 +2703,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Andernach - August-Horch-Schule",
           "url": "https://www.xing.com/search/members?keywords=Andernach+-+August-Horch-Schule",
@@ -2595,14 +2716,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dynamics+NAV+-+Development+II+C%2FSIDE+Solution+Dev."
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Benjamin Piontek",
           "picture": "https://www.xing.com/image/6_5_a_6f01f1532_23774513_1/benjamin-piontek-foto.256x256.jpg",
           "memberSince_Hits": "23. November 2015 / 353",
           "currJobDescr": "Mobile Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Mobile Application Developer",
               "company": "CATIS GmbH",
@@ -2634,7 +2757,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2644,7 +2768,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BBS 2 Wolfsburg",
           "url": "https://www.xing.com/search/members?keywords=BBS+2+Wolfsburg",
@@ -2656,14 +2781,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Xamarin+Certified+Developer"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Christian Stahl",
           "picture": "https://www.xing.com/image/0_f_0_99a5bb0f5_11307045_2/christian-stahl-foto.256x256.jpg",
           "memberSince_Hits": "28. Oktober 2008 / 1812",
           "currJobDescr": "Senior Web Application Developer, Owner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Web Application Developer, Owner",
               "company": "Ichthys Computer Consulting Co., Inc.",
@@ -2757,7 +2884,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2775,7 +2903,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "North Carolina College of Theology",
           "url": "https://www.xing.com/search/members?keywords=North+Carolina+College+of+Theology",
@@ -2793,14 +2922,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ordained+Pastor"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Ahmed Talaat",
           "picture": "https://www.xing.com/image/9_0_0_7587addde_23069181_1/ahmed-talaat-foto.256x256.jpg",
           "memberSince_Hits": "16. August 2015 / 222",
           "currJobDescr": "Mobile Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Mobile Application Developer",
               "company": "Vodafone International Services",
@@ -2818,7 +2949,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2828,7 +2960,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ain Shams University",
           "url": "https://www.xing.com/search/members?keywords=Ain+Shams+University",
@@ -2838,7 +2971,8 @@
       ],
       "qualifications": "Udacity's Android Developer Nanodegree",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Udacity%27s+Android+Developer+Nanodegree",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "MOEW as best ministry smart app in UAE at PAN Arab Excellence Awards Academy",
           "award_date": "https://play.google.com/store/apps/details?id=com.linkdev.moew.app"
@@ -2846,14 +2980,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Christoph Lind",
           "picture": "https://www.xing.com/img/users/2/0/9/cd0d7ea9f.11687924,5.256x256.jpg",
           "memberSince_Hits": "7. Januar 2009 / 1229",
           "currJobDescr": "Senior (Web) Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior (Web) Application Developer",
               "company": "S.A.D. GmbH",
@@ -2920,7 +3056,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2934,14 +3071,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker+Anwendungsentwicklung"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Marijan Pranjic",
           "picture": "https://www.xing.com/img/users/c/c/a/0aa863922.12636353,3.256x256.jpg",
           "memberSince_Hits": "19. Juni 2009 / 1641",
           "currJobDescr": "Senior Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Application Developer",
               "company": "texdata software GmbH",
@@ -2973,7 +3112,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Gut)"
@@ -2986,7 +3126,8 @@
           "lang": "Kroatisch Muttersprache"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fakultät der Organisation und Informatik in Varaždin, Kroatien",
           "url": "https://www.xing.com/search/members?keywords=Fakult%C3%A4t+der+Organisation+und+Informatik+in+Vara%C5%BEdin%2C+Kroatien",
@@ -2998,14 +3139,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Microsoft+Certified+Technology+Specialist+.NET+2.0+Distributed+Applications"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Oliver Kwasnik",
           "picture": "https://www.xing.com/img/users/0/d/3/1a9f85efe.6889015,2.256x256.jpg",
           "memberSince_Hits": "2. Januar 2007 / 1346",
           "currJobDescr": "Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Application Developer",
               "company": "Atos",
@@ -3051,7 +3194,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3059,7 +3203,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "--",
           "url": "https://www.xing.com/search/members?keywords=--",
@@ -3068,21 +3213,24 @@
       ],
       "qualifications": "Informations- und Telekommunikationssystemkaufmann (IHK)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Informations-+und+Telekommunikationssystemkaufmann+%28IHK%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "--"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Masud Rana",
           "picture": "https://www.xing.com/image/b_a_6_5a3963884_20480686_3/masud-rana-foto.256x256.jpg",
           "memberSince_Hits": "25. April 2014 / 981",
           "currJobDescr": "Web Application Developer (Pertime Online based)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer (Pertime Online based)",
               "company": "DigitalBroadcasters",
@@ -3121,7 +3269,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3131,7 +3280,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Konstanz",
           "url": "https://www.xing.com/search/members?keywords=University+of+Konstanz",
@@ -3147,14 +3297,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Thomas Brandenburger",
           "picture": "https://www.xing.com/image/0_8_b_44bfec8f8_6563387_2/thomas-brandenburger-foto.256x256.jpg",
           "memberSince_Hits": "5. Oktober 2006 / 2349",
           "currJobDescr": "Web / Mobile Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web / Mobile Application Developer",
               "company": "brandwert Development",
@@ -3214,7 +3366,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3224,14 +3377,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "André Meyerjürgens",
           "picture": "https://www.xing.com/image/e_2_2_ef735478a_12177950_4/andr%C3%A9-meyerj%C3%BCrgens-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2009 / 2398",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "Freicon GmbH & Co. KG",
@@ -3270,7 +3425,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3292,7 +3448,8 @@
           "lang": "CSS"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SECTOR NORD AG",
           "url": "https://www.xing.com/search/members?keywords=SECTOR+NORD+AG",
@@ -3308,7 +3465,8 @@
       ],
       "qualifications": "Fachinformatiker - Anwendungsentwicklung (IHK Oldenburg, 2012)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachinformatiker+-+Anwendungsentwicklung+%28IHK+Oldenburg%2C+2012%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Abschluss zum Fachinformatiker Anwendungsentwicklung IHK 92%",
           "award_date": "www.nwzonline.de/ammerland/wirtschaft/erfolgreiche-unternehmen_a_1,0,913413661.html"
@@ -3316,14 +3474,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Polash Ranjan Sarker",
           "picture": "https://www.xing.com/image/4_5_8_46aa85093_20634160_2/polash-ranjan-sarker-foto.256x256.jpg",
           "memberSince_Hits": "5. Juni 2014 / 881",
           "currJobDescr": "Web Application Developer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Web Application Developer",
               "company": "5Flow - A part of Matthews Brand Solutions",
@@ -3369,7 +3529,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Grundkenntnisse)"
@@ -3382,7 +3543,8 @@
           "lang": "Bangla"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Frankfurt University of Applied Sciences",
           "url": "https://www.xing.com/search/members?keywords=Frankfurt+University+of+Applied+Sciences",

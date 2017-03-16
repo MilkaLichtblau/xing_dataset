@@ -1,16 +1,19 @@
 {
   "category": "legal advisor",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Maria Jaskólska",
           "picture": "https://www.xing.com/img/users/e/e/7/c209d38de.5948732,1.256x256.jpg",
           "memberSince_Hits": "14. Mai 2006 / 893",
           "currJobDescr": "prawnik, Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "prawnik, Legal Advisor",
               "company": "Independent Legal Consultant",
@@ -56,7 +59,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -70,7 +74,8 @@
           "lang": "Polnisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Uniwersytet Gdański, Wydział Prawa i Administracji,",
           "url": "https://www.xing.com/search/members?keywords=Uniwersytet+Gda%C5%84ski%2C+Wydzia%C5%82+Prawa+i+Administracji%2C"
@@ -78,14 +83,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Elena Arnold",
           "picture": "https://www.xing.com/image/3_e_d_e7fe8b0b5_16095359_3/elena-arnold-foto.256x256.jpg",
           "memberSince_Hits": "29. März 2011 / 1259",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "RAV Investments GmbH",
@@ -138,7 +145,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -152,7 +160,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fernfachhochschule Schweiz (FFHS)",
           "url": "https://www.xing.com/search/members?keywords=Fernfachhochschule+Schweiz+%28FFHS%29",
@@ -174,7 +183,8 @@
       ],
       "qualifications": "The Qualification of Lawyer in Major Jurisprudence",
       "qualifications_url": "https://www.xing.com/search/members?keywords=The+Qualification+of+Lawyer+in+Major+Jurisprudence",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "\"Most Studious\" (by the Sudents of ELI, the University of Texas at Arlington)",
           "award_date": "2008"
@@ -182,14 +192,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Şevket Güney Bigat",
           "picture": "https://www.xing.com/image/f_2_a_b59513d67_11160174_2/%C5%9Fevket-g%C3%BCney-bigat-foto.256x256.jpg",
           "memberSince_Hits": "7. Oktober 2008 / 2599",
           "currJobDescr": "Avukat, Legal Advisor, Attorney, Lawyer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Avukat, Legal Advisor, Attorney, Lawyer",
               "company": "BİGAT AVUKATLIK BÜROSU, Bigat Law Firm",
@@ -221,7 +233,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -235,7 +248,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Yeditepe Üniversitesi, Yeditepe University",
           "url": "https://www.xing.com/search/members?keywords=Yeditepe+%C3%9Cniversitesi%2C+Yeditepe+University",
@@ -259,14 +273,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Hukuk+Dan%C4%B1%C5%9Fman%C4%B1"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Arthur Maisela",
           "picture": "https://www.xing.com/image/7_b_0_98d2637d6_7936907_1/arthur-maisela-foto.256x256.jpg",
           "memberSince_Hits": "19. September 2007 / 732",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Department of Science and Technology",
@@ -291,12 +307,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Pretoria",
           "url": "https://www.xing.com/search/members?keywords=University+of+Pretoria"
@@ -304,14 +322,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Carlos Pons-Fuster Montaner",
           "picture": "https://www.xing.com/image/f_1_d_694dcbb05_22090946_1/carlos-pons-fuster-montaner-foto.256x256.jpg",
           "memberSince_Hits": "11. März 2015 / 17",
           "currJobDescr": "Legal advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal advisor",
               "company": "Greyhills Rechtsanwälte",
@@ -343,7 +363,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -364,7 +385,8 @@
           "lang": "Catalán"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Master in Laws University of Alicante",
           "url": "https://www.xing.com/search/members?keywords=Master+in+Laws+University+of+Alicante",
@@ -386,14 +408,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Sergey Kolesnikov",
           "picture": "https://www.xing.com/image/c_5_b_27b8d45a9_12216497_4/sergey-kolesnikov-foto.256x256.jpg",
           "memberSince_Hits": "31. März 2009 / 838",
           "currJobDescr": "Senior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Legal Advisor",
               "company": "POLYMAGE Consulting",
@@ -411,7 +435,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -420,7 +445,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Kemerovo State University (Russia)",
           "url": "https://www.xing.com/search/members?keywords=Kemerovo+State+University+%28Russia%29",
@@ -432,14 +458,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Corporate+law"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Georgi Yordanov",
           "picture": "https://www.xing.com/image/7_a_6_597cb8219_13290580_2/georgi-yordanov-foto.256x256.jpg",
           "memberSince_Hits": "14. Oktober 2009 / 917",
           "currJobDescr": "Legal advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal advisor",
               "company": "Eurobank EFG Bulgaria",
@@ -457,21 +485,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Luca Costa",
           "picture": "https://www.xing.com/image/3_1_d_4f64af0f7_11192016_2/luca-costa-foto.256x256.jpg",
           "memberSince_Hits": "11. Oktober 2008 / 1255",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Italian Ministry of Foreign Affairs",
@@ -500,12 +531,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Macerata",
           "url": "https://www.xing.com/search/members?keywords=University+of+Macerata",
@@ -532,14 +565,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alexander Fischer",
           "picture": "https://www.xing.com/image/b_a_1_7224abde1_6758564_1/alexander-fischer-foto.256x256.jpg",
           "memberSince_Hits": "26. November 2006 / 3957",
           "currJobDescr": "Senior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Legal Advisor",
               "company": "ALFI (Association of the Luxembourg Fund Industry)",
@@ -571,7 +606,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -582,7 +618,8 @@
           "lang": "Französisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Albert-Ludwigs-Universität Freiburg",
           "url": "https://www.xing.com/search/members?keywords=Albert-Ludwigs-Universit%C3%A4t+Freiburg",
@@ -598,14 +635,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mag. Richard Wieser",
           "picture": "https://www.xing.com/image/d_8_e_fd5260bd4_7817741_3/richard-wieser-foto.256x256.jpg",
           "memberSince_Hits": "22. August 2007 / 2083",
           "currJobDescr": "Assistant & Legal Advisor; Assistenz & Recht",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Assistant & Legal Advisor; Assistenz & Recht",
               "company": "RWA Raiffeisen Ware Austria AG",
@@ -626,7 +665,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -647,7 +687,8 @@
           "lang": "Slowenisch Grundkenntnisse"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karl-Franzens-Universität Graz",
           "url": "https://www.xing.com/search/members?keywords=Karl-Franzens-Universit%C3%A4t+Graz",
@@ -658,14 +699,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachlich+bef%C3%A4higte+Person+f%C3%BCr+Getreide%2C+Bundesamt+f%C3%BCr+Ern%C3%A4hrungssicherheit"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Małgorzata Zagozda",
           "picture": "https://www.xing.com/image/e_f_b_e0efa9fb4_15872734_1/ma%C5%82gorzata-zagozda-foto.256x256.jpg",
           "memberSince_Hits": "6. Februar 2011 / 688",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Notary's Office",
@@ -690,7 +733,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Polnisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -708,7 +752,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Szczecin",
           "url": "https://www.xing.com/search/members?keywords=University+of+Szczecin",
@@ -726,14 +771,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Deutsch+Als+Fremdsprache+%28Mittelstufe+1%2C+Colon+Language+Center%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. RICARDO MOLINARI",
           "picture": "https://www.xing.com/image/a_9_1_243b28838_22823637_1/ricardo-molinari-foto.256x256.jpg",
           "memberSince_Hits": "6. Juli 2015 / 767",
           "currJobDescr": "Lawyer, Legal Advisor, Financial Advisor, Credit & Collection analyst.",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lawyer, Legal Advisor, Financial Advisor, Credit & Collection analyst.",
               "company": "self-employed",
@@ -779,7 +826,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -797,7 +845,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "UNIVERSIDADE CIDADE DE SÃO PAULO",
           "url": "https://www.xing.com/search/members?keywords=UNIVERSIDADE+CIDADE+DE+S%C3%83O+PAULO",
@@ -809,14 +858,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+lawyer+by+OAB+Brasil"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Ksenia Fedotova",
           "picture": "https://www.xing.com/image/0_6_5_44cb738e1_7977878_1/ksenia-fedotova-foto.256x256.jpg",
           "memberSince_Hits": "28. September 2007 / 1623",
           "currJobDescr": "Senior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Legal Advisor",
               "company": "Siemens LLC Russia",
@@ -833,7 +884,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Russisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -847,7 +899,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "ИМПЭ им. Грибоедова",
           "url": "https://www.xing.com/search/members?keywords=%D0%98%D0%9C%D0%9F%D0%AD+%D0%B8%D0%BC.+%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0",
@@ -863,14 +916,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Andreea Stefan",
           "picture": "https://www.xing.com/img/users/e/0/a/e7f83aa99.22330406,1.256x256.jpg",
           "memberSince_Hits": "15. April 2015 / 229",
           "currJobDescr": "Policy and Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Policy and Legal Advisor",
               "company": "European Parliament",
@@ -937,7 +992,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -959,7 +1015,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "KU Leuven - Campus Brussels",
           "url": "https://www.xing.com/search/members?keywords=KU+Leuven+-+Campus+Brussels",
@@ -995,14 +1052,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Goethe+Institut+Br%C3%BCssel+-+Deutschkurs+A2.2+%28+June+2016+-+present+%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Bernhard Mehlhorn",
           "picture": "https://www.xing.com/image/5_a_a_c6d6a85e7_15427370_2/bernhard-mehlhorn-foto.256x256.jpg",
           "memberSince_Hits": "26. Oktober 2010 / 2749",
           "currJobDescr": "Interim Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Interim Legal Advisor",
               "company": "Johnson Matthey",
@@ -1102,7 +1161,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1124,7 +1184,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Harvard University Graduate School of Business Administration",
           "url": "https://www.xing.com/search/members?keywords=Harvard+University+Graduate+School+of+Business+Administration",
@@ -1148,14 +1209,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Steuerberater"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Dominika Zaleski",
           "picture": "https://www.xing.com/image/8_e_1_3ff37c9f2_25088165_1/dominika-zaleski-foto.256x256.jpg",
           "memberSince_Hits": "29. Mai 2016 / 106",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Strohal Legal Group Ras Al Khamaih",
@@ -1187,7 +1250,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1211,14 +1275,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Shahriar Shahrokh",
           "picture": "https://www.xing.com/image/3_2_b_0a4031b7c_20345177_1/shahriar-shahrokh-foto.256x256.jpg",
           "memberSince_Hits": "22. März 2014 / 395",
           "currJobDescr": "Attorney At Law & Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Attorney At Law & Legal Advisor",
               "company": "Dr.Momeni's International Law Office & Assossiates",
@@ -1265,7 +1331,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1279,7 +1346,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "CILS",
           "url": "https://www.xing.com/search/members?keywords=CILS",
@@ -1328,14 +1396,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Anethea Veenman-Hodges",
           "picture": "https://www.xing.com/image/1_d_8_2adf50218_7554391_1/anethea-veenman-hodges-foto.256x256.jpg",
           "memberSince_Hits": "27. Juni 2007 / 1284",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Exobia Legal Services",
@@ -1359,7 +1429,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -1367,7 +1438,8 @@
           "lang": "Niederländisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Robert Kennedy College",
           "url": "https://www.xing.com/search/members?keywords=Robert+Kennedy+College",
@@ -1377,14 +1449,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mays Jubair",
           "picture": "https://www.xing.com/image/6_4_b_54140adfd_8284639_1/mays-jubair-foto.256x256.jpg",
           "memberSince_Hits": "27. Oktober 2007 / 833",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "UK Law Firm",
@@ -1400,7 +1474,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Französisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1418,7 +1493,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Paris Sorbonne",
           "url": "https://www.xing.com/search/members?keywords=University+of+Paris+Sorbonne",
@@ -1428,14 +1504,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "mutty mohmammad jeebran",
           "picture": "https://www.xing.com/image/e_1_a_d721f720b_26173401_1/mutty-mohmammad-jeebran-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2016 / 74",
           "currJobDescr": "Barrister and senior legal advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Barrister and senior legal advisor",
               "company": "ERIMUS CHAMBERS",
@@ -1452,7 +1530,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1462,7 +1541,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Wales",
           "url": "https://www.xing.com/search/members?keywords=University+of+Wales",
@@ -1470,7 +1550,8 @@
           "eduDuration": "06/2009 - 08/2013"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Queen councilior award",
           "award_date": "2013"
@@ -1478,14 +1559,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Alexander Roesch",
           "picture": "https://www.xing.com/image/0_c_7_d0ed94555_3443229_2/alexander-roesch-foto.256x256.jpg",
           "memberSince_Hits": "18. April 2005 / 6752",
           "currJobDescr": "Senior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Legal Advisor",
               "company": "Rothschild Bank AG",
@@ -1536,7 +1619,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1550,7 +1634,8 @@
           "lang": "Niederländisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Fribourg (CH) and Leuven (B)",
           "url": "https://www.xing.com/search/members?keywords=University+of+Fribourg+%28CH%29+and+Leuven+%28B%29",
@@ -1561,14 +1646,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Attorney-at-law+%28Swiss+bar%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Miriam Shastri",
           "picture": "https://www.xing.com/image/a_0_6_050ee377e_18180669_2/miriam-shastri-foto.256x256.jpg",
           "memberSince_Hits": "27. August 2012 / 1341",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "International Committee of the Red Cross",
@@ -1593,7 +1680,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1618,14 +1706,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Cambridge+A-Levels%3A+Sociology%2C+Law%2C+Economics%2C+English+Literature"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mbenya Kamwetu",
           "picture": "https://www.xing.com/image/2_0_c_9b2148998_18959023_3/mbenya-kamwetu-foto.256x256.jpg",
           "memberSince_Hits": "1. April 2013 / 851",
           "currJobDescr": "Maritime Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Maritime Legal Advisor",
               "company": "Förde Reederei Seetouristik GmbH & Co KG",
@@ -1678,7 +1768,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Grundkenntnisse)"
@@ -1694,7 +1785,8 @@
           "lang": "Kamba"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Lund University/World Maritime University, Malmo",
           "url": "https://www.xing.com/search/members?keywords=Lund+University%2FWorld+Maritime+University%2C+Malmo",
@@ -1716,7 +1808,8 @@
       ],
       "qualifications": "Certificate in Anti-Corruption (CMI CHR Michelsen Institute, 2010)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+in+Anti-Corruption+%28CMI+CHR+Michelsen+Institute%2C+2010%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Swedish Institute Study - Full scholarship for Masters in Maritime Law",
           "award_date": "www.studyinsweden.se/Scholarships/SI-scholarships/The-Swedish-Institute-Study-Scholarships/"
@@ -1724,14 +1817,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Claudia Starz",
           "picture": "https://www.xing.com/img/users/4/e/d/9321724b4.22350185,1.256x256.jpg",
           "memberSince_Hits": "19. April 2015 / 353",
           "currJobDescr": "Legal Advisor Labour Law",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor Labour Law",
               "company": "Nutricia GmbH - Danone Medical Nutrition",
@@ -1766,7 +1861,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1780,7 +1876,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Rechtsreferendariat am Landgericht Nürnberg-Fürth",
           "url": "https://www.xing.com/search/members?keywords=Rechtsreferendariat+am+Landgericht+N%C3%BCrnberg-F%C3%BCrth",
@@ -1796,14 +1893,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "David Hartlapp",
           "picture": "https://www.xing.com/image/2_f_2_09134c06d_8935721_6/david-hartlapp-foto.256x256.jpg",
           "memberSince_Hits": "4. März 2008 / 4274",
           "currJobDescr": "Legal advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal advisor",
               "company": "Société Générale Corporate & Investment Banking, Paris",
@@ -1842,7 +1941,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1860,7 +1960,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University Paris II Panthéon-Assas",
           "url": "https://www.xing.com/search/members?keywords=University+Paris+II+Panth%C3%A9on-Assas",
@@ -1906,21 +2007,24 @@
       ],
       "qualifications": "German attorney (Rechtsanwalt)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=German+attorney+%28Rechtsanwalt%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "German National Academic Foundation (Studienstiftung des deutschen Volkes)"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Mariana Rissetto",
           "picture": "https://www.xing.com/image/0_1_9_301576130_19833369_4/mariana-rissetto-foto.256x256.jpg",
           "memberSince_Hits": "13. November 2013 / 716",
           "currJobDescr": "Junior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Junior Legal Advisor",
               "company": "International Anti- Corruption Academy",
@@ -2001,7 +2105,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2019,7 +2124,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad de Buenos Aires- Facultad de Derecho",
           "url": "https://www.xing.com/search/members?keywords=Universidad+de+Buenos+Aires-+Facultad+de+Derecho",
@@ -2035,14 +2141,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Mohamed Mhadbi",
           "picture": "https://www.xing.com/image/d_e_2_0bfba1601_11452473_2/mohamed-mhadbi-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2008 / 1034",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Abu Ghazaleh Intellectual Property",
@@ -2053,12 +2161,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Unversity of Tunis of Literature, Arts, Human Sciences",
           "url": "https://www.xing.com/search/members?keywords=Unversity+of+Tunis+of+Literature%2C+Arts%2C+Human+Sciences",
@@ -2070,14 +2180,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Legal+translation+%28Arabic%2C+French+and+English%29%2C+IP+rights+%28TM%2C+copyright%2C+%2C%2C%2C%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Enis Arkat",
           "picture": "https://www.xing.com/image/0_d_2_4348c68d6_21200309_2/enis-arkat-foto.256x256.jpg",
           "memberSince_Hits": "13. Oktober 2014 / 617",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Number26 GmbH",
@@ -2116,7 +2228,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2134,7 +2247,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Humboldt-Universität zu Berlin",
           "url": "https://www.xing.com/search/members?keywords=Humboldt-Universit%C3%A4t+zu+Berlin",
@@ -2145,14 +2259,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=1.+Juristisches+Staatsexamen"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dr. Johannes Krall",
           "picture": "https://www.xing.com/img/users/3/c/1/04d69b065.12137299,4.256x256.jpg",
           "memberSince_Hits": "19. März 2009 / 4750",
           "currJobDescr": "Legal Advisor - Corporate & Investment Banking/CIB Financial Marktes",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor - Corporate & Investment Banking/CIB Financial Marktes",
               "company": "UniCredit Bank Austria AG",
@@ -2247,7 +2363,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2255,7 +2372,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Pontificia Università Lateranense (Rom)",
           "url": "https://www.xing.com/search/members?keywords=Pontificia+Universit%C3%A0+Lateranense++%28Rom%29",
@@ -2277,7 +2395,8 @@
       ],
       "qualifications": "Herausgeber/Series Editor:\"Finance&Ethics\"\"Finance&Science\"\"Steuer&Investment\"",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Herausgeber%2FSeries+Editor%3A%22Finance%26Ethics%22%22Finance%26Science%22%22Steuer%26Investment%22",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Promotion mit Auszeichnung (Dr. iur.)",
           "award_date": "2007"
@@ -2285,14 +2404,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Silas Dziike",
           "picture": "https://www.xing.com/image/f_8_8_2ed3a2378_12054885_3/silas-dziike-foto.256x256.jpg",
           "memberSince_Hits": "6. März 2009 / 1023",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Pygma Group",
@@ -2302,12 +2423,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Witwatersrand",
           "url": "https://www.xing.com/search/members?keywords=University+of+Witwatersrand",
@@ -2319,14 +2442,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=PostGrad+Cert+Human+Rights"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Jasmin Wagner",
           "picture": "https://www.xing.com/image/c_1_f_691c2ca50_7883897_1/jasmin-wagner-foto.256x256.jpg",
           "memberSince_Hits": "7. September 2007 / 4628",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "MSC Germany S.A. & Co. KG",
@@ -2358,7 +2483,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2371,14 +2497,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Abitur+%28GOA+HH+-+2002%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Illarion Ten",
           "picture": "https://www.xing.com/image/0_a_8_f1038474f_15816700_2/illarion-ten-foto.256x256.jpg",
           "memberSince_Hits": "24. Januar 2011 / 527",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "ADAM Intellectual Property",
@@ -2388,12 +2516,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "American University in Central Asia",
           "url": "https://www.xing.com/search/members?keywords=American+University+in+Central+Asia",
@@ -2403,14 +2533,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Cristina Gavrila",
           "picture": "https://www.xing.com/image/6_4_0_80292cc9f_6969557_2/cristina-gavrila-foto.256x256.jpg",
           "memberSince_Hits": "23. Januar 2007 / 1230",
           "currJobDescr": "legal advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "legal advisor",
               "company": "Raiffeisen Bank",
@@ -2428,7 +2560,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2442,7 +2575,8 @@
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Law University, Phd",
           "url": "https://www.xing.com/search/members?keywords=Law+University%2C+Phd"
@@ -2450,14 +2584,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Martin KAROLYI",
           "picture": "https://www.xing.com/image/f_7_d_661826d99_19910646_1/martin-karolyi-foto.256x256.jpg",
           "memberSince_Hits": "3. Dezember 2013 / 627",
           "currJobDescr": "Senior Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Legal Advisor",
               "company": "Kapsch TrafficCom AG",
@@ -2467,21 +2603,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Thays Mancini de Almeida",
           "picture": "https://www.xing.com/image/5_d_0_917782b4d_19068086_1/thays-mancini-de-almeida-foto.256x256.jpg",
           "memberSince_Hits": "30. April 2013 / 788",
           "currJobDescr": "Legal Advisor - Global Contract Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor - Global Contract Management",
               "company": "Lufthansa AirPlus Servicekarten GmbH",
@@ -2541,7 +2680,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2563,7 +2703,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ibmec Business School",
           "url": "https://www.xing.com/search/members?keywords=Ibmec+Business+School",
@@ -2580,14 +2721,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Master+Transition+Management+JLU+Gie%C3%9Fen+%28Germany%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Dennis Buhl",
           "picture": "https://www.xing.com/image/a_2_3_5e1d0663e_20691838_2/dennis-buhl-foto.256x256.jpg",
           "memberSince_Hits": "23. Juni 2014 / 1151",
           "currJobDescr": "Konzernjurist / Group Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Konzernjurist / Group Legal Advisor",
               "company": "Anvis Deutschland GmbH",
@@ -2654,7 +2797,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2672,7 +2816,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
           "url": "https://www.xing.com/search/members?keywords=Johann+Wolfgang+Goethe-Universit%C3%A4t+Frankfurt+am+Main",
@@ -2684,14 +2829,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Wissensmanagement+in+juristischen+Bibliotheken"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "f",
           "name": "Linda Kribitz",
           "picture": "https://www.xing.com/image/4_7_a_fd3b07286_20479862_2/linda-kribitz-foto.256x256.jpg",
           "memberSince_Hits": "25. April 2014 / 641",
           "currJobDescr": "Teamlead Operations and Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Teamlead Operations and Legal Advisor",
               "company": "flightright GmbH",
@@ -2744,7 +2891,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2762,7 +2910,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università La Sapienza, Rom",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+La+Sapienza%2C+Rom",
@@ -2780,14 +2929,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=ECDL-Computerf%C3%BChrerschein"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Michael Hoffmann",
           "picture": "https://www.xing.com/image/6_4_3_1da2f8953_18937744_2/michael-hoffmann-foto.256x256.jpg",
           "memberSince_Hits": "25. März 2013 / 3651",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "cleverbridge",
@@ -2833,7 +2984,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2851,7 +3003,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "OLG Koblenz",
           "url": "https://www.xing.com/search/members?keywords=OLG+Koblenz",
@@ -2875,14 +3028,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fachspezifische+Fremdsprachenausbildung%3A+Anglo-Amerikanisches+Recht"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex": "m",
           "name": "Hitjevi Obafemi Tjiroze",
           "picture": "https://www.xing.com/image/9_b_d_9d58afa8c_13368437_3/hitjevi-obafemi-tjiroze-foto.256x256.jpg",
           "memberSince_Hits": "28. Oktober 2009 / 897",
           "currJobDescr": "Legal Advisor",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Legal Advisor",
               "company": "Sanlam Namibia Holdings Ltd",
@@ -2900,12 +3055,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Namibia",
           "url": "https://www.xing.com/search/members?keywords=University+of+Namibia",

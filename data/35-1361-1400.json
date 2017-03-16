@@ -1,16 +1,19 @@
 {
   "category": "Safety Manager",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jörg Schacht",
           "picture": "https://www.xing.com/image/9_b_c_0d559dce2_393536_7/j%C3%B6rg-schacht-foto.256x256.jpg",
           "memberSince_Hits": "26. Juli 2004 / 11185",
           "currJobDescr": "Geschäftsführer, Trainer, Moderator, Berater, Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Geschäftsführer, Trainer, Moderator, Berater, Functional Safety Manager",
               "company": "i-Q Schacht & Kollegen Qualitätskonstruktion GmbH (vorher 16 Jahre GbR)",
@@ -140,7 +143,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -153,7 +157,8 @@
           "lang": "KLARTEXT ist wie eine Muttersprache bei mir"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "RWTH Aachen, FH Jülich, FernUni Hagen",
           "url": "https://www.xing.com/search/members?keywords=RWTH+Aachen%2C+FH+J%C3%BClich%2C+FernUni+Hagen",
@@ -163,7 +168,8 @@
       ],
       "qualifications": "AFSE - Automotive Functional Safety Expert (Audit am 08.01.2015)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=AFSE+-+Automotive+Functional+Safety+Expert+%28Audit+am+08.01.2015%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "AFSE - Automotive Functional Safety EXPERT (Zertifikats-Nummer: 00031)",
           "award_date": "www.sgs-tuev-saar.com/de/afse-liste.html"
@@ -179,14 +185,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nils Echterling",
           "picture": "https://www.xing.com/image/f_7_3_349c9cbe5_17365014_7/nils-echterling-foto.256x256.jpg",
           "memberSince_Hits": "16. Februar 2012 / 1972",
           "currJobDescr": "Safety Manager und stellv. Beauftragter Systemsicherheit",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Safety Manager und stellv. Beauftragter Systemsicherheit",
               "company": "ThyssenKrupp AG",
@@ -232,7 +240,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -246,7 +255,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -264,14 +274,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Functional+Safety+Certified+Engineer+Development+%28T%C3%9CV+Nord+A031_0603%2F15%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "KUMAR BATTU",
           "picture": "https://www.xing.com/image/a_b_1_ac102b545_18488614_3/kumar-battu-foto.256x256.jpg",
           "memberSince_Hits": "19. November 2012 / 494",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Hella KGaA Hueck & Co.",
@@ -310,12 +322,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Anna University, Chennai",
           "url": "https://www.xing.com/search/members?keywords=Anna+University%2C+Chennai",
@@ -331,14 +345,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas HILL",
           "picture": "https://www.xing.com/image/5_b_c_62ead8544_11286586_2/thomas-hill-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2008 / 8502",
           "currJobDescr": "Safety Manager, Funktionale Sicherheit, FuSi, FSM",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Safety Manager, Funktionale Sicherheit, FuSi, FSM",
               "company": "Freiberuflicher Experte für Funktionale Sicherheit (Functional Safety)",
@@ -391,7 +407,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -405,7 +422,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität München",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+M%C3%BCnchen",
@@ -417,14 +435,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=28+Jahre+Gesamt-Erfahrung+in+Automotive-Branche+%28Hersteller+%2B+Zulieferer%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Kürsat Keskin",
           "picture": "https://www.xing.com/image/f_d_0_71cf08f54_14378085_5/k%C3%BCrsat-keskin-foto.256x256.jpg",
           "memberSince_Hits": "28. April 2010 / 1757",
           "currJobDescr": "Safety Manager, \"Trainer\" - Aviation-",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Safety Manager, \"Trainer\" - Aviation-",
               "company": "Faulhaber-Remke Aviation & Training",
@@ -463,7 +483,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -481,14 +502,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Emergency+Action+Plan+%28+EAP%29%2C+%28LOSA%29%2C+%28SAFA%29+%28SANA%29+Trainings"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Victoria Naidenova",
           "picture": "https://www.xing.com/image/8_a_3_4f7c050a3_3252045_1/victoria-naidenova-foto.256x256.jpg",
           "memberSince_Hits": "19. Dezember 2004 / 7687",
           "currJobDescr": "Functional Safety Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Management",
               "company": "ThyssenKrupp Elevator Innovation GmbH",
@@ -596,7 +619,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -607,7 +631,8 @@
           "lang": "Russisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Staatliche Technische Universität (St. Petersburg)",
           "url": "https://www.xing.com/search/members?keywords=Staatliche+Technische+Universit%C3%A4t++%28St.+Petersburg%29",
@@ -618,14 +643,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=-%09Projektfachfrau+mySAP+SCM++%28Solution+Consultant+mySAP+SCM+%E2%80%93+Order+Fulfillment%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Romana Guedes",
           "picture": "https://www.xing.com/image/4_6_3_b806424f9_20468292_3/romana-guedes-foto.256x256.jpg",
           "memberSince_Hits": "22. April 2014 / 934",
           "currJobDescr": "Manager Group Quality and Food Safety Management Systems",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Manager Group Quality and Food Safety Management Systems",
               "company": "Döhler GmbH",
@@ -657,7 +684,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -679,7 +707,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "SGS Portugal, SA",
           "url": "https://www.xing.com/search/members?keywords=SGS+Portugal%2C+SA",
@@ -697,14 +726,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Project+management+%E2%80%9CGestion+de+projet%E2%80%9D"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Martin Schumacher",
           "picture": "https://www.xing.com/image/c_0_8_5736fcf89_8728453_4/martin-schumacher-foto.256x256.jpg",
           "memberSince_Hits": "23. Januar 2008 / 5239",
           "currJobDescr": "Functional Safety Management / ISO 26262 ( IEC 61508)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Management / ISO 26262 ( IEC 61508)",
               "company": "Hella KGaA Hueck & Co",
@@ -738,7 +769,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -752,7 +784,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität GH Paderborn Abt. Soest",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+GH+Paderborn+Abt.+Soest",
@@ -761,7 +794,8 @@
       ],
       "qualifications": "Functional Safety Engineer Hardware/ Software Design by TÜV Rheinland ID 984/07",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Functional+Safety+Engineer+Hardware%2F+Software+Design+by+T%C3%9CV+Rheinland+ID+984%2F07",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "certified Functional Safety Engineer HW/SW Design",
           "award_date": "2007"
@@ -769,14 +803,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Norman Rose",
           "picture": "https://www.xing.com/img/users/d/c/a/5f8bf9d39.9039057,2.256x256.jpg",
           "memberSince_Hits": "25. März 2008 / 712",
           "currJobDescr": "Pilot GLEX & Flight Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Pilot GLEX & Flight Safety Manager",
               "company": "Hyperion Aviation Ltd",
@@ -801,7 +837,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -811,7 +848,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "CIRRUS Flight Training",
           "url": "https://www.xing.com/search/members?keywords=CIRRUS+Flight+Training",
@@ -823,14 +861,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Flight+Safety+Managament+Course+-+Cranfield+University+%282010%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Faraz Rezavand Zayeri",
           "picture": "https://www.xing.com/image/2_c_1_4f3d31251_23447739_1/faraz-rezavand-zayeri-foto.256x256.jpg",
           "memberSince_Hits": "9. Oktober 2015 / 969",
           "currJobDescr": "Functional Safety Management, Hybrid Electric Vehicle",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Management, Hybrid Electric Vehicle",
               "company": "Continental AG",
@@ -876,7 +916,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -893,7 +934,8 @@
           "lang": "Farsi Muttersprache"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Darmstadt",
@@ -902,14 +944,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Wolfgang Eberle",
           "picture": "https://www.xing.com/image/5_f_1_b992ace22_11100603_4/wolfgang-eberle-foto.256x256.jpg",
           "memberSince_Hits": "26. September 2008 / 2795",
           "currJobDescr": "Safety Manager / EASA Safety- & Compliance Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Safety Manager / EASA Safety- & Compliance Management",
               "company": "Flughafen Wien AG",
@@ -934,7 +978,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -944,7 +989,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Höhere Techn.LA Eisenstadt",
           "url": "https://www.xing.com/search/members?keywords=H%C3%B6here+Techn.LA+Eisenstadt",
@@ -955,14 +1001,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Praxis+-+Safety+Management+System"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Valentin Fedl",
           "picture": "https://www.xing.com/img/users/7/b/2/9d3ae059f.22569351,1.256x256.jpg",
           "memberSince_Hits": "25. Mai 2015 / 201",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "EFS GmbH",
@@ -980,7 +1028,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -990,7 +1039,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Siegen (Max-Planck Insitut für extraterrestrische Physik)",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Siegen+%28Max-Planck+Insitut+f%C3%BCr+extraterrestrische+Physik%29",
@@ -1006,7 +1056,8 @@
       ],
       "qualifications": "Functional Safety Engineer (TÜV Zertifikat)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Functional+Safety+Engineer+%28T%C3%9CV+Zertifikat%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Physikpreis der Deutschen Physikalischen Gesellschaft",
           "award_date": "2002"
@@ -1014,14 +1065,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Richard Krüger",
           "picture": "https://www.xing.com/image/1_8_5_51e81fda4_7013940_1/richard-kr%C3%BCger-foto.256x256.jpg",
           "memberSince_Hits": "2. Februar 2007 / 5465",
           "currJobDescr": "Functional Safety Manager and Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager and Engineer",
               "company": "BMW AG",
@@ -1053,7 +1106,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1061,7 +1115,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Nürnberg",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+N%C3%BCrnberg",
@@ -1072,14 +1127,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Dipl.+Ing.+%28FH%29+Elektrotechnik+Mikroelektronik"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dominik Koch",
           "picture": "https://www.xing.com/image/2_5_4_2018a5dad_8874769_6/dominik-koch-foto.256x256.jpg",
           "memberSince_Hits": "21. Februar 2008 / 5717",
           "currJobDescr": "Pilot - Simulator Instructor A320 und A310/300, Safety Management Officer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Pilot - Simulator Instructor A320 und A310/300, Safety Management Officer",
               "company": "Germanwings GmbH",
@@ -1116,7 +1173,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1126,7 +1184,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Lufthansa Flight Training",
           "url": "https://www.xing.com/search/members?keywords=Lufthansa+Flight+Training",
@@ -1144,14 +1203,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SFI+A320+und+A310%2F300%2C+t%C3%A4tig+f%C3%BCr+Lufthansa+Flight+Training"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sebastian Furgo",
           "picture": "https://www.xing.com/image/8_5_0_ce16a139b_7533986_3/sebastian-furgo-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2007 / 802",
           "currJobDescr": "Health and Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Health and Safety Manager",
               "company": "PIMA Health & Safety GmbH",
@@ -1183,7 +1244,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1192,7 +1254,8 @@
           "lang": "Polnisch als Muttersprache"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Wiesbaden",
           "url": "https://www.xing.com/search/members?keywords=FH+Wiesbaden",
@@ -1202,7 +1265,8 @@
       ],
       "qualifications": "Erstellung von Feuerwehrplänen",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Erstellung+von++Feuerwehrpl%C3%A4nen",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Erstellung von Flucht-und Rettungswegeplänen",
           "award_date": "2011"
@@ -1210,14 +1274,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Wolfgang Stark",
           "picture": "https://www.xing.com/image/b_c_2_736b36192_26258578_1/wolfgang-stark-foto.256x256.jpg",
           "memberSince_Hits": "2. November 2016 / 162",
           "currJobDescr": "Dozent, Berater, Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Dozent, Berater, Safety Manager",
               "company": "Wolfgang Stark basisarbeit",
@@ -1319,7 +1385,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1329,7 +1396,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig-Maximilians-Universität München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig-Maximilians-Universit%C3%A4t+M%C3%BCnchen",
@@ -1345,14 +1413,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Funktionale+Sicherheit"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Artur Stala",
           "picture": "https://www.xing.com/image/e_d_8_f63291095_23791994_1/artur-stala-foto.256x256.jpg",
           "memberSince_Hits": "25. November 2015 / 187",
           "currJobDescr": "Country Health and Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Country Health and Safety Manager",
               "company": "ISG Deutschland GmbH",
@@ -1433,7 +1503,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1451,7 +1522,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Higher Technical Institute Kempens Bekken, Genk, Belgium",
           "url": "https://www.xing.com/search/members?keywords=Higher+Technical+Institute+Kempens+Bekken%2C+Genk%2C+Belgium",
@@ -1461,7 +1533,8 @@
       ],
       "qualifications": "ISO 14001 Environmental Management",
       "qualifications_url": "https://www.xing.com/search/members?keywords=ISO+14001+Environmental+Management",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Good Practice Solutions for Improving H&S in Construction Industry"
         },
@@ -1474,14 +1547,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Martin Acevedo",
           "picture": "https://www.xing.com/image/6_c_6_765317c50_7496179_3/martin-acevedo-foto.256x256.jpg",
           "memberSince_Hits": "14. Juni 2007 / 7293",
           "currJobDescr": "Project Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Project Safety Manager",
               "company": "Robert Bosch Battery Systems GmbH",
@@ -1534,7 +1609,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1548,7 +1624,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Applied Sciences (Hochschule) Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=University+of+Applied+Sciences+%28Hochschule%29+Darmstadt",
@@ -1572,14 +1649,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Professional+for+Requirements+Engineering"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Sven Engler",
           "picture": "https://www.xing.com/image/4_4_6_643761931_10912103_6/sven-engler-foto.256x256.jpg",
           "memberSince_Hits": "25. August 2008 / 3022",
           "currJobDescr": "System Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "System Safety Manager",
               "company": "Rheinmetall Landsysteme GmbH",
@@ -1617,7 +1696,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -1632,14 +1712,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Business+English+Certificate+BC2"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Mirjana Peitler",
           "picture": "https://www.xing.com/image/b_7_a_e911c0be7_17294321_2/mirjana-peitler-foto.256x256.jpg",
           "memberSince_Hits": "30. Januar 2012 / 1282",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Magna Steyr",
@@ -1685,7 +1767,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1702,7 +1785,8 @@
           "lang": "Serbokroatisch Muttersprache"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karl Franzens Universität",
           "url": "https://www.xing.com/search/members?keywords=Karl+Franzens+Universit%C3%A4t",
@@ -1720,14 +1804,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Wissensmanagement+3-Monatiges+Universit%C3%A4tskurs"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Dr. Marzena Maka",
           "picture": "https://www.xing.com/image/8_e_b_ade1a7205_13183969_3/marzena-maka-foto.256x256.jpg",
           "memberSince_Hits": "25. September 2009 / 2289",
           "currJobDescr": "Drug Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Drug Safety Manager",
               "company": "Merck Serono, Merck KGaA, Global Drug Safety",
@@ -1773,7 +1859,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1791,7 +1878,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Medical Faculty, University of Erlangen – Nuremberg, Germany",
           "url": "https://www.xing.com/search/members?keywords=Medical+Faculty%2C+University+of+Erlangen+%E2%80%93+Nuremberg%2C+Germany",
@@ -1807,14 +1895,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sonja Gauselmann",
           "picture": "https://www.xing.com/image/a_4_6_6def8910f_12337793_4/sonja-gauselmann-foto.256x256.jpg",
           "memberSince_Hits": "21. April 2009 / 2406",
           "currJobDescr": "Expertin Safety Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Expertin Safety Management",
               "company": "DFS Deutsche Flugsicherung GmbH",
@@ -1874,7 +1964,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1892,7 +1983,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Berlin",
           "url": "https://www.xing.com/search/members?keywords=TU+Berlin",
@@ -1908,7 +2000,8 @@
       ],
       "qualifications": "Erfahrung mit der Durchführung von Sicherheitsbewertungen",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Erfahrung+mit+der+Durchf%C3%BChrung+von+Sicherheitsbewertungen",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Deutsche Physikalische Gesellschaft",
           "award_date": "2005"
@@ -1916,14 +2009,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Kurt Tschabuschnig",
           "picture": "https://www.xing.com/image/c_7_9_42da9af2e_10087445_5/kurt-tschabuschnig-foto.256x256.jpg",
           "memberSince_Hits": "5. Mai 2008 / 2075",
           "currJobDescr": "Development & Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Development & Functional Safety Manager",
               "company": "MAGNA STEYR Engineering AG & Co KG",
@@ -1962,7 +2057,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1972,7 +2068,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FH Campus02",
           "url": "https://www.xing.com/search/members?keywords=FH+Campus02",
@@ -1983,14 +2080,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=HTL+Klagenfurt+f.+Nachrichtentechnik+und+elektron.+Datenverarbung"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Francisco Javier Belmonte",
           "picture": "https://www.xing.com/image/7_3_d_cd5026616_16891106_1/francisco-javier-belmonte-foto.256x256.jpg",
           "memberSince_Hits": "15. Oktober 2011 / 581",
           "currJobDescr": "Senior Product Assurance (PA) & Safety Manager (on behalf of)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Product Assurance (PA) & Safety Manager (on behalf of)",
               "company": "Hispasat",
@@ -2029,12 +2128,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad de Valencia",
           "url": "https://www.xing.com/search/members?keywords=Universidad+de+Valencia",
@@ -2050,7 +2151,8 @@
       ],
       "qualifications": "IEEE Grade & ACM Member",
       "qualifications_url": "https://www.xing.com/search/members?keywords=IEEE+Grade+%26+ACM+Member",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Alcatel Cenit Award",
           "award_date": "1990"
@@ -2058,14 +2160,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Stefan Siedenstein",
           "picture": "https://www.xing.com/img/users/5/6/7/2714f03eb.12542901,6.256x256.jpg",
           "memberSince_Hits": "3. Juni 2009 / 673",
           "currJobDescr": "Head of Lido Quality Management, Safety Manager Lido/Flight",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Head of Lido Quality Management, Safety Manager Lido/Flight",
               "company": "Lufthansa Systems",
@@ -2125,7 +2229,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2139,14 +2244,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Wege+zu+umfassendem+Qualit%C3%A4tsmanagement+TQM+%28DGQ+2012%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Emrah Eminoglu",
           "picture": "https://www.xing.com/image/5_2_6_9fca71be1_24210520_1/emrah-eminoglu-foto.256x256.jpg",
           "memberSince_Hits": "28. Januar 2016 / 171",
           "currJobDescr": "Global Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Safety Manager",
               "company": "Magna Powertrain",
@@ -2185,7 +2292,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2203,7 +2311,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Eindhoven",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Eindhoven",
@@ -2225,7 +2334,8 @@
       ],
       "qualifications": "Proaktives Verhalten und die Eigeninitiative",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Proaktives+Verhalten+und+die+Eigeninitiative",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "ASML Talent-Stipendium für Master-Studien an der TU/Eindhoven für zwei Jahre",
           "award_date": "2011"
@@ -2241,14 +2351,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andreas Castor",
           "picture": "https://www.xing.com/image/a_9_9_fc0af392d_8641134_3/andreas-castor-foto.256x256.jpg",
           "memberSince_Hits": "7. Januar 2008 / 4273",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Continental Teves AG & Co. oHG",
@@ -2322,7 +2434,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2332,7 +2445,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Fachhochschule Rheinland-Pfalz, Bingen",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Rheinland-Pfalz%2C+Bingen",
@@ -2342,7 +2456,8 @@
       ],
       "qualifications": "Total Quality Management Fachkraft (TQU) - 2007",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Total+Quality+Management+Fachkraft++%28TQU%29+-+2007",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Success-Preis der Investitions- & Strukturbank Rheinland-Pfalz",
           "award_date": "www.isb.rlp.de/foerdernews.html?id=938&lang=de"
@@ -2350,14 +2465,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Jan Martens",
           "picture": "https://www.xing.com/image/2_3_8_a53597176_24735991_2/jan-martens-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2016 / 248",
           "currJobDescr": "Environment, Health & Safety Manager, Europe & Asia",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Environment, Health & Safety Manager, Europe & Asia",
               "company": "Koch Chemical Technology Group",
@@ -2424,7 +2541,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2448,7 +2566,8 @@
           "lang": "Lateinisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Eindhoven (NL)",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Eindhoven+%28NL%29",
@@ -2464,7 +2583,8 @@
       ],
       "qualifications": "Safety for Operational Supervisors",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Safety+for+Operational+Supervisors",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Auszeichnung der Abschlussarbeit, Koninklijk Instituut van Ingenieurs",
           "award_date": "1983"
@@ -2472,14 +2592,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dirk Rohleder",
           "picture": "https://www.xing.com/image/8_8_c_57d26403a_14924579_4/dirk-rohleder-foto.256x256.jpg",
           "memberSince_Hits": "5. August 2010 / 2526",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Robert Bosch Automotive Steering GmbH, Schwäbisch Gmünd",
@@ -2497,7 +2619,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2507,7 +2630,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Siegen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Siegen",
@@ -2517,14 +2641,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Roland Hauser",
           "picture": "https://www.xing.com/image/f_d_5_efa388c40_4492820_3/roland-hauser-foto.256x256.jpg",
           "memberSince_Hits": "3. Januar 2006 / 5292",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Toshiba Electronics Europe GmbH",
@@ -2597,7 +2723,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2611,7 +2738,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Sussex University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Sussex+University+of+Technology",
@@ -2629,14 +2757,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Value+Management+I+und+Value+Management+II+nach+EN12973+%28VDI%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tibor András Keglovics",
           "picture": "https://www.xing.com/image/2_d_b_32a765006_19858663_2/tibor-andr%C3%A1s-keglovics-foto.256x256.jpg",
           "memberSince_Hits": "19. November 2013 / 803",
           "currJobDescr": "Lean / Environment Health & Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Lean / Environment Health & Safety Manager",
               "company": "Barberini GmbH",
@@ -2675,7 +2805,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2689,7 +2820,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Pannonia",
           "url": "https://www.xing.com/search/members?keywords=University+of+Pannonia",
@@ -2701,14 +2833,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Industrial+Ergonomics"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dirk Loreth",
           "picture": "https://www.xing.com/image/f_9_9_f36b879a9_8457253_3/dirk-loreth-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2007 / 3577",
           "currJobDescr": "Deputy COO & Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Deputy COO & Safety Manager",
               "company": "FAI rent-a-jet AG",
@@ -2747,7 +2881,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2759,14 +2894,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Claudia Lütkemeier",
           "picture": "https://www.xing.com/image/c_1_e_3a8aad7d8_19448742_1/claudia-l%C3%BCtkemeier-foto.256x256.jpg",
           "memberSince_Hits": "6. August 2013 / 1109",
           "currJobDescr": "Drug Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Drug Safety Manager",
               "company": "MEDA Pharma",
@@ -2791,7 +2928,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2799,7 +2937,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Johann Wolfgang Goethe-Universität",
           "url": "https://www.xing.com/search/members?keywords=Johann+Wolfgang+Goethe-Universit%C3%A4t",
@@ -2809,14 +2948,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Andreas Abele",
           "picture": "https://www.xing.com/image/1_7_1_ec37f8098_18639196_1/andreas-abele-foto.256x256.jpg",
           "memberSince_Hits": "7. Januar 2013 / 2465",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Robert Bosch GmbH",
@@ -2848,12 +2989,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Karlsruhe",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Karlsruhe",
@@ -2880,14 +3023,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Daniel Klerch",
           "picture": "https://www.xing.com/image/2_f_a_e806d2425_17334404_1/daniel-klerch-foto.256x256.jpg",
           "memberSince_Hits": "1. Februar 2012 / 1136",
           "currJobDescr": "Health & Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Health & Safety Manager",
               "company": "Mayr-Melnhof Karton Gernsbach",
@@ -2933,7 +3078,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2947,14 +3093,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Senior-Expert+f%C3%BCr+H%C3%B6henarbeitspl%C3%A4tze"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Paresh Yeole",
           "picture": "https://www.xing.com/image/f_6_b_89ea02388_18848171_2/paresh-yeole-foto.256x256.jpg",
           "memberSince_Hits": "2. März 2013 / 1609",
           "currJobDescr": "Functional Safety Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Functional Safety Manager",
               "company": "Hella KGaA & Hueck Co",
@@ -2986,7 +3134,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2998,7 +3147,8 @@
       ],
       "qualifications": "Sep 07 – Dec 07 : Initial Learning Program, Tata Consultancy Services",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Sep+07+%E2%80%93+Dec+07%09%3A+Initial+Learning+Program%2C+Tata+Consultancy+Services",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Best Software Project",
           "award_date": "cumminscollege.org/"
@@ -3006,14 +3156,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marcus Weidauer",
           "picture": "https://www.xing.com/image/c_8_d_ebf65c2cc_20412551_10/marcus-weidauer-foto.256x256.jpg",
           "memberSince_Hits": "7. April 2014 / 1036",
           "currJobDescr": "Health & Safety Manager ARYZTA Bakeries Germany",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Health & Safety Manager ARYZTA Bakeries Germany",
               "company": "ARYZTA Food Europe AG",
@@ -3037,21 +3189,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Klaudius Föger",
           "picture": "https://www.xing.com/img/users/b/2/b/af6231491.6138464,2.256x256.jpg",
           "memberSince_Hits": "30. Juni 2006 / 509",
           "currJobDescr": "Safety Management",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Safety Management",
               "company": "Thales Austria GmbH",
@@ -3074,7 +3229,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3082,7 +3238,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TU Wien",
           "url": "https://www.xing.com/search/members?keywords=TU+Wien",
@@ -3091,14 +3248,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Werner Feldewerth",
           "picture": "https://www.xing.com/image/1_c_4_c88aecac8_21829725_1/werner-feldewerth-foto.256x256.jpg",
           "memberSince_Hits": "1. Februar 2015 / 501",
           "currJobDescr": "Leiter Health & Safety Management, Gas and Process Division",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Leiter Health & Safety Management, Gas and Process Division",
               "company": "Atlas Copco Energas GmbH, Köln",
@@ -3161,7 +3320,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -3170,7 +3330,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BG Arbeitssicherheitsseminare",
           "url": "https://www.xing.com/search/members?keywords=BG+Arbeitssicherheitsseminare",

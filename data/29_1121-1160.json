@@ -1,16 +1,19 @@
 {
   "category": "Data Analyst",
   "dominantSexXing": "m",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Manfred Ritz",
           "picture": "https://www.xing.com/image/c_8_b_721829096_11422257_9/manfred-ritz-foto.256x256.jpg",
           "memberSince_Hits": "15. November 2008 / 4488",
           "currJobDescr": "Manager BI/Business Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Manager BI/Business Data Analyst",
               "company": "Hubert Burda Media - BurdaDirect - Burda Ciscom GmbH - Customer Solutions",
@@ -98,7 +101,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -112,7 +116,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Heidelberg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Heidelberg",
@@ -133,14 +138,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAS-Base-Programming+qualification"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Oliver Rothland",
           "picture": "https://www.xing.com/image/3_d_8_506cb7838_3232981_6/oliver-rothland-foto.256x256.jpg",
           "memberSince_Hits": "1. Dezember 2004 / 5152",
           "currJobDescr": "Senior IT Consultant, Requirements Engineer, Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior IT Consultant, Requirements Engineer, Data Analyst",
               "company": "rothland GmbH",
@@ -243,7 +250,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -253,7 +261,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Gesamthochschule Paderborn",
           "url": "https://www.xing.com/search/members?keywords=Gesamthochschule+Paderborn",
@@ -264,14 +273,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certified+Train+the+Trainer%2C+Competence+on+Top"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Nishant Pushkar",
           "picture": "https://www.xing.com/image/9_9_4_023e20e35_18067857_2/nishant-pushkar-foto.256x256.jpg",
           "memberSince_Hits": "23. Juli 2012 / 486",
           "currJobDescr": "Data Analyst / Senior Software Engineer",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst / Senior Software Engineer",
               "company": "Yash Technologies",
@@ -310,7 +321,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -320,7 +332,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "International School of Business and Media",
           "url": "https://www.xing.com/search/members?keywords=International+School+of+Business+and+Media",
@@ -338,14 +351,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP+Certified+PP+%28Production+Planning%29+Consultant+%28ERP+6.0%29++License+No+-+000964"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Zachary Dimitrov",
           "picture": "https://www.xing.com/image/1_0_3_d1316ed32_7040507_1/zachary-dimitrov-foto.256x256.jpg",
           "memberSince_Hits": "8. Februar 2007 / 2513",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Barclays Bank",
@@ -395,7 +410,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -406,7 +422,8 @@
           "lang": "Macedonian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Library Studies and Information Technologies",
           "url": "https://www.xing.com/search/members?keywords=University+of+Library+Studies+and+Information+Technologies",
@@ -436,14 +453,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=2016+Analyzing+and+Visualizing+Data+with+Power+BI"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mustapha El Andaloussi",
           "picture": "https://www.xing.com/image/4_5_7_c93ca88c8_20349783_1/mustapha-el-andaloussi-foto.256x256.jpg",
           "memberSince_Hits": "23. März 2014 / 1144",
           "currJobDescr": "Data Analyst - Monetization and Payment",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst - Monetization and Payment",
               "company": "Altigi GmbH / Goodgame Studios",
@@ -468,7 +487,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -490,7 +510,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technical University of Dortmund",
           "url": "https://www.xing.com/search/members?keywords=Technical+University+of+Dortmund",
@@ -504,7 +525,8 @@
       ],
       "qualifications": "Relationale Datenbanken und SQL für Statistiker",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Relationale+Datenbanken+und+SQL+f%C3%BCr+Statistiker",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Data Mining Cup, Platz 2, TU-Dortmund-Team 2",
           "award_date": "www.data-mining-cup.de"
@@ -512,14 +534,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Frank Gerno",
           "picture": "https://www.xing.com/image/b_0_2_5fa50f66f_26164312_1/frank-gerno-foto.256x256.jpg",
           "memberSince_Hits": "21. Oktober 2016 / 68",
           "currJobDescr": "Big Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Big Data Analyst",
               "company": "MACH Software Solutions GmbH",
@@ -553,14 +577,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Marco Flatt",
           "picture": "https://www.xing.com/image/4_4_c_2c5aa16e2_8790466_4/marco-flatt-foto.256x256.jpg",
           "memberSince_Hits": "4. Februar 2008 / 2886",
           "currJobDescr": "Data Analyst Fraud Prevention & Credit Risk",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst Fraud Prevention & Credit Risk",
               "company": "BonusCard.ch AG",
@@ -613,7 +639,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -627,7 +654,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule für Technik Zürich",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik+Z%C3%BCrich",
@@ -639,14 +667,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Avaloq+Certified+Professional"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tom Brunner",
           "picture": "https://www.xing.com/image/b_a_3_9deee8836_11023819_4/tom-brunner-foto.256x256.jpg",
           "memberSince_Hits": "14. September 2008 / 5664",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Continental Teves AG & Co. oHG",
@@ -664,7 +694,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -678,7 +709,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "TH Mittelhessen / Technical College Mittelhessen",
           "url": "https://www.xing.com/search/members?keywords=TH+Mittelhessen+%2F+Technical+College+Mittelhessen",
@@ -696,14 +728,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SAP%2FR3-Module%3A+MM%2C+PP%2C+FI+und+CO"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Mathias Fogel",
           "picture": "https://www.xing.com/image/4_1_7_404efba84_15317181_6/mathias-fogel-foto.256x256.jpg",
           "memberSince_Hits": "5. Oktober 2010 / 2115",
           "currJobDescr": "Data Analyst/ Datenanalyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst/ Datenanalyst",
               "company": "Freelancer/ Freiberufler: M.Fogel Data Analysis",
@@ -742,7 +776,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -756,7 +791,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Boğaziçi Üniversitesi, Istanbul",
           "url": "https://www.xing.com/search/members?keywords=Bo%C4%9Fazi%C3%A7i+%C3%9Cniversitesi%2C+Istanbul",
@@ -778,14 +814,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Michael Kind",
           "picture": "https://www.xing.com/image/c_6_7_6398a42f6_12654462_11/michael-kind-foto.256x256.jpg",
           "memberSince_Hits": "22. Juni 2009 / 3715",
           "currJobDescr": "Senior Data Analyst/Consultant",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Data Analyst/Consultant",
               "company": "Kienbaum",
@@ -845,7 +883,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -859,7 +898,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ruhr-Graduate School in Economics",
           "url": "https://www.xing.com/search/members?keywords=Ruhr-Graduate+School+in+Economics",
@@ -875,7 +915,8 @@
       ],
       "qualifications": "abgeschlossene Promotion (summa cum laude)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=abgeschlossene+Promotion+%28summa+cum+laude%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Stipendium der RUB Research School",
           "award_date": "2011"
@@ -891,14 +932,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Christian Baukat",
           "picture": "https://www.xing.com/image/3_4_8_3e35c6afe_14803195_1/christian-baukat-foto.256x256.jpg",
           "memberSince_Hits": "12. Juli 2010 / 1797",
           "currJobDescr": "Process Improvement Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Process Improvement Data Analyst",
               "company": "Amazon",
@@ -944,7 +987,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -954,7 +998,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Europa Universität Viadrina",
           "url": "https://www.xing.com/search/members?keywords=Europa+Universit%C3%A4t+Viadrina",
@@ -963,14 +1008,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Yan Reichel",
           "picture": "https://www.xing.com/image/3_4_9_53844aa66_13196173_4/yan-reichel-foto.256x256.jpg",
           "memberSince_Hits": "28. September 2009 / 1675",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "McCann Worldgroup Deutschland",
@@ -1058,7 +1105,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1075,7 +1123,8 @@
           "lang": "Ukrainisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Duisburg-Essen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Duisburg-Essen",
@@ -1093,14 +1142,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Softwarekenntnisse%3A+Microsoft+Office%2C+STATA%2C+SPSS%2C+LaTeX%2C+SAS%2C+Matlab"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Rufo Severino",
           "picture": "https://www.xing.com/image/8_c_4_ae5e9b966_18970203_6/rufo-severino-foto.256x256.jpg",
           "memberSince_Hits": "4. April 2013 / 634",
           "currJobDescr": "Senior data analyst / Technical Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior data analyst / Technical Specialist",
               "company": "Deloitte",
@@ -1139,7 +1190,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Portugiesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1157,7 +1209,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Instituto Superior Gestão Bancária",
           "url": "https://www.xing.com/search/members?keywords=Instituto+Superior+Gest%C3%A3o+Banc%C3%A1ria",
@@ -1181,14 +1234,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=SPSS"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Giedre Aleknonyte",
           "picture": "https://www.xing.com/image/1_2_b_9696513da_13253292_6/giedre-aleknonyte-foto.256x256.jpg",
           "memberSince_Hits": "8. Oktober 2009 / 2146",
           "currJobDescr": "Global Data Analyst - EMEA",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Data Analyst - EMEA",
               "company": "Quickcomm, Inc",
@@ -1248,7 +1303,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1261,7 +1317,8 @@
           "lang": "Lithuanian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "FernUniversität in Hagen",
           "url": "https://www.xing.com/search/members?keywords=FernUniversit%C3%A4t+in+Hagen",
@@ -1279,14 +1336,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Tableau+Certified+Consultant"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Hanspeter Helfer",
           "picture": "https://www.xing.com/image/1_4_d_0d011b094_10198583_2/hanspeter-helfer-foto.256x256.jpg",
           "memberSince_Hits": "27. Mai 2008 / 1399",
           "currJobDescr": "Senior Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Data Analyst",
               "company": "BonusCard.ch AG",
@@ -1318,7 +1377,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1332,7 +1392,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Basel",
           "url": "https://www.xing.com/search/members?keywords=University+of+Basel",
@@ -1343,14 +1404,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Diploma+%28Master%29+in+Molecular+Biology%2C+2002"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Claudia Kaufmann",
           "picture": "https://www.xing.com/image/c_9_8_420010de4_17742207_2/claudia-kaufmann-foto.256x256.jpg",
           "memberSince_Hits": "17. Januar 2012 / 1322",
           "currJobDescr": "Business System Administrator & Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Business System Administrator & Data Analyst",
               "company": "Vetrotech Saint-Gobain (International) AG",
@@ -1389,7 +1452,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1407,7 +1471,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "IFA Bern",
           "url": "https://www.xing.com/search/members?keywords=IFA+Bern",
@@ -1423,14 +1488,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Lukas Gärtner",
           "picture": "https://www.xing.com/image/6_e_e_af15286fd_14538672_4/lukas-g%C3%A4rtner-foto.256x256.jpg",
           "memberSince_Hits": "26. Mai 2010 / 1934",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Energie Steiermark",
@@ -1462,7 +1529,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1476,7 +1544,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "WU Wien",
           "url": "https://www.xing.com/search/members?keywords=WU+Wien",
@@ -1485,14 +1554,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Pascal Wilhelm",
           "picture": "https://www.xing.com/image/e_5_2_35d6d057d_25873382_1/pascal-wilhelm-foto.256x256.jpg",
           "memberSince_Hits": "17. September 2016 / 113",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Goodgame Studios",
@@ -1530,7 +1601,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1544,7 +1616,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -1562,14 +1635,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bankkaufmann"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Thomas Schlesinger",
           "picture": "https://www.xing.com/image/b_8_8_465ed11b1_20119351_1/thomas-schlesinger-foto.256x256.jpg",
           "memberSince_Hits": "27. Januar 2014 / 1608",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Mindshare GmbH",
@@ -1608,7 +1683,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1622,7 +1698,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ludwig Maximilians Universität München",
           "url": "https://www.xing.com/search/members?keywords=Ludwig+Maximilians+Universit%C3%A4t+M%C3%BCnchen",
@@ -1640,14 +1717,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Coursera+course%3A+Introduction+to+Data+Science+%282013%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Julian Backof",
           "picture": "https://www.xing.com/image/7_8_c_81e8a2677_16304587_2/julian-backof-foto.256x256.jpg",
           "memberSince_Hits": "20. Mai 2011 / 1614",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Goodgame Studios",
@@ -1686,7 +1765,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1696,7 +1776,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Oulu",
           "url": "https://www.xing.com/search/members?keywords=University+of+Oulu",
@@ -1720,14 +1801,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Master+of+Science+in+General+Management"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Nasiba Zokirova",
           "picture": "https://www.xing.com/image/2_2_9_96ab7b4b9_20845842_2/nasiba-zokirova-foto.256x256.jpg",
           "memberSince_Hits": "29. Juli 2014 / 366",
           "currJobDescr": "Data Analyst(Customer Analytics)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst(Customer Analytics)",
               "company": "Accenture",
@@ -1745,7 +1828,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -1762,7 +1846,8 @@
           "lang": "Ungarisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Jacobs University Bremen",
           "url": "https://www.xing.com/search/members?keywords=Jacobs+University+Bremen",
@@ -1770,7 +1855,8 @@
           "eduDuration": "09/2011 - 06/2014"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Bosch Foundation Scholarship",
           "award_date": "2014"
@@ -1778,14 +1864,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gary Michael Heath",
           "picture": "https://www.xing.com/image/2_5_9_269e35451_14347757_7/gary-michael-heath-foto.256x256.jpg",
           "memberSince_Hits": "23. April 2010 / 1221",
           "currJobDescr": "Data Analyst/Materials Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst/Materials Project Manager",
               "company": "Applied Materials",
@@ -1821,7 +1909,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1831,7 +1920,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of California, Davis",
           "url": "https://www.xing.com/search/members?keywords=University+of+California%2C+Davis",
@@ -1841,14 +1931,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Adrian Gonzalez",
           "picture": "https://www.xing.com/image/3_9_9_8635466da_18456535_1/adrian-gonzalez-foto.256x256.jpg",
           "memberSince_Hits": "9. November 2012 / 1637",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Google Spain",
@@ -1880,7 +1972,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1894,7 +1987,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universidad Politécnica de Madrid",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Polit%C3%A9cnica+de+Madrid",
@@ -1902,7 +1996,8 @@
           "eduDuration": "09/2004 - 02/2010"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Google Platinum & Gold Awards",
           "award_date": "2013"
@@ -1918,14 +2013,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Claudia Schmuck",
           "picture": "https://www.xing.com/image/4_0_3_ec83845d1_25893102_1/claudia-schmuck-foto.256x256.jpg",
           "memberSince_Hits": "19. September 2016 / 74",
           "currJobDescr": "Forensic Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Forensic Data Analyst",
               "company": "PwC",
@@ -1943,7 +2040,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1957,7 +2055,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Leopold-Franzens-Universität Innsbruck",
           "url": "https://www.xing.com/search/members?keywords=Leopold-Franzens-Universit%C3%A4t+Innsbruck",
@@ -1967,14 +2066,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sandra Merkel",
           "picture": "https://www.xing.com/image/6_b_3_96125b326_16512061_2/sandra-merkel-foto.256x256.jpg",
           "memberSince_Hits": "11. Juli 2011 / 2788",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "esanum",
@@ -2027,7 +2128,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2049,7 +2151,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "UDACITY",
           "url": "https://www.xing.com/search/members?keywords=UDACITY",
@@ -2083,7 +2186,8 @@
       ],
       "qualifications": "Business Intelligence Tools",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Business+Intelligence+Tools",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Google AdWords Zertifizierung",
           "award_date": "2014"
@@ -2099,14 +2203,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Malte Ganßauge",
           "picture": "https://www.xing.com/image/a_d_9_ef8c08850_15000664_6/malte-gan%C3%9Fauge-foto.256x256.jpg",
           "memberSince_Hits": "18. August 2010 / 3295",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "plista GmbH",
@@ -2166,7 +2272,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2180,7 +2287,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Carnegie Mellon University",
           "url": "https://www.xing.com/search/members?keywords=Carnegie+Mellon+University",
@@ -2208,7 +2316,8 @@
       ],
       "qualifications": "DELF (A2)",
       "qualifications_url": "https://www.xing.com/search/members?keywords=DELF+%28A2%29",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "KPMG International Case Competition - 1. Platz (national)",
           "award_date": "www.wiwi.uni-muenster.de/iur/internationales/internationale_fallstudienwettbewerbe/kpmg/index.html"
@@ -2236,14 +2345,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Stephan Bernadotte",
           "picture": "https://www.xing.com/image/4_0_c_2268d981c_17896093_1/stephan-bernadotte-foto.256x256.jpg",
           "memberSince_Hits": "1. Juni 2012 / 2085",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "TRUMPF GmbH + Co. KG",
@@ -2261,7 +2372,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2275,7 +2387,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Karlsruher Institut für Technologie",
           "url": "https://www.xing.com/search/members?keywords=Karlsruher+Institut+f%C3%BCr+Technologie",
@@ -2297,14 +2410,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jacopo Prandelli",
           "picture": "https://www.xing.com/image/4_8_6_a0ab08987_20200510_1/jacopo-prandelli-foto.256x256.jpg",
           "memberSince_Hits": "16. Februar 2014 / 477",
           "currJobDescr": "Process Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Process Data Analyst",
               "company": "Process Analytics Factory",
@@ -2364,7 +2479,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2378,7 +2494,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Brescia",
           "url": "https://www.xing.com/search/members?keywords=University+of+Brescia",
@@ -2394,14 +2511,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Peter Tanz",
           "picture": "https://www.xing.com/image/9_a_5_20be75182_17077666_5/peter-tanz-foto.256x256.jpg",
           "memberSince_Hits": "3. Dezember 2011 / 1668",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Hubert Burda Media",
@@ -2440,7 +2559,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2458,7 +2578,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Neu-Ulm",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Neu-Ulm",
@@ -2468,14 +2589,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ibrahim Erdogan",
           "picture": "https://www.xing.com/image/3_4_9_7451e3988_10270358_4/ibrahim-erdogan-foto.256x256.jpg",
           "memberSince_Hits": "13. Juni 2008 / 5236",
           "currJobDescr": "Data Analyst, Reporting, Analytics",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst, Reporting, Analytics",
               "company": "Merck Group",
@@ -2535,7 +2658,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2546,7 +2670,8 @@
           "lang": "Türkisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of New South Wales (UNSW) - Sydney",
           "url": "https://www.xing.com/search/members?keywords=University+of+New+South+Wales+%28UNSW%29+-+Sydney",
@@ -2561,14 +2686,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Matthias Gloel",
           "picture": "https://www.xing.com/image/4_3_9_0acfe0c81_19825218_4/matthias-gloel-foto.256x256.jpg",
           "memberSince_Hits": "11. November 2013 / 856",
           "currJobDescr": "Data Analyst / Business Intelligence Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst / Business Intelligence Manager",
               "company": "D.C. Media Networks GmbH",
@@ -2607,7 +2734,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2633,7 +2761,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Technische Universität Berlin",
           "url": "https://www.xing.com/search/members?keywords=Technische+Universit%C3%A4t+Berlin",
@@ -2661,21 +2790,24 @@
       ],
       "qualifications": "BSc Cognitive Science",
       "qualifications_url": "https://www.xing.com/search/members?keywords=BSc+Cognitive+Science",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Nope"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Luca Valnegri",
           "picture": "https://www.xing.com/image/5_f_a_86d4500f1_9888782_1/luca-valnegri-foto.256x256.jpg",
           "memberSince_Hits": "31. März 2008 / 909",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Self Employed",
@@ -2772,7 +2904,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Italienisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2786,7 +2919,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Università degli Studi, Trento, Italy",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+degli+Studi%2C+Trento%2C+Italy",
@@ -2802,14 +2936,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Jonas Holländer",
           "picture": "https://www.xing.com/image/c_8_a_dae3df477_25834425_1/jonas-holl%C3%A4nder-foto.256x256.jpg",
           "memberSince_Hits": "12. September 2016 / 108",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "flaregames GmbH",
@@ -2855,7 +2991,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2868,7 +3005,8 @@
           "lang": "Armenisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -2896,14 +3034,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Andreas Reppas",
           "picture": "https://www.xing.com/image/9_8_9_d2933a2a1_24059346_1/andreas-reppas-foto.256x256.jpg",
           "memberSince_Hits": "8. Januar 2016 / 104",
           "currJobDescr": "Data Analyst/ Mathematical Modeller",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst/ Mathematical Modeller",
               "company": "Helmholtz-Zentrum für Infektionsforschung",
@@ -2935,7 +3075,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2949,7 +3090,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "National Technical University of Athens",
           "url": "https://www.xing.com/search/members?keywords=National+Technical+University+of+Athens",
@@ -2971,14 +3113,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Pedro Lima",
           "picture": "https://www.xing.com/image/e_f_5_1a068fea8_12607582_2/pedro-lima-foto.256x256.jpg",
           "memberSince_Hits": "15. Juni 2009 / 1801",
           "currJobDescr": "Applications Support | Data Analyst | Project Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Applications Support | Data Analyst | Project Manager",
               "company": "LogicaiNova",
@@ -3049,7 +3193,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -3071,7 +3216,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Stanford University",
           "url": "https://www.xing.com/search/members?keywords=Stanford+University",
@@ -3087,14 +3233,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Olaf Seydel",
           "picture": "https://www.xing.com/image/6_c_8_129e4382a_14176939_3/olaf-seydel-foto.256x256.jpg",
           "memberSince_Hits": "24. März 2010 / 5570",
           "currJobDescr": "Senior Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Data Analyst",
               "company": "ZEIT ONLINE GmbH",
@@ -3140,7 +3288,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3159,7 +3308,8 @@
           "lang": "biblisches Hebräisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Uni Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Uni+Hamburg",
@@ -3177,14 +3327,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ausbildung+zum+Begleiter+von+Sterbenden+und+Schwerkranken+%282006%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Michael Hoppi",
           "picture": "https://www.xing.com/img/users/5/d/f/b3a7fda1a.4261924,1.256x256.jpg",
           "memberSince_Hits": "23. September 2005 / 779",
           "currJobDescr": "Data Analyst / BI Competence Center",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst / BI Competence Center",
               "company": "A1 Telekom Austria AG",
@@ -3228,12 +3380,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "HTL Wexstrasse TGM",
           "url": "https://www.xing.com/search/members?keywords=HTL+Wexstrasse+TGM",
@@ -3244,14 +3398,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Datenbank+Betrieb+%2F+ETL+Prozessing"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Benjamin Hellmann",
           "picture": "https://www.xing.com/img/users/8/7/7/ce9658ac6.13522015,11.256x256.jpg",
           "memberSince_Hits": "24. November 2009 / 1921",
           "currJobDescr": "Business Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Business Data Analyst",
               "company": "affilinet GmbH",
@@ -3297,7 +3453,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3307,7 +3464,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Augsburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Augsburg",
@@ -3325,14 +3483,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Master+of+Science+in+Business+Administration+%282014%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Arian Sascha Tavassoli",
           "picture": "https://www.xing.com/image/8_b_5_80945e413_22979458_1/arian-sascha-tavassoli-foto.256x256.jpg",
           "memberSince_Hits": "31. Juli 2015 / 523",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "SinnerSchrader",
@@ -3357,7 +3517,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3378,7 +3539,8 @@
           "lang": "Farsi"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Hamburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Hamburg",
@@ -3394,14 +3556,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Dr. Oliver Jones",
           "picture": "https://www.xing.com/image/1_4_5_4da07ef69_20105421_4/oliver-jones-foto.256x256.jpg",
           "memberSince_Hits": "24. Januar 2014 / 1072",
           "currJobDescr": "Data Analyst",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Data Analyst",
               "company": "Deloitte",
@@ -3447,7 +3611,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -3461,7 +3626,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Auckland",
           "url": "https://www.xing.com/search/members?keywords=University+of+Auckland",
@@ -3475,7 +3641,8 @@
           "eduDuration": "04/2004 - 01/2010"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Andreas-Handl-Preis",
           "award_date": "www.wiwi.uni-bielefeld.de/ahandl-preis.html"

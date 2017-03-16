@@ -1,16 +1,19 @@
 {
   "category": "Public Relations Specialist",
   "dominantSexXing": "f",
-  "profiles": [
+  "profiles":
+ [
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Birgit Paff",
           "picture": "https://www.xing.com/image/c_5_f_269274e3b_24432663_2/birgit-paff-foto.256x256.jpg",
           "memberSince_Hits": "24. Februar 2016 / 590",
           "currJobDescr": "Journalistin. Redakteurin. Public Relations Specialist.",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Journalistin. Redakteurin. Public Relations Specialist.",
               "company": "Birgit Paff Mediaservice",
@@ -56,7 +59,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -66,7 +70,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hamburger Akademie für Fernstudien GmbH",
           "url": "https://www.xing.com/search/members?keywords=Hamburger+Akademie+f%C3%BCr+Fernstudien+GmbH",
@@ -84,14 +89,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Kommunikationsmedien"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sophie Seifried",
           "picture": "https://www.xing.com/image/e_f_a_a599e97aa_24681429_1/sophie-seifried-foto.256x256.jpg",
           "memberSince_Hits": "31. März 2016 / 99",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Epic Pictures Group",
@@ -123,7 +130,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -137,7 +145,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Sophie Seifried",
           "url": "https://www.xing.com/search/members?keywords=Sophie+Seifried"
@@ -147,14 +156,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Sophie+Seifried"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Kristina Grünwald",
           "picture": "https://www.xing.com/image/5_9_4_99c88a976_16465776_3/kristina-gr%C3%BCnwald-foto.256x256.jpg",
           "memberSince_Hits": "29. Juni 2011 / 1989",
           "currJobDescr": "Corporate Communications Manager / Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Corporate Communications Manager / Public Relations Specialist",
               "company": "Bodystreet GmbH",
@@ -200,7 +211,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -218,7 +230,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Regensburg",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Regensburg",
@@ -228,14 +241,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Martin Grebner",
           "picture": "https://www.xing.com/image/c_0_3_82cdc13b3_15647807_1/martin-grebner-foto.256x256.jpg",
           "memberSince_Hits": "11. Dezember 2010 / 1249",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "EOS GmbH",
@@ -267,7 +282,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -281,7 +297,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Bielefeld",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bielefeld",
@@ -293,14 +310,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Arts+in+Germanistik+%26+Sozialwissenschaften"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Kristin Unger 翁荔婷",
           "picture": "https://www.xing.com/image/5_2_7_960ddabec_6378028_4/kristin-unger-%E7%BF%81%E8%8D%94%E5%A9%B7-foto.256x256.jpg",
           "memberSince_Hits": "21. August 2006 / 2698",
           "currJobDescr": "Public Relations Specialist (momentan in Elternzeit)",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist (momentan in Elternzeit)",
               "company": "Carl Zeiss Microscopy GmbH",
@@ -353,7 +372,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -375,7 +395,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Universität Leipzig, Cheng Kung Universität Tainan, Taiwan",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Leipzig%2C+Cheng+Kung+Universit%C3%A4t+Tainan%2C+Taiwan",
@@ -387,14 +408,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Interkulturelle+Trainerin+%28Hochschulzertifikat+interculture+e.V.+Jena%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Franziska Kast",
           "picture": "https://www.xing.com/image/6_3_8_429acdb88_13429174_4/franziska-kast-foto.256x256.jpg",
           "memberSince_Hits": "8. November 2009 / 2674",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "via polaris",
@@ -440,7 +463,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -466,7 +490,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Umeå University, Umeå, Sweden",
           "url": "https://www.xing.com/search/members?keywords=Ume%C3%A5+University%2C+Ume%C3%A5%2C+Sweden",
@@ -488,14 +513,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Stephanie Weiser",
           "picture": "https://www.xing.com/image/5_f_3_3801e5a3f_7348926_6/stephanie-weiser-foto.256x256.jpg",
           "memberSince_Hits": "9. Mai 2007 / 3629",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Porsche Cars Australia",
@@ -562,7 +589,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -573,7 +601,8 @@
           "lang": "Spanisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Bond University, Australia",
           "url": "https://www.xing.com/search/members?keywords=Bond+University%2C+Australia",
@@ -589,14 +618,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Michael Boehmer",
           "picture": "https://www.xing.com/image/8_5_5_81e9bbf99_8613647_2/michael-boehmer-foto.256x256.jpg",
           "memberSince_Hits": "31. Dezember 2007 / 1291",
           "currJobDescr": "Senior public relations specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior public relations specialist",
               "company": "Hamilton County Department of Job and Family Services",
@@ -607,12 +638,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Ohio University",
           "url": "https://www.xing.com/search/members?keywords=Ohio+University",
@@ -620,21 +653,24 @@
           "eduDuration": "09/1977 - 06/1980"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Many over the years"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Timo Glatz",
           "picture": "https://www.xing.com/img/users/1/0/4/e4b71c848.14096225,4.256x256.jpg",
           "memberSince_Hits": "9. März 2010 / 512",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "SolarWorld AG",
@@ -683,7 +719,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -697,7 +734,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "PZOK",
           "url": "https://www.xing.com/search/members?keywords=PZOK",
@@ -727,14 +765,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Projektmanagement+%282011%29"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Rachael McCulloch",
           "picture": "https://www.xing.com/image/1_3_0_a44480c4e_18429251_5/rachael-mcculloch-foto.256x256.jpg",
           "memberSince_Hits": "2. November 2012 / 1099",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "United States Army in Europe",
@@ -752,7 +792,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -770,7 +811,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Hochschule Mittweida",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Mittweida",
@@ -782,14 +824,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Arts"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Cuneyt Gorkem",
           "picture": "https://www.xing.com/image/6_e_4_4d67c7f45_7978405_23/cuneyt-gorkem-foto.256x256.jpg",
           "memberSince_Hits": "29. September 2007 / 1891",
           "currJobDescr": "Advertisement and Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Advertisement and Public Relations Specialist",
               "company": "IMAJANS Communication Advertising & Entertainment",
@@ -834,7 +878,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -847,7 +892,8 @@
           "lang": "Litvanca"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Anadolu University",
           "url": "https://www.xing.com/search/members?keywords=Anadolu+University",
@@ -868,14 +914,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Ak-kim+Chemical+Industry+%26+Trade+Inc.+-+Environmental+Health+%26+Safety"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Alan Svejk",
           "picture": "https://www.xing.com/image/f_6_f_4384ca2b4_20834879_3/alan-svejk-foto.256x256.jpg",
           "memberSince_Hits": "27. Juli 2014 / 346",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Alan Švejk Public Relations",
@@ -885,7 +933,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -893,14 +942,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Vanessa Karg",
           "picture": "https://www.xing.com/img/users/0/6/8/18f373da9.7367934,2.256x256.jpg",
           "memberSince_Hits": "14. Mai 2007 / 1574",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "GfK SE",
@@ -967,7 +1018,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -985,7 +1037,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
           "url": "https://www.xing.com/search/members?keywords=Friedrich-Alexander-Universit%C3%A4t+Erlangen-N%C3%BCrnberg",
@@ -995,14 +1048,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Ryan Greives",
           "picture": "https://www.xing.com/image/c_6_a_48ee3015f_19351794_4/ryan-greives-foto.256x256.jpg",
           "memberSince_Hits": "11. Juli 2013 / 715",
           "currJobDescr": "Sr. Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sr. Public Relations Specialist",
               "company": "cleverbridge",
@@ -1020,12 +1075,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Purdue University",
           "url": "https://www.xing.com/search/members?keywords=Purdue+University",
@@ -1034,14 +1091,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Jamie Brown",
           "picture": "https://www.xing.com/image/1_1_c_5914b92db_15617311_1/jamie-brown-foto.256x256.jpg",
           "memberSince_Hits": "4. Dezember 2010 / 1440",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "DirectPR",
@@ -1051,21 +1110,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Tanja Waxenberger",
           "picture": "https://www.xing.com/image/c_e_a_24a3ea773_17975452_3/tanja-waxenberger-foto.256x256.jpg",
           "memberSince_Hits": "26. Juni 2012 / 3853",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Rodenstock GmbH",
@@ -1097,7 +1159,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1111,7 +1174,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Macromedia Hochschule für Medien und Kommunikation",
           "url": "https://www.xing.com/search/members?keywords=Macromedia+Hochschule+f%C3%BCr+Medien+und+Kommunikation",
@@ -1121,7 +1185,8 @@
       ],
       "qualifications": "Fortbildung an der Haufe Akademie: Erfolgreiche Markenführung",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Fortbildung+an+der+Haufe+Akademie%3A+Erfolgreiche+Markenf%C3%BChrung",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Nominierung für die Young Talent Initiative #30u30 des PR Reports",
           "award_date": "de.calameo.com/read/001981390eb50b8107750"
@@ -1129,14 +1194,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Hanna Bielerzewska",
           "picture": "https://www.xing.com/image/f_0_4_a8cec372a_25444503_1/hanna-bielerzewska-foto.256x256.jpg",
           "memberSince_Hits": "19. Juli 2016 / 36",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Hicron",
@@ -1217,7 +1284,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1227,7 +1295,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Adam Mickiewicz University in Poznań",
           "url": "https://www.xing.com/search/members?keywords=Adam+Mickiewicz+University+in+Pozna%C5%84",
@@ -1243,14 +1312,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Sandra Sommer",
           "picture": "https://www.xing.com/img/users/e/5/0/2b989a032.8420070,2.256x256.jpg",
           "memberSince_Hits": "12. November 2007 / 2157",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "---",
@@ -1282,7 +1353,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1298,14 +1370,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Alana Bowman",
           "picture": "https://www.xing.com/image/a_1_1_bfe4e9888_19072727_1/alana-bowman-foto.256x256.jpg",
           "memberSince_Hits": "1. Mai 2013 / 580",
           "currJobDescr": "Public Relations Specialist - Social Media",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist - Social Media",
               "company": "Mississippi Development Authority - Germany",
@@ -1315,12 +1389,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Mississippi State University",
           "url": "https://www.xing.com/search/members?keywords=Mississippi+State+University",
@@ -1330,14 +1406,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Diana Montana",
           "picture": "https://www.xing.com/image/e_a_2_31f829caf_26547778_1/diana-montana-foto.256x256.jpg",
           "memberSince_Hits": "3. Dezember 2016 / 14",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Montana Enterprises",
@@ -1347,7 +1425,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1359,14 +1438,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Tom Dzieniszewski",
           "picture": "https://www.xing.com/image/c_e_4_f00f3f733_18626255_2/tom-dzieniszewski-foto.256x256.jpg",
           "memberSince_Hits": "3. Januar 2013 / 903",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "United Nations - UNESCO",
@@ -1412,7 +1493,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1434,7 +1516,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Warsaw School of Economics",
           "url": "https://www.xing.com/search/members?keywords=Warsaw+School+of+Economics",
@@ -1452,14 +1535,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Certificate+in+exploitation+of+power+devices+and+installations"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Galina Kamneva",
           "picture": "https://www.xing.com/image/7_2_1_55a2ad490_26269328_1/galina-kamneva-foto.256x256.jpg",
           "memberSince_Hits": "3. November 2016 / 10",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "FSK Leader",
@@ -1471,14 +1556,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Gvido Dzērve",
           "picture": "https://www.xing.com/image/a_9_6_a3ac7bb37_23758621_2/gvido-dz%C4%93rve-foto.256x256.jpg",
           "memberSince_Hits": "20. November 2015 / 83",
           "currJobDescr": "Senior Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Senior Public Relations Specialist",
               "company": "Riga International Airport",
@@ -1488,7 +1575,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
@@ -1501,7 +1589,8 @@
           "lang": "Latvian"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BA School of Business and Finance",
           "url": "https://www.xing.com/search/members?keywords=BA+School+of+Business+and+Finance",
@@ -1517,14 +1606,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Roxana Basno",
           "picture": "https://www.xing.com/image/2_2_e_8339d93dd_21203124_1/roxana-basno-foto.256x256.jpg",
           "memberSince_Hits": "14. Oktober 2014 / 187",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "NGO",
@@ -1534,7 +1625,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -1550,14 +1642,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Roshal Luo",
           "picture": "https://www.xing.com/image/7_e_0_4643b7715_11273184_4/roshal-luo-foto.256x256.jpg",
           "memberSince_Hits": "23. Oktober 2008 / 758",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Anderson & Anderson LLP",
@@ -1582,7 +1676,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Chinesisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1592,7 +1687,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "江西财经大学",
           "url": "https://www.xing.com/search/members?keywords=%E6%B1%9F%E8%A5%BF%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6",
@@ -1604,14 +1700,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=%EF%BC%B4%EF%BC%A5%EF%BC%AD%EF%BC%98"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Gabriela Murtaza",
           "picture": "https://www.xing.com/image/d_0_c_cf6407f3f_25056252_1/gabriela-murtaza-foto.256x256.jpg",
           "memberSince_Hits": "24. Mai 2016 / 100",
           "currJobDescr": "Sr. Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Sr. Public Relations Specialist",
               "company": "GSP Offshore",
@@ -1623,14 +1721,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Irena Lazarova",
           "picture": "https://www.xing.com/image/e_8_4_105eda8c0_23231101_2/irena-lazarova-foto.256x256.jpg",
           "memberSince_Hits": "9. September 2015 / 298",
           "currJobDescr": "Marketing and Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing and Public Relations Specialist",
               "company": "BulPros Consulting AG",
@@ -1640,13 +1740,15 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Sofia University",
           "url": "https://www.xing.com/search/members?keywords=Sofia+University",
@@ -1656,14 +1758,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Pablo Cantu",
           "picture": "https://www.xing.com/image/4_5_f_f349fc2b4_26187885_1/pablo-cantu-foto.256x256.jpg",
           "memberSince_Hits": "25. Oktober 2016 / 21",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Anker",
@@ -1675,14 +1779,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Andrea Duffy",
           "picture": "https://www.xing.com/image/0_6_2_cf2c71ad3_13725754_2/andrea-duffy-foto.256x256.jpg",
           "memberSince_Hits": "3. Januar 2010 / 1248",
           "currJobDescr": "Global Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Global Public Relations Specialist",
               "company": "Deloitte Touche Tohmats",
@@ -1721,12 +1827,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Emerson College",
           "url": "https://www.xing.com/search/members?keywords=Emerson+College",
@@ -1736,14 +1844,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Verena Vlajo",
           "picture": "https://www.xing.com/image/8_1_4_6beeb3e2e_5976698_1/verena-vlajo-foto.256x256.jpg",
           "memberSince_Hits": "20. Mai 2006 / 7411",
           "currJobDescr": "Public Relations Specialist",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "Ubisoft",
@@ -1801,7 +1911,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1811,7 +1922,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "BRG VIII",
           "url": "https://www.xing.com/search/members?keywords=BRG+VIII",
@@ -1835,14 +1947,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Merve Kuzu",
           "picture": "https://www.xing.com/image/1_b_6_b2715d773_11442929_3/merve-kuzu-foto.256x256.jpg",
           "memberSince_Hits": "18. November 2008 / 2915",
           "currJobDescr": "Public Relations",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "BTC Business Technology Consulting AG",
@@ -1909,7 +2023,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Türkisch",
           "levelOfProficiency": "(Muttersprache)"
@@ -1919,7 +2034,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Marmara University",
           "url": "https://www.xing.com/search/members?keywords=Marmara+University",
@@ -1941,14 +2057,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Robyn Barnes",
           "picture": "https://www.xing.com/image/9_d_6_119b70210_18106201_1/robyn-barnes-foto.256x256.jpg",
           "memberSince_Hits": "3. August 2012 / 729",
           "currJobDescr": "President",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "President",
               "company": "Robyn Barnes, Marketing Communications and Freelance Writing",
@@ -2005,7 +2123,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2018,7 +2137,8 @@
           "levelOfProficiency": "(Grundkenntnisse)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "New Mexico State University",
           "url": "https://www.xing.com/search/members?keywords=New+Mexico+State+University",
@@ -2030,14 +2150,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Arts"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Alena Naff",
           "picture": "https://www.xing.com/image/c_b_5_ac3ca4d7e_19299681_1/alena-naff-foto.256x256.jpg",
           "memberSince_Hits": "28. Juni 2013 / 496",
           "currJobDescr": "Event Marketing Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Event Marketing Manager",
               "company": "Event Strategy Group",
@@ -2054,21 +2176,24 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Jennifer Ottenströer",
           "picture": "https://www.xing.com/image/a_d_4_f8f40676c_24476407_3/jennifer-ottenstr%C3%B6er-foto.256x256.jpg",
           "memberSince_Hits": "1. März 2016 / 644",
           "currJobDescr": "Lehramt",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Public Relations Specialist",
               "company": "HelpU",
@@ -2142,7 +2267,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Muttersprache)"
@@ -2156,7 +2282,8 @@
           "levelOfProficiency": "(Gut)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "St. Mary's University College, Belfast",
           "url": "https://www.xing.com/search/members?keywords=St.+Mary%27s+University+College%2C+Belfast",
@@ -2177,7 +2304,8 @@
       ],
       "qualifications": "Bachelor of Education",
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bachelor+of+Education",
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "Engagement- Nachweis des Landes Nordrhein-Westfalen",
           "award_date": "https://www.studienfonds-owl.de/news/artikel/studis-fuer-fluechtlinge-ermutigt-zu-ehrenamtlichem-engagement/"
@@ -2189,14 +2317,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Sezai ARTAR",
           "picture": "https://www.xing.com/image/a_e_6_8ab469c81_11745068_8/sezai-artar-foto.256x256.jpg",
           "memberSince_Hits": "16. Januar 2009 / 2226",
           "currJobDescr": "Danışmanlık Hizmetleri",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Danışmanlık Hizmetleri",
               "company": "www.sezaiartar.com",
@@ -2220,7 +2350,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         },
@@ -2228,7 +2359,8 @@
           "lang": "Türkisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "İzmir Ekonomi Üniversitesi",
           "url": "https://www.xing.com/search/members?keywords=%C4%B0zmir+Ekonomi+%C3%9Cniversitesi",
@@ -2240,14 +2372,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=Bilgisayar+Programlar%C4%B1"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Nora Brink",
           "picture": "https://www.xing.com/image/9_4_a_d4cd543cb_3493165_2/nora-brink-foto.256x256.jpg",
           "memberSince_Hits": "14. Mai 2005 / 3887",
           "currJobDescr": "Principle Owner/Property Manager",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Principle Owner/Property Manager",
               "company": "Distinct Property Management, Inc.",
@@ -2274,7 +2408,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch"
         },
@@ -2282,7 +2417,8 @@
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "Freie Universitaet Berlin",
           "url": "https://www.xing.com/search/members?keywords=Freie+Universitaet+Berlin"
@@ -2292,14 +2428,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=M.A.+%28Communications%29%2C+Real+Estate+Sales+License+in+California"
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Cornelia Schmid",
           "picture": "https://www.xing.com/image/d_7_a_925fc48d5_16324123_2/cornelia-schmid-foto.256x256.jpg",
           "memberSince_Hits": "25. Mai 2011 / 1413",
           "currJobDescr": "Communications Professional, Co-Owner and Partner",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Communications Professional, Co-Owner and Partner",
               "company": "Lemongrass Communications",
@@ -2357,7 +2495,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch",
           "levelOfProficiency": "(Fließend)"
@@ -2375,7 +2514,8 @@
           "levelOfProficiency": "(Fließend)"
         }
       ],
-      "awards": [
+      "awards":
+ [
         {
           "award_name": "PR Agency of the Year",
           "award_date": "www.lemongrass-communications.com"
@@ -2399,14 +2539,16 @@
       ]
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"f",
           "name": "Beth Hawks",
           "picture": "https://www.xing.com/image/2_3_7_2f15d9b45_19497288_1/beth-hawks-foto.256x256.jpg",
           "memberSince_Hits": "19. August 2013 / 587",
           "currJobDescr": "President",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "President",
               "company": "CoreComm PR",
@@ -2434,12 +2576,14 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Englisch"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "University of Georgia",
           "url": "https://www.xing.com/search/members?keywords=University+of+Georgia",
@@ -2451,14 +2595,16 @@
       "qualifications_url": "https://www.xing.com/search/members?keywords=More+than+20+years+of+experience+in+public+relations+and+communications."
     },
     {
-      "profile": [
+      "profile":
+ [
         {
           "sex":"m",
           "name": "Scott Williams",
           "picture": "https://www.xing.com/image/3_4_1_7912a6e53_15832350_5/scott-williams-foto.256x256.jpg",
           "memberSince_Hits": "27. Januar 2011 / 4849",
           "currJobDescr": "Marketing Communications - Diagnostic and Monitoring Solutions",
-          "jobs": [
+          "jobs":
+ [
             {
               "jobTitle": "Marketing Communications - Diagnostic and Monitoring Solutions",
               "company": "OMICRON Energy Solutions GmbH",
@@ -2553,7 +2699,8 @@
           ]
         }
       ],
-      "languages": [
+      "languages":
+ [
         {
           "lang": "Deutsch",
           "levelOfProficiency": "(Fließend)"
@@ -2563,7 +2710,8 @@
           "levelOfProficiency": "(Muttersprache)"
         }
       ],
-      "education": [
+      "education":
+ [
         {
           "institution": "eMBIS GmbH",
           "url": "https://www.xing.com/search/members?keywords=eMBIS+GmbH",
