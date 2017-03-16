@@ -1,4 +1,4 @@
-# Dataset Xing57 - 2017
+# Dataset XING57/2017
 
 This dataset contains anonymized user profiles collected from xing.com in response to 57 queries. It was used in 2017 to study gender biases in the returned user profiles.
 
