@@ -1,17 +1,14 @@
 {
   "category": "Daycare",
   "dominantSexXing": "f",
-  "profiles":
- [
+  "profiles": [
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "21. Juli 2011 / 567",
           "currJobDescr": "Executive Director",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Executive Director",
               "company": "Child Care of Southwest Florida, Inc.",
@@ -22,21 +19,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "13. Dezember 2009 / 1490",
           "currJobDescr": "Projektmanagerin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Pädagogische Assistentin",
               "company": "evangelische Kinderkrippe Soyerhofstr.4a der Diakonie",
@@ -61,15 +55,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Deutsche- Pop Akademie",
           "url": "https://www.xing.com/search/members?keywords=Deutsche-+Pop+Akademie",
@@ -91,14 +81,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "6. März 2007 / 4556",
           "currJobDescr": "Geschäftsführung",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Geschäftsführung",
               "company": "KIDSatLAKE GmbH",
@@ -128,14 +116,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Europen Business School",
           "url": "https://www.xing.com/search/members?keywords=Europen+Business+School",
@@ -150,14 +135,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "30. November 2016 / 20",
           "currJobDescr": "Early Care Speacialist",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Early Care Speacialist",
               "company": "2000 Days Pre-Kindergarten",
@@ -174,21 +157,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "10. August 2004 / 2560",
           "currJobDescr": "Founder",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Founder",
               "company": "HulaHoito",
@@ -228,16 +208,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Lappeenranta University of Technology",
           "url": "https://www.xing.com/search/members?keywords=Lappeenranta+University+of+Technology"
@@ -245,14 +220,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "16. Januar 2008 / 710",
           "currJobDescr": "eigenares",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "eigenares",
               "company": "El Hogar de los Pekes",
@@ -263,16 +236,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Communicatie",
           "url": "https://www.xing.com/search/members?keywords=Communicatie",
@@ -281,14 +249,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "19. August 2010 / 2819",
           "currJobDescr": "Founder",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Founder",
               "company": "KIDSatLAKE AG",
@@ -298,14 +264,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universität Eichstätt/ Prof. Erath",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Eichst%C3%A4tt%2F+Prof.+Erath",
@@ -333,14 +296,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "23. September 2010 / 532",
           "currJobDescr": "CFO",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "CFO",
               "company": "KidCentric, Inc.",
@@ -350,13 +311,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Texas at Austin",
           "url": "https://www.xing.com/search/members?keywords=University+of+Texas+at+Austin",
@@ -372,14 +331,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "27. Oktober 2013 / 2391",
           "currJobDescr": "Sales Manager EMEA",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Sales Manager EMEA",
               "company": "Varian Medical Systems Particle Therapy GmbH",
@@ -453,16 +410,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Erasmus Universiteit Rotterdam",
           "url": "https://www.xing.com/search/members?keywords=Erasmus+Universiteit+Rotterdam",
@@ -484,14 +436,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "23. März 2008 / 917",
           "currJobDescr": "Adm.",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Adm.",
               "company": "Ana Chevalier",
@@ -501,15 +451,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universidad Tecnologica de Santiago",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Tecnologica+de+Santiago",
@@ -518,14 +464,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "1. November 2007 / 2184",
           "currJobDescr": "President and Co-Owner",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "President and Co-Owner",
               "company": "Global Recruiters of Portland Southwest",
@@ -567,13 +511,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Villanova Univeristy",
           "url": "https://www.xing.com/search/members?keywords=Villanova+Univeristy",
@@ -592,23 +534,18 @@
           "degree": "Education, BS"
         }
       ],
-      "awards":
- [
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "29. August 2007 / 3350",
           "currJobDescr": "Tagesmutter / day care",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Tagesmutter / day care",
               "company": "Little Feet GbR",
@@ -676,13 +613,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Elphinstone College of Arts & Science",
           "url": "https://www.xing.com/search/members?keywords=Elphinstone+College+of+Arts+%26+Science",
@@ -691,14 +626,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "6. Juni 2009 / 780",
           "currJobDescr": "Broker",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Broker",
               "company": "Worldwide Home Lending",
@@ -716,13 +649,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Phoenix",
           "url": "https://www.xing.com/search/members?keywords=University+of+Phoenix",
@@ -736,21 +667,18 @@
           "eduDuration": "09/1991 - 07/1994"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "2. Mai 2014 / 1267",
           "currJobDescr": "dog bathing, dog grooming service, Toronto dog grooming, dog grooming Toronto",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "dog bathing, dog grooming service, Toronto dog grooming, dog grooming Toronto",
               "company": "doggieplayland.ca",
@@ -760,21 +688,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "8. August 2016 / 127",
           "currJobDescr": "Leitung Kindertagesstätte, freigestellt",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Leitung Kindertagesstätte, freigestellt",
               "company": "Kinderzentren Kunterbunt gGmbH Kindergarten KiKu Kids",
@@ -806,16 +731,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Fachakademie für Sozialpädagogik Regensburg",
           "url": "https://www.xing.com/search/members?keywords=Fachakademie+f%C3%BCr+Sozialp%C3%A4dagogik+Regensburg",
@@ -823,21 +743,18 @@
           "eduDuration": "09/2003 - 08/2008"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "17. Mai 2016 / 139",
           "currJobDescr": "Kulturwissenschaften und English-Speaking-Cultures",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Freier Mitarbeiter",
               "company": "Uni-Kita Bremen",
@@ -860,15 +777,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universität Bremen",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Bremen",
@@ -878,14 +791,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "17. April 2016 / 135",
           "currJobDescr": "Erzieherin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Erzieherin",
               "company": "Stadt Riedstadt",
@@ -902,14 +813,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Alice-Eleonoren-Schule Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=Alice-Eleonoren-Schule+Darmstadt",
@@ -919,14 +827,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "9. Januar 2016 / 33",
           "currJobDescr": "Psychologie",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Bürgerhelferin",
               "company": "Blaues Kreuz",
@@ -951,16 +857,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Julius-Maximilians-Universität Würzburg",
           "url": "https://www.xing.com/search/members?keywords=Julius-Maximilians-Universit%C3%A4t+W%C3%BCrzburg",
@@ -970,14 +871,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "6. September 2015 / 422",
           "currJobDescr": "Therapeutische Soziale Arbeit",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Wissenschaftliche Hilfkraft",
               "company": "ISRV",
@@ -1044,14 +943,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Hochschule Nordhausen",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Nordhausen",
@@ -1065,22 +961,18 @@
           "eduDuration": "10/2010 - 06/2013"
         }
       ],
-      "awards":
- [
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "28. Juni 2015 / 1092",
           "currJobDescr": "Media Engineering",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Werkstudentin",
               "company": "Fraunhofer IIS",
@@ -1147,15 +1039,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Technische Hochschule Nürnberg Georg Simon Ohm",
           "url": "https://www.xing.com/search/members?keywords=Technische+Hochschule+N%C3%BCrnberg+Georg+Simon+Ohm",
@@ -1177,14 +1065,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "23. Mai 2015 / 127",
           "currJobDescr": "Pädagogin und Therapeutin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Pädagogin und Therapeutin",
               "company": "SEM's Klangraum",
@@ -1223,13 +1109,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Heilpädagogig",
           "url": "https://www.xing.com/search/members?keywords=Heilp%C3%A4dagogig",
@@ -1238,14 +1122,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "27. April 2015 / 524",
           "currJobDescr": "pädagogische Fachberatung",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "pädagogische Fachberatung",
               "company": "BIK e.V.",
@@ -1284,16 +1166,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "TU Berlin",
           "url": "https://www.xing.com/search/members?keywords=TU+Berlin",
@@ -1303,14 +1180,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "10. März 2015 / 274",
           "currJobDescr": "Receptionist",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Receptionist",
               "company": "Shady Knoll Health Center",
@@ -1370,14 +1245,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Naugatuck Valley Community College",
           "url": "https://www.xing.com/search/members?keywords=Naugatuck+Valley+Community+College",
@@ -1399,14 +1271,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "24. November 2014 / 1211",
           "currJobDescr": "Erzieher/Pädagoge",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Erzieher/Pädagoge",
               "company": "Graf Recke Stiftung",
@@ -1459,22 +1329,18 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "7. November 2014 / 467",
           "currJobDescr": "Kunstpädagogik",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "(Kunst)Pädagogische Fachkraft",
               "company": "Maviki e.V.",
@@ -1513,15 +1379,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
           "url": "https://www.xing.com/search/members?keywords=Johann+Wolfgang+Goethe-Universit%C3%A4t+Frankfurt+am+Main",
@@ -1537,14 +1399,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "3. November 2014 / 519",
           "currJobDescr": "Sozialwissenschaften, Major Soziologie",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Ehrenamtliche Jugendleiterin",
               "company": "ev. ref. Kirche, Synodalverband Oldenburg",
@@ -1603,17 +1463,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universität Osnabrück",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+Osnabr%C3%BCck",
@@ -1629,14 +1483,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "14. Juli 2014 / 832",
           "currJobDescr": "Erzieherin, Gruppenleitung",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Erzieherin, Gruppenleitung",
               "company": "AWO Bezirksverband Oberbayern e.V. Unterföhring",
@@ -1661,13 +1513,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Fachakademie für Sozialpädagogik München",
           "url": "https://www.xing.com/search/members?keywords=Fachakademie+f%C3%BCr+Sozialp%C3%A4dagogik+M%C3%BCnchen",
@@ -1677,14 +1527,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "13. Juni 2014 / 710",
           "currJobDescr": "Einrichtungsleitung",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Einrichtungsleitung",
               "company": "educcare Bildungskindertagesstätten gGmbH",
@@ -1716,13 +1564,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "IPSO",
           "url": "https://www.xing.com/search/members?keywords=IPSO",
@@ -1738,14 +1584,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "6. Mai 2014 / 665",
           "currJobDescr": "Erzieherin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Erzieherin",
               "company": "Bik.e.V",
@@ -1763,13 +1607,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Medizinische Fachschschule \" Dr. Richard Schminke\"",
           "url": "https://www.xing.com/search/members?keywords=Medizinische+Fachschschule+%22+Dr.+Richard+Schminke%22",
@@ -1778,14 +1620,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "8. April 2014 / 1274",
           "currJobDescr": "Projektmanagement Kommunikation im Raum & Live Communication",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Projektmanagement Kommunikation im Raum & Live Communication",
               "company": "Milla & Partner",
@@ -1859,16 +1699,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Duale Hochschule Baden- Württemberg (DHBW)",
           "url": "https://www.xing.com/search/members?keywords=Duale+Hochschule+Baden-+W%C3%BCrttemberg+%28DHBW%29",
@@ -1882,21 +1717,18 @@
           "eduDuration": "09/1998 - 07/2009"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "12. März 2014 / 875",
           "currJobDescr": "Personalreferentin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Personalreferentin",
               "company": "Elbkinder Vereinigung Hamburger Kitas gGmbH",
@@ -1956,16 +1788,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "HAW Hamburg",
           "url": "https://www.xing.com/search/members?keywords=HAW+Hamburg",
@@ -1981,14 +1808,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "7. Februar 2014 / 261",
           "currJobDescr": "Linguistics",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Meeting Leader",
               "company": "Cultural Care Germany GmbH",
@@ -2020,15 +1845,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Heinrich-Heine-Universität Düsseldorf",
           "url": "https://www.xing.com/search/members?keywords=Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf",
@@ -2038,14 +1859,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "5. Dezember 2013 / 1027",
           "currJobDescr": "Applications Manager",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Applications Manager",
               "company": "IMA Klessmann GmbH Holzbearbeitungssysteme",
@@ -2117,15 +1936,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "ManQ",
           "url": "https://www.xing.com/search/members?keywords=ManQ",
@@ -2147,14 +1962,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "20. November 2013 / 1178",
           "currJobDescr": "Leiterin",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Leiterin",
               "company": "Bildungseinrichtung",
@@ -2178,14 +1991,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Fernuniversität Hagen",
           "url": "https://www.xing.com/search/members?keywords=Fernuniversit%C3%A4t+Hagen",
@@ -2194,14 +2004,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "19. September 2013 / 873",
           "currJobDescr": "Unterstützungskraft OGS",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Unterstützungskraft OGS",
               "company": "Montessori-Grundschule Am Pistorhof",
@@ -2303,17 +2111,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universität zu Köln",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+zu+K%C3%B6ln",
@@ -2323,14 +2125,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "3. September 2013 / 1005",
           "currJobDescr": "Jugendleitung",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Jugendleitung",
               "company": "Christuskirchengemeinde Neuss",
@@ -2361,19 +2161,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universität zu Köln",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A4t+zu+K%C3%B6ln",
@@ -2383,14 +2175,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "m",
           "memberSince_Hits": "23. Juli 2013 / 804",
           "currJobDescr": "Bundesgeschäftsführer",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Bundesgeschäftsführer",
               "company": "Pfadfinder und Pfadfinderinnen Österreichs",
@@ -2436,14 +2226,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Sportakademie Wien",
           "url": "https://www.xing.com/search/members?keywords=Sportakademie+Wien",
@@ -2469,26 +2256,18 @@
           "eduDuration": "09/1991 - 06/1996"
         }
       ],
-      "awards":
- [
-
-
-
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
           "sex": "f",
           "memberSince_Hits": "27. Mai 2013 / 1031",
           "currJobDescr": "BWL Studentin (Diplom)",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "BWL Studentin (Diplom)",
               "company": "AKAD",
@@ -2527,14 +2306,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "AKAD",
           "url": "https://www.xing.com/search/members?keywords=AKAD",

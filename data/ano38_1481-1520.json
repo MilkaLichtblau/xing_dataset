@@ -1,17 +1,14 @@
 {
   "category": "System Administrator",
   "dominantSexXing": "m",
-  "profiles":
- [
+  "profiles": [
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "6. März 2009 / 3286",
           "currJobDescr": "Senior Unix System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior Unix System Administrator",
               "company": "Société Générale",
@@ -97,16 +94,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Padova, Italy",
           "url": "https://www.xing.com/search/members?keywords=University+of+Padova%2C+Italy",
@@ -115,14 +107,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. Juni 2006 / 2861",
           "currJobDescr": "System Administrator, Hard- und Software Consultant",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator, Hard- und Software Consultant",
               "company": "Lanio - Organisation und Beratung",
@@ -202,15 +192,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "TÜV Rheinland",
           "url": "https://www.xing.com/search/members?keywords=T%C3%9CV+Rheinland",
@@ -218,21 +204,18 @@
           "eduDuration": "02/2003 - 01/2005"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "15. Mai 2008 / 3086",
           "currJobDescr": "IT Specialist and system administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "IT Specialist and system administrator",
               "company": "Payback GmbH, Munich, Germany",
@@ -278,15 +261,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Università di Pisa",
           "url": "https://www.xing.com/search/members?keywords=Universit%C3%A0+di+Pisa",
@@ -296,14 +275,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "15. September 2005 / 797",
           "currJobDescr": "Senior System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Link-Assistant.Com",
@@ -349,14 +326,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Belarusian State University of Informatics and Radioelectronics",
           "url": "https://www.xing.com/search/members?keywords=Belarusian+State+University+of+Informatics+and+Radioelectronics",
@@ -365,14 +339,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "14. Januar 2014 / 974",
           "currJobDescr": "Enduser Support Specialist/VIP support/System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Enduser Support Specialist/VIP support/System Administrator",
               "company": "Produban S.L. (Grupo Santander)",
@@ -481,15 +453,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "ROC Bijlmer",
           "url": "https://www.xing.com/search/members?keywords=ROC+Bijlmer",
@@ -503,31 +471,18 @@
           "eduDuration": "08/2000 - 07/2004"
         }
       ],
-      "awards":
- [
-
-
-
-
-
-
-
-
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "27. Mai 2009 / 2650",
           "currJobDescr": "IT System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "IT System Administrator",
               "company": "Arnold Consult AG",
@@ -621,22 +576,18 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. August 2012 / 1236",
           "currJobDescr": "System Administrator / Project Manager",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator / Project Manager",
               "company": "Sorint.Lab s.r.l.",
@@ -668,15 +619,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Industrial Technichal Institute Francesco Severi",
           "url": "https://www.xing.com/search/members?keywords=Industrial+Technichal+Institute+Francesco+Severi",
@@ -686,23 +633,20 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "currJobDescr": "Senior System Administrator & devops cloud operator"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "3. November 2008 / 1469",
           "currJobDescr": "Senior System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Outsystems",
@@ -755,16 +699,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Escola Náutica Infante D. Henrinque",
           "url": "https://www.xing.com/search/members?keywords=Escola+N%C3%A1utica+Infante+D.+Henrinque",
@@ -773,14 +712,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "27. November 2007 / 1881",
           "currJobDescr": "Senior System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator",
               "company": "European Investment Bank",
@@ -887,15 +824,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Maius College",
           "url": "https://www.xing.com/search/members?keywords=Maius+College",
@@ -904,14 +837,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "30. Januar 2014 / 1088",
           "currJobDescr": "UNIX System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "UNIX System Administrator",
               "company": "Kamradek",
@@ -998,21 +929,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "5. November 2013 / 941",
           "currJobDescr": "System administrator, SMATV (DTV) administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System administrator, SMATV (DTV) administrator",
               "company": "RT-RK d.o.o",
@@ -1064,13 +992,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "CISCO CCNA Academy",
           "url": "https://www.xing.com/search/members?keywords=CISCO+CCNA+Academy",
@@ -1092,14 +1018,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "31. Januar 2010 / 1333",
           "currJobDescr": "IT IS - Network / System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "IT IS - Network / System Administrator",
               "company": "Tata Consultancy Services",
@@ -1131,17 +1055,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Utkal University",
           "url": "https://www.xing.com/search/members?keywords=Utkal+University",
@@ -1151,14 +1069,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "12. Dezember 2007 / 1059",
           "currJobDescr": "Senior - Project Manager,Product developer eBanking & SWIFT,System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior - Project Manager,Product developer eBanking & SWIFT,System Administrator",
               "company": "HypoVereinsbank – UniCredit Bank AG",
@@ -1203,15 +1119,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Private commercial school Merkur / Handelsschule Merkur, Oberstdorf",
           "url": "https://www.xing.com/search/members?keywords=Private+commercial+school+Merkur+%2F+Handelsschule+Merkur%2C+Oberstdorf",
@@ -1221,14 +1133,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "16. Februar 2010 / 1702",
           "currJobDescr": "IT System Administrator, IT Consultant, IT Project Manager",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "IT System Administrator, IT Consultant, IT Project Manager",
               "company": "Qubes GmbH",
@@ -1302,15 +1212,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "SAE Institute Frankfurt",
           "url": "https://www.xing.com/search/members?keywords=SAE+Institute+Frankfurt",
@@ -1332,14 +1238,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "3. April 2010 / 821",
           "currJobDescr": "System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator",
               "company": "Nokia",
@@ -1378,15 +1282,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Technion (Israeli Technological Institute)",
           "url": "https://www.xing.com/search/members?keywords=Technion+%28Israeli+Technological+Institute%29",
@@ -1402,14 +1302,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "24. Februar 2009 / 4690",
           "currJobDescr": "System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator",
               "company": "ATLAS Dienstleistungen für Vermögensberatung GmbH",
@@ -1455,15 +1353,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Fachhochschule Darmstadt",
           "url": "https://www.xing.com/search/members?keywords=Fachhochschule+Darmstadt",
@@ -1471,27 +1365,18 @@
           "eduDuration": "08/2000 - 04/2005"
         }
       ],
-      "awards":
- [
-
-
-
-
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "11. Dezember 2009 / 2376",
           "currJobDescr": "System-Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System-Administrator",
               "company": "SORUS-EDV",
@@ -1530,24 +1415,18 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "2. Oktober 2015 / 157",
           "currJobDescr": "System administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System administrator",
               "company": "Euro Design",
@@ -1572,14 +1451,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Eurasian Open Institute",
           "url": "https://www.xing.com/search/members?keywords=Eurasian+Open+Institute",
@@ -1595,14 +1471,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "29. Juli 2009 / 2394",
           "currJobDescr": "System-Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System-Administrator",
               "company": "Selbständig",
@@ -1648,22 +1522,18 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "22. August 2012 / 957",
           "currJobDescr": "ERP System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "ERP System Administrator",
               "company": "ComData",
@@ -1687,21 +1557,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "2. April 2012 / 1382",
           "currJobDescr": "System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator",
               "company": "CHIP Digital GmbH",
@@ -1761,15 +1628,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Sheffield",
           "url": "https://www.xing.com/search/members?keywords=University+of+Sheffield",
@@ -1779,14 +1642,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "5. September 2010 / 9347",
           "currJobDescr": "System Administrator Engineer",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator Engineer",
               "company": "BCBL",
@@ -1825,13 +1686,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universidad Autonoma de Aguascalientes",
           "url": "https://www.xing.com/search/members?keywords=Universidad+Autonoma+de+Aguascalientes",
@@ -1847,14 +1706,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. April 2010 / 1780",
           "currJobDescr": "System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator",
               "company": "Enovos Deutschland SE",
@@ -1886,21 +1743,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "22. November 2007 / 3265",
           "currJobDescr": "Linux System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Linux System Administrator",
               "company": "CHECK24 Vergleichsportal",
@@ -1953,20 +1807,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "ILS",
           "url": "https://www.xing.com/search/members?keywords=ILS",
@@ -1988,14 +1833,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "24. März 2014 / 487",
           "currJobDescr": "Linux engineer/System administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Linux engineer/System administrator",
               "company": "goldenplanet.dk",
@@ -2020,14 +1863,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Ivano-Frankivsk National Technical University of Oil and Gas",
           "url": "https://www.xing.com/search/members?keywords=Ivano-Frankivsk+National+Technical+University+of+Oil+and+Gas",
@@ -2037,14 +1877,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "13. Februar 2013 / 641",
           "currJobDescr": "System administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System administrator",
               "company": "Coillte",
@@ -2090,15 +1928,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universitatea Bucuresti",
           "url": "https://www.xing.com/search/members?keywords=Universitatea+Bucuresti",
@@ -2108,14 +1942,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "23. Januar 2009 / 5161",
           "currJobDescr": "IT System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "IT System Administrator",
               "company": "optivo GmbH (an Episerver Company)",
@@ -2182,14 +2014,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Baumann Bildung & Qualifizierung",
           "url": "https://www.xing.com/search/members?keywords=Baumann+Bildung+%26+Qualifizierung",
@@ -2211,14 +2040,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "24. September 2013 / 892",
           "currJobDescr": "System Administrator für Lotus Notes und MS Exchange",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator für Lotus Notes und MS Exchange",
               "company": "Hewlett Packard Enterprise Services GmbH",
@@ -2234,23 +2061,18 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. Februar 2012 / 674",
           "currJobDescr": "Windows System administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Windows System administrator",
               "company": "La Fantana doo Beograd",
@@ -2289,14 +2111,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Technical College",
           "url": "https://www.xing.com/search/members?keywords=Technical+College",
@@ -2306,14 +2125,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. Juni 2012 / 2145",
           "currJobDescr": "Unix System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Unix System Administrator",
               "company": "Cognizant/Credit Suisse",
@@ -2358,14 +2175,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Warwick",
           "url": "https://www.xing.com/search/members?keywords=University+of+Warwick",
@@ -2381,14 +2195,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. Juni 2014 / 585",
           "currJobDescr": "Senior System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator",
               "company": "Oracle",
@@ -2448,14 +2260,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Karelian State Pedagogical University",
           "url": "https://www.xing.com/search/members?keywords=Karelian+State+Pedagogical+University",
@@ -2465,14 +2274,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "20. August 2008 / 1434",
           "currJobDescr": "Unix System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Unix System Administrator",
               "company": "Siemens IT Solutions and Services",
@@ -2511,15 +2318,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Polytechnic University of Timisoara",
           "url": "https://www.xing.com/search/members?keywords=Polytechnic+University+of+Timisoara",
@@ -2529,14 +2332,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. Januar 2009 / 1519",
           "currJobDescr": "DevOps / System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "DevOps / System Administrator",
               "company": "Duelberg Systemadministration Services LTD",
@@ -2603,15 +2404,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University for applied sciences of Bochum",
           "url": "https://www.xing.com/search/members?keywords=University+for+applied+sciences+of+Bochum",
@@ -2621,14 +2418,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "10. Januar 2015 / 907",
           "currJobDescr": "Linux System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Linux System Administrator",
               "company": "Iskon Internet d.d.",
@@ -2653,15 +2448,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Rijeka",
           "url": "https://www.xing.com/search/members?keywords=University+of+Rijeka",
@@ -2669,21 +2460,18 @@
           "eduDuration": "10/2010 - 07/2013"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "13. Januar 2012 / 1033",
           "currJobDescr": "Linux System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Linux System Administrator",
               "company": "Nestlé Institute of Health Sciences",
@@ -2736,17 +2524,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Jackson State University",
           "url": "https://www.xing.com/search/members?keywords=Jackson+State+University",
@@ -2766,21 +2548,18 @@
           "eduDuration": "10/1996 - 08/2001"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "24. März 2014 / 355",
           "currJobDescr": "System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "System Administrator",
               "company": "Insoft",
@@ -2812,14 +2591,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Harkivs'kij Nacional'nij Universitet im. V.N. Karazina",
           "url": "https://www.xing.com/search/members?keywords=Harkivs%27kij+Nacional%27nij+Universitet+im.+V.N.+Karazina",
@@ -2829,14 +2605,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. April 2016 / 59",
           "currJobDescr": "UNIX System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "UNIX System Administrator",
               "company": "NCOC N.V.",
@@ -2882,14 +2656,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Technical-Economic Academy of Cinema and Television",
           "url": "https://www.xing.com/search/members?keywords=Technical-Economic+Academy+of+Cinema+and+Television",
@@ -2905,14 +2676,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "26. August 2007 / 847",
           "currJobDescr": "Senior System Administrator - Windows",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator - Windows",
               "company": "Qatar University",
@@ -2930,13 +2699,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Ain Shams University",
           "url": "https://www.xing.com/search/members?keywords=Ain+Shams+University",
@@ -2946,14 +2713,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "9. April 2015 / 293",
           "currJobDescr": "Senior System Administrator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior System Administrator",
               "company": "ServiceNow",
@@ -2992,14 +2757,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Belgrade, Faculty of Electrical Engineering",
           "url": "https://www.xing.com/search/members?keywords=University+of+Belgrade%2C+Faculty+of+Electrical+Engineering",

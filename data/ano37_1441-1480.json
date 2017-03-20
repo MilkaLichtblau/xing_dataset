@@ -1,26 +1,22 @@
 {
   "category": "Superintendent",
   "dominantSexXing": "m",
-  "profiles":
- [
+  "profiles": [
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "currJobDescr": "Superintendent of Schools"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "12. August 2014 / 519",
           "currJobDescr": "Chief Executive Officer (CEO)",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Chief Executive Officer (CEO)",
               "company": "Business and Education Solutions",
@@ -54,17 +50,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Harvard University",
           "url": "https://www.xing.com/search/members?keywords=Harvard+University",
@@ -108,26 +98,18 @@
           "eduDuration": "09/1979 - 05/1982"
         }
       ],
-      "awards":
- [
-
-
-
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "28. Oktober 2011 / 3243",
           "currJobDescr": "Project Manager & Field Superintendent (Bauleiterin u. Bauaufseherin)",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Project Manager & Field Superintendent (Bauleiterin u. Bauaufseherin)",
               "company": "Grundstücksgesellschaft Hallerstraße 6-8",
@@ -291,15 +273,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Kansas State University",
           "url": "https://www.xing.com/search/members?keywords=Kansas+State+University",
@@ -313,30 +291,18 @@
           "eduDuration": "06/1988 - 10/1991"
         }
       ],
-      "awards":
- [
-
-
-
-
-
-
-
-
-
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "31. März 2009 / 814",
           "currJobDescr": "Project Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Project Superintendent",
               "company": "Lone Oak Land Develop",
@@ -358,14 +324,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "East Texas State University",
           "url": "https://www.xing.com/search/members?keywords=East+Texas+State+University",
@@ -377,21 +340,18 @@
           "degree": "Horticulture, 1 year of studies"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "11. September 2010 / 1309",
           "currJobDescr": "ex Technical Manager",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "ex Technical Manager",
               "company": "Schiffseigner, Charterer",
@@ -401,22 +361,18 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "6. Februar 2008 / 6729",
           "currJobDescr": "Senior Superintendent Fleet Operations Center",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior Superintendent Fleet Operations Center",
               "company": "Carnival Maritime GmbH",
@@ -469,34 +425,29 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Technology, Business and Design, 23966 Wismar, Germany",
           "url": "https://www.xing.com/search/members?keywords=University+of+Technology%2C+Business+and+Design%2C+23966+Wismar%2C+Germany",
           "degree": "Diplom Ingenieur Nautik/Seeverkehr"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "4. Dezember 2015 / 189",
           "currJobDescr": "Superintendent / Special Education Director",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Superintendent / Special Education Director",
               "company": "Reedsport School District",
@@ -507,8 +458,7 @@
           ]
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Oregon",
           "url": "https://www.xing.com/search/members?keywords=University+of+Oregon",
@@ -528,21 +478,18 @@
           "eduDuration": "09/1977 - 06/1982"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "22. November 2012 / 1422",
           "currJobDescr": "Technischer Oberinspektor",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technischer Oberinspektor",
               "company": "Hamburg Port Authority",
@@ -588,15 +535,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Elsfleth",
           "url": "https://www.xing.com/search/members?keywords=Elsfleth",
@@ -606,14 +549,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. November 2012 / 2154",
           "currJobDescr": "Nautical Superintendent, Designated Person Ashore , Company Security Officer",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Nautical Superintendent, Designated Person Ashore , Company Security Officer",
               "company": "Ahrenkiel Steamship GmbH & Co. KG",
@@ -659,14 +600,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Applied Siences ,Oldenburg/Ostfriesland/Wilhelmshaven",
           "url": "https://www.xing.com/search/members?keywords=University+of+Applied+Siences+%2COldenburg%2FOstfriesland%2FWilhelmshaven",
@@ -676,14 +614,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "31. Oktober 2008 / 1716",
           "currJobDescr": "Golf and Grounds Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Golf and Grounds Superintendent",
               "company": "The Fairmont Banff Springs Golf Club",
@@ -693,14 +629,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Ivey Business School, Western Ontario University",
           "url": "https://www.xing.com/search/members?keywords=Ivey+Business+School%2C+Western+Ontario+University",
@@ -726,21 +659,18 @@
           "eduDuration": "1979 - 1982"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. September 2012 / 714",
           "currJobDescr": "Recruitment Intermediary (Account Support)",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Recruitment Intermediary (Account Support)",
               "company": "Leap29",
@@ -751,21 +681,18 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "15. Oktober 2009 / 7436",
           "currJobDescr": "Fleet Manager/ Director - Prokurist",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Fleet Manager/ Director - Prokurist",
               "company": "TB Marine Shipmanagement GmbH & Co. KG",
@@ -811,32 +738,26 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "currJobDescr": "Superintendent"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "28. November 2010 / 813",
           "currJobDescr": "Superintendent / Estimator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Superintendent / Estimator",
               "company": "TDX Construction",
@@ -868,14 +789,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "HWK Aachen, Germany",
           "url": "https://www.xing.com/search/members?keywords=HWK+Aachen%2C+Germany",
@@ -885,14 +803,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "14. November 2006 / 13273",
           "currJobDescr": "Global Project Manager, Senior Personnal Consultant, Senior Recruiter",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Global Project Manager, Senior Personnal Consultant, Senior Recruiter",
               "company": "CGM International, Hamburg",
@@ -945,17 +861,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Design Factory International",
           "url": "https://www.xing.com/search/members?keywords=Design+Factory+International",
@@ -969,21 +879,18 @@
           "eduDuration": "01/2001 - 01/2002"
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "13. Juni 2010 / 1779",
           "currJobDescr": "Nautical Inspector - Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Nautical Inspector - Superintendent",
               "company": "Kalkavan Shipmanagement GmbH & Co.KG",
@@ -1015,16 +922,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Istanbul Technical University",
           "url": "https://www.xing.com/search/members?keywords=Istanbul+Technical+University",
@@ -1034,23 +936,20 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "currJobDescr": "Polier, Bauführer"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "25. März 2008 / 3642",
           "currJobDescr": "Senior Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior Superintendent",
               "company": "Stolt-Nielsen USA INC",
@@ -1081,16 +980,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Universidad de Vigo",
           "url": "https://www.xing.com/search/members?keywords=Universidad+de+Vigo",
@@ -1118,14 +1012,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. März 2010 / 2505",
           "currJobDescr": "Marine Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Marine Superintendent",
               "company": "LuMarine",
@@ -1178,22 +1070,18 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "14. April 2009 / 1739",
           "currJobDescr": "Technical Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technical Superintendent",
               "company": "Chemikalien Seetransport GmbH",
@@ -1225,14 +1113,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "State Marine Academy in St.Petersburg",
           "url": "https://www.xing.com/search/members?keywords=State+Marine+Academy+in+St.Petersburg",
@@ -1242,23 +1127,20 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "currJobDescr": "District Superintendent"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "12. September 2012 / 391",
           "currJobDescr": "Fleet Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Fleet Superintendent",
               "company": "V.Ships (Germany)",
@@ -1288,31 +1170,26 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "currJobDescr": "Superintendent"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "17. November 2015 / 236",
           "currJobDescr": "Associate Director",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Associate Director",
               "company": "Meraki Talent",
@@ -1322,8 +1199,7 @@
           ]
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Dundee",
           "url": "https://www.xing.com/search/members?keywords=University+of+Dundee",
@@ -1333,14 +1209,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "26. Juli 2011 / 974",
           "currJobDescr": "MS&Q superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "MS&Q superintendent",
               "company": "V.Ships",
@@ -1371,13 +1245,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Odessa State Marine Academy",
           "url": "https://www.xing.com/search/members?keywords=Odessa+State+Marine+Academy",
@@ -1387,23 +1259,20 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "currJobDescr": "Superintendent"
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "14. Dezember 2012 / 1882",
           "currJobDescr": "Dispatcher",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Dispatcher",
               "company": "Air Hamburg Luftverkehrsgesellschaft mbH",
@@ -1463,14 +1332,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Auckland Maritime School",
           "url": "https://www.xing.com/search/members?keywords=Auckland+Maritime+School",
@@ -1486,14 +1352,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "12. März 2012 / 1366",
           "currJobDescr": "Tanker Operator",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Tanker Operator",
               "company": "Ernst Jacob (GmbH & Co KG)",
@@ -1567,14 +1431,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "N.Y. Vaptsarov Naval Academy, Varna Bulgaria",
           "url": "https://www.xing.com/search/members?keywords=N.Y.+Vaptsarov+Naval+Academy%2C+Varna+Bulgaria",
@@ -1590,14 +1451,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "29. Januar 2012 / 690",
           "currJobDescr": "Technical Superintendent Amos",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technical Superintendent Amos",
               "company": "Jan De Nul",
@@ -1662,15 +1521,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "University of Split,Faculty of Maritime Affairs and Transport",
           "url": "https://www.xing.com/search/members?keywords=University+of+Split%2CFaculty+of+Maritime+Affairs+and+Transport",
@@ -1692,14 +1547,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "15. Februar 2010 / 3179",
           "currJobDescr": "Technical Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technical Superintendent",
               "company": "Bereederungsgesellschaft Alstership mbH & Co. KG",
@@ -1752,14 +1605,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Fachschule Rostock-Warnemünde",
           "url": "https://www.xing.com/search/members?keywords=Fachschule+Rostock-Warnem%C3%BCnde",
@@ -1769,14 +1619,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "6. August 2009 / 1109",
           "currJobDescr": "golf course superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "golf course superintendent",
               "company": "travco group (madinat makadi golf course )",
@@ -1787,15 +1635,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "ain shams university-cairo",
           "url": "https://www.xing.com/search/members?keywords=ain+shams+university-cairo"
@@ -1803,14 +1647,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "7. Dezember 2006 / 5696",
           "currJobDescr": "Senior Superintendent Public Areas & Design / Newbuilding",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Senior Superintendent Public Areas & Design / Newbuilding",
               "company": "Carnival Maritime GmbH",
@@ -1849,27 +1691,22 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "awards":
- [
+      "awards": [
         {
         }
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "15. April 2011 / 888",
           "currJobDescr": "Technical Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technical Superintendent",
               "company": "Van Oord",
@@ -1908,15 +1745,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Riga Marine College",
           "url": "https://www.xing.com/search/members?keywords=Riga+Marine+College",
@@ -1926,14 +1759,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "9. April 2007 / 4890",
           "currJobDescr": "technical Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "technical Superintendent",
               "company": "NSB",
@@ -1965,14 +1796,11 @@
           ]
         }
       ],
-      "languages":
- [
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Staatl. Seefahrtsschule Cuxhaven",
           "url": "https://www.xing.com/search/members?keywords=Staatl.+Seefahrtsschule+Cuxhaven",
@@ -1981,14 +1809,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. Juli 2010 / 2552",
           "currJobDescr": "Projektingenieur für Schiffsinstandsetzungen",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Projektingenieur für Schiffsinstandsetzungen",
               "company": "tba",
@@ -2032,16 +1858,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "HS Bremen",
           "url": "https://www.xing.com/search/members?keywords=HS+Bremen",
@@ -2051,14 +1872,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "21. Februar 2010 / 4054",
           "currJobDescr": "Vice President Marine Operations Fleet Asia",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Vice President Marine Operations Fleet Asia",
               "company": "Carnival Maritime GmbH",
@@ -2118,13 +1937,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Hochschule für Technik & Gestaltung Wismar",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+f%C3%BCr+Technik+%26+Gestaltung+Wismar",
@@ -2133,14 +1950,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "1. September 2016 / 18",
           "currJobDescr": "Owner",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Owner",
               "company": "Corah Engineering Services",
@@ -2156,13 +1971,11 @@
           ]
         }
       ],
-      "languages":
- [
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Llandaff Technical College",
           "url": "https://www.xing.com/search/members?keywords=Llandaff+Technical+College",
@@ -2172,13 +1985,11 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"f",
+          "sex": "f",
           "memberSince_Hits": "9. Februar 2016 / 95",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Products Superintendent & Claims Superintendent",
               "company": "CesceBrasil Seguros de Garantias e Crédito S.A.",
@@ -2189,17 +2000,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Glion Institute of Higher Education (NEASC), Bulle, Switzerland",
           "url": "https://www.xing.com/search/members?keywords=Glion+Institute+of+Higher+Education+%28NEASC%29%2C+Bulle%2C+Switzerland",
@@ -2221,14 +2026,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "6. Mai 2013 / 1236",
           "currJobDescr": "Consultant Offshore Wind, Captain, Nautical Superintendent, ClientRep",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Consultant Offshore Wind, Captain, Nautical Superintendent, ClientRep",
               "company": "OFFCON GmbH",
@@ -2253,15 +2056,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Hochschule Bremen",
           "url": "https://www.xing.com/search/members?keywords=Hochschule+Bremen",
@@ -2283,14 +2082,12 @@
       ]
     },
     {
-      "profile":
- [
+      "profile": [
         {
-          "sex":"m",
+          "sex": "m",
           "memberSince_Hits": "4. Februar 2013 / 697",
           "currJobDescr": "Technical Superintendent",
-          "jobs":
- [
+          "jobs": [
             {
               "jobTitle": "Technical Superintendent",
               "company": "Wärtsilä",
@@ -2315,17 +2112,11 @@
           ]
         }
       ],
-      "languages":
- [
-
-
-
-
+      "languages": [
         {
         }
       ],
-      "education":
- [
+      "education": [
         {
           "institution": "Oulu polytecnical university",
           "url": "https://www.xing.com/search/members?keywords=Oulu+polytecnical+university",
