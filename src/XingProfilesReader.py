@@ -39,21 +39,6 @@ class XingProfilesReader(object):
     EDUCATION_OR_JOB_WITH_SAME_YEAR = 6  # months count if you had a job that started and finished in the same year
     EDUCATION_OR_JOB_WITH_UNDEFINED_DATES = 1  # month given that the person entered the job
 
-    @property
-    def protectedCandidates(self):
-        return self.protected
-
-
-    @property
-    def nonProtectedCandidates(self):
-        return self.__nonProtectedCandidates
-
-
-    @property
-    def originalOrdering(self):
-        return self.__originalOrdering
-
-
     def __init__(self, path):
         """
         @param path: path to JSON files with Xing data
