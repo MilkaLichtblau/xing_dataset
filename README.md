@@ -160,17 +160,19 @@ The code in `src/` reads the information from all JSON files into a python dataf
 
 If you use this dataset, please cite:
 
-Meike Zehlike, ...: in press, 2017.
+Zehlike, Meike, Francesco Bonchi, Carlos Castillo, Sara Hajian, Mohamed Megahed, and Ricardo Baeza-Yates. "Fa* ir: A fair top-k ranking algorithm." In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, pp. 1569-1578. ACM, 2017.
 
 BibTeX Entry:
 ```Latex
 
-@misc{Zehlike:2017 ,
-author = "M. Zehlike et al",
-year = "2017",
-title = "FA*IR: A Fair Top-k Ranking Algorithm",
-url = "*//\\*",
-institution = *//\\* "Technische Universität Berlin, Germany, Complex and IT Systems" }
+@inproceedings{zehlike2017fair,
+  title={Fa* ir: A fair top-k ranking algorithm},
+  author={Zehlike, Meike and Bonchi, Francesco and Castillo, Carlos and Hajian, Sara and Megahed, Mohamed and Baeza-Yates, Ricardo},
+  booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+  pages={1569--1578},
+  year={2017},
+  organization={ACM}
+}
 ```
 
 The authors are not associated to XING in any way.
